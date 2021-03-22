@@ -1,0 +1,17 @@
+image=images/powers/axe_female.png
+
+render_size=16,16
+render_offset=8,8
+
+[power]
+position=0
+frames=6
+duration=33ms
+type=looped
+active_frame=all
+frame=0,0,0,0,37,26,20,34
+frame=1,1,32,0,30,32,14,40
+frame=2,2,64,0,13,34,2,42
+frame=3,3,96,0,29,32,6,40
+frame=4,4,128,0,36,26,8,34
+frame=5,5,160,0,29,34,6,35
