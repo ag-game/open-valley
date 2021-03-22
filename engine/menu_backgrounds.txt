@@ -1,0 +1,9 @@
+background=images/menus/backgrounds/01.png
+background=images/menus/backgrounds/02.png
+background=images/menus/backgrounds/03.png
+background=images/menus/backgrounds/04.png
+background=images/menus/backgrounds/05.png
+background=images/menus/backgrounds/06.png
+background=images/menus/backgrounds/07.png
+background=images/menus/backgrounds/08.png
+background=images/menus/backgrounds/09.png

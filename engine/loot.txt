@@ -1,0 +1,19 @@
+# Loot settings
+
+# Sound effects
+#sfx_loot=soundfx/flying_loot.ogg
+
+# Tooltip
+tooltip_margin=32
+
+# Autopickup
+autopickup_range=1.5
+autopickup_currency=1
+
+# Currency
+currency_name=Gil
+vendor_ratio=25
+
+# Drops
+drop_max=1
+drop_radius=1

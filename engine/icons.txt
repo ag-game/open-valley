@@ -1,0 +1,4 @@
+text_offset=2,1
+
+icon_set=0,images/icons/skills.png
+icon_set=256,images/icons/items.png
