@@ -1,0 +1,33 @@
+# Avatar Attributes Definitions
+# Values should be integer
+
+stat_points_per_level=0
+max_points_per_stat=10
+
+stat=hp,50
+# 5x10+25 (opzionali: 15+25)
+stat_per_level=hp,0
+#stat_per_primary=physical,hp,10
+
+stat=hp_regen,0
+#stat_per_primary=physical,hp_regen,10
+
+stat=mp,270
+#The player starts the game with 270 maximum energy. Eating a Stardrop permanently increases maximum energy by 34 points. Eating every Stardrop available in the game permanently increases maximum energy to 508.
+#stat_per_primary=mental,mp,5
+
+stat=mp_regen,0
+#stat_per_primary=mental,mp_regen,5
+
+stat=accuracy,100
+#stat_per_primary=offense,accuracy,5
+
+stat=avoidance,0
+#stat_per_primary=defense,avoidance,5
+
+stat=dmg_ranged_min,1
+stat=dmg_ranged_max,1
+
+speed=5
+
+sfx_step=cloth
