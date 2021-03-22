@@ -1,0 +1,10 @@
+name=Do you want to Save the game?
+
+talker=true
+
+[dialog]
+topic=YES
+set_status=savegame
+
+[dialog]
+topic=NO
