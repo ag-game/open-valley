@@ -1,0 +1,51 @@
+# Power Definitions
+
+INCLUDE powers/clock.txt
+INCLUDE powers/days.txt
+INCLUDE powers/date.txt
+INCLUDE powers/seasons.txt
+
+[power]
+id=1
+name=Axe
+type=fixed
+icon=0
+new_state=instant
+face=true
+use_hazard=true
+aim_assist=true
+base_damage=melee
+lifespan=1s
+speed=12
+radius=1.0
+starting_pos=melee
+animation=animations/powers/hoe.txt
+directional=false
+cooldown=1s
+requires_flags=hoe
+
+[power]
+id=2
+#name=Slime Attack
+type=fixed
+new_state=instant
+use_hazard=true
+base_damage=melee
+lifespan=33ms
+radius=1.25
+starting_pos=source
+cooldown=1s
+post_effect=knockback,20,150ms
+
+[power]
+id=3
+#name=instant kill
+type=missile
+new_state=instant
+use_hazard=true
+base_damage=ranged
+radius=100
+source_type=hero
+target_categories=slimebuono
+modifier_accuracy=absolute,1000
+post_effect=knockback,100,150ms
