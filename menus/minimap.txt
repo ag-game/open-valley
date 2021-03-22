@@ -1,0 +1,13 @@
+# Settings for the hud's minimap
+# pos is x,y,width,height of the map itself
+# text_pos is the position/justification/alignment of the map name
+# the text can also be hidden with text_pos=hidden
+
+pos=0,-20,136,156
+align=topright
+background=images/menus/minimap.png
+
+map_pos=6,24,124,130
+text_pos=68,2,center,top
+
+color_enemy=0,0,0,0

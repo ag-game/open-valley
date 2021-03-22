@@ -1,0 +1,28 @@
+# Settings for the Inventory menu
+# the first two values are x,y positions
+# some items have two more values, width and height
+
+pos=0,-32,320,416
+align=right
+
+close=294,2
+help=2,2,24,24
+
+# define x,y position, slot type
+equipment_slot=128,80,weapon
+equipment_slot=160,80,accessory
+
+# tools
+
+equipment_slot=128,112,tools
+equipment_slot=160,112,tools
+equipment_slot=192,112,tools
+equipment_slot=224,112,tools
+equipment_slot=256,112,tools
+
+carried_area=64,160
+carried_cols=6
+carried_rows=6
+
+label_title=160,8,center,top
+currency=160,128,center,top
