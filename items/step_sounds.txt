@@ -1,0 +1,11 @@
+id=cloth
+step=soundfx/steps/step_cloth1.ogg
+step=soundfx/steps/step_cloth2.ogg
+step=soundfx/steps/step_cloth3.ogg
+step=soundfx/steps/step_cloth4.ogg
+
+id=leather
+step=soundfx/steps/step_leather1.ogg
+step=soundfx/steps/step_leather2.ogg
+step=soundfx/steps/step_leather3.ogg
+step=soundfx/steps/step_leather4.ogg
