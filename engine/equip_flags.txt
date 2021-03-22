@@ -1,0 +1,34 @@
+# Equipment flags
+
+# weapons
+
+[flag]
+id=sword
+name=Sword
+[flag]
+id=dagger
+name=Dagger
+[flag]
+id=club
+name=Club
+[flag]
+id=ranged
+name=Slingshot
+
+#tools
+
+[flag]
+id=axe
+name=Axe
+[flag]
+id=rod
+name=Rod
+[flag]
+id=hoe
+name=Hoe
+[flag]
+id=pick
+name=Pick
+[flag]
+id=can
+name=Can

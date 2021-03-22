@@ -1,0 +1,5 @@
+# duration, in frames
+duration=0s
+
+# speed, in pixels per frame
+speed=0
