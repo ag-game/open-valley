@@ -1,0 +1,5 @@
+[layer]
+image=images/parallax/daynight4.png
+speed=0.01
+fixed_speed=-0.0025,-0.005
+map_layer=day-night-parallax
