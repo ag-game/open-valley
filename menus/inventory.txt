@@ -9,20 +9,26 @@ close=294,2
 help=2,2,24,24
 
 # define x,y position, slot type
-equipment_slot=128,80,weapon
-equipment_slot=160,80,accessory
+equipment_slot=16,191,weapon
+equipment_slot=16,223,weapon
+equipment_slot=16,255,weapon
+equipment_slot=112,191,weapon
+equipment_slot=112,223,weapon
+equipment_slot=112,255,weapon
+#equipment_slot=160,80,accessory
 
 # tools
 
-equipment_slot=128,112,tools
-equipment_slot=160,112,tools
-equipment_slot=192,112,tools
-equipment_slot=224,112,tools
-equipment_slot=256,112,tools
+equipment_slot=65,35,tools
+equipment_slot=97,35,tools
+equipment_slot=129,35,tools
+equipment_slot=161,35,tools
+equipment_slot=193,35,tools
+equipment_slot=225,35,tools
 
-carried_area=64,160
-carried_cols=6
-carried_rows=6
+carried_area=16,80
+carried_cols=9
+carried_rows=3
 
 label_title=160,8,center,top
-currency=160,128,center,top
+currency=190,188,center,top
