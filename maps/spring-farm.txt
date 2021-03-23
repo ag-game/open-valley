@@ -283,8 +283,8 @@ data=
 739,1618,1554,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,802,804,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,400,479,804,1059,
 0,0,1618,1554,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,607,609,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2196,2197,930,609,543,
 0,0,739,1618,1554,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,403,801,0,543,
-0,0,0,739,1618,1554,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,418,0,0,0,0,0,0,418,0,0,0,0,418,0,0,0,0,0,1939,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,403,0,479,740,
-989,931,676,0,739,1618,1553,1553,1553,1553,1557,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,479,804,0,0,0,0,0,0,0,2003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,403,479,740,0,
+0,0,0,739,1618,1554,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,418,0,0,0,0,0,0,418,0,0,0,0,418,0,0,0,0,0,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,403,0,479,740,
+989,931,676,0,739,1618,1553,1553,1553,1553,1557,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,479,804,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,403,479,740,0,
 1053,803,740,0,0,739,803,803,480,481,402,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2002,479,1553,1556,803,480,1556,1556,1556,1556,1556,1556,1556,1556,1556,1556,1556,1556,1556,1556,1556,1556,1556,1556,1556,1556,1556,1556,1556,1556,1556,1556,1556,1556,1556,1556,1619,1054,0,0,
 0,0,0,0,0,0,0,0,0,739,1618,1553,1553,1553,1553,1553,1553,1553,1553,1553,1553,1553,1553,1553,1553,1553,1553,1553,1553,1553,1553,1553,1553,1553,1553,1553,1553,1553,1553,481,0,866,739,1054,0,0,868,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,802,803,803,803,803,803,803,803,803,740,0,0,0
 
@@ -628,9 +628,9 @@ data=
 0,1,4,0,0,2,2,0,0,2,2,2,2,2,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,
 0,0,1,4,0,0,2,2,2,2,0,0,0,2,2,0,0,2,2,2,2,2,0,0,0,0,0,0,2,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,
 0,0,0,1,4,0,2,2,0,0,0,0,0,0,2,2,2,0,0,0,0,2,2,2,2,2,2,2,2,0,0,2,2,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,0,2,2,
-0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,0,2,2,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,0,0,2,
-0,0,0,0,0,1,1,1,1,1,4,0,0,0,0,0,0,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,0,4,0,4,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,
-0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,2,2,2,0,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,
+0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,4,2,2,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,0,0,2,
+0,0,0,0,0,1,1,1,1,1,4,0,0,0,0,0,0,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,0,4,4,4,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,
+0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,2,2,2,4,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,
 0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,0,1,0,0,2,2,0,0,2,2,2,0,0,0,0,0,2,2,2,0,0,2,2,0,2,2,2,2,0,2,0,0,2,2,2,0,0,0,2,2
 
 [enemy]
@@ -698,6 +698,7 @@ type=event
 location=0,0,0,0
 activate=on_load
 hotspot=location
+cooldown=1s
 parallax_layers=maps/parallax/01.txt
 requires_not_status=02:00
 requires_status=01:00
@@ -708,6 +709,7 @@ type=event
 location=0,0,0,0
 activate=on_load
 hotspot=location
+cooldown=1s
 parallax_layers=maps/parallax/02.txt
 requires_not_status=03:00
 requires_status=02:00
@@ -718,6 +720,7 @@ type=event
 location=0,0,0,0
 activate=on_load
 hotspot=location
+cooldown=1s
 parallax_layers=maps/parallax/03.txt
 requires_not_status=04:00
 requires_status=03:00
@@ -728,6 +731,7 @@ type=event
 location=0,0,0,0
 activate=on_load
 hotspot=location
+cooldown=1s
 parallax_layers=maps/parallax/04.txt
 requires_not_status=05:00
 requires_status=04:00
@@ -738,6 +742,7 @@ type=event
 location=0,0,0,0
 activate=on_load
 hotspot=location
+cooldown=1s
 parallax_layers=maps/parallax/05.txt
 requires_not_status=06:00
 requires_status=05:00
@@ -748,7 +753,293 @@ type=event
 location=0,0,0,0
 activate=on_load
 hotspot=location
+cooldown=1s
 parallax_layers=maps/parallax/06.txt
 requires_not_status=07:00
 requires_status=06:00
 
+[event]
+# change parallax 07
+type=event
+location=0,0,0,0
+activate=on_load
+hotspot=location
+cooldown=1s
+parallax_layers=maps/parallax/07.txt
+requires_not_status=08:00
+requires_status=07:00
+
+[event]
+# change parallax 08
+type=event
+location=0,0,0,0
+activate=on_load
+hotspot=location
+cooldown=1s
+parallax_layers=maps/parallax/08.txt
+requires_not_status=09:00
+requires_status=08:00
+
+[event]
+# change parallax 17
+type=event
+location=0,0,0,0
+activate=on_load
+hotspot=location
+cooldown=1s
+parallax_layers=maps/parallax/17.txt
+requires_not_status=18:00
+requires_status=17:00
+
+[event]
+# change parallax 18
+type=event
+location=0,0,0,0
+activate=on_load
+hotspot=location
+cooldown=1s
+parallax_layers=maps/parallax/18.txt
+requires_not_status=19:00
+requires_status=18:00
+
+[event]
+# change parallax 19
+type=event
+location=0,0,0,0
+activate=on_load
+hotspot=location
+cooldown=1s
+parallax_layers=maps/parallax/19.txt
+requires_not_status=20:00
+requires_status=19:00
+
+[event]
+# change parallax 20
+type=event
+location=0,0,0,0
+activate=on_load
+hotspot=location
+cooldown=1s
+parallax_layers=maps/parallax/20.txt
+requires_not_status=21:00
+requires_status=20:00
+
+[event]
+# change parallax 21
+type=event
+location=0,0,0,0
+activate=on_load
+hotspot=location
+cooldown=1s
+parallax_layers=maps/parallax/21.txt
+requires_not_status=22:00
+requires_status=21:00
+
+[event]
+# change parallax 22
+type=event
+location=0,0,0,0
+activate=on_load
+hotspot=location
+cooldown=1s
+parallax_layers=maps/parallax/22.txt
+requires_not_status=23:00
+requires_status=22:00
+
+[event]
+# change parallax 23
+type=event
+location=0,0,0,0
+activate=on_load
+hotspot=location
+cooldown=1s
+parallax_layers=maps/parallax/23.txt
+requires_not_status=00:00
+requires_status=23:00
+
+[event]
+# change parallax 24
+type=event
+location=0,0,0,0
+activate=on_load
+hotspot=location
+cooldown=1s
+parallax_layers=maps/parallax/24.txt
+requires_not_status=01:00
+requires_status=00:00
+
+[event]
+# change parallax 01
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+repeat=false
+parallax_layers=maps/parallax/01.txt
+requires_not_status=02:00
+requires_status=01:00
+
+[event]
+# change parallax 02
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+repeat=false
+parallax_layers=maps/parallax/02.txt
+requires_not_status=03:00
+requires_status=02:00
+
+[event]
+# change parallax 03
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+repeat=false
+parallax_layers=maps/parallax/03.txt
+requires_not_status=04:00
+requires_status=03:00
+
+[event]
+# change parallax 04
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+repeat=false
+parallax_layers=maps/parallax/04.txt
+requires_not_status=05:00
+requires_status=04:00
+
+[event]
+# change parallax 05
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+repeat=false
+parallax_layers=maps/parallax/05.txt
+requires_not_status=06:00
+requires_status=05:00
+
+[event]
+# change parallax 06
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+repeat=false
+parallax_layers=maps/parallax/06.txt
+requires_not_status=07:00
+requires_status=06:00
+
+[event]
+# change parallax 07
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+repeat=false
+parallax_layers=maps/parallax/07.txt
+requires_not_status=08:00
+requires_status=07:00
+
+[event]
+# change parallax 08
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+repeat=false
+parallax_layers=maps/parallax/08.txt
+requires_not_status=09:00
+requires_status=08:00
+
+[event]
+# change parallax 17
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+repeat=false
+parallax_layers=maps/parallax/17.txt
+requires_not_status=18:00
+requires_status=17:00
+
+[event]
+# change parallax 18
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+repeat=false
+parallax_layers=maps/parallax/18.txt
+requires_not_status=19:00
+requires_status=18:00
+
+[event]
+# change parallax 19
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+repeat=false
+parallax_layers=maps/parallax/19.txt
+requires_not_status=20:00
+requires_status=19:00
+
+[event]
+# change parallax 20
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+repeat=false
+parallax_layers=maps/parallax/20.txt
+requires_not_status=21:00
+requires_status=20:00
+
+[event]
+# change parallax 21
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+repeat=false
+parallax_layers=maps/parallax/21.txt
+requires_not_status=22:00
+requires_status=21:00
+
+[event]
+# change parallax 22
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+repeat=false
+parallax_layers=maps/parallax/22.txt
+requires_not_status=23:00
+requires_status=22:00
+
+[event]
+# change parallax 23
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+repeat=false
+parallax_layers=maps/parallax/23.txt
+requires_not_status=00:00
+requires_status=23:00
+
+[event]
+# change parallax 24
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+repeat=false
+parallax_layers=maps/parallax/24.txt
+requires_not_status=01:00
+requires_status=00:00

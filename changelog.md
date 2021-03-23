@@ -84,3 +84,9 @@ Alpha 0.04
 * cleaned up folders from unnecessary files
 * added a save point with popup message
 * added a kind of refrigerator where to put objects (for now it works very badly)
+
+............................................
+
+Alpha 0.05
+
+* added the parallax for the day/night cycle that with the latest version of flare can be loaded via event
