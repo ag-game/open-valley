@@ -1,9 +1,0 @@
-name=Fridge
-
-# shop info
-vendor=true
-#constant_stock=142:5,147:5
-#random_stock=loot/LOW_MagicBook_Elixirs_MagicStaves_Scroll_Runes.txt
-#random_stock_count=10,12
-
-talker=false

@@ -145,13 +145,3 @@ intermap=maps/spring-farm.txt,10,12,0,0
 requires_class=Standard
 show_on_minimap=false
 
-[event]
-# fridge
-type=event
-location=3,2,2,1
-activate=on_trigger
-hotspot=location
-npc=npc/fridge.txt
-repeat=true
-show_on_minimap=false
-

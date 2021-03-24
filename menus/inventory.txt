@@ -2,10 +2,10 @@
 # the first two values are x,y positions
 # some items have two more values, width and height
 
-pos=0,-32,320,416
+pos=0,-100,351,273
 align=right
 
-close=294,2
+close=316,11
 help=2,2,24,24
 
 # define x,y position, slot type
@@ -30,5 +30,5 @@ carried_area=16,80
 carried_cols=9
 carried_rows=3
 
-label_title=160,8,center,top
-currency=190,188,center,top
+label_title=163,13,center,top
+currency=190,240,left,top
