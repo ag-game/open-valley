@@ -7,9 +7,9 @@ INCLUDE powers/seasons.txt
 
 [power]
 id=1
-name=Axe
+name=Hoe
 type=fixed
-icon=0
+icon=265
 new_state=instant
 face=true
 use_hazard=true
