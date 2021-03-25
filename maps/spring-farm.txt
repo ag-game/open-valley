@@ -1066,3 +1066,13 @@ repeat=false
 requires_not_status=light_off
 requires_status=light_on
 
+[event]
+# To farm-house
+type=event
+location=79,16,1,1
+activate=on_trigger
+hotspot=location
+intermap=maps/spring-village.txt,6,10,0,0
+requires_class=Standard
+show_on_minimap=false
+
