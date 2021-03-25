@@ -2,8 +2,12 @@
 * [DONE] try to figure out if NPCs can move from point A to point B (years ago you couldn't)
 * [DONE] finish changing original tilesheets to open versions
 
-to be fixed:
+to do
 
+* create all the houses in the game
+* create all the maps
+* create all the npc (outdoor)
+* make the day last 24 hours with the possibility of saving the game only by sleeping (if you sleep the time will go on for 6 hours)
 * finish setting the tilesetsdefs for all maps
 * change Joja Mart to Joy Mart
 * set the sprites of the characters and for all the NPCs, and add them to the maps

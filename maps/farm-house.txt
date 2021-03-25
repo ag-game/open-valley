@@ -5,7 +5,7 @@ tilewidth=32
 tileheight=32
 orientation=orthogonal
 background_color=0,0,0,255
-Music=MarlonsTheme
+music=music/Grasslands_Theme.mp3
 tileset=tilesetdefs/indoor.txt
 
 [tilesets]
