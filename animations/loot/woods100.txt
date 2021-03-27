@@ -1,0 +1,13 @@
+
+image=images/loot/woods100.png
+
+[animation]
+frames=6
+duration=600ms
+type=play_once
+frame=0,0,0,32,32,32,32,32
+frame=1,0,0,32,32,32,32,32
+frame=2,0,0,32,32,32,32,32
+frame=3,0,0,32,32,32,32,32
+frame=4,0,0,32,32,32,32,32
+frame=5,0,0,32,32,32,32,32

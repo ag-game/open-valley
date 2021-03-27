@@ -8,11 +8,14 @@ price=1
 price_sell=1
 max_quantity=50000
 soundfx=soundfx/inventory/inventory_coins.ogg
+loot_animation=animations/loot/coins5.txt,0,9
+loot_animation=animations/loot/coins25.txt,10,24
+loot_animation=animations/loot/coins100.txt,25,0
 
 [item]
 id=2
 name=Example Weapon
-icon=0
+icon=258
 quality=normal
 level=1
 price=100
@@ -20,7 +23,7 @@ item_type=weapon
 equip_flags=weapon
 
 [item]
-id=31
+id=3
 name=Hoe
 quality=low
 item_type=tools
@@ -29,4 +32,29 @@ icon=265
 soundfx=soundfx/inventory/inventory_metal.ogg
 gfx=battle_axe
 loot_animation=animations/tools/hoe.txt
-#dmg=melee,5,15
+dmg=melee,1,1
+
+[item]
+id=4
+name=Axe
+quality=low
+item_type=tools
+equip_flags=axe
+icon=257
+soundfx=soundfx/inventory/inventory_metal.ogg
+gfx=battle_axe
+loot_animation=animations/tools/axe.txt
+dmg=melee,12,12
+
+[item]
+id=5
+name=Woods
+icon=268
+quality=normal
+price=1
+price_sell=1
+max_quantity=500
+#soundfx=soundfx/inventory/inventory_coins.ogg
+loot_animation=animations/loot/woods5.txt,0,9
+loot_animation=animations/loot/woods25.txt,10,24
+loot_animation=animations/loot/woods100.txt,25,0

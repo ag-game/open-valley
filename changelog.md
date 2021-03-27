@@ -95,3 +95,4 @@ Alpha 0.05
 * added sounds to the farm map
 * Removed the ability to create alternative stash. The engine does not allow it
 * Started the creation of the village map
+* the main character can cut trees, using only the axe tool, that drop wood (animations are still missing)

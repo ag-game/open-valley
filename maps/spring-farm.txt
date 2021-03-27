@@ -690,7 +690,7 @@ location=19,9,1,1
 activate=on_trigger
 hotspot=location
 mapmod=level 1,19,9,1558
-requires_item=31
+requires_item=3
 
 [event]
 # change parallax 01
@@ -1077,7 +1077,7 @@ requires_class=Standard
 show_on_minimap=false
 
 [event]
-# tree
+# tree1
 type=event
 location=19,6,1,1
 activate=on_load
@@ -1091,7 +1091,7 @@ location=20,9,1,1
 activate=on_trigger
 hotspot=location
 mapmod=level 1,20,9,1558
-requires_item=31
+requires_item=3
 
 [event]
 # river sound
@@ -1176,4 +1176,14 @@ type=event
 location=78,36,1,1
 activate=on_load
 soundfx=soundfx/environment/amb_bird_1.ogg
+
+[event]
+# stump1
+type=event
+location=19,5,1,1
+activate=static
+repeat=false
+requires_not_status=cut1-1
+requires_status=cut1
+spawn=stump,19,6
 

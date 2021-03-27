@@ -1,19 +1,19 @@
-name=Tree
+name=Stump
 level=1
-categories=spring-tree1,tree
+categories=stump,tree
 rarity=common
 xp=0
 
-defeat_status=cut1
+defeat_status=cut1-1
 
-animations=animations/trees/tree1.txt
+animations=animations/trees/stump.txt
 
 suppress_hp=true
 
-loot=loot/tree-woods.txt
+loot=loot/stump-woods.txt
 
 # combat stats
-stat=hp,120
+stat=hp,60
 speed=0
 melee_range=1
 threat_range=16

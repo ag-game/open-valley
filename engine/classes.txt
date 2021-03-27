@@ -2,9 +2,9 @@
 name=Standard
 description=The majority of this map is farming land, ideal for crops and animals.
 currency=500
-equipment=2,31
+equipment=2,3,4
 powers=10001
-actionbar=1,0,0,0,0,0,0,0,0,0,0,0
+actionbar=10,11,0,0,0,0,0,0,0,0,0,0
 hero_options=0,1
 
 [class]
