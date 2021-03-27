@@ -96,3 +96,9 @@ Alpha 0.05
 * Removed the ability to create alternative stash. The engine does not allow it
 * Started the creation of the village map
 * the main character can cut trees, using only the axe tool, that drop wood (animations are still missing)
+
+............................................
+
+Alpha 0.06
+
+* Removed the experience bar, which will be inserted in the skill menu, together with the other bars currently disabled

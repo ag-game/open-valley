@@ -676,7 +676,7 @@ number=1
 [event]
 # To farm-house
 type=event
-location=10,11,1,1
+location=10,10,1,2
 activate=on_trigger
 hotspot=location
 intermap=maps/farm-house.txt,6,10,0,0
@@ -686,7 +686,7 @@ show_on_minimap=false
 [event]
 # dig1
 type=event
-location=19,9,1,1
+location=14,11,1,1
 activate=on_trigger
 hotspot=location
 mapmod=level 1,19,9,1558
@@ -1085,15 +1085,6 @@ requires_not_status=cut1
 spawn=spring-tree1,19,6
 
 [event]
-# dig2
-type=event
-location=20,9,1,1
-activate=on_trigger
-hotspot=location
-mapmod=level 1,20,9,1558
-requires_item=3
-
-[event]
 # river sound
 type=event
 location=7,25,1,1
@@ -1186,4 +1177,49 @@ repeat=false
 requires_not_status=cut1-1
 requires_status=cut1
 spawn=stump,19,6
+
+[event]
+# fix bridge
+type=event
+location=40,61,1,1
+activate=on_trigger
+hotspot=location
+msg=this bridge requires 50 woods to be fixed
+requires_not_item=5,50
+requires_not_status=fix-1
+
+[event]
+# fix bridge
+type=event
+location=40,60,1,1
+activate=on_trigger
+hotspot=location
+npc=npc/fix-1.txt
+requires_item=5,50
+requires_not_status=fix-1
+show_on_minimap=false
+
+[event]
+# tree2
+type=event
+location=19,12,1,1
+activate=on_load
+requires_not_status=cut2
+spawn=spring-tree2,19,12
+
+[event]
+# tree3
+type=event
+location=21,12,1,1
+activate=on_load
+requires_not_status=cut3
+spawn=spring-tree3,21,12
+
+[event]
+# tree4
+type=event
+location=20,14,1,1
+activate=on_load
+requires_not_status=cut4
+spawn=spring-tree4,20,14
 
