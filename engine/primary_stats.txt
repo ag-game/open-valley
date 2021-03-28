@@ -1,0 +1,15 @@
+[stat]
+id=offense
+name=Farming
+
+[stat]
+id=defense
+name=Mining
+
+[stat]
+id=physical
+name=Foraging
+
+[stat]
+id=mental
+name=Fishing

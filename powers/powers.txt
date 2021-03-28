@@ -4,13 +4,15 @@ INCLUDE powers/clock.txt
 INCLUDE powers/days.txt
 INCLUDE powers/date.txt
 INCLUDE powers/seasons.txt
+INCLUDE powers/foraging.txt
 
 [power]
 id=10
 name=Hoe
 type=fixed
-icon=265
+icon=257
 new_state=instant
+requires_mp=2
 face=true
 use_hazard=true
 aim_assist=true
@@ -29,8 +31,9 @@ target_categories=tools
 id=11
 name=Axe
 type=fixed
-icon=257
+icon=258
 new_state=instant
+requires_mp=2
 face=true
 use_hazard=true
 aim_assist=true

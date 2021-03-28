@@ -5,6 +5,13 @@
 id=1
 position=0,0
 
+# foraging
+
+[power]
+id=600
+position=0,0
+visible_requires_status=cut1
+
 # seasons
 
 [power]

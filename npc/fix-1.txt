@@ -5,7 +5,7 @@ talker=true
 [dialog]
 topic=YES
 set_status=fix-1
-remove_item=5,50
+remove_item=5:50
 
 [dialog]
 topic=NO

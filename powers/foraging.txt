@@ -1,0 +1,10 @@
+# Power Definitions
+
+[power]
+id=600
+name=foraging
+type=fixed
+buff=true
+passive=true
+post_effect=physical,12
+icon=0
