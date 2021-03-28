@@ -2,8 +2,9 @@
 Alpha 0.06
 
 * Removed the experience bar, which will be inserted in the skill menu, together with the other bars currently disabled
-* created 100 trees, cuttable, to add to the farm map
+* created 100 trees and stumps, cuttable, to add to the farm map
 * use tools now costs energy points
+* add 25 of the 100 trees and stumps
 
 ............................................
 
