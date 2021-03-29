@@ -1,16 +1,9 @@
-# season, day and date
+# season, skills bars, day and date
 # visible_visible_requires_status=
 
 [power]
 id=1
 position=0,0
-
-# foraging
-
-[power]
-id=600
-position=0,0
-visible_requires_status=cut1
 
 # seasons
 
@@ -871,3 +864,89 @@ visible_requires_status=00:20
 id=230
 position=50,7
 visible_requires_status=00:30
+
+# FORAGING
+
+[power]
+id=600
+position=4,7
+visible_requires_status=cut1
+
+[power]
+id=601
+position=4,7
+visible_requires_status=cut2
+
+# -----
+
+[power]
+id=6100
+position=-5,37
+
+# -----
+
+[power]
+id=6000
+position=9,36
+
+[power]
+id=6001
+position=27,37
+
+[power]
+id=6002
+position=42,37
+
+[power]
+id=6003
+position=57,37
+
+[power]
+id=6004
+position=72,37
+
+[power]
+id=6005
+position=87,37
+
+[power]
+id=6006
+position=102,37
+
+[power]
+id=6007
+position=117,37
+
+[power]
+id=6008
+position=132,37
+
+[power]
+id=6009
+position=147,37
+
+[power]
+id=60010
+position=162,37
+
+[power]
+id=60011
+position=163,36
+
+# -----
+
+[power]
+id=60012
+position=27,37
+visible_primary=physical,2
+
+# foraging level
+
+[power]
+id=6010
+position=14,37
+
+[power]
+id=6011
+position=14,37
+visible_primary=physical,2

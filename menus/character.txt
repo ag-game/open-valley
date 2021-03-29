@@ -14,7 +14,7 @@ upgrade_primary=offense,40,104
 upgrade_primary=defense,40,128
 
 statlist=24,152
-statlist_rows=11
+statlist_rows=1
 statlist_scrollbar_offset=1
 
 name=84,32,104,16
