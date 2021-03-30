@@ -1,6 +1,31 @@
 # season, skills bars, day and date
 # visible_visible_requires_status=
 
+# tab 0
+[tab]
+title=1
+#background=images/menus/tree1.png
+
+# tab 1
+[tab]
+title=2
+
+# tab 2
+[tab]
+title=3
+
+# tab 3
+[tab]
+title=4
+
+# tab 4
+[tab]
+title=5
+
+# tab 5
+[tab]
+title=6
+
 [power]
 id=1
 position=0,0
@@ -877,11 +902,17 @@ id=601
 position=4,7
 visible_requires_status=cut2
 
-# -----
+# foraging level
 
 [power]
-id=6100
-position=-5,37
+id=6010
+position=14,37
+requires_primary=physical,1
+
+[power]
+id=6011
+position=14,37
+requires_primary=physical,2
 
 # -----
 
@@ -938,15 +969,10 @@ position=163,36
 [power]
 id=60012
 position=27,37
-visible_primary=physical,2
+requires_primary=physical,2
 
-# foraging level
-
-[power]
-id=6010
-position=14,37
+# foraging ICON
 
 [power]
-id=6011
-position=14,37
-visible_primary=physical,2
+id=6100
+position=-5,37

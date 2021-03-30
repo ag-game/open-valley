@@ -5,6 +5,7 @@ Alpha 0.06
 * created 100 trees and stumps, cuttable, to add to the farm map
 * use tools now costs energy points
 * add 25 of the 100 trees and stumps
+* added tabs, in the skill menu (for now they are only for testing)
 
 ............................................
 
