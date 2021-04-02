@@ -240,7 +240,7 @@ data=
 344,345,545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,744,745,745,
 0,409,545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,409,545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,409,545,1975,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1555,
+0,409,545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1555,
 472,473,868,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,339,340,480,1619,
 0,0,545,405,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,403,1054,0,801,
 608,931,932,405,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,866,0,0,0,
@@ -309,7 +309,7 @@ data=
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 1032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,387,405,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,387,1975,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,479,0,480,
 800,693,0,0,800,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,802,0,689,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -378,7 +378,7 @@ data=
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,1767,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,2199,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,402,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -447,7 +447,7 @@ data=
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,2199,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -1630,4 +1630,1354 @@ repeat=false
 requires_not_status=cut17-1
 requires_status=cut17
 spawn=stump17,46,12
+
+[event]
+# tree30
+type=event
+location=26,16,1,1
+activate=on_load
+requires_not_status=cut30
+spawn=spring-tree30,26,16
+
+[event]
+# stump30
+type=event
+location=26,16,1,1
+activate=static
+repeat=false
+requires_not_status=cut30-1
+requires_status=cut30
+spawn=stump30,26,16
+
+[event]
+# tree29
+type=event
+location=22,25,1,1
+activate=on_load
+requires_not_status=cut29
+spawn=spring-tree29,22,25
+
+[event]
+# stump29
+type=event
+location=22,25,1,1
+activate=static
+repeat=false
+requires_not_status=cut29-1
+requires_status=cut29
+spawn=stump29,22,25
+
+[event]
+# tree31
+type=event
+location=36,23,1,1
+activate=on_load
+requires_not_status=cut31
+spawn=spring-tree31,36,23
+
+[event]
+# stump31
+type=event
+location=36,23,1,1
+activate=static
+repeat=false
+requires_not_status=cut31-1
+requires_status=cut31
+spawn=stump31,36,23
+
+[event]
+# tree27
+type=event
+location=13,30,1,1
+activate=on_load
+requires_not_status=cut27
+spawn=spring-tree27,13,30
+
+[event]
+# stump27
+type=event
+location=13,30,1,1
+activate=static
+repeat=false
+requires_not_status=cut27-1
+requires_status=cut27
+spawn=stump27,13,30
+
+[event]
+# tree26
+type=event
+location=9,18,1,1
+activate=on_load
+requires_not_status=cut26
+spawn=spring-tree26,9,18
+
+[event]
+# stump26
+type=event
+location=9,18,1,1
+activate=static
+repeat=false
+requires_not_status=cut26-1
+requires_status=cut26
+spawn=stump26,9,18
+
+[event]
+# tree28
+type=event
+location=21,19,1,1
+activate=on_load
+requires_not_status=cut28
+spawn=spring-tree28,21,19
+
+[event]
+# stump28
+type=event
+location=21,19,1,1
+activate=static
+repeat=false
+requires_not_status=cut28-1
+requires_status=cut28
+spawn=stump28,21,19
+
+[event]
+# tree32
+type=event
+location=70,18,1,1
+activate=on_load
+requires_not_status=cut32
+spawn=spring-tree32,70,18
+
+[event]
+# stump32
+type=event
+location=70,18,1,1
+activate=static
+repeat=false
+requires_not_status=cut32-1
+requires_status=cut32
+spawn=stump32,70,18
+
+[event]
+# tree33
+type=event
+location=60,17,1,1
+activate=on_load
+requires_not_status=cut33
+spawn=spring-tree33,60,17
+
+[event]
+# stump33
+type=event
+location=60,17,1,1
+activate=static
+repeat=false
+requires_not_status=cut33-1
+requires_status=cut33
+spawn=stump33,60,17
+
+[event]
+# tree34
+type=event
+location=70,26,1,1
+activate=on_load
+requires_not_status=cut34
+spawn=spring-tree34,70,26
+
+[event]
+# stump34
+type=event
+location=70,26,1,1
+activate=static
+repeat=false
+requires_not_status=cut34-1
+requires_status=cut34
+spawn=stump34,70,26
+
+[event]
+# tree35
+type=event
+location=58,31,1,1
+activate=on_load
+requires_not_status=cut35
+spawn=spring-tree35,58,31
+
+[event]
+# stump35
+type=event
+location=58,31,1,1
+activate=static
+repeat=false
+requires_not_status=cut35-1
+requires_status=cut35
+spawn=stump35,58,31
+
+[event]
+# tree36
+type=event
+location=67,31,1,1
+activate=on_load
+requires_not_status=cut36
+spawn=spring-tree36,67,31
+
+[event]
+# stump36
+type=event
+location=67,31,1,1
+activate=static
+repeat=false
+requires_not_status=cut36-1
+requires_status=cut36
+spawn=stump36,67,31
+
+[event]
+# tree37
+type=event
+location=48,30,1,1
+activate=on_load
+requires_not_status=cut37
+spawn=spring-tree37,48,30
+
+[event]
+# stump37
+type=event
+location=48,30,1,1
+activate=static
+repeat=false
+requires_not_status=cut37-1
+requires_status=cut37
+spawn=stump37,48,30
+
+[event]
+# tree38
+type=event
+location=55,56,1,1
+activate=on_load
+requires_not_status=cut38
+spawn=spring-tree38,55,56
+
+[event]
+# stump38
+type=event
+location=55,56,1,1
+activate=static
+repeat=false
+requires_not_status=cut38-1
+requires_status=cut38
+spawn=stump38,55,56
+
+[event]
+# tree39
+type=event
+location=67,55,1,1
+activate=on_load
+requires_not_status=cut39
+spawn=spring-tree39,67,55
+
+[event]
+# stump39
+type=event
+location=67,55,1,1
+activate=static
+repeat=false
+requires_not_status=cut39-1
+requires_status=cut39
+spawn=stump39,67,55
+
+[event]
+# tree40
+type=event
+location=70,43,1,1
+activate=on_load
+requires_not_status=cut40
+spawn=spring-tree40,70,43
+
+[event]
+# stump40
+type=event
+location=70,43,1,1
+activate=static
+repeat=false
+requires_not_status=cut40-1
+requires_status=cut40
+spawn=stump40,70,43
+
+[event]
+# tree41
+type=event
+location=55,39,1,1
+activate=on_load
+requires_not_status=cut41
+spawn=spring-tree41,55,39
+
+[event]
+# stump41
+type=event
+location=55,39,1,1
+activate=static
+repeat=false
+requires_not_status=cut41-1
+requires_status=cut41
+spawn=stump41,55,39
+
+[event]
+# tree42
+type=event
+location=46,43,1,1
+activate=on_load
+requires_not_status=cut42
+spawn=spring-tree42,46,43
+
+[event]
+# stump42
+type=event
+location=46,43,1,1
+activate=static
+repeat=false
+requires_not_status=cut42-1
+requires_status=cut42
+spawn=stump42,46,43
+
+[event]
+# tree43
+type=event
+location=42,54,1,1
+activate=on_load
+requires_not_status=cut43
+spawn=spring-tree43,42,54
+
+[event]
+# stump43
+type=event
+location=42,54,1,1
+activate=static
+repeat=false
+requires_not_status=cut43-1
+requires_status=cut43
+spawn=stump43,42,54
+
+[event]
+# tree44
+type=event
+location=37,36,1,1
+activate=on_load
+requires_not_status=cut44
+spawn=spring-tree44,37,36
+
+[event]
+# stump44
+type=event
+location=37,36,1,1
+activate=static
+repeat=false
+requires_not_status=cut44-1
+requires_status=cut44
+spawn=stump44,37,36
+
+[event]
+# tree45
+type=event
+location=34,51,1,1
+activate=on_load
+requires_not_status=cut45
+spawn=spring-tree45,34,51
+
+[event]
+# stump45
+type=event
+location=34,51,1,1
+activate=static
+repeat=false
+requires_not_status=cut45-1
+requires_status=cut45
+spawn=stump45,34,51
+
+[event]
+# tree46
+type=event
+location=21,55,1,1
+activate=on_load
+requires_not_status=cut46
+spawn=spring-tree46,21,55
+
+[event]
+# stump46
+type=event
+location=21,55,1,1
+activate=static
+repeat=false
+requires_not_status=cut46-1
+requires_status=cut46
+spawn=stump46,21,55
+
+[event]
+# tree47
+type=event
+location=21,47,1,1
+activate=on_load
+requires_not_status=cut47
+spawn=spring-tree47,21,47
+
+[event]
+# stump47
+type=event
+location=21,47,1,1
+activate=static
+repeat=false
+requires_not_status=cut47-1
+requires_status=cut47
+spawn=stump47,21,47
+
+[event]
+# tree48
+type=event
+location=21,39,1,1
+activate=on_load
+requires_not_status=cut48
+spawn=spring-tree48,21,39
+
+[event]
+# stump48
+type=event
+location=21,39,1,1
+activate=static
+repeat=false
+requires_not_status=cut48-1
+requires_status=cut48
+spawn=stump48,21,39
+
+[event]
+# tree49
+type=event
+location=32,27,1,1
+activate=on_load
+requires_not_status=cut49
+spawn=spring-tree49,32,27
+
+[event]
+# stump49
+type=event
+location=32,27,1,1
+activate=static
+repeat=false
+requires_not_status=cut49-1
+requires_status=cut49
+spawn=stump49,32,27
+
+[event]
+# tree50
+type=event
+location=44,18,1,1
+activate=on_load
+requires_not_status=cut50
+spawn=spring-tree50,44,18
+
+[event]
+# stump50
+type=event
+location=44,18,1,1
+activate=static
+repeat=false
+requires_not_status=cut50-1
+requires_status=cut50
+spawn=stump50,44,18
+
+[event]
+# tree51
+type=event
+location=32,17,1,1
+activate=on_load
+requires_not_status=cut51
+spawn=spring-tree51,32,17
+
+[event]
+# stump51
+type=event
+location=32,17,1,1
+activate=static
+repeat=false
+requires_not_status=cut51-1
+requires_status=cut51
+spawn=stump51,32,17
+
+[event]
+# tree52
+type=event
+location=38,29,1,1
+activate=on_load
+requires_not_status=cut52
+spawn=spring-tree52,38,29
+
+[event]
+# stump52
+type=event
+location=38,29,1,1
+activate=static
+repeat=false
+requires_not_status=cut52-1
+requires_status=cut52
+spawn=stump52,38,29
+
+[event]
+# tree53
+type=event
+location=52,44,1,1
+activate=on_load
+requires_not_status=cut53
+spawn=spring-tree53,52,44
+
+[event]
+# stump53
+type=event
+location=52,44,1,1
+activate=static
+repeat=false
+requires_not_status=cut53-1
+requires_status=cut53
+spawn=stump53,52,44
+
+[event]
+# tree54
+type=event
+location=27,35,1,1
+activate=on_load
+requires_not_status=cut54
+spawn=spring-tree54,27,35
+
+[event]
+# stump54
+type=event
+location=27,35,1,1
+activate=static
+repeat=false
+requires_not_status=cut54-1
+requires_status=cut54
+spawn=stump54,27,35
+
+[event]
+# tree55
+type=event
+location=43,32,1,1
+activate=on_load
+requires_not_status=cut55
+spawn=spring-tree55,43,32
+
+[event]
+# stump55
+type=event
+location=43,32,1,1
+activate=static
+repeat=false
+requires_not_status=cut55-1
+requires_status=cut55
+spawn=stump55,43,32
+
+[event]
+# tree56
+type=event
+location=57,20,1,1
+activate=on_load
+requires_not_status=cu56
+spawn=spring-tree56,57,20
+
+[event]
+# stump56
+type=event
+location=57,20,1,1
+activate=static
+repeat=false
+requires_not_status=cut56-1
+requires_status=cut56
+spawn=stump56,57,20
+
+[event]
+# tree57
+type=event
+location=60,40,1,1
+activate=on_load
+requires_not_status=cut57
+spawn=spring-tree57,60,40
+
+[event]
+# stump57
+type=event
+location=60,40,1,1
+activate=static
+repeat=false
+requires_not_status=cut57-1
+requires_status=cut57
+spawn=stump57,60,40
+
+[event]
+# tree58
+type=event
+location=48,56,1,1
+activate=on_load
+requires_not_status=cut58
+spawn=spring-tree58,48,56
+
+[event]
+# stump58
+type=event
+location=48,56,1,1
+activate=static
+repeat=false
+requires_not_status=cut58-1
+requires_status=cut58
+spawn=stump58,48,56
+
+[event]
+# tree59
+type=event
+location=30,54,1,1
+activate=on_load
+requires_not_status=cut59
+spawn=spring-tree59,30,54
+
+[event]
+# stump59
+type=event
+location=30,54,1,1
+activate=static
+repeat=false
+requires_not_status=cut59-1
+requires_status=cut59
+spawn=stump59,30,54
+
+[event]
+# tree60
+type=event
+location=72,54,1,1
+activate=on_load
+requires_not_status=cut60
+spawn=spring-tree60,72,54
+
+[event]
+# stump60
+type=event
+location=72,54,1,1
+activate=static
+repeat=false
+requires_not_status=cut60-1
+requires_status=cut60
+spawn=stump60,72,54
+
+[event]
+# tree61
+type=event
+location=60,56,1,1
+activate=on_load
+requires_not_status=cut61
+spawn=spring-tree61,60,56
+
+[event]
+# stump61
+type=event
+location=60,56,1,1
+activate=static
+repeat=false
+requires_not_status=cut61-1
+requires_status=cut61
+spawn=stump61,60,56
+
+[event]
+# tree62
+type=event
+location=62,33,1,1
+activate=on_load
+requires_not_status=cut62
+spawn=spring-tree62,62,33
+
+[event]
+# stump62
+type=event
+location=62,33,1,1
+activate=static
+repeat=false
+requires_not_status=cut62-1
+requires_status=cut62
+spawn=stump62,62,33
+
+[event]
+# tree63
+type=event
+location=52,33,1,1
+activate=on_load
+requires_not_status=cut63
+spawn=spring-tree63,52,33
+
+[event]
+# stump63
+type=event
+location=52,33,1,1
+activate=static
+repeat=false
+requires_not_status=cut63-1
+requires_status=cut63
+spawn=stump63,52,33
+
+[event]
+# tree64
+type=event
+location=48,21,1,1
+activate=on_load
+requires_not_status=cut64
+spawn=spring-tree64,48,21
+
+[event]
+# stump64
+type=event
+location=48,21,1,1
+activate=static
+repeat=false
+requires_not_status=cut64-1
+requires_status=cut64
+spawn=stump64,48,21
+
+[event]
+# tree65
+type=event
+location=64,18,1,1
+activate=on_load
+requires_not_status=cut65
+spawn=spring-tree65,64,18
+
+[event]
+# stump65
+type=event
+location=64,18,1,1
+activate=static
+repeat=false
+requires_not_status=cut65-1
+requires_status=cut65
+spawn=stump65,64,18
+
+[event]
+# tree66
+type=event
+location=71,34,1,1
+activate=on_load
+requires_not_status=cut66
+spawn=spring-tree66,71,34
+
+[event]
+# stump66
+type=event
+location=71,34,1,1
+activate=static
+repeat=false
+requires_not_status=cut66-1
+requires_status=cut66
+spawn=stump66,71,34
+
+[event]
+# tree67
+type=event
+location=16,32,1,1
+activate=on_load
+requires_not_status=cut67
+spawn=spring-tree67,16,32
+
+[event]
+# stump67
+type=event
+location=16,32,1,1
+activate=static
+repeat=false
+requires_not_status=cut67-1
+requires_status=cut67
+spawn=stump67,16,32
+
+[event]
+# tree68
+type=event
+location=26,26,1,1
+activate=on_load
+requires_not_status=cut68
+spawn=spring-tree68,26,26
+
+[event]
+# stump68
+type=event
+location=26,26,1,1
+activate=static
+repeat=false
+requires_not_status=cut68-1
+requires_status=cut68
+spawn=stump68,26,26
+
+[event]
+# tree69
+type=event
+location=39,17,1,1
+activate=on_load
+requires_not_status=cut69
+spawn=spring-tree69,39,17
+
+[event]
+# stump69
+type=event
+location=39,17,1,1
+activate=static
+repeat=false
+requires_not_status=cut69-1
+requires_status=cut69
+spawn=stump69,39,17
+
+[event]
+# tree70
+type=event
+location=29,10,1,1
+activate=on_load
+requires_not_status=cut70
+spawn=spring-tree70,29,10
+
+[event]
+# stump70
+type=event
+location=29,10,1,1
+activate=static
+repeat=false
+requires_not_status=cut70-1
+requires_status=cut70
+spawn=stump70,29,10
+
+[event]
+# tree71
+type=event
+location=51,11,1,1
+activate=on_load
+requires_not_status=cut71
+spawn=spring-tree71,51,11
+
+[event]
+# stump71
+type=event
+location=51,11,1,1
+activate=static
+repeat=false
+requires_not_status=cut71-1
+requires_status=cut71
+spawn=stump71,51,11
+
+[event]
+# tree72
+type=event
+location=55,49,1,1
+activate=on_load
+requires_not_status=cut72
+spawn=spring-tree72,55,49
+
+[event]
+# stump72
+type=event
+location=55,49,1,1
+activate=static
+repeat=false
+requires_not_status=cut72-1
+requires_status=cut72
+spawn=stump72,55,49
+
+[event]
+# tree73
+type=event
+location=67,45,1,1
+activate=on_load
+requires_not_status=cut73
+spawn=spring-tree73,67,45
+
+[event]
+# stump73
+type=event
+location=67,45,1,1
+activate=static
+repeat=false
+requires_not_status=cut73-1
+requires_status=cut73
+spawn=stump73,67,45
+
+[event]
+# tree74
+type=event
+location=27,45,1,1
+activate=on_load
+requires_not_status=cut74
+spawn=spring-tree74,27,45
+
+[event]
+# stump74
+type=event
+location=27,45,1,1
+activate=static
+repeat=false
+requires_not_status=cut74-1
+requires_status=cut74
+spawn=stump74,27,45
+
+[event]
+# tree75
+type=event
+location=13,42,1,1
+activate=on_load
+requires_not_status=cut75
+spawn=spring-tree75,13,42
+
+[event]
+# stump75
+type=event
+location=13,42,1,1
+activate=static
+repeat=false
+requires_not_status=cut75-1
+requires_status=cut75
+spawn=stump75,13,42
+
+[event]
+# tree76
+type=event
+location=37,38,1,1
+activate=on_load
+requires_not_status=cut76
+spawn=spring-tree76,37,38
+
+[event]
+# stump76
+type=event
+location=37,38,1,1
+activate=static
+repeat=false
+requires_not_status=cut76-1
+requires_status=cut76
+spawn=stump76,37,38
+
+[event]
+# tree77
+type=event
+location=12,33,1,1
+activate=on_load
+requires_not_status=cut77
+spawn=spring-tree77,12,33
+
+[event]
+# stump77
+type=event
+location=12,33,1,1
+activate=static
+repeat=false
+requires_not_status=cut77-1
+requires_status=cut77
+spawn=stump77,12,33
+
+[event]
+# tree78
+type=event
+location=51,58,1,1
+activate=on_load
+requires_not_status=cut78
+spawn=spring-tree78,51,58
+
+[event]
+# stump78
+type=event
+location=51,58,1,1
+activate=static
+repeat=false
+requires_not_status=cut78-1
+requires_status=cut78
+spawn=stump78,51,58
+
+[event]
+# tree79
+type=event
+location=41,47,1,1
+activate=on_load
+requires_not_status=cut79
+spawn=spring-tree79,41,47
+
+[event]
+# stump79
+type=event
+location=41,47,1,1
+activate=static
+repeat=false
+requires_not_status=cut79-1
+requires_status=cut79
+spawn=stump79,41,47
+
+[event]
+# tree80
+type=event
+location=52,21,1,1
+activate=on_load
+requires_not_status=cut80
+spawn=spring-tree80,52,21
+
+[event]
+# stump80
+type=event
+location=52,21,1,1
+activate=static
+repeat=false
+requires_not_status=cut80-1
+requires_status=cut80
+spawn=stump80,52,21
+
+[event]
+# tree81
+type=event
+location=59,25,1,1
+activate=on_load
+requires_not_status=cut81
+spawn=spring-tree81,59,25
+
+[event]
+# stump81
+type=event
+location=59,25,1,1
+activate=static
+repeat=false
+requires_not_status=cut81-1
+requires_status=cut81
+spawn=stump81,59,25
+
+[event]
+# tree82
+type=event
+location=18,41,1,1
+activate=on_load
+requires_not_status=cut82
+spawn=spring-tree82,18,41
+
+[event]
+# stump82
+type=event
+location=18,41,1,1
+activate=static
+repeat=false
+requires_not_status=cut82-1
+requires_status=cut82
+spawn=stump82,18,41
+
+[event]
+# tree83
+type=event
+location=19,33,1,1
+activate=on_load
+requires_not_status=cut83
+spawn=spring-tree83,19,33
+
+[event]
+# stump83
+type=event
+location=19,33,1,1
+activate=static
+repeat=false
+requires_not_status=cut83-1
+requires_status=cut83
+spawn=stump83,19,33
+
+[event]
+# tree84
+type=event
+location=36,54,1,1
+activate=on_load
+requires_not_status=cut84
+spawn=spring-tree84,36,54
+
+[event]
+# stump84
+type=event
+location=36,54,1,1
+activate=static
+repeat=false
+requires_not_status=cut84-1
+requires_status=cut84
+spawn=stump84,36,54
+
+[event]
+# tree85
+type=event
+location=31,44,1,1
+activate=on_load
+requires_not_status=cut85
+spawn=spring-tree85,31,44
+
+[event]
+# stump85
+type=event
+location=31,44,1,1
+activate=static
+repeat=false
+requires_not_status=cut85-1
+requires_status=cut85
+spawn=stump85,31,44
+
+[event]
+# tree86
+type=event
+location=31,36,1,1
+activate=on_load
+requires_not_status=cut86
+spawn=spring-tree86,31,36
+
+[event]
+# stump86
+type=event
+location=31,36,1,1
+activate=static
+repeat=false
+requires_not_status=cut86-1
+requires_status=cut86
+spawn=stump86,31,36
+
+[event]
+# tree87
+type=event
+location=67,19,1,1
+activate=on_load
+requires_not_status=cut87
+spawn=spring-tree87,67,19
+
+[event]
+# stump87
+type=event
+location=67,19,1,1
+activate=static
+repeat=false
+requires_not_status=cut87-1
+requires_status=cut87
+spawn=stump87,67,19
+
+[event]
+# tree88
+type=event
+location=41,20,1,1
+activate=on_load
+requires_not_status=cut88
+spawn=spring-tree88,41,20
+
+[event]
+# stump88
+type=event
+location=41,20,1,1
+activate=static
+repeat=false
+requires_not_status=cut88-1
+requires_status=cut88
+spawn=stump88,41,20
+
+[event]
+# tree89
+type=event
+location=14,15,1,1
+activate=on_load
+requires_not_status=cut89
+spawn=spring-tree89,14,15
+
+[event]
+# stump89
+type=event
+location=14,15,1,1
+activate=static
+repeat=false
+requires_not_status=cut89-1
+requires_status=cut89
+spawn=stump89,14,15
+
+[event]
+# tree90
+type=event
+location=19,49,1,1
+activate=on_load
+requires_not_status=cut90
+spawn=spring-tree90,19,49
+
+[event]
+# stump90
+type=event
+location=19,49,1,1
+activate=static
+repeat=false
+requires_not_status=cut90-1
+requires_status=cut90
+spawn=stump90,19,49
+
+[event]
+# tree91
+type=event
+location=44,56,1,1
+activate=on_load
+requires_not_status=cut91
+spawn=spring-tree91,44,56
+
+[event]
+# stump91
+type=event
+location=44,56,1,1
+activate=static
+repeat=false
+requires_not_status=cut91-1
+requires_status=cut91
+spawn=stump91,44,56
+
+[event]
+# tree92
+type=event
+location=70,57,1,1
+activate=on_load
+requires_not_status=cut92
+spawn=spring-tree92,70,57
+
+[event]
+# stump92
+type=event
+location=70,57,1,1
+activate=static
+repeat=false
+requires_not_status=cut92-1
+requires_status=cut92
+spawn=stump92,70,57
+
+[event]
+# tree93
+type=event
+location=72,46,1,1
+activate=on_load
+requires_not_status=cut93
+spawn=spring-tree93,72,46
+
+[event]
+# stump93
+type=event
+location=72,46,1,1
+activate=static
+repeat=false
+requires_not_status=cut93-1
+requires_status=cut93
+spawn=stump93,72,46
+
+[event]
+# tree94
+type=event
+location=59,50,1,1
+activate=on_load
+requires_not_status=cut94
+spawn=spring-tree94,59,50
+
+[event]
+# stump94
+type=event
+location=59,50,1,1
+activate=static
+repeat=false
+requires_not_status=cut94-1
+requires_status=cut94
+spawn=stump94,59,50
+
+[event]
+# tree95
+type=event
+location=71,20,1,1
+activate=on_load
+requires_not_status=cut95
+spawn=spring-tree95,71,20
+
+[event]
+# stump95
+type=event
+location=71,20,1,1
+activate=static
+repeat=false
+requires_not_status=cut95-1
+requires_status=cut95
+spawn=stump95,71,20
+
+[event]
+# tree96
+type=event
+location=72,9,1,1
+activate=on_load
+requires_not_status=cut96
+spawn=spring-tree96,72,9
+
+[event]
+# stump96
+type=event
+location=72,9,1,1
+activate=static
+repeat=false
+requires_not_status=cut96-1
+requires_status=cut96
+spawn=stump96,72,9
+
+[event]
+# tree97
+type=event
+location=39,9,1,1
+activate=on_load
+requires_not_status=cut97
+spawn=spring-tree97,39,9
+
+[event]
+# stump97
+type=event
+location=39,9,1,1
+activate=static
+repeat=false
+requires_not_status=cut97-1
+requires_status=cut97
+spawn=stump97,39,9
+
+[event]
+# tree98
+type=event
+location=48,24,1,1
+activate=on_load
+requires_not_status=cut98
+spawn=spring-tree98,48,24
+
+[event]
+# stump98
+type=event
+location=48,24,1,1
+activate=static
+repeat=false
+requires_not_status=cut98-1
+requires_status=cut98
+spawn=stump98,48,24
+
+[event]
+# tree99
+type=event
+location=40,38,1,1
+activate=on_load
+requires_not_status=cut99
+spawn=spring-tree99,40,38
+
+[event]
+# stump99
+type=event
+location=40,38,1,1
+activate=static
+repeat=false
+requires_not_status=cut99-1
+requires_status=cut99
+spawn=stump99,40,38
+
+[event]
+# tree100
+type=event
+location=28,47,1,1
+activate=on_load
+requires_not_status=cut100
+spawn=spring-tree100,28,47
+
+[event]
+# stump100
+type=event
+location=28,47,1,1
+activate=static
+repeat=false
+requires_not_status=cut100-1
+requires_status=cut100
+spawn=stump100,28,47
 
