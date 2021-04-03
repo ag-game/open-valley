@@ -49,6 +49,27 @@ requires_flags=axe
 target_categories=tree
 
 [power]
+id=12
+name=Pickaxe
+type=fixed
+icon=259
+new_state=instant
+requires_mp=2
+face=true
+use_hazard=true
+aim_assist=true
+base_damage=melee
+lifespan=1s
+speed=12
+radius=1.0
+starting_pos=melee
+animation=animations/powers/pickaxe.txt
+directional=false
+cooldown=1s
+requires_flags=axe
+target_categories=rock
+
+[power]
 id=2
 #name=Slime Attack
 type=fixed

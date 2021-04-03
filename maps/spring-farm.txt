@@ -2981,3 +2981,11 @@ requires_not_status=cut100-1
 requires_status=cut100
 spawn=stump100,28,47
 
+[event]
+# rock1
+type=event
+location=11,15,1,1
+activate=on_load
+requires_not_status=rock1
+spawn=rock1,11,15
+
