@@ -6,6 +6,8 @@ Alpha 0.06
 * use tools now costs energy points
 * all bridges in the maps, now, will be repaired (with logs and nails... for now this function is not implemented)
 * added tabs, in the skill menu (for now they are only for testing) - the skills menu is suspended pending fixing of a bug in the engine
+* added images of logs and rocks breakable by the player
+* added a file with the list of future NPCs
 
 ............................................
 
