@@ -8,7 +8,7 @@ Alpha 0.06
 * added tabs, in the skill menu (for now they are only for testing) - the skills menu is suspended pending fixing of a bug in the engine
 * added images of logs and rocks breakable by the player
 * added a file with the list of future NPCs
-* added the pickaxe and the first stone breakable with the pickaxe
+* added the pickaxe and 40/100 rocks breakable with the pickaxe
 
 ............................................
 

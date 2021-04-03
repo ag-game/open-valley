@@ -2989,3 +2989,315 @@ activate=on_load
 requires_not_status=rock1
 spawn=rock1,11,15
 
+[event]
+# rock2
+type=event
+location=19,15,1,1
+activate=on_load
+requires_not_status=rock2
+spawn=rock2,19,15
+
+[event]
+# rock3
+type=event
+location=30,12,1,1
+activate=on_load
+requires_not_status=rock3
+spawn=rock3,30,12
+
+[event]
+# rock4
+type=event
+location=32,21,1,1
+activate=on_load
+requires_not_status=rock4
+spawn=rock4,32,21
+
+[event]
+# rock5
+type=event
+location=11,25,1,1
+activate=on_load
+requires_not_status=rock5
+spawn=rock5,11,25
+
+[event]
+# rock6
+type=event
+location=41,12,1,1
+activate=on_load
+requires_not_status=rock6
+spawn=rock6,41,12
+
+[event]
+# rock7
+type=event
+location=48,16,1,1
+activate=on_load
+requires_not_status=rock7
+spawn=rock7,48,16
+
+[event]
+# rock8
+type=event
+location=54,13,1,1
+activate=on_load
+requires_not_status=rock8
+spawn=rock8,54,13
+
+[event]
+# rock9
+type=event
+location=64,13,1,1
+activate=on_load
+requires_not_status=rock9
+spawn=rock9,64,13
+
+[event]
+# rock10
+type=event
+location=65,10,1,1
+activate=on_load
+requires_not_status=rock10
+spawn=rock10,65,10
+
+[event]
+# rock11
+type=event
+location=71,13,1,1
+activate=on_load
+requires_not_status=rock11
+spawn=rock11,71,13
+
+[event]
+# rock12
+type=event
+location=66,22,1,1
+activate=on_load
+requires_not_status=rock12
+spawn=rock12,66,22
+
+[event]
+# rock13
+type=event
+location=61,21,1,1
+activate=on_load
+requires_not_status=rock13
+spawn=rock13,61,21
+
+[event]
+# rock14
+type=event
+location=61,27,1,1
+activate=on_load
+requires_not_status=rock14
+spawn=rock14,61,27
+
+[event]
+# rock15
+type=event
+location=55,22,1,1
+activate=on_load
+requires_not_status=rock15
+spawn=rock15,55,22
+
+[event]
+# rock16
+type=event
+location=58,34,1,1
+activate=on_load
+requires_not_status=rock16
+spawn=rock16,58,34
+
+[event]
+# rock17
+type=event
+location=46,34,1,1
+activate=on_load
+requires_not_status=rock17
+spawn=rock17,46,34
+
+[event]
+# rock18
+type=event
+location=35,32,1,1
+activate=on_load
+requires_not_status=rock18
+spawn=rock18,35,32
+
+[event]
+# rock19
+type=event
+location=26,29,1,1
+activate=on_load
+requires_not_status=rock19
+spawn=rock19,26,29
+
+[event]
+# rock20
+type=event
+location=24,39,1,1
+activate=on_load
+requires_not_status=rock20
+spawn=rock20,24,39
+
+[event]
+# rock21
+type=event
+location=16,44,1,1
+activate=on_load
+requires_not_status=rock21
+spawn=rock21,16,44
+
+[event]
+# rock22
+type=event
+location=34,45,1,1
+activate=on_load
+requires_not_status=rock22
+spawn=rock22,34,45
+
+[event]
+# rock23
+type=event
+location=33,40,1,1
+activate=on_load
+requires_not_status=rock23
+spawn=rock23,33,40
+
+[event]
+# rock24
+type=event
+location=47,46,1,1
+activate=on_load
+requires_not_status=rock24
+spawn=rock24,47,46
+
+[event]
+# rock25
+type=event
+location=56,43,1,1
+activate=on_load
+requires_not_status=rock25
+spawn=rock25,56,43
+
+[event]
+# rock26
+type=event
+location=63,46,1,1
+activate=on_load
+requires_not_status=rock26
+spawn=rock26,63,46
+
+[event]
+# rock27
+type=event
+location=63,40,1,1
+activate=on_load
+requires_not_status=rock27
+spawn=rock27,63,40
+
+[event]
+# rock28
+type=event
+location=71,37,1,1
+activate=on_load
+requires_not_status=rock28
+spawn=rock28,71,37
+
+[event]
+# rock29
+type=event
+location=40,41,1,1
+activate=on_load
+requires_not_status=rock29
+spawn=rock29,40,41
+
+[event]
+# rock30
+type=event
+location=16,35,1,1
+activate=on_load
+requires_not_status=rock30
+spawn=rock30,16,35
+
+[event]
+# rock31
+type=event
+location=22,42,1,1
+activate=on_load
+requires_not_status=rock31
+spawn=rock31,22,42
+
+[event]
+# rock32
+type=event
+location=29,29,1,1
+activate=on_load
+requires_not_status=rock32
+spawn=rock32,29,29
+
+[event]
+# rock33
+type=event
+location=39,23,1,1
+activate=on_load
+requires_not_status=rock33
+spawn=rock33,39,23
+
+[event]
+# rock34
+type=event
+location=24,20,1,1
+activate=on_load
+requires_not_status=rock34
+spawn=rock34,24,20
+
+[event]
+# rock35
+type=event
+location=29,18,1,1
+activate=on_load
+requires_not_status=rock35
+spawn=rock35,29,18
+
+[event]
+# rock36
+type=event
+location=19,27,1,1
+activate=on_load
+requires_not_status=rock36
+spawn=rock36,19,27
+
+[event]
+# rock37
+type=event
+location=18,21,1,1
+activate=on_load
+requires_not_status=rock37
+spawn=rock37,18,21
+
+[event]
+# rock38
+type=event
+location=10,21,1,1
+activate=on_load
+requires_not_status=rock38
+spawn=rock38,19,21
+
+[event]
+# rock39
+type=event
+location=39,33,1,1
+activate=on_load
+requires_not_status=rock39
+spawn=rock39,39,33
+
+[event]
+# rock40
+type=event
+location=43,39,1,1
+activate=on_load
+requires_not_status=rock40
+spawn=rock40,43,39
+
