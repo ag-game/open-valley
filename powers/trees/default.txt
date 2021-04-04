@@ -893,86 +893,183 @@ visible_requires_status=00:30
 # FORAGING
 
 [power]
-id=600
+id=620
 position=4,7
 visible_requires_status=cut1
+visible_when_locked=false
 
 [power]
-id=601
+id=621
 position=4,7
 visible_requires_status=cut2
+visible_when_locked=false
 
 # foraging level
 
 [power]
-id=6010
+id=610
 position=14,37
 requires_primary=physical,1
+visible_when_locked=false
 
 [power]
-id=6011
+id=611
 position=14,37
 requires_primary=physical,2
+visible_when_locked=false
 
-# -----
+# foraging bar
 
 [power]
-id=6000
+id=630
 position=9,36
 
 [power]
-id=6001
+id=631
 position=27,37
 
 [power]
-id=6002
+id=632
 position=42,37
 
 [power]
-id=6003
+id=633
 position=57,37
 
 [power]
-id=6004
+id=634
 position=72,37
 
 [power]
-id=6005
+id=635
 position=87,37
 
 [power]
-id=6006
+id=636
 position=102,37
 
 [power]
-id=6007
+id=637
 position=117,37
 
 [power]
-id=6008
+id=638
 position=132,37
 
 [power]
-id=6009
+id=639
 position=147,37
 
 [power]
-id=60010
+id=6310
 position=162,37
 
 [power]
-id=60011
+id=6311
 position=163,36
+
+# exp points increase bar
+
+[power]
+id=640
+position=27,36
+requires_primary=physical,2
+visible_when_locked=false
+
+[power]
+id=641
+position=27,36
+requires_primary=physical,3
+visible_when_locked=false
+
+[power]
+id=642
+position=27,36
+requires_primary=physical,4
+visible_when_locked=false
+
+[power]
+id=643
+position=27,36
+requires_primary=physical,5
+visible_when_locked=false
+
+[power]
+id=644
+position=27,36
+requires_primary=physical,6
+visible_when_locked=false
+
+[power]
+id=645
+position=27,36
+requires_primary=physical,7
+visible_when_locked=false
+
+[power]
+id=646
+position=27,36
+requires_primary=physical,8
+visible_when_locked=false
+
+[power]
+id=647
+position=27,36
+requires_primary=physical,9
+visible_when_locked=false
+
+[power]
+id=648
+position=27,36
+requires_primary=physical,10
+visible_when_locked=false
+
+[power]
+id=649
+position=27,36
+requires_primary=physical,11
+visible_when_locked=false
+
+[power]
+id=6410
+position=27,36
+requires_primary=physical,12
+visible_when_locked=false
+
+[power]
+id=6411
+position=27,36
+requires_primary=physical,13
+visible_when_locked=false
+
+[power]
+id=6412
+position=27,36
+requires_primary=physical,14
+visible_when_locked=false
+
+[power]
+id=6413
+position=27,36
+requires_primary=physical,15
+visible_when_locked=false
+
+[power]
+id=6414
+position=27,36
+requires_primary=physical,16
+visible_when_locked=false
 
 # -----
 
 [power]
-id=60012
-position=27,37
-requires_primary=physical,2
+id=6415
+position=42,36
+requires_primary=physical,17
+visible_when_locked=false
 
 # foraging ICON
 
 [power]
-id=6100
+id=600
 position=-5,37

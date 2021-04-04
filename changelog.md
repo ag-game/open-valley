@@ -5,10 +5,12 @@ Alpha 0.06
 * created and add 100 trees and stumps, cuttable, to add to the farm map
 * use tools now costs energy points
 * all bridges in the maps, now, will be repaired (with logs and nails... for now this function is not implemented)
-* added tabs, in the skill menu (for now they are only for testing) - the skills menu is suspended pending fixing of a bug in the engine
+* added tabs, in the skill menu (for now they are only for testing)
 * added images of logs and rocks breakable by the player
 * added a file with the list of future NPCs
 * added the pickaxe and 40/100 rocks breakable with the pickaxe
+* added the zip file of the currently used version of the engine, so you have everything in one place
+* fixed the bug of the skill bars, with the new version of the engine
 
 ............................................
 
