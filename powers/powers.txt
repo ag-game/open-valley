@@ -26,6 +26,7 @@ directional=false
 cooldown=1s
 requires_flags=hoe
 target_categories=tools
+visible_when_locked=false
 
 [power]
 id=11
@@ -66,7 +67,7 @@ starting_pos=melee
 animation=animations/powers/pickaxe.txt
 directional=false
 cooldown=1s
-requires_flags=axe
+requires_flags=pickaxe
 target_categories=rock
 
 [power]

@@ -1,6 +1,6 @@
 below will be listed all the NPCs of the game, with some personal data
 
-Name: Luzi Fehr (instead of Haley)
+Name: Luzi Fehr (instead of Haley/Riley)
 Age: 25 years (approximately)
 Occupation: working from home with smartphone and/or PC
 Background: single mother, bisexual, with a form of autism who likes to have fun

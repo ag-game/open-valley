@@ -1,5 +1,5 @@
 # Settings for the PowersMenu display
-pos=0,-220,1,1
+pos=0,-140,13,150
 align=left
 
 label_title=-500,8,center,top
