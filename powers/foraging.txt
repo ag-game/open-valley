@@ -108,7 +108,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -117,7 +117,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -126,7 +126,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -135,7 +135,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -144,7 +144,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -153,7 +153,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -162,7 +162,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -171,7 +171,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -180,7 +180,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -189,7 +189,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -198,7 +198,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -207,7 +207,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -216,7 +216,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -225,7 +225,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -234,7 +234,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -243,7 +243,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -252,7 +252,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -261,7 +261,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -270,7 +270,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -279,7 +279,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -288,7 +288,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -297,7 +297,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -306,7 +306,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -315,7 +315,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -324,7 +324,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -333,7 +333,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -342,7 +342,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -351,7 +351,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -360,7 +360,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -369,7 +369,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -378,7 +378,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -387,7 +387,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -396,7 +396,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -405,7 +405,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -414,7 +414,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -423,7 +423,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -432,7 +432,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -441,7 +441,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -450,7 +450,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -459,7 +459,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -468,7 +468,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -477,7 +477,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -486,7 +486,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -495,7 +495,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -504,7 +504,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -513,7 +513,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -522,7 +522,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -531,7 +531,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -540,7 +540,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -549,7 +549,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -558,7 +558,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -567,7 +567,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -576,7 +576,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -585,7 +585,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -594,7 +594,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -603,7 +603,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -612,7 +612,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -621,7 +621,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -630,7 +630,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -639,7 +639,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -648,7 +648,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -657,7 +657,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -666,7 +666,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -675,7 +675,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -684,7 +684,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -693,7 +693,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -702,7 +702,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -711,7 +711,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -720,7 +720,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -729,7 +729,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -738,7 +738,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -747,7 +747,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -756,7 +756,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -765,7 +765,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -774,7 +774,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -783,7 +783,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -792,7 +792,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -801,7 +801,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -810,7 +810,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -819,7 +819,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -828,7 +828,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -837,7 +837,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -846,7 +846,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -855,7 +855,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -864,7 +864,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -873,7 +873,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -882,7 +882,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -891,7 +891,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -900,7 +900,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -909,7 +909,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -918,7 +918,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -927,7 +927,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -936,7 +936,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -945,7 +945,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -954,7 +954,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -963,7 +963,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -972,7 +972,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -981,7 +981,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -990,7 +990,7 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
 
 [power]
@@ -999,8 +999,10 @@ name=Foraging
 type=fixed
 buff=true
 passive=true
-post_effect=physical,12
+post_effect=physical,6
 icon=14
+
+#-----------------------------------
 
 [power]
 id=62100
