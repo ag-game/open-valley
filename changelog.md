@@ -1,8 +1,8 @@
 
 Alpha 0.06
 
-* Removed the experience bar, which will be inserted in the skill menu, together with the other bars currently disabled
-* created and add 100 trees and stumps, cuttable, to add to the farm map
+* Removed the experience bar, which will be inserted in the skill menu, together with the other bars
+* created and add 100 trees and stumps, cuttable, to the farm map
 * use tools now costs energy points
 * all bridges in the maps, now, will be repaired (with logs and nails... for now this function is not implemented)
 * added tabs, in the skill menu (for now they are only for testing)
