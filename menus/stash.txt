@@ -12,3 +12,15 @@ currency=288,48,right,center
 slots_area=32,64
 stash_cols=8
 stash_rows=10
+
+[tab]
+name=1
+is_private=true
+
+[tab]
+name=2
+is_private=true
+
+[tab]
+name=3
+is_private=true

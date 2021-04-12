@@ -5,4 +5,5 @@ sell_without_vendor=false
 save_onload=false
 save_onexit=false
 save_oncutscene=false
+save_onstash=shared
 save_prefix=OpenValley

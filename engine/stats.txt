@@ -35,10 +35,10 @@ stat=dmg_ranged_max,0
 stat_per_primary=defense,dmg_ranged_min,0
 stat_per_primary=defense,dmg_ranged_max,0
 
-stat=dmg_mental_min,0
-stat=dmg_mental_max,0
-stat_per_primary=mental,dmg_mental_min,0
-stat_per_primary=mental,dmg_mental_max,0
+#stat=dmg_mental_min,0
+#stat=dmg_mental_max,0
+#stat_per_primary=mental,dmg_mental_min,0
+#stat_per_primary=mental,dmg_mental_max,0
 
 stat=poise,10
 stat_per_primary=defense,poise,0

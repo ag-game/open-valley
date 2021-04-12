@@ -26,7 +26,6 @@ directional=false
 cooldown=1s
 requires_flags=hoe
 target_categories=tools
-visible_when_locked=false
 
 [power]
 id=11

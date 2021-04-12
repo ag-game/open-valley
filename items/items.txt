@@ -12,6 +12,9 @@ loot_animation=animations/loot/coins5.txt,0,9
 loot_animation=animations/loot/coins25.txt,10,24
 loot_animation=animations/loot/coins100.txt,25,0
 
+INCLUDE items/tools.txt
+INCLUDE items/seeds.txt
+
 [item]
 id=2
 name=Example Weapon
@@ -21,30 +24,6 @@ level=1
 price=100
 item_type=weapon
 equip_flags=weapon
-
-[item]
-id=3
-name=Hoe
-quality=low
-item_type=tools
-equip_flags=hoe
-icon=257
-soundfx=soundfx/inventory/inventory_metal.ogg
-gfx=battle_axe
-loot_animation=animations/tools/hoe.txt
-dmg=melee,1,1
-
-[item]
-id=4
-name=Axe
-quality=low
-item_type=tools
-equip_flags=axe
-icon=258
-soundfx=soundfx/inventory/inventory_metal.ogg
-gfx=battle_axe
-loot_animation=animations/tools/axe.txt
-dmg=melee,11,11
 
 [item]
 id=5
@@ -95,15 +74,3 @@ price_sell=10
 max_quantity=500
 #soundfx=soundfx/inventory/inventory_coins.ogg
 loot_animation=animations/loot/stone2.txt
-
-[item]
-id=9
-name=Pickaxe
-quality=low
-item_type=tools
-equip_flags=pickaxe
-icon=259
-soundfx=soundfx/inventory/inventory_metal.ogg
-gfx=battle_axe
-loot_animation=animations/tools/pickaxe.txt
-dmg=melee,1,1

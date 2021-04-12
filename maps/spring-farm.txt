@@ -686,8 +686,8 @@ show_on_minimap=false
 [event]
 # dig1
 type=event
-location=14,11,1,1
-activate=on_trigger
+location=19,9,1,1
+activate=on_interact
 hotspot=location
 mapmod=level 1,19,9,1558
 requires_item=3
@@ -1006,7 +1006,7 @@ spawn=stump1,19,6
 # fix bridge
 type=event
 location=40,61,1,1
-activate=on_trigger
+activate=on_interact
 hotspot=location
 msg=this bridge requires 50 woods to be fixed
 requires_not_item=5:50
@@ -1016,7 +1016,7 @@ requires_not_status=fix-1
 # fix bridge
 type=event
 location=40,61,1,1
-activate=on_trigger
+activate=on_interact
 hotspot=location
 npc=npc/fix-1.txt
 requires_item=5:50
@@ -3124,4 +3124,23 @@ location=43,39,1,1
 activate=on_load
 requires_not_status=rock40
 spawn=rock40,43,39
+
+[event]
+# stash
+type=event
+location=13,12,1,1
+activate=on_interact
+hotspot=location
+soundfx=soundfx/wood_open.ogg
+stash=true
+tooltip=Stash
+
+[event]
+# dig2
+type=event
+location=20,9,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 1,20,9,1558
+requires_item=3
 

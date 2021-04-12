@@ -1,5 +1,5 @@
 # season, skills bars, day and date
-# visible_visible_requires_status=
+# requires_status=
 
 #----------------------------------- tab 0
 [tab]
@@ -35,2061 +35,2231 @@ position=0,0
 [power]
 id=501
 position=120,7
-visible_requires_status=spring
+requires_status=spring
+visible_when_locked=false
 
 [power]
 id=502
 position=120,7
-visible_requires_status=summer
+requires_status=summer
+visible_when_locked=false
 
 [power]
 id=503
 position=120,7
-visible_requires_status=fall
+requires_status=fall
+visible_when_locked=false
 
 [power]
 id=504
 position=120,7
-visible_requires_status=winter
+requires_status=winter
+visible_when_locked=false
 
 #----------------------------------- days
 
 [power]
 id=300
 position=90,0
-visible_requires_status=monday
+requires_status=monday
+visible_when_locked=false
 
 [power]
 id=301
 position=90,0
-visible_requires_status=tuesday
+requires_status=tuesday
+visible_when_locked=false
 
 [power]
 id=302
 position=90,0
-visible_requires_status=wednesday
+requires_status=wednesday
+visible_when_locked=false
 
 [power]
 id=303
 position=90,0
-visible_requires_status=thusday
+requires_status=thusday
+visible_when_locked=false
 
 [power]
 id=304
 position=90,0
-visible_requires_status=friday
+requires_status=friday
+visible_when_locked=false
 
 [power]
 id=305
 position=90,0
-visible_requires_status=saturday
+requires_status=saturday
+visible_when_locked=false
 
 [power]
 id=306
 position=90,0
-visible_requires_status=sunday
+requires_status=sunday
+visible_when_locked=false
 
 #----------------------------------- date
 
 [power]
 id=401
 position=90,6
-visible_requires_status=1
+requires_status=1
+visible_when_locked=false
 
 [power]
 id=402
 position=90,6
-visible_requires_status=2
+requires_status=2
+visible_when_locked=false
 
 [power]
 id=403
 position=90,6
-visible_requires_status=3
+requires_status=3
+visible_when_locked=false
 
 [power]
 id=404
 position=90,6
-visible_requires_status=4
+requires_status=4
+visible_when_locked=false
 
 [power]
 id=405
 position=90,6
-visible_requires_status=5
+requires_status=5
+visible_when_locked=false
 
 [power]
 id=406
 position=90,6
-visible_requires_status=6
+requires_status=6
+visible_when_locked=false
 
 [power]
 id=407
 position=90,6
-visible_requires_status=7
+requires_status=7
+visible_when_locked=false
 
 [power]
 id=408
 position=90,6
-visible_requires_status=8
+requires_status=8
+visible_when_locked=false
 
 [power]
 id=409
 position=90,6
-visible_requires_status=9
+requires_status=9
+visible_when_locked=false
 
 [power]
 id=410
 position=90,6
-visible_requires_status=10
+requires_status=10
+visible_when_locked=false
 
 [power]
 id=411
 position=90,6
-visible_requires_status=11
+requires_status=11
+visible_when_locked=false
 
 [power]
 id=412
 position=90,6
-visible_requires_status=12
+requires_status=12
+visible_when_locked=false
 
 [power]
 id=413
 position=90,6
-visible_requires_status=13
+requires_status=13
+visible_when_locked=false
 
 [power]
 id=414
 position=90,6
-visible_requires_status=14
+requires_status=14
+visible_when_locked=false
 
 [power]
 id=415
 position=90,6
-visible_requires_status=15
+requires_status=15
+visible_when_locked=false
 
 [power]
 id=416
 position=90,6
-visible_requires_status=16
+requires_status=16
+visible_when_locked=false
 
 [power]
 id=417
 position=90,6
-visible_requires_status=17
+requires_status=17
+visible_when_locked=false
 
 [power]
 id=418
 position=90,6
-visible_requires_status=18
+requires_status=18
+visible_when_locked=false
 
 [power]
 id=419
 position=90,6
-visible_requires_status=19
+requires_status=19
+visible_when_locked=false
 
 [power]
 id=420
 position=90,6
-visible_requires_status=20
+requires_status=20
+visible_when_locked=false
 
 [power]
 id=421
 position=90,6
-visible_requires_status=21
+requires_status=21
+visible_when_locked=false
 
 [power]
 id=422
 position=90,6
-visible_requires_status=22
+requires_status=22
+visible_when_locked=false
 
 [power]
 id=423
 position=90,6
-visible_requires_status=23
+requires_status=23
+visible_when_locked=false
 
 [power]
 id=424
 position=90,6
-visible_requires_status=24
+requires_status=24
+visible_when_locked=false
 
 [power]
 id=425
 position=90,6
-visible_requires_status=25
+requires_status=25
+visible_when_locked=false
 
 [power]
 id=426
 position=90,6
-visible_requires_status=26
+requires_status=26
+visible_when_locked=false
 
 [power]
 id=427
 position=90,6
-visible_requires_status=27
+requires_status=27
+visible_when_locked=false
 
 [power]
 id=428
 position=90,6
-visible_requires_status=28
+requires_status=28
+visible_when_locked=false
 
 #----------------------------------- clock
 
 [power]
 id=100
 position=4,7
-visible_requires_status=06:00
+requires_status=06:00
+visible_when_locked=false
 
 [power]
 id=107
 position=4,7
-visible_requires_status=07:00
+requires_status=07:00
+visible_when_locked=false
 
 [power]
 id=114
 position=4,7
-visible_requires_status=08:00
+requires_status=08:00
+visible_when_locked=false
 
 [power]
 id=121
 position=4,7
-visible_requires_status=09:00
+requires_status=09:00
+visible_when_locked=false
 
 [power]
 id=128
 position=4,7
-visible_requires_status=10:00
+requires_status=10:00
+visible_when_locked=false
 
 [power]
 id=135
 position=4,7
-visible_requires_status=11:00
+requires_status=11:00
+visible_when_locked=false
 
 [power]
 id=142
 position=4,7
-visible_requires_status=12:00
+requires_status=12:00
+visible_when_locked=false
 
 [power]
 id=149
 position=4,7
-visible_requires_status=13:00
+requires_status=13:00
+visible_when_locked=false
 
 [power]
 id=156
 position=4,7
-visible_requires_status=14:00
+requires_status=14:00
+visible_when_locked=false
 
 [power]
 id=163
 position=4,7
-visible_requires_status=15:00
+requires_status=15:00
+visible_when_locked=false
 
 [power]
 id=170
 position=4,7
-visible_requires_status=16:00
+requires_status=16:00
+visible_when_locked=false
 
 [power]
 id=177
 position=4,7
-visible_requires_status=17:00
+requires_status=17:00
+visible_when_locked=false
 
 [power]
 id=184
 position=4,7
-visible_requires_status=18:00
+requires_status=18:00
+visible_when_locked=false
 
 [power]
 id=191
 position=4,7
-visible_requires_status=19:00
+requires_status=19:00
+visible_when_locked=false
 
 [power]
 id=198
 position=4,7
-visible_requires_status=20:00
+requires_status=20:00
+visible_when_locked=false
 
 [power]
 id=205
 position=4,7
-visible_requires_status=21:00
+requires_status=21:00
+visible_when_locked=false
 
 [power]
 id=212
 position=4,7
-visible_requires_status=22:00
+requires_status=22:00
+visible_when_locked=false
 
 [power]
 id=219
 position=4,7
-visible_requires_status=23:00
+requires_status=23:00
+visible_when_locked=false
 
 [power]
 id=226
 position=4,7
-visible_requires_status=00:00
+requires_status=00:00
+visible_when_locked=false
 
 # -----------------------------------
 
 [power]
 id=101
 position=50,7
-visible_requires_status=06:00
+requires_status=06:00
+visible_when_locked=false
 
 [power]
 id=102
 position=50,7
-visible_requires_status=06:10
+requires_status=06:10
+visible_when_locked=false
 
 [power]
 id=103
 position=50,7
-visible_requires_status=06:20
+requires_status=06:20
+visible_when_locked=false
 
 [power]
 id=104
 position=50,7
-visible_requires_status=06:30
+requires_status=06:30
+visible_when_locked=false
 
 [power]
 id=105
 position=50,7
-visible_requires_status=06:40
+requires_status=06:40
+visible_when_locked=false
 
 [power]
 id=106
 position=50,7
-visible_requires_status=06:50
+requires_status=06:50
+visible_when_locked=false
 
 [power]
 id=108
 position=50,7
-visible_requires_status=07:00
+requires_status=07:00
+visible_when_locked=false
 
 [power]
 id=109
 position=50,7
-visible_requires_status=07:10
+requires_status=07:10
+visible_when_locked=false
 
 [power]
 id=110
 position=50,7
-visible_requires_status=07:20
+requires_status=07:20
+visible_when_locked=false
 
 [power]
 id=111
 position=50,7
-visible_requires_status=07:30
+requires_status=07:30
+visible_when_locked=false
 
 [power]
 id=112
 position=50,7
-visible_requires_status=07:40
+requires_status=07:40
+visible_when_locked=false
 
 [power]
 id=113
 position=50,7
-visible_requires_status=07:50
+requires_status=07:50
+visible_when_locked=false
 
 [power]
 id=115
 position=50,7
-visible_requires_status=08:00
+requires_status=08:00
+visible_when_locked=false
 
 [power]
 id=116
 position=50,7
-visible_requires_status=08:10
+requires_status=08:10
+visible_when_locked=false
 
 [power]
 id=117
 position=50,7
-visible_requires_status=08:20
+requires_status=08:20
+visible_when_locked=false
 
 [power]
 id=118
 position=50,7
-visible_requires_status=08:30
+requires_status=08:30
+visible_when_locked=false
 
 [power]
 id=119
 position=50,7
-visible_requires_status=08:40
+requires_status=08:40
+visible_when_locked=false
 
 [power]
 id=120
 position=50,7
-visible_requires_status=08:50
+requires_status=08:50
+visible_when_locked=false
 
 [power]
 id=122
 position=50,7
-visible_requires_status=09:00
+requires_status=09:00
+visible_when_locked=false
 
 [power]
 id=123
 position=50,7
-visible_requires_status=09:10
+requires_status=09:10
+visible_when_locked=false
 
 [power]
 id=124
 position=50,7
-visible_requires_status=09:20
+requires_status=09:20
+visible_when_locked=false
 
 [power]
 id=125
 position=50,7
-visible_requires_status=09:30
+requires_status=09:30
+visible_when_locked=false
 
 [power]
 id=126
 position=50,7
-visible_requires_status=09:40
+requires_status=09:40
+visible_when_locked=false
 
 [power]
 id=127
 position=50,7
-visible_requires_status=09:50
+requires_status=09:50
+visible_when_locked=false
 
 [power]
 id=129
 position=50,7
-visible_requires_status=10:00
+requires_status=10:00
+visible_when_locked=false
 
 [power]
 id=130
 position=50,7
-visible_requires_status=10:10
+requires_status=10:10
+visible_when_locked=false
 
 [power]
 id=131
 position=50,7
-visible_requires_status=10:20
+requires_status=10:20
+visible_when_locked=false
 
 [power]
 id=132
 position=50,7
-visible_requires_status=10:30
+requires_status=10:30
+visible_when_locked=false
 
 [power]
 id=133
 position=50,7
-visible_requires_status=10:40
+requires_status=10:40
+visible_when_locked=false
 
 [power]
 id=134
 position=50,7
-visible_requires_status=10:50
+requires_status=10:50
+visible_when_locked=false
 
 [power]
 id=136
 position=50,7
-visible_requires_status=11:00
+requires_status=11:00
+visible_when_locked=false
 
 [power]
 id=137
 position=50,7
-visible_requires_status=11:10
+requires_status=11:10
+visible_when_locked=false
 
 [power]
 id=138
 position=50,7
-visible_requires_status=11:20
+requires_status=11:20
+visible_when_locked=false
 
 [power]
 id=139
 position=50,7
-visible_requires_status=11:30
+requires_status=11:30
+visible_when_locked=false
 
 [power]
 id=140
 position=50,7
-visible_requires_status=11:40
+requires_status=11:40
+visible_when_locked=false
 
 [power]
 id=141
 position=50,7
-visible_requires_status=11:50
+requires_status=11:50
+visible_when_locked=false
 
 [power]
 id=143
 position=50,7
-visible_requires_status=12:00
+requires_status=12:00
+visible_when_locked=false
 
 [power]
 id=144
 position=50,7
-visible_requires_status=12:10
+requires_status=12:10
+visible_when_locked=false
 
 [power]
 id=145
 position=50,7
-visible_requires_status=12:20
+requires_status=12:20
+visible_when_locked=false
 
 [power]
 id=146
 position=50,7
-visible_requires_status=12:30
+requires_status=12:30
+visible_when_locked=false
 
 [power]
 id=147
 position=50,7
-visible_requires_status=12:40
+requires_status=12:40
+visible_when_locked=false
 
 [power]
 id=148
 position=50,7
-visible_requires_status=12:50
+requires_status=12:50
+visible_when_locked=false
 
 [power]
 id=150
 position=50,7
-visible_requires_status=13:00
+requires_status=13:00
+visible_when_locked=false
 
 [power]
 id=151
 position=50,7
-visible_requires_status=13:10
+requires_status=13:10
+visible_when_locked=false
 
 [power]
 id=152
 position=50,7
-visible_requires_status=13:20
+requires_status=13:20
+visible_when_locked=false
 
 [power]
 id=153
 position=50,7
-visible_requires_status=13:30
+requires_status=13:30
+visible_when_locked=false
 
 [power]
 id=154
 position=50,7
-visible_requires_status=13:40
+requires_status=13:40
+visible_when_locked=false
 
 [power]
 id=155
 position=50,7
-visible_requires_status=13:50
+requires_status=13:50
+visible_when_locked=false
 
 [power]
 id=157
 position=50,7
-visible_requires_status=14:00
+requires_status=14:00
+visible_when_locked=false
 
 [power]
 id=158
 position=50,7
-visible_requires_status=14:10
+requires_status=14:10
+visible_when_locked=false
 
 [power]
 id=159
 position=50,7
-visible_requires_status=14:20
+requires_status=14:20
+visible_when_locked=false
 
 [power]
 id=160
 position=50,7
-visible_requires_status=14:30
+requires_status=14:30
+visible_when_locked=false
 
 [power]
 id=161
 position=50,7
-visible_requires_status=14:40
+requires_status=14:40
+visible_when_locked=false
 
 [power]
 id=162
 position=50,7
-visible_requires_status=14:50
+requires_status=14:50
+visible_when_locked=false
 
 [power]
 id=164
 position=50,7
-visible_requires_status=15:00
+requires_status=15:00
+visible_when_locked=false
 
 [power]
 id=165
 position=50,7
-visible_requires_status=15:10
+requires_status=15:10
+visible_when_locked=false
 
 [power]
 id=166
 position=50,7
-visible_requires_status=15:20
+requires_status=15:20
+visible_when_locked=false
 
 [power]
 id=167
 position=50,7
-visible_requires_status=15:30
+requires_status=15:30
+visible_when_locked=false
 
 [power]
 id=168
 position=50,7
-visible_requires_status=15:40
+requires_status=15:40
+visible_when_locked=false
 
 [power]
 id=169
 position=50,7
-visible_requires_status=15:50
+requires_status=15:50
+visible_when_locked=false
 
 [power]
 id=171
 position=50,7
-visible_requires_status=16:00
+requires_status=16:00
+visible_when_locked=false
 
 [power]
 id=172
 position=50,7
-visible_requires_status=16:10
+requires_status=16:10
+visible_when_locked=false
 
 [power]
 id=173
 position=50,7
-visible_requires_status=16:20
+requires_status=16:20
+visible_when_locked=false
 
 [power]
 id=174
 position=50,7
-visible_requires_status=16:30
+requires_status=16:30
+visible_when_locked=false
 
 [power]
 id=175
 position=50,7
-visible_requires_status=16:40
+requires_status=16:40
+visible_when_locked=false
 
 [power]
 id=176
 position=50,7
-visible_requires_status=16:50
+requires_status=16:50
+visible_when_locked=false
 
 [power]
 id=178
 position=50,7
-visible_requires_status=17:00
+requires_status=17:00
+visible_when_locked=false
 
 [power]
 id=179
 position=50,7
-visible_requires_status=17:10
+requires_status=17:10
+visible_when_locked=false
 
 [power]
 id=180
 position=50,7
-visible_requires_status=17:20
+requires_status=17:20
+visible_when_locked=false
 
 [power]
 id=181
 position=50,7
-visible_requires_status=17:30
+requires_status=17:30
+visible_when_locked=false
 
 [power]
 id=182
 position=50,7
-visible_requires_status=17:40
+requires_status=17:40
+visible_when_locked=false
 
 [power]
 id=183
 position=50,7
-visible_requires_status=17:50
+requires_status=17:50
+visible_when_locked=false
 
 [power]
 id=185
 position=50,7
-visible_requires_status=18:00
+requires_status=18:00
+visible_when_locked=false
 
 [power]
 id=186
 position=50,7
-visible_requires_status=18:10
+requires_status=18:10
+visible_when_locked=false
 
 [power]
 id=187
 position=50,7
-visible_requires_status=18:20
+requires_status=18:20
+visible_when_locked=false
 
 [power]
 id=188
 position=50,7
-visible_requires_status=18:30
+requires_status=18:30
+visible_when_locked=false
 
 [power]
 id=189
 position=50,7
-visible_requires_status=18:40
+requires_status=18:40
+visible_when_locked=false
 
 [power]
 id=190
 position=50,7
-visible_requires_status=18:50
+requires_status=18:50
+visible_when_locked=false
 
 [power]
 id=192
 position=50,7
-visible_requires_status=19:00
+requires_status=19:00
+visible_when_locked=false
 
 [power]
 id=193
 position=50,7
-visible_requires_status=19:10
+requires_status=19:10
+visible_when_locked=false
 
 [power]
 id=194
 position=50,7
-visible_requires_status=19:20
+requires_status=19:20
+visible_when_locked=false
 
 [power]
 id=195
 position=50,7
-visible_requires_status=19:30
+requires_status=19:30
+visible_when_locked=false
 
 [power]
 id=196
 position=50,7
-visible_requires_status=19:40
+requires_status=19:40
+visible_when_locked=false
 
 [power]
 id=197
 position=50,7
-visible_requires_status=19:50
+requires_status=19:50
+visible_when_locked=false
 
 [power]
 id=199
 position=50,7
-visible_requires_status=20:00
+requires_status=20:00
+visible_when_locked=false
 
 [power]
 id=200
 position=50,7
-visible_requires_status=20:10
+requires_status=20:10
+visible_when_locked=false
 
 [power]
 id=201
 position=50,7
-visible_requires_status=20:20
+requires_status=20:20
+visible_when_locked=false
 
 [power]
 id=202
 position=50,7
-visible_requires_status=20:30
+requires_status=20:30
+visible_when_locked=false
 
 [power]
 id=203
 position=50,7
-visible_requires_status=20:40
+requires_status=20:40
+visible_when_locked=false
 
 [power]
 id=204
 position=50,7
-visible_requires_status=20:50
+requires_status=20:50
+visible_when_locked=false
 
 [power]
 id=206
 position=50,7
-visible_requires_status=21:00
+requires_status=21:00
+visible_when_locked=false
 
 [power]
 id=207
 position=50,7
-visible_requires_status=21:10
+requires_status=21:10
+visible_when_locked=false
 
 [power]
 id=208
 position=50,7
-visible_requires_status=21:20
+requires_status=21:20
+visible_when_locked=false
 
 [power]
 id=209
 position=50,7
-visible_requires_status=21:30
+requires_status=21:30
+visible_when_locked=false
 
 [power]
 id=210
 position=50,7
-visible_requires_status=21:40
+requires_status=21:40
+visible_when_locked=false
 
 [power]
 id=211
 position=50,7
-visible_requires_status=21:50
+requires_status=21:50
+visible_when_locked=false
 
 [power]
 id=213
 position=50,7
-visible_requires_status=22:00
+requires_status=22:00
+visible_when_locked=false
 
 [power]
 id=214
 position=50,7
-visible_requires_status=22:10
+requires_status=22:10
+visible_when_locked=false
 
 [power]
 id=215
 position=50,7
-visible_requires_status=22:20
+requires_status=22:20
+visible_when_locked=false
 
 [power]
 id=216
 position=50,7
-visible_requires_status=22:30
+requires_status=22:30
+visible_when_locked=false
 
 [power]
 id=217
 position=50,7
-visible_requires_status=22:40
+requires_status=22:40
+visible_when_locked=false
 
 [power]
 id=218
 position=50,7
-visible_requires_status=22:50
+requires_status=22:50
+visible_when_locked=false
 
 [power]
 id=220
 position=50,7
-visible_requires_status=23:00
+requires_status=23:00
+visible_when_locked=false
 
 [power]
 id=221
 position=50,7
-visible_requires_status=23:10
+requires_status=23:10
+visible_when_locked=false
 
 [power]
 id=222
 position=50,7
-visible_requires_status=23:20
+requires_status=23:20
+visible_when_locked=false
 
 [power]
 id=223
 position=50,7
-visible_requires_status=23:30
+requires_status=23:30
+visible_when_locked=false
 
 [power]
 id=224
 position=50,7
-visible_requires_status=23:40
+requires_status=23:40
+visible_when_locked=false
 
 [power]
 id=225
 position=50,7
-visible_requires_status=23:50
+requires_status=23:50
+visible_when_locked=false
 
 [power]
 id=227
 position=50,7
-visible_requires_status=00:00
+requires_status=00:00
+visible_when_locked=false
 
 [power]
 id=228
 position=50,7
-visible_requires_status=00:10
+requires_status=00:10
+visible_when_locked=false
 
 [power]
 id=229
 position=50,7
-visible_requires_status=00:20
+requires_status=00:20
+visible_when_locked=false
 
 [power]
 id=230
 position=50,7
-visible_requires_status=00:30
+requires_status=00:30
+visible_when_locked=false
 
 #----------------------------------- FORAGING
 
 [power]
 id=620
 position=4,7
-visible_requires_status=cut1
+requires_status=cut1
 visible_when_locked=false
 
 [power]
 id=621
 position=4,7
-visible_requires_status=cut2
+requires_status=cut2
 visible_when_locked=false
 
 [power]
 id=622
 position=4,7
-visible_requires_status=cut3
+requires_status=cut3
 visible_when_locked=false
 
 [power]
 id=623
 position=4,7
-visible_requires_status=cut4
+requires_status=cut4
 visible_when_locked=false
 
 [power]
 id=624
 position=4,7
-visible_requires_status=cut5
+requires_status=cut5
 visible_when_locked=false
 
 [power]
 id=625
 position=4,7
-visible_requires_status=cut6
+requires_status=cut6
 visible_when_locked=false
 
 [power]
 id=626
 position=4,7
-visible_requires_status=cut7
+requires_status=cut7
 visible_when_locked=false
 
 [power]
 id=627
 position=4,7
-visible_requires_status=cut8
+requires_status=cut8
 visible_when_locked=false
 
 [power]
 id=628
 position=4,7
-visible_requires_status=cut9
+requires_status=cut9
 visible_when_locked=false
 
 [power]
 id=629
 position=4,7
-visible_requires_status=cut10
+requires_status=cut10
 visible_when_locked=false
 
 [power]
 id=6210
 position=4,7
-visible_requires_status=cut11
+requires_status=cut11
 visible_when_locked=false
 
 [power]
 id=6211
 position=4,7
-visible_requires_status=cut12
+requires_status=cut12
 visible_when_locked=false
 
 [power]
 id=6212
 position=4,7
-visible_requires_status=cut13
+requires_status=cut13
 visible_when_locked=false
 
 [power]
 id=6213
 position=4,7
-visible_requires_status=cut14
+requires_status=cut14
 visible_when_locked=false
 
 [power]
 id=6214
 position=4,7
-visible_requires_status=cut15
+requires_status=cut15
 visible_when_locked=false
 
 [power]
 id=6215
 position=4,7
-visible_requires_status=cut16
+requires_status=cut16
 visible_when_locked=false
 
 [power]
 id=6216
 position=4,7
-visible_requires_status=cut17
+requires_status=cut17
 visible_when_locked=false
 
 [power]
 id=6217
 position=4,7
-visible_requires_status=cut18
+requires_status=cut18
 visible_when_locked=false
 
 [power]
 id=6218
 position=4,7
-visible_requires_status=cut19
+requires_status=cut19
 visible_when_locked=false
 
 [power]
 id=6219
 position=4,7
-visible_requires_status=cut20
+requires_status=cut20
 visible_when_locked=false
 
 [power]
 id=6220
 position=4,7
-visible_requires_status=cut21
+requires_status=cut21
 visible_when_locked=false
 
 [power]
 id=6221
 position=4,7
-visible_requires_status=cut22
+requires_status=cut22
 visible_when_locked=false
 
 [power]
 id=6222
 position=4,7
-visible_requires_status=cut23
+requires_status=cut23
 visible_when_locked=false
 
 [power]
 id=6223
 position=4,7
-visible_requires_status=cut24
+requires_status=cut24
 visible_when_locked=false
 
 [power]
 id=6224
 position=4,7
-visible_requires_status=cut25
+requires_status=cut25
 visible_when_locked=false
 
 [power]
 id=6225
 position=4,7
-visible_requires_status=cut26
+requires_status=cut26
 visible_when_locked=false
 
 [power]
 id=6226
 position=4,7
-visible_requires_status=cut27
+requires_status=cut27
 visible_when_locked=false
 
 [power]
 id=6227
 position=4,7
-visible_requires_status=cut28
+requires_status=cut28
 visible_when_locked=false
 
 [power]
 id=6228
 position=4,7
-visible_requires_status=cut29
+requires_status=cut29
 visible_when_locked=false
 
 [power]
 id=6229
 position=4,7
-visible_requires_status=cut30
+requires_status=cut30
 visible_when_locked=false
 
 [power]
 id=6230
 position=4,7
-visible_requires_status=cut31
+requires_status=cut31
 visible_when_locked=false
 
 [power]
 id=6231
 position=4,7
-visible_requires_status=cut32
+requires_status=cut32
 visible_when_locked=false
 
 [power]
 id=6232
 position=4,7
-visible_requires_status=cut33
+requires_status=cut33
 visible_when_locked=false
 
 [power]
 id=6233
 position=4,7
-visible_requires_status=cut34
+requires_status=cut34
 visible_when_locked=false
 
 [power]
 id=6234
 position=4,7
-visible_requires_status=cut35
+requires_status=cut35
 visible_when_locked=false
 
 [power]
 id=6235
 position=4,7
-visible_requires_status=cut36
+requires_status=cut36
 visible_when_locked=false
 
 [power]
 id=6236
 position=4,7
-visible_requires_status=cut37
+requires_status=cut37
 visible_when_locked=false
 
 [power]
 id=6237
 position=4,7
-visible_requires_status=cut38
+requires_status=cut38
 visible_when_locked=false
 
 [power]
 id=6238
 position=4,7
-visible_requires_status=cut39
+requires_status=cut39
 visible_when_locked=false
 
 [power]
 id=6239
 position=4,7
-visible_requires_status=cut40
+requires_status=cut40
 visible_when_locked=false
 
 [power]
 id=6240
 position=4,7
-visible_requires_status=cut41
+requires_status=cut41
 visible_when_locked=false
 
 [power]
 id=6241
 position=4,7
-visible_requires_status=cut42
+requires_status=cut42
 visible_when_locked=false
 
 [power]
 id=6242
 position=4,7
-visible_requires_status=cut43
+requires_status=cut43
 visible_when_locked=false
 
 [power]
 id=6243
 position=4,7
-visible_requires_status=cut44
+requires_status=cut44
 visible_when_locked=false
 
 [power]
 id=6244
 position=4,7
-visible_requires_status=cut45
+requires_status=cut45
 visible_when_locked=false
 
 [power]
 id=6245
 position=4,7
-visible_requires_status=cut46
+requires_status=cut46
 visible_when_locked=false
 
 [power]
 id=6246
 position=4,7
-visible_requires_status=cut47
+requires_status=cut47
 visible_when_locked=false
 
 [power]
 id=6247
 position=4,7
-visible_requires_status=cut48
+requires_status=cut48
 visible_when_locked=false
 
 [power]
 id=6248
 position=4,7
-visible_requires_status=cut49
+requires_status=cut49
 visible_when_locked=false
 
 [power]
 id=6249
 position=4,7
-visible_requires_status=cut50
+requires_status=cut50
 visible_when_locked=false
 
 [power]
 id=6250
 position=4,7
-visible_requires_status=cut51
+requires_status=cut51
 visible_when_locked=false
 
 [power]
 id=6251
 position=4,7
-visible_requires_status=cut52
+requires_status=cut52
 visible_when_locked=false
 
 [power]
 id=6252
 position=4,7
-visible_requires_status=cut53
+requires_status=cut53
 visible_when_locked=false
 
 [power]
 id=6253
 position=4,7
-visible_requires_status=cut54
+requires_status=cut54
 visible_when_locked=false
 
 [power]
 id=6254
 position=4,7
-visible_requires_status=cut55
+requires_status=cut55
 visible_when_locked=false
 
 [power]
 id=6255
 position=4,7
-visible_requires_status=cut56
+requires_status=cut56
 visible_when_locked=false
 
 [power]
 id=6256
 position=4,7
-visible_requires_status=cut57
+requires_status=cut57
 visible_when_locked=false
 
 [power]
 id=6257
 position=4,7
-visible_requires_status=cut58
+requires_status=cut58
 visible_when_locked=false
 
 [power]
 id=6258
 position=4,7
-visible_requires_status=cut59
+requires_status=cut59
 visible_when_locked=false
 
 [power]
 id=6259
 position=4,7
-visible_requires_status=cut60
+requires_status=cut60
 visible_when_locked=false
 
 [power]
 id=6260
 position=4,7
-visible_requires_status=cut61
+requires_status=cut61
 visible_when_locked=false
 
 [power]
 id=6261
 position=4,7
-visible_requires_status=cut62
+requires_status=cut62
 visible_when_locked=false
 
 [power]
 id=6262
 position=4,7
-visible_requires_status=cut63
+requires_status=cut63
 visible_when_locked=false
 
 [power]
 id=6263
 position=4,7
-visible_requires_status=cut64
+requires_status=cut64
 visible_when_locked=false
 
 [power]
 id=6264
 position=4,7
-visible_requires_status=cut65
+requires_status=cut65
 visible_when_locked=false
 
 [power]
 id=6265
 position=4,7
-visible_requires_status=cut66
+requires_status=cut66
 visible_when_locked=false
 
 [power]
 id=6266
 position=4,7
-visible_requires_status=cut67
+requires_status=cut67
 visible_when_locked=false
 
 [power]
 id=6267
 position=4,7
-visible_requires_status=cut68
+requires_status=cut68
 visible_when_locked=false
 
 [power]
 id=6268
 position=4,7
-visible_requires_status=cut69
+requires_status=cut69
 visible_when_locked=false
 
 [power]
 id=6269
 position=4,7
-visible_requires_status=cut70
+requires_status=cut70
 visible_when_locked=false
 
 [power]
 id=6270
 position=4,7
-visible_requires_status=cut71
+requires_status=cut71
 visible_when_locked=false
 
 [power]
 id=6271
 position=4,7
-visible_requires_status=cut72
+requires_status=cut72
 visible_when_locked=false
 
 [power]
 id=6272
 position=4,7
-visible_requires_status=cut73
+requires_status=cut73
 visible_when_locked=false
 
 [power]
 id=6273
 position=4,7
-visible_requires_status=cut74
+requires_status=cut74
 visible_when_locked=false
 
 [power]
 id=6274
 position=4,7
-visible_requires_status=cut75
+requires_status=cut75
 visible_when_locked=false
 
 [power]
 id=6275
 position=4,7
-visible_requires_status=cut76
+requires_status=cut76
 visible_when_locked=false
 
 [power]
 id=6276
 position=4,7
-visible_requires_status=cut77
+requires_status=cut77
 visible_when_locked=false
 
 [power]
 id=6277
 position=4,7
-visible_requires_status=cut78
+requires_status=cut78
 visible_when_locked=false
 
 [power]
 id=6278
 position=4,7
-visible_requires_status=cut79
+requires_status=cut79
 visible_when_locked=false
 
 [power]
 id=6279
 position=4,7
-visible_requires_status=cut80
+requires_status=cut80
 visible_when_locked=false
 
 [power]
 id=6280
 position=4,7
-visible_requires_status=cut81
+requires_status=cut81
 visible_when_locked=false
 
 [power]
 id=6281
 position=4,7
-visible_requires_status=cut82
+requires_status=cut82
 visible_when_locked=false
 
 [power]
 id=6282
 position=4,7
-visible_requires_status=cut83
+requires_status=cut83
 visible_when_locked=false
 
 [power]
 id=6283
 position=4,7
-visible_requires_status=cut84
+requires_status=cut84
 visible_when_locked=false
 
 [power]
 id=6284
 position=4,7
-visible_requires_status=cut85
+requires_status=cut85
 visible_when_locked=false
 
 [power]
 id=6285
 position=4,7
-visible_requires_status=cut86
+requires_status=cut86
 visible_when_locked=false
 
 [power]
 id=6286
 position=4,7
-visible_requires_status=cut87
+requires_status=cut87
 visible_when_locked=false
 
 [power]
 id=6287
 position=4,7
-visible_requires_status=cut88
+requires_status=cut88
 visible_when_locked=false
 
 [power]
 id=6288
 position=4,7
-visible_requires_status=cut89
+requires_status=cut89
 visible_when_locked=false
 
 [power]
 id=6289
 position=4,7
-visible_requires_status=cut90
+requires_status=cut90
 visible_when_locked=false
 
 [power]
 id=6290
 position=4,7
-visible_requires_status=cut91
+requires_status=cut91
 visible_when_locked=false
 
 [power]
 id=6291
 position=4,7
-visible_requires_status=cut92
+requires_status=cut92
 visible_when_locked=false
 
 [power]
 id=6292
 position=4,7
-visible_requires_status=cut93
+requires_status=cut93
 visible_when_locked=false
 
 [power]
 id=6293
 position=4,7
-visible_requires_status=cut94
+requires_status=cut94
 visible_when_locked=false
 
 [power]
 id=6294
 position=4,7
-visible_requires_status=cut95
+requires_status=cut95
 visible_when_locked=false
 
 [power]
 id=6295
 position=4,7
-visible_requires_status=cut96
+requires_status=cut96
 visible_when_locked=false
 
 [power]
 id=6296
 position=4,7
-visible_requires_status=cut97
+requires_status=cut97
 visible_when_locked=false
 
 [power]
 id=6297
 position=4,7
-visible_requires_status=cut98
+requires_status=cut98
 visible_when_locked=false
 
 [power]
 id=6298
 position=4,7
-visible_requires_status=cut99
+requires_status=cut99
 visible_when_locked=false
 
 [power]
 id=6299
 position=4,7
-visible_requires_status=cut100
+requires_status=cut100
 visible_when_locked=false
 
 [power]
 id=62100
 position=4,7
-visible_requires_status=cut1-1
+requires_status=cut1-1
 visible_when_locked=false
 
 [power]
 id=62101
 position=4,7
-visible_requires_status=cut2-1
+requires_status=cut2-1
 visible_when_locked=false
 
 [power]
 id=62102
 position=4,7
-visible_requires_status=cut3-1
+requires_status=cut3-1
 visible_when_locked=false
 
 [power]
 id=62103
 position=4,7
-visible_requires_status=cut4-1
+requires_status=cut4-1
 visible_when_locked=false
 
 [power]
 id=62104
 position=4,7
-visible_requires_status=cut5-1
+requires_status=cut5-1
 visible_when_locked=false
 
 [power]
 id=62105
 position=4,7
-visible_requires_status=cut6-1
+requires_status=cut6-1
 visible_when_locked=false
 
 [power]
 id=62106
 position=4,7
-visible_requires_status=cut7-1
+requires_status=cut7-1
 visible_when_locked=false
 
 [power]
 id=62107
 position=4,7
-visible_requires_status=cut8-1
+requires_status=cut8-1
 visible_when_locked=false
 
 [power]
 id=62108
 position=4,7
-visible_requires_status=cut9-1
+requires_status=cut9-1
 visible_when_locked=false
 
 [power]
 id=62109
 position=4,7
-visible_requires_status=cut10-1
+requires_status=cut10-1
 visible_when_locked=false
 
 [power]
 id=62110
 position=4,7
-visible_requires_status=cut11-1
+requires_status=cut11-1
 visible_when_locked=false
 
 [power]
 id=62111
 position=4,7
-visible_requires_status=cut12-1
+requires_status=cut12-1
 visible_when_locked=false
 
 [power]
 id=62112
 position=4,7
-visible_requires_status=cut13-1
+requires_status=cut13-1
 visible_when_locked=false
 
 [power]
 id=62113
 position=4,7
-visible_requires_status=cut14-1
+requires_status=cut14-1
 visible_when_locked=false
 
 [power]
 id=62114
 position=4,7
-visible_requires_status=cut15-1
+requires_status=cut15-1
 visible_when_locked=false
 
 [power]
 id=62115
 position=4,7
-visible_requires_status=cut16-1
+requires_status=cut16-1
 visible_when_locked=false
 
 [power]
 id=62116
 position=4,7
-visible_requires_status=cut17-1
+requires_status=cut17-1
 visible_when_locked=false
 
 [power]
 id=62117
 position=4,7
-visible_requires_status=cut18-1
+requires_status=cut18-1
 visible_when_locked=false
 
 [power]
 id=62118
 position=4,7
-visible_requires_status=cut19-1
+requires_status=cut19-1
 visible_when_locked=false
 
 [power]
 id=62119
 position=4,7
-visible_requires_status=cut20-1
+requires_status=cut20-1
 visible_when_locked=false
 
 [power]
 id=62120
 position=4,7
-visible_requires_status=cut21-1
+requires_status=cut21-1
 visible_when_locked=false
 
 [power]
 id=62121
 position=4,7
-visible_requires_status=cut22-1
+requires_status=cut22-1
 visible_when_locked=false
 
 [power]
 id=62122
 position=4,7
-visible_requires_status=cut23-1
+requires_status=cut23-1
 visible_when_locked=false
 
 [power]
 id=62123
 position=4,7
-visible_requires_status=cut24-1
+requires_status=cut24-1
 visible_when_locked=false
 
 [power]
 id=62124
 position=4,7
-visible_requires_status=cut25-1
+requires_status=cut25-1
 visible_when_locked=false
 
 [power]
 id=62125
 position=4,7
-visible_requires_status=cut26-1
+requires_status=cut26-1
 visible_when_locked=false
 
 [power]
 id=62126
 position=4,7
-visible_requires_status=cut27-1
+requires_status=cut27-1
 visible_when_locked=false
 
 [power]
 id=62127
 position=4,7
-visible_requires_status=cut28-1
+requires_status=cut28-1
 visible_when_locked=false
 
 [power]
 id=62128
 position=4,7
-visible_requires_status=cut29-1
+requires_status=cut29-1
 visible_when_locked=false
 
 [power]
 id=62129
 position=4,7
-visible_requires_status=cut30-1
+requires_status=cut30-1
 visible_when_locked=false
 
 [power]
 id=62130
 position=4,7
-visible_requires_status=cut31-1
+requires_status=cut31-1
 visible_when_locked=false
 
 [power]
 id=62131
 position=4,7
-visible_requires_status=cut32-1
+requires_status=cut32-1
 visible_when_locked=false
 
 [power]
 id=62132
 position=4,7
-visible_requires_status=cut33-1
+requires_status=cut33-1
 visible_when_locked=false
 
 [power]
 id=62133
 position=4,7
-visible_requires_status=cut34-1
+requires_status=cut34-1
 visible_when_locked=false
 
 [power]
 id=62134
 position=4,7
-visible_requires_status=cut35-1
+requires_status=cut35-1
 visible_when_locked=false
 
 [power]
 id=62135
 position=4,7
-visible_requires_status=cut36-1
+requires_status=cut36-1
 visible_when_locked=false
 
 [power]
 id=62136
 position=4,7
-visible_requires_status=cut37-1
+requires_status=cut37-1
 visible_when_locked=false
 
 [power]
 id=62137
 position=4,7
-visible_requires_status=cut38-1
+requires_status=cut38-1
 visible_when_locked=false
 
 [power]
 id=62138
 position=4,7
-visible_requires_status=cut39-1
+requires_status=cut39-1
 visible_when_locked=false
 
 [power]
 id=62139
 position=4,7
-visible_requires_status=cut40-1
+requires_status=cut40-1
 visible_when_locked=false
 
 [power]
 id=62140
 position=4,7
-visible_requires_status=cut41-1
+requires_status=cut41-1
 visible_when_locked=false
 
 [power]
 id=62141
 position=4,7
-visible_requires_status=cut42-1
+requires_status=cut42-1
 visible_when_locked=false
 
 [power]
 id=62142
 position=4,7
-visible_requires_status=cut43-1
+requires_status=cut43-1
 visible_when_locked=false
 
 [power]
 id=62143
 position=4,7
-visible_requires_status=cut44-1
+requires_status=cut44-1
 visible_when_locked=false
 
 [power]
 id=62144
 position=4,7
-visible_requires_status=cut45-1
+requires_status=cut45-1
 visible_when_locked=false
 
 [power]
 id=62145
 position=4,7
-visible_requires_status=cut46-1
+requires_status=cut46-1
 visible_when_locked=false
 
 [power]
 id=62146
 position=4,7
-visible_requires_status=cut47-1
+requires_status=cut47-1
 visible_when_locked=false
 
 [power]
 id=62147
 position=4,7
-visible_requires_status=cut48-1
+requires_status=cut48-1
 visible_when_locked=false
 
 [power]
 id=62148
 position=4,7
-visible_requires_status=cut49-1
+requires_status=cut49-1
 visible_when_locked=false
 
 [power]
 id=62149
 position=4,7
-visible_requires_status=cut50-1
+requires_status=cut50-1
 visible_when_locked=false
 
 [power]
 id=62150
 position=4,7
-visible_requires_status=cut51-1
+requires_status=cut51-1
 visible_when_locked=false
 
 [power]
 id=62151
 position=4,7
-visible_requires_status=cut52-1
+requires_status=cut52-1
 visible_when_locked=false
 
 [power]
 id=62152
 position=4,7
-visible_requires_status=cut53-1
+requires_status=cut53-1
 visible_when_locked=false
 
 [power]
 id=62153
 position=4,7
-visible_requires_status=cut54-1
+requires_status=cut54-1
 visible_when_locked=false
 
 [power]
 id=62154
 position=4,7
-visible_requires_status=cut55-1
+requires_status=cut55-1
 visible_when_locked=false
 
 [power]
 id=62155
 position=4,7
-visible_requires_status=cut56-1
+requires_status=cut56-1
 visible_when_locked=false
 
 [power]
 id=62156
 position=4,7
-visible_requires_status=cut57-1
+requires_status=cut57-1
 visible_when_locked=false
 
 [power]
 id=62157
 position=4,7
-visible_requires_status=cut58-1
+requires_status=cut58-1
 visible_when_locked=false
 
 [power]
 id=62158
 position=4,7
-visible_requires_status=cut59-1
+requires_status=cut59-1
 visible_when_locked=false
 
 [power]
 id=62159
 position=4,7
-visible_requires_status=cut60-1
+requires_status=cut60-1
 visible_when_locked=false
 
 [power]
 id=62160
 position=4,7
-visible_requires_status=cut61-1
+requires_status=cut61-1
 visible_when_locked=false
 
 [power]
 id=62161
 position=4,7
-visible_requires_status=cut62-1
+requires_status=cut62-1
 visible_when_locked=false
 
 [power]
 id=62162
 position=4,7
-visible_requires_status=cut63-1
+requires_status=cut63-1
 visible_when_locked=false
 
 [power]
 id=62163
 position=4,7
-visible_requires_status=cut64-1
+requires_status=cut64-1
 visible_when_locked=false
 
 [power]
 id=62164
 position=4,7
-visible_requires_status=cut65-1
+requires_status=cut65-1
 visible_when_locked=false
 
 [power]
 id=62165
 position=4,7
-visible_requires_status=cut66-1
+requires_status=cut66-1
 visible_when_locked=false
 
 [power]
 id=62166
 position=4,7
-visible_requires_status=cut67-1
+requires_status=cut67-1
 visible_when_locked=false
 
 [power]
 id=62167
 position=4,7
-visible_requires_status=cut68-1
+requires_status=cut68-1
 visible_when_locked=false
 
 [power]
 id=62168
 position=4,7
-visible_requires_status=cut69-1
+requires_status=cut69-1
 visible_when_locked=false
 
 [power]
 id=62169
 position=4,7
-visible_requires_status=cut70-1
+requires_status=cut70-1
 visible_when_locked=false
 
 [power]
 id=62170
 position=4,7
-visible_requires_status=cut71-1
+requires_status=cut71-1
 visible_when_locked=false
 
 [power]
 id=62171
 position=4,7
-visible_requires_status=cut72-1
+requires_status=cut72-1
 visible_when_locked=false
 
 [power]
 id=62172
 position=4,7
-visible_requires_status=cut73-1
+requires_status=cut73-1
 visible_when_locked=false
 
 [power]
 id=62173
 position=4,7
-visible_requires_status=cut74-1
+requires_status=cut74-1
 visible_when_locked=false
 
 [power]
 id=62174
 position=4,7
-visible_requires_status=cut75-1
+requires_status=cut75-1
 visible_when_locked=false
 
 [power]
 id=62175
 position=4,7
-visible_requires_status=cut76-1
+requires_status=cut76-1
 visible_when_locked=false
 
 [power]
 id=62176
 position=4,7
-visible_requires_status=cut77-1
+requires_status=cut77-1
 visible_when_locked=false
 
 [power]
 id=62177
 position=4,7
-visible_requires_status=cut78-1
+requires_status=cut78-1
 visible_when_locked=false
 
 [power]
 id=62178
 position=4,7
-visible_requires_status=cut79-1
+requires_status=cut79-1
 visible_when_locked=false
 
 [power]
 id=62179
 position=4,7
-visible_requires_status=cut80-1
+requires_status=cut80-1
 visible_when_locked=false
 
 [power]
 id=62180
 position=4,7
-visible_requires_status=cut81-1
+requires_status=cut81-1
 visible_when_locked=false
 
 [power]
 id=62181
 position=4,7
-visible_requires_status=cut82-1
+requires_status=cut82-1
 visible_when_locked=false
 
 [power]
 id=62182
 position=4,7
-visible_requires_status=cut83-1
+requires_status=cut83-1
 visible_when_locked=false
 
 [power]
 id=62183
 position=4,7
-visible_requires_status=cut84-1
+requires_status=cut84-1
 visible_when_locked=false
 
 [power]
 id=62184
 position=4,7
-visible_requires_status=cut85-1
+requires_status=cut85-1
 visible_when_locked=false
 
 [power]
 id=62185
 position=4,7
-visible_requires_status=cut86-1
+requires_status=cut86-1
 visible_when_locked=false
 
 [power]
 id=62186
 position=4,7
-visible_requires_status=cut87-1
+requires_status=cut87-1
 visible_when_locked=false
 
 [power]
 id=62187
 position=4,7
-visible_requires_status=cut88-1
+requires_status=cut88-1
 visible_when_locked=false
 
 [power]
 id=62188
 position=4,7
-visible_requires_status=cut89-1
+requires_status=cut89-1
 visible_when_locked=false
 
 [power]
 id=62189
 position=4,7
-visible_requires_status=cut90-1
+requires_status=cut90-1
 visible_when_locked=false
 
 [power]
 id=62190
 position=4,7
-visible_requires_status=cut91-1
+requires_status=cut91-1
 visible_when_locked=false
 
 [power]
 id=62191
 position=4,7
-visible_requires_status=cut92-1
+requires_status=cut92-1
 visible_when_locked=false
 
 [power]
 id=62192
 position=4,7
-visible_requires_status=cut93-1
+requires_status=cut93-1
 visible_when_locked=false
 
 [power]
 id=62193
 position=4,7
-visible_requires_status=cut94-1
+requires_status=cut94-1
 visible_when_locked=false
 
 [power]
 id=62194
 position=4,7
-visible_requires_status=cut95-1
+requires_status=cut95-1
 visible_when_locked=false
 
 [power]
 id=62195
 position=4,7
-visible_requires_status=cut96-1
+requires_status=cut96-1
 visible_when_locked=false
 
 [power]
 id=62196
 position=4,7
-visible_requires_status=cut97-1
+requires_status=cut97-1
 visible_when_locked=false
 
 [power]
 id=62197
 position=4,7
-visible_requires_status=cut98-1
+requires_status=cut98-1
 visible_when_locked=false
 
 [power]
 id=62198
 position=4,7
-visible_requires_status=cut99-1
+requires_status=cut99-1
 visible_when_locked=false
 
 [power]
 id=62199
 position=4,7
-visible_requires_status=cut100-1
+requires_status=cut100-1
 visible_when_locked=false
 
 #----------------------------------- foraging level

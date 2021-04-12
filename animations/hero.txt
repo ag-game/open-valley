@@ -4,7 +4,7 @@
 # must meet the same frames, durations, types
 
 [stance]
-frames=1
+frames=2
 duration=33ms
 type=back_forth
 

@@ -38,6 +38,6 @@ label_primary=defense,120,136,left,center
 
 unspent=160,396,center,top
 
-show_resist=false
+#show_resist=false
 show_stat=false
 
