@@ -1,12 +1,12 @@
 name=Rock
 level=1
-categories=rock50,rock
+categories=rock83,rock
 rarity=common
 xp=0
 
-defeat_status=rock50
+defeat_status=rock83
 
-animations=animations/rocks/small1.txt
+animations=animations/rocks/small2.txt
 
 suppress_hp=true
 

@@ -1,5 +1,5 @@
 
-Alpha 0.06
+Alpha 0.07
 
 * Removed the experience bar, which will be inserted in the skill menu, together with the other bars
 * created and add 100 trees and stumps, cuttable, to the farm map
@@ -8,11 +8,13 @@ Alpha 0.06
 * added tabs, in the skill menu (for now they are only for testing)
 * added images of logs and rocks breakable by the player
 * added a file with the list of future NPCs
-* added the pickaxe and 40/100 rocks breakable with the pickaxe
+* added the pickaxe and 100 rocks breakable with the pickaxe
 * added the zip file of the currently used version of the engine, so you have everything in one place
 * fixed the bug of the skill bars, with the new version of the engine
 * added a single icon for the mouse cursor to fix a bug in the engine that did not make it "change" when a menu was open
 * completed the bar of the first skill (foraging)
+* created 34/99 trunks for the farm map
+* added 1/99 trunks breakable with the axe
 
 ............................................
 

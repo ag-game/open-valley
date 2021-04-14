@@ -15,10 +15,10 @@ tileset=../images/tilesheets/LPC-spring-outdoor.png,32,32,0,0
 [layer]
 type=background
 data=
-536,-1610611744,674,991,404,1684,671,670,1746,671,670,1746,1748,1233,1233,1233,1233,1745,1746,1746,1746,992,1060,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,992,992,1302,1306,1304,992,536,536,536,536,536,536,536,536,601,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,
-536,-1610611744,1610613793,404,1684,1748,735,734,1810,735,734,1810,1296,1189,1190,1190,1191,1169,1810,113,1810,992,992,536,536,536,536,536,536,536,536,536,536,536,536,601,536,536,536,536,536,536,536,992,992,1302,1306,1304,1610613793,536,536,536,535,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,601,536,536,536,536,536,536,536,536,535,
-536,994,404,1684,1748,1296,1127,1127,1127,1127,1127,1127,1189,729,418,418,728,1190,1191,177,1240,992,992,536,536,536,601,996,992,992,536,536,536,536,536,536,536,536,536,536,536,536,536,-1610611679,674,1302,1306,1304,992,992,536,536,536,536,536,536,536,536,536,536,601,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,
-535,991,404,1748,992,1296,1189,1190,1190,1190,1191,1189,729,418,418,524,482,418,1255,1298,1304,674,992,1060,992,536,992,992,992,1060,536,535,536,536,536,536,536,536,535,536,535,992,992,992,991,1302,1306,1304,992,992,536,536,536,536,536,536,536,536,535,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,601,536,
+536,-1610611744,674,991,404,1684,468,468,468,468,468,468,1748,1233,1233,1233,1233,1745,1746,1746,1746,992,1060,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,992,992,1302,1306,1304,992,536,536,536,536,536,536,536,536,601,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,
+536,-1610611744,1610613793,404,1684,1748,532,532,532,532,532,532,1296,1189,1190,1190,1191,1169,1810,113,1810,992,992,536,536,536,536,536,536,536,536,536,536,536,536,601,536,536,536,536,536,536,536,992,992,1302,1306,1304,1610613793,536,536,536,535,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,601,536,536,536,536,536,536,536,536,535,
+536,994,404,1684,1748,1296,1189,1190,1190,1190,1191,1127,1189,729,418,418,728,1190,1191,177,1240,992,992,536,536,536,601,996,992,992,536,536,536,536,536,536,536,536,536,536,536,536,536,-1610611679,674,1302,1306,1304,992,992,536,536,536,536,536,536,536,536,536,536,601,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,
+535,991,404,1748,992,1296,1253,546,546,546,1255,1189,729,418,418,524,482,418,1255,1298,1304,674,992,1060,992,536,992,992,992,1060,536,535,536,536,536,536,536,536,535,536,535,992,992,992,991,1302,1306,1304,992,992,536,536,536,536,536,536,536,536,535,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,536,601,536,
 536,-1610611744,404,992,992,1296,1317,665,546,664,1319,1253,418,648,34,98,34,418,1255,1298,1304,992,992,992,992,992,991,992,674,992,992,992,-1610611679,992,992,992,1060,992,992,992,992,992,992,992,992,1302,1306,1304,992,992,536,536,536,536,601,536,536,992,992,992,992,992,536,536,536,536,536,536,536,536,535,536,536,536,536,536,535,535,536,536,
 536,1060,404,994,992,1360,1106,1253,546,728,1190,729,34,34,34,34,34,664,1319,1298,1304,992,992,992,992,994,992,992,994,992,992,992,992,992,992,992,992,992,992,994,992,992,992,992,992,1302,1306,1304,992,992,992,992,992,994,992,991,992,992,992,992,992,992,992,994,992,992,992,992,992,992,992,992,992,992,536,1610613793,992,992,536,536,
 601,-1610611744,404,1060,992,1232,1170,1253,664,665,546,546,34,34,98,34,34,1255,1105,1362,1175,1240,-1610611679,992,991,992,992,992,992,992,674,992,1060,992,992,992,994,992,992,992,992,992,992,-1610611679,992,1302,1306,1304,992,674,992,1060,992,992,992,992,992,992,992,674,1610613793,992,992,992,992,991,992,1060,992,992,992,992,992,992,992,992,674,992,536,536,
@@ -155,7 +155,7 @@ type=level 2
 data=
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,801,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 883,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,799,1875,0,1875,798,988,737,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,596,596,596,596,596,988,737,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -224,8 +224,8 @@ type=level 3
 data=
 0,409,0,0,675,932,0,0,0,0,0,673,466,1812,1875,1875,1809,0,48,49,50,1685,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1908,1979,1908,1979,801,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,712,0,0,0,0,0,0,0,0,0,0,0,0,800,0,0,
 0,409,0,675,609,0,672,0,736,0,673,0,1812,1876,0,0,1808,1809,112,0,114,1749,0,0,712,800,0,0,0,0,0,0,0,0,0,0,709,0,0,0,0,709,0,0,1908,1979,1908,1979,0,0,0,0,0,0,0,0,0,0,0,0,0,709,0,0,0,0,0,0,0,0,0,800,0,0,0,0,0,0,0,0,
-0,409,989,609,0,1812,0,798,1875,799,0,1875,1876,0,0,0,0,1873,1874,0,1874,1813,0,0,0,0,0,0,0,801,0,0,0,0,0,0,0,0,0,800,0,0,0,0,1908,1979,1908,1979,712,0,0,0,0,0,801,0,709,0,800,0,0,0,801,0,0,0,0,0,0,0,0,0,0,712,0,0,0,0,0,0,
-0,409,545,1621,1812,1813,1873,594,0,1873,594,0,0,0,0,418,0,0,0,1305,873,0,709,0,0,0,0,0,0,0,0,0,712,0,0,0,0,0,0,0,0,0,0,0,1908,1979,1908,1979,0,0,0,0,0,0,0,0,0,0,0,712,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,801,0,0,712,
+0,409,989,609,0,1812,0,0,0,0,0,596,1876,0,0,0,0,1873,1874,0,1874,1813,0,0,0,0,0,0,0,801,0,0,0,0,0,0,0,0,0,800,0,0,0,0,1908,1979,1908,1979,712,0,0,0,0,0,801,0,709,0,800,0,0,0,801,0,0,0,0,0,0,0,0,0,0,712,0,0,0,0,0,0,
+0,409,545,1621,1812,1813,0,0,0,0,0,0,0,0,0,418,0,0,0,1305,873,0,709,0,0,0,0,0,0,0,0,0,712,0,0,0,0,0,0,0,0,0,0,0,1908,1979,1908,1979,0,0,0,0,0,0,0,0,0,0,0,712,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,801,0,0,712,
 0,409,545,1812,1813,0,0,0,0,0,0,0,0,418,2021,2022,2023,0,0,1305,873,0,801,0,0,0,0,0,0,709,0,0,0,0,0,801,0,0,0,0,712,0,709,0,1908,1979,1908,1979,0,800,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,801,0,0,0,0,800,0,0,0,0,0,0,0,
 0,409,545,405,0,0,0,0,0,0,0,0,2021,2022,1959,2086,2087,0,0,1305,873,0,0,0,0,0,800,0,0,0,0,0,0,800,0,0,0,709,0,0,0,0,0,0,1908,1979,1908,1979,0,0,0,712,0,0,0,0,801,0,0,0,800,0,0,0,0,0,0,0,0,801,0,0,0,0,0,0,0,0,0,0,
 0,409,868,402,0,0,0,0,0,0,0,0,2149,2150,1895,1894,2151,0,1241,1179,872,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,801,0,1908,1979,1908,1979,0,0,0,0,0,0,0,709,0,0,0,0,0,0,0,0,0,0,0,1841,712,0,0,0,0,0,0,0,0,801,0,0,
@@ -3132,8 +3132,8 @@ type=event
 location=19,9,1,1
 activate=on_interact
 hotspot=location
-set_status=dig1
 requires_item=3
+set_status=dig1
 
 [event]
 # dig1
@@ -3150,8 +3150,8 @@ type=event
 location=20,9,1,1
 activate=on_interact
 hotspot=location
-set_status=dig2
 requires_item=3
+set_status=dig2
 
 [event]
 # dig2
@@ -3161,4 +3161,492 @@ activate=on_load
 hotspot=location
 mapmod=level 1,20,9,1558
 requires_status=dig2
+
+[event]
+# rock41
+type=event
+location=16,17,1,1
+activate=on_load
+requires_not_status=rock41
+spawn=rock41,16,17
+
+[event]
+# rock42
+type=event
+location=16,28,1,1
+activate=on_load
+requires_not_status=rock42
+spawn=rock42,16,28
+
+[event]
+# rock43
+type=event
+location=22,28,1,1
+activate=on_load
+requires_not_status=rock43
+spawn=rock43,22,28
+
+[event]
+# rock44
+type=event
+location=23,35,1,1
+activate=on_load
+requires_not_status=rock44
+spawn=rock44,23,35
+
+[event]
+# rock45
+type=event
+location=24,48,1,1
+activate=on_load
+requires_not_status=rock45
+spawn=rock45,24,48
+
+[event]
+# rock46
+type=event
+location=16,53,1,1
+activate=on_load
+requires_not_status=rock46
+spawn=rock46,16,53
+
+[event]
+# rock47
+type=event
+location=25,55,1,1
+activate=on_load
+requires_not_status=rock47
+spawn=rock47,25,55
+
+[event]
+# rock48
+type=event
+location=30,48,1,1
+activate=on_load
+requires_not_status=rock48
+spawn=rock48,30,48
+
+[event]
+# rock49
+type=event
+location=38,49,1,1
+activate=on_load
+requires_not_status=rock49
+spawn=rock49,38,49
+
+[event]
+# rock50
+type=event
+location=51,51,1,1
+activate=on_load
+requires_not_status=rock50
+spawn=rock50,51,51
+
+[event]
+# rock51
+type=event
+location=63,56,1,1
+activate=on_load
+requires_not_status=rock51
+spawn=rock51,63,56
+
+[event]
+# rock52
+type=event
+location=63,50,1,1
+activate=on_load
+requires_not_status=rock52
+spawn=rock52,63,50
+
+[event]
+# rock53
+type=event
+location=70,48,1,1
+activate=on_load
+requires_not_status=rock53
+spawn=rock53,70,48
+
+[event]
+# rock54
+type=event
+location=59,43,1,1
+activate=on_load
+requires_not_status=rock54
+spawn=rock54,59,43
+
+[event]
+# rock55
+type=event
+location=50,38,1,1
+activate=on_load
+requires_not_status=rock55
+spawn=rock55,50,38
+
+[event]
+# rock56
+type=event
+location=65,33,1,1
+activate=on_load
+requires_not_status=rock56
+spawn=rock56,65,33
+
+[event]
+# rock57
+type=event
+location=71,29,1,1
+activate=on_load
+requires_not_status=rock57
+spawn=rock57,71,29
+
+[event]
+# rock58
+type=event
+location=64,28,1,1
+activate=on_load
+requires_not_status=rock58
+spawn=rock58,64,28
+
+[event]
+# rock59
+type=event
+location=56,13,1,1
+activate=on_load
+requires_not_status=rock59
+spawn=rock59,56,13
+
+[event]
+# rock60
+type=event
+location=51,29,1,1
+activate=on_load
+requires_not_status=rock60
+spawn=rock60,51,29
+
+[event]
+# rock61
+type=event
+location=50,24,1,1
+activate=on_load
+requires_not_status=rock61
+spawn=rock61,50,24
+
+[event]
+# rock62
+type=event
+location=56,52,1,1
+activate=on_load
+requires_not_status=rock62
+spawn=rock62,56,52
+
+[event]
+# rock63
+type=event
+location=58,52,1,1
+activate=on_load
+requires_not_status=rock63
+spawn=rock63,58,52
+
+[event]
+# rock64
+type=event
+location=57,53,1,1
+activate=on_load
+requires_not_status=rock64
+spawn=rock64,57,53
+
+[event]
+# rock65
+type=event
+location=57,58,1,1
+activate=on_load
+requires_not_status=rock65
+spawn=rock65,57,58
+
+[event]
+# rock66
+type=event
+location=49,46,1,1
+activate=on_load
+requires_not_status=rock66
+spawn=rock66,49,46
+
+[event]
+# rock67
+type=event
+location=72,50,1,1
+activate=on_load
+requires_not_status=rock67
+spawn=rock67,72,50
+
+[event]
+# rock68
+type=event
+location=60,36,1,1
+activate=on_load
+requires_not_status=rock68
+spawn=rock68,60,36
+
+[event]
+# rock69
+type=event
+location=55,35,1,1
+activate=on_load
+requires_not_status=rock69
+spawn=rock69,55,35
+
+[event]
+# rock70
+type=event
+location=54,30,1,1
+activate=on_load
+requires_not_status=rock70
+spawn=rock70,54,30
+
+[event]
+# rock71
+type=event
+location=56,26,1,1
+activate=on_load
+requires_not_status=rock71
+spawn=rock71,56,26
+
+[event]
+# rock72
+type=event
+location=69,22,1,1
+activate=on_load
+requires_not_status=rock72
+spawn=rock72,69,22
+
+[event]
+# rock73
+type=event
+location=50,14,1,1
+activate=on_load
+requires_not_status=rock73
+spawn=rock73,50,14
+
+[event]
+# rock74
+type=event
+location=37,25,1,1
+activate=on_load
+requires_not_status=rock74
+spawn=rock74,37,25
+
+[event]
+# rock75
+type=event
+location=35,17,1,1
+activate=on_load
+requires_not_status=rock75
+spawn=rock75,35,17
+
+[event]
+# rock76
+type=event
+location=32,13,1,1
+activate=on_load
+requires_not_status=rock76
+spawn=rock76,32,13
+
+[event]
+# rock77
+type=event
+location=24,10,1,1
+activate=on_load
+requires_not_status=rock77
+spawn=rock77,24,10
+
+[event]
+# rock78
+type=event
+location=22,15,1,1
+activate=on_load
+requires_not_status=rock78
+spawn=rock78,22,15
+
+[event]
+# rock79
+type=event
+location=21,21,1,1
+activate=on_load
+requires_not_status=rock79
+spawn=rock79,21,21
+
+[event]
+# rock80
+type=event
+location=12,17,1,1
+activate=on_load
+requires_not_status=rock80
+spawn=rock80,12,17
+
+[event]
+# rock81
+type=event
+location=13,24,1,1
+activate=on_load
+requires_not_status=rock81
+spawn=rock81,13,24
+
+[event]
+# rock82
+type=event
+location=9,29,1,1
+activate=on_load
+requires_not_status=rock82
+spawn=rock82,9,29
+
+[event]
+# rock83
+type=event
+location=12,35,1,1
+activate=on_load
+requires_not_status=rock83
+spawn=rock83,12,35
+
+[event]
+# rock84
+type=event
+location=13,37,1,1
+activate=on_load
+requires_not_status=rock84
+spawn=rock84,13,37
+
+[event]
+# rock85
+type=event
+location=12,39,1,1
+activate=on_load
+requires_not_status=rock85
+spawn=rock85,12,39
+
+[event]
+# rock86
+type=event
+location=13,44,1,1
+activate=on_load
+requires_not_status=rock86
+spawn=rock86,13,44
+
+[event]
+# rock87
+type=event
+location=22,51,1,1
+activate=on_load
+requires_not_status=rock87
+spawn=rock87,22,51
+
+[event]
+# rock88
+type=event
+location=33,56,1,1
+activate=on_load
+requires_not_status=rock88
+spawn=rock88,33,56
+
+[event]
+# rock89
+type=event
+location=36,57,1,1
+activate=on_load
+requires_not_status=rock89
+spawn=rock89,36,57
+
+[event]
+# rock90
+type=event
+location=39,58,1,1
+activate=on_load
+requires_not_status=rock90
+spawn=rock90,39,58
+
+[event]
+# rock91
+type=event
+location=44,58,1,1
+activate=on_load
+requires_not_status=rock91
+spawn=rock91,44,58
+
+[event]
+# rock92
+type=event
+location=39,53,1,1
+activate=on_load
+requires_not_status=rock92
+spawn=rock92,39,53
+
+[event]
+# rock93
+type=event
+location=42,49,1,1
+activate=on_load
+requires_not_status=rock93
+spawn=rock93,42,49
+
+[event]
+# rock94
+type=event
+location=27,56,1,1
+activate=on_load
+requires_not_status=rock94
+spawn=rock94,27,56
+
+[event]
+# rock95
+type=event
+location=26,49,1,1
+activate=on_load
+requires_not_status=rock95
+spawn=rock95,26,49
+
+[event]
+# rock96
+type=event
+location=27,38,1,1
+activate=on_load
+requires_not_status=rock96
+spawn=rock96,27,38
+
+[event]
+# rock97
+type=event
+location=36,41,1,1
+activate=on_load
+requires_not_status=rock97
+spawn=rock97,36,41
+
+[event]
+# rock98
+type=event
+location=43,44,1,1
+activate=on_load
+requires_not_status=rock98
+spawn=rock98,43,44
+
+[event]
+# rock99
+type=event
+location=42,34,1,1
+activate=on_load
+requires_not_status=rock99
+spawn=rock99,42,34
+
+[event]
+# rock100
+type=event
+location=44,21,1,1
+activate=on_load
+requires_not_status=rock100
+spawn=rock100,44,21
+
+[event]
+# trunk1
+type=event
+location=8,15,1,1
+activate=on_load
+requires_not_status=trunk1
+spawn=trunk1,8,15
 

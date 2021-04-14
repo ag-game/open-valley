@@ -1,16 +1,16 @@
-name=Rock
+name=Trunk
 level=1
-categories=rock50,rock
+categories=trunk3,tree
 rarity=common
 xp=0
 
-defeat_status=rock50
+defeat_status=trunk3
 
-animations=animations/rocks/small1.txt
+animations=animations/trees/trunk1.txt
 
 suppress_hp=true
 
-loot=loot/rock-stone.txt
+loot=loot/trunk-woods.txt
 
 # combat stats
 stat=hp,1
