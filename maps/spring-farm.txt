@@ -4042,3 +4042,291 @@ activate=on_load
 requires_not_status=trunk50
 spawn=trunk50,24,21
 
+[event]
+# trunk51
+type=event
+location=50,46,1,1
+activate=on_load
+requires_not_status=trunk51
+spawn=trunk51,50,46
+
+[event]
+# trunk52
+type=event
+location=53,39,1,1
+activate=on_load
+requires_not_status=trunk52
+spawn=trunk52,53,39
+
+[event]
+# trunk53
+type=event
+location=67,35,1,1
+activate=on_load
+requires_not_status=trunk53
+spawn=trunk53,67,35
+
+[event]
+# trunk54
+type=event
+location=69,39,1,1
+activate=on_load
+requires_not_status=trunk54
+spawn=trunk54,69,39
+
+[event]
+# trunk55
+type=event
+location=50,34,1,1
+activate=on_load
+requires_not_status=trunk55
+spawn=trunk55,50,34
+
+[event]
+# trunk56
+type=event
+location=45,51,1,1
+activate=on_load
+requires_not_status=trunk56
+spawn=trunk56,45,51
+
+[event]
+# trunk57
+type=event
+location=29,56,1,1
+activate=on_load
+requires_not_status=trunk57
+spawn=trunk57,29,56
+
+[event]
+# trunk58
+type=event
+location=19,51,1,1
+activate=on_load
+requires_not_status=trunk58
+spawn=trunk58,19,51
+
+[event]
+# trunk59
+type=event
+location=20,43,1,1
+activate=on_load
+requires_not_status=trunk59
+spawn=trunk59,20,43
+
+[event]
+# trunk60
+type=event
+location=20,35,1,1
+activate=on_load
+requires_not_status=trunk60
+spawn=trunk60,20,35
+
+[event]
+# trunk61
+type=event
+location=12,26,1,1
+activate=on_load
+requires_not_status=trunk61
+spawn=trunk61,12,26
+
+[event]
+# trunk62
+type=event
+location=34,28,1,1
+activate=on_load
+requires_not_status=trunk62
+spawn=trunk62,34,28
+
+[event]
+# trunk63
+type=event
+location=30,29,1,1
+activate=on_load
+requires_not_status=trunk63
+spawn=trunk63,30,29
+
+[event]
+# trunk64
+type=event
+location=42,22,1,1
+activate=on_load
+requires_not_status=trunk64
+spawn=trunk64,42,22
+
+[event]
+# trunk65
+type=event
+location=33,23,1,1
+activate=on_load
+requires_not_status=trunk65
+spawn=trunk65,33,23
+
+[event]
+# trunk66
+type=event
+location=16,22,1,1
+activate=on_load
+requires_not_status=trunk66
+spawn=trunk66,16,22
+
+[event]
+# trunk67
+type=event
+location=48,17,1,1
+activate=on_load
+requires_not_status=trunk67
+spawn=trunk67,48,17
+
+[event]
+# trunk68
+type=event
+location=61,13,1,1
+activate=on_load
+requires_not_status=trunk68
+spawn=trunk68,61,13
+
+[event]
+# trunk69
+type=event
+location=73,13,1,1
+activate=on_load
+requires_not_status=trunk69
+spawn=trunk69,73,13
+
+[event]
+# trunk70
+type=event
+location=73,24,1,1
+activate=on_load
+requires_not_status=trunk70
+spawn=trunk70,73,24
+
+[event]
+# trunk71
+type=event
+location=70,30,1,1
+activate=on_load
+requires_not_status=trunk71
+spawn=trunk71,70,30
+
+[event]
+# trunk72
+type=event
+location=58,21,1,1
+activate=on_load
+requires_not_status=trunk72
+spawn=trunk72,58,21
+
+[event]
+# trunk73
+type=event
+location=55,15,1,1
+activate=on_load
+requires_not_status=trunk73
+spawn=trunk73,55,15
+
+[event]
+# trunk74
+type=event
+location=48,52,1,1
+activate=on_load
+requires_not_status=trunk74
+spawn=trunk74,48,52
+
+[event]
+# trunk75
+type=event
+location=49,59,1,1
+activate=on_load
+requires_not_status=trunk75
+spawn=trunk75,49,59
+
+[event]
+# trunk76
+type=event
+location=63,58,1,1
+activate=on_load
+requires_not_status=trunk76
+spawn=trunk76,63,58
+
+[event]
+# trunk77
+type=event
+location=63,52,1,1
+activate=on_load
+requires_not_status=trunk77
+spawn=trunk77,63,52
+
+[event]
+# trunk78
+type=event
+location=38,41,1,1
+activate=on_load
+requires_not_status=trunk78
+spawn=trunk78,38,41
+
+[event]
+# trunk79
+type=event
+location=25,40,1,1
+activate=on_load
+requires_not_status=trunk79
+spawn=trunk79,25,40
+
+[event]
+# trunk80
+type=event
+location=33,32,1,1
+activate=on_load
+requires_not_status=trunk80
+spawn=trunk80,33,32
+
+[event]
+# trunk81
+type=event
+location=46,26,1,1
+activate=on_load
+requires_not_status=trunk81
+spawn=trunk81,46,26
+
+[event]
+# trunk82
+type=event
+location=38,25,1,1
+activate=on_load
+requires_not_status=trunk82
+spawn=trunk82,38,25
+
+[event]
+# trunk83
+type=event
+location=56,35,1,1
+activate=on_load
+requires_not_status=trunk83
+spawn=trunk83,56,35
+
+[event]
+# trunk84
+type=event
+location=64,35,1,1
+activate=on_load
+requires_not_status=trunk84
+spawn=trunk84,64,35
+
+[event]
+# trunk85
+type=event
+location=53,52,1,1
+activate=on_load
+requires_not_status=trunk85
+spawn=trunk85,53,52
+
+[event]
+# trunk86
+type=event
+location=33,36,1,1
+activate=on_load
+requires_not_status=trunk86
+spawn=trunk86,33,36
+
