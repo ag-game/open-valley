@@ -13,7 +13,8 @@ Alpha 0.07
 * fixed the bug of the skill bars, with the new version of the engine
 * added a single icon for the mouse cursor to fix a bug in the engine that did not make it "change" when a menu was open
 * completed the bar of the first skill (foraging)
-* added 86/99 trunks breakable with the axe
+* added all the trunks breakable with the axe
+* started to place the grass
 
 ............................................
 
