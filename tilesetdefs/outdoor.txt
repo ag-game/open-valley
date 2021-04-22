@@ -1,4 +1,4 @@
-img=images/tilesheets/LPC-spring-outdoor.png
+img=images/tilesheets/LPC-outdoor.png
 
 # animation
 # animation=tilenumber;X,Y,duration;X,Y,duration (etc)

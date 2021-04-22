@@ -146,7 +146,7 @@ type=event
 location=6,12,1,1
 activate=on_trigger
 hotspot=location
-intermap=maps/spring-farm.txt,10,12,0,0
+intermap=maps/farm.txt,10,12,0,0
 requires_class=Standard
 show_on_minimap=false
 

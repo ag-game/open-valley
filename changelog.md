@@ -15,6 +15,8 @@ Alpha 0.07
 * completed the bar of the first skill (foraging)
 * added all the trunks breakable with the axe
 * started to place the grass
+* created 10 additional layers, in the map, under the character, to be able to arrange the edges of the grass properly
+* removed the season in the name of the maps because I will try to put all the seasons in a single map, instead of making 4 identical ones, one per season
 
 ............................................
 
