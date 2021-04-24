@@ -70,6 +70,27 @@ requires_flags=pickaxe
 target_categories=rock
 
 [power]
+id=13
+name=Scythe
+type=fixed
+icon=260
+new_state=instant
+requires_mp=2
+face=true
+use_hazard=true
+aim_assist=true
+base_damage=melee
+lifespan=1s
+speed=12
+radius=1.0
+starting_pos=melee
+animation=animations/powers/scythe.txt
+directional=false
+cooldown=1s
+requires_flags=scythe
+target_categories=tools
+
+[power]
 id=2
 #name=Slime Attack
 type=fixed

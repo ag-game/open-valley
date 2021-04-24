@@ -32,3 +32,6 @@ name=Pick
 [flag]
 id=can
 name=Can
+[flag]
+id=scythe
+name=Scythe

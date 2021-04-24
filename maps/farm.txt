@@ -4945,6 +4945,15 @@ mapmod=level 2,65,16,43;level 9,66,16,44;level 3,67,16,45;level 7,65,17,107;leve
 requires_not_status=grass3
 
 [event]
+# grass4
+type=event
+location=66,12,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,65,11,43;level 9,66,11,44;level 3,67,11,45;level 7,65,12,107;level 10,66,12,108;level 8,67,12,109;level 4,65,13,171;level 6,66,13,172;level 5,67,13,173
+requires_not_status=grass4
+
+[event]
 # grass5
 type=event
 location=67,17,1,1
@@ -4970,6 +4979,15 @@ activate=on_load
 hotspot=location
 mapmod=level 2,65,13,43;level 9,66,13,44;level 3,67,13,45;level 7,65,14,107;level 10,66,14,108;level 8,67,14,109;level 4,65,15,171;level 6,66,15,172;level 5,67,15,173
 requires_not_status=grass7
+
+[event]
+# grass8
+type=event
+location=67,12,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,66,11,43;level 9,67,11,44;level 3,68,11,45;level 7,66,12,107;level 10,67,12,108;level 8,68,12,109;level 4,66,13,171;level 6,67,13,172;level 5,68,13,173
+requires_not_status=grass8
 
 [event]
 # grass9
@@ -5033,4 +5051,49 @@ activate=on_load
 hotspot=location
 mapmod=level 2,63,14,43;level 9,64,14,44;level 3,65,14,45;level 7,63,15,107;level 10,64,15,108;level 8,65,15,109;level 4,63,16,171;level 6,64,16,172;level 5,65,16,173
 requires_not_status=grass15
+
+[event]
+# grass16
+type=event
+location=65,12,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,64,11,43;level 9,65,11,44;level 3,66,11,45;level 7,64,12,107;level 10,65,12,108;level 8,66,12,109;level 4,64,13,171;level 6,65,13,172;level 5,66,13,173
+requires_not_status=grass16
+
+[event]
+# grass17
+type=event
+location=64,12,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,63,11,43;level 9,64,11,44;level 3,65,11,45;level 7,63,12,107;level 10,64,12,108;level 8,65,12,109;level 4,63,13,171;level 6,64,13,172;level 5,65,13,173
+requires_not_status=grass17
+
+[event]
+# grass18
+type=event
+location=63,12,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,62,11,43;level 9,63,11,44;level 3,64,11,45;level 7,62,12,107;level 10,63,12,108;level 8,64,12,109;level 4,62,13,171;level 6,63,13,172;level 5,64,13,173
+requires_not_status=grass18
+
+[event]
+# grass18
+type=event
+location=63,12,1,1
+activate=on_interact
+hotspot=location
+requires_item=10
+set_status=grass18
+
+[event]
+# grass19
+type=event
+location=68,12,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,67,11,43;level 9,68,11,44;level 3,69,11,45;level 7,67,12,107;level 10,68,12,108;level 8,69,12,109;level 4,67,13,171;level 6,68,13,172;level 5,69,13,173
+requires_not_status=grass19
 

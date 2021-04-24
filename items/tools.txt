@@ -33,3 +33,15 @@ soundfx=soundfx/inventory/inventory_metal.ogg
 gfx=battle_axe
 loot_animation=animations/tools/pickaxe.txt
 dmg=melee,1,1
+
+[item]
+id=10
+name=Scythe
+quality=low
+item_type=tools
+equip_flags=scythe
+icon=260
+soundfx=soundfx/inventory/inventory_metal.ogg
+gfx=battle_axe
+loot_animation=animations/tools/pickaxe.txt
+dmg=melee,1,1
