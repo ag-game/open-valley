@@ -14,9 +14,9 @@ Alpha 0.07
 * added a single icon for the mouse cursor to fix a bug in the engine that did not make it "change" when a menu was open
 * completed the bar of the first skill (foraging)
 * added all the trunks breakable with the axe
-* started to place the grass
 * created 10 additional layers, in the map, under the character, to be able to arrange the edges of the grass properly
 * removed the season in the name of the maps because I will try to put all the seasons in a single map, instead of making 4 identical ones, one per season
+* added the first 21 tiles of cutable grass (without animation)
 
 ............................................
 
