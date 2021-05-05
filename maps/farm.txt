@@ -1175,7 +1175,6 @@ hotspot=location
 parallax_layers=maps/parallax/01.txt
 repeat=false
 requires_not_status=02:00
-requires_status=01:00
 
 [event]
 # change parallax 02
@@ -1186,7 +1185,6 @@ hotspot=location
 parallax_layers=maps/parallax/02.txt
 repeat=false
 requires_not_status=03:00
-requires_status=02:00
 
 [event]
 # change parallax 03
@@ -1197,7 +1195,6 @@ hotspot=location
 parallax_layers=maps/parallax/03.txt
 repeat=false
 requires_not_status=04:00
-requires_status=03:00
 
 [event]
 # change parallax 04
@@ -1208,7 +1205,6 @@ hotspot=location
 parallax_layers=maps/parallax/04.txt
 repeat=false
 requires_not_status=05:00
-requires_status=04:00
 
 [event]
 # change parallax 05
@@ -1219,7 +1215,6 @@ hotspot=location
 parallax_layers=maps/parallax/05.txt
 repeat=false
 requires_not_status=06:00
-requires_status=05:00
 
 [event]
 # change parallax 06
@@ -1230,7 +1225,6 @@ hotspot=location
 parallax_layers=maps/parallax/06.txt
 repeat=false
 requires_not_status=07:00
-requires_status=06:00
 
 [event]
 # change parallax 07
@@ -1241,7 +1235,6 @@ hotspot=location
 parallax_layers=maps/parallax/07.txt
 repeat=false
 requires_not_status=08:00
-requires_status=07:00
 
 [event]
 # change parallax 08
@@ -1252,7 +1245,6 @@ hotspot=location
 parallax_layers=maps/parallax/08.txt
 repeat=false
 requires_not_status=09:00
-requires_status=08:00
 
 [event]
 # change parallax 17
@@ -1262,7 +1254,6 @@ activate=static
 hotspot=location
 parallax_layers=maps/parallax/17.txt
 repeat=false
-requires_not_status=18:00
 requires_status=17:00
 
 [event]
@@ -1273,7 +1264,6 @@ activate=static
 hotspot=location
 parallax_layers=maps/parallax/18.txt
 repeat=false
-requires_not_status=19:00
 requires_status=18:00
 
 [event]
@@ -1284,7 +1274,6 @@ activate=static
 hotspot=location
 parallax_layers=maps/parallax/19.txt
 repeat=false
-requires_not_status=20:00
 requires_status=19:00
 
 [event]
@@ -1295,7 +1284,6 @@ activate=static
 hotspot=location
 parallax_layers=maps/parallax/20.txt
 repeat=false
-requires_not_status=21:00
 requires_status=20:00
 
 [event]
@@ -1306,7 +1294,6 @@ activate=static
 hotspot=location
 parallax_layers=maps/parallax/21.txt
 repeat=false
-requires_not_status=22:00
 requires_status=21:00
 
 [event]
@@ -1317,7 +1304,6 @@ activate=static
 hotspot=location
 parallax_layers=maps/parallax/22.txt
 repeat=false
-requires_not_status=23:00
 requires_status=22:00
 
 [event]
@@ -1328,7 +1314,6 @@ activate=static
 hotspot=location
 parallax_layers=maps/parallax/23.txt
 repeat=false
-requires_not_status=00:00
 requires_status=23:00
 
 [event]
@@ -1339,7 +1324,6 @@ activate=static
 hotspot=location
 parallax_layers=maps/parallax/24.txt
 repeat=false
-requires_not_status=01:00
 requires_status=00:00
 
 [event]
