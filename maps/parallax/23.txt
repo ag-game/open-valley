@@ -2,4 +2,4 @@
 image=images/parallax/daynight23.png
 speed=0.01
 fixed_speed=-0.0025,-0.005
-map_layer=day-night-parallax
+map_layer=parallax

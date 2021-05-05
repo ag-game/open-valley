@@ -18,6 +18,7 @@ Alpha 0.07
 * removed the season in the name of the maps because I will try to put all the seasons in a single map, instead of making 4 identical ones, one per season
 * added the first 36/72 tiles of cutable grass (without character animation)
 * changed the tile of the grass to be cut and animated (animation should be improved)
+* started adding snow, rain and fog, in the parallax that make day/night cycle
 
 ............................................
 
