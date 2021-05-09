@@ -102,67 +102,34 @@ data=
 type=event
 location=0,0,0,0
 activate=on_load
-delay=7s
+delay=2ms
 requires_not_status=block_clock
 set_status=block_clock
 
 [event]
-# clock
+# start clock
 type=event
 location=0,0,0,0
 activate=on_load
 requires_not_status=block_clock
-set_status=06:00
+set_status=h06
+set_status=m00
+set_status=AM
 
 [event]
-# 06:10
+# 06:00
 type=event
 location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_status=06:00
-set_status=06:10
-
-[event]
-# 06:20
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=06:10
-set_status=06:20
-
-[event]
-# 06:30
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=06:20
-set_status=06:30
-
-[event]
-# 06:40
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=06:30
-set_status=06:40
-
-[event]
-# 06:50
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=06:40
-set_status=06:50
+requires_not_status=h06,h07,h08,h09,h10,h11,h12,h01,h02,h03,h04
+requires_status=hours
+set_status=h06
+set_status=m00
+unset_status=h05
+unset_status=m50
+unset_status=hours
 
 [event]
 # 07:00
@@ -171,58 +138,13 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_status=06:50
-set_status=07:00
-
-[event]
-# 07:10
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=07:00
-set_status=07:10
-
-[event]
-# 07:20
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=07:10
-set_status=07:20
-
-[event]
-# 07:30
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=07:20
-set_status=07:30
-
-[event]
-# 07:40
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=07:30
-set_status=07:40
-
-[event]
-# 07:50
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=07:40
-set_status=07:50
+requires_not_status=h05,h07,h08,h09,h10,h11,h12,h01,h02,h03,h04
+requires_status=hours
+set_status=h07
+set_status=m00
+unset_status=h06
+unset_status=m50
+unset_status=hours
 
 [event]
 # 08:00
@@ -231,58 +153,13 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_status=07:50
-set_status=08:00
-
-[event]
-# 08:10
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=08:00
-set_status=08:10
-
-[event]
-# 08:20
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=08:10
-set_status=08:20
-
-[event]
-# 08:30
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=08:20
-set_status=08:30
-
-[event]
-# 08:40
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=08:30
-set_status=08:40
-
-[event]
-# 08:50
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=08:40
-set_status=08:50
+requires_not_status=h05,h06,h08,h09,h10,h11,h12,h01,h02,h03,h04
+requires_status=hours
+set_status=h08
+set_status=m00
+unset_status=h07
+unset_status=m50
+unset_status=hours
 
 [event]
 # 09:00
@@ -291,58 +168,13 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_status=08:50
-set_status=09:00
-
-[event]
-# 09:10
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=09:00
-set_status=09:10
-
-[event]
-# 09:20
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=09:10
-set_status=09:20
-
-[event]
-# 09:30
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=09:20
-set_status=09:30
-
-[event]
-# 09:40
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=09:30
-set_status=09:40
-
-[event]
-# 09:50
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=09:40
-set_status=09:50
+requires_not_status=h05,h06,h07,h09,h10,h11,h12,h01,h02,h03,h04
+requires_status=hours
+set_status=h09
+set_status=m00
+unset_status=h08
+unset_status=m50
+unset_status=hours
 
 [event]
 # 10:00
@@ -351,58 +183,13 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_status=09:50
-set_status=10:00
-
-[event]
-# 10:10
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=10:00
-set_status=10:10
-
-[event]
-# 10:20
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=10:10
-set_status=10:20
-
-[event]
-# 10:30
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=10:20
-set_status=10:30
-
-[event]
-# 10:40
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=10:30
-set_status=10:40
-
-[event]
-# 10:50
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=10:40
-set_status=10:50
+requires_not_status=h05,h06,h07,h08,h10,h11,h12,h01,h02,h03,h04
+requires_status=hours
+set_status=h10
+set_status=m00
+unset_status=h09
+unset_status=m50
+unset_status=hours
 
 [event]
 # 11:00
@@ -411,983 +198,47 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_status=10:50
-set_status=11:00
+requires_not_status=h05,h06,h07,h08,h09,h11,h12,h01,h02,h03,h04
+requires_status=hours
+set_status=h11
+set_status=m00
+unset_status=h10
+unset_status=m50
+unset_status=hours
 
 [event]
-# 11:10
+# 12:00 AM
 type=event
 location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_status=11:00
-set_status=11:10
+requires_not_status=h05,h06,h07,h08,h09,h10,h12,h01,h02,h03,h04,PM
+requires_status=hours
+set_status=h12
+set_status=m00
+set_status=PM
+unset_status=h11
+unset_status=m50
+unset_status=hours
+unset_status=AM
 
 [event]
-# 11:20
+# 12:00 PM
 type=event
 location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_status=11:10
-set_status=11:20
-
-[event]
-# 11:30
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=11:20
-set_status=11:30
-
-[event]
-# 11:40
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=11:30
-set_status=11:40
-
-[event]
-# 11:50
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=11:40
-set_status=11:50
-
-[event]
-# 12:00
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=11:50
-set_status=12:00
-
-[event]
-# 12:10
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=12:00
-set_status=12:10
-
-[event]
-# 12:20
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=12:10
-set_status=12:20
-
-[event]
-# 12:30
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=12:20
-set_status=12:30
-
-[event]
-# 12:40
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=12:30
-set_status=12:40
-
-[event]
-# 12:50
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=12:40
-set_status=12:50
-
-[event]
-# 13:00
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=12:50
-set_status=13:00
-
-[event]
-# 13:10
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=13:00
-set_status=13:10
-
-[event]
-# 13:20
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=13:10
-set_status=13:20
-
-[event]
-# 13:30
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=13:20
-set_status=13:30
-
-[event]
-# 13:40
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=13:30
-set_status=13:40
-
-[event]
-# 13:50
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=13:40
-set_status=13:50
-
-[event]
-# 14:00
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=13:50
-set_status=14:00
-
-[event]
-# 14:10
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=14:00
-set_status=14:10
-
-[event]
-# 14:20
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=14:10
-set_status=14:20
-
-[event]
-# 14:30
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=14:20
-set_status=14:30
-
-[event]
-# 14:40
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=14:30
-set_status=14:40
-
-[event]
-# 14:50
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=14:40
-set_status=14:50
-
-[event]
-# 15:00
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=14:50
-set_status=15:00
-
-[event]
-# 15:10
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=15:00
-set_status=15:10
-
-[event]
-# 15:20
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=15:10
-set_status=15:20
-
-[event]
-# 15:30
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=15:20
-set_status=15:30
-
-[event]
-# 15:40
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=15:30
-set_status=15:40
-
-[event]
-# 15:50
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=15:40
-set_status=15:50
-
-[event]
-# 16:00
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=15:50
-set_status=16:00
-
-[event]
-# 16:10
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=16:00
-set_status=16:10
-
-[event]
-# 16:20
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=16:10
-set_status=16:20
-
-[event]
-# 16:30
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=16:20
-set_status=16:30
-
-[event]
-# 16:40
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=16:30
-set_status=16:40
-
-[event]
-# 16:50
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=16:40
-set_status=16:50
-
-[event]
-# 17:00
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=16:50
-set_status=17:00
-
-[event]
-# 17:10
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=17:00
-set_status=17:10
-
-[event]
-# 17:20
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=17:10
-set_status=17:20
-
-[event]
-# 17:30
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=17:20
-set_status=17:30
-
-[event]
-# 17:40
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=17:30
-set_status=17:40
-
-[event]
-# 17:50
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=17:40
-set_status=17:50
-
-[event]
-# 18:00
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=17:50
-set_status=18:00
-
-[event]
-# 18:10
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=18:00
-set_status=18:10
-
-[event]
-# 18:20
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=18:10
-set_status=18:20
-
-[event]
-# 18:30
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=18:20
-set_status=18:30
-
-[event]
-# 18:40
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=18:30
-set_status=18:40
-
-[event]
-# 18:50
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=18:40
-set_status=18:50
-
-[event]
-# 19:00
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=18:50
-set_status=19:00
-
-[event]
-# 19:10
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=19:00
-set_status=19:10
-
-[event]
-# 19:20
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=19:10
-set_status=19:20
-
-[event]
-# 19:30
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=19:20
-set_status=19:30
-
-[event]
-# 19:40
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=19:30
-set_status=19:40
-
-[event]
-# 19:50
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=19:40
-set_status=19:50
-
-[event]
-# 20:00
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=19:50
-set_status=20:00
-
-[event]
-# 20:10
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=20:00
-set_status=20:10
-
-[event]
-# 20:20
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=20:10
-set_status=20:20
-
-[event]
-# 20:30
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=20:20
-set_status=20:30
-
-[event]
-# 20:40
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=20:30
-set_status=20:40
-
-[event]
-# 20:50
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=20:40
-set_status=20:50
-
-[event]
-# 21:00
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=20:50
-set_status=21:00
-
-[event]
-# 21:10
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=21:00
-set_status=21:10
-
-[event]
-# 21:20
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=21:10
-set_status=21:20
-
-[event]
-# 21:30
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=21:20
-set_status=21:30
-
-[event]
-# 21:40
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=21:30
-set_status=21:40
-
-[event]
-# 21:50
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=21:40
-set_status=21:50
-
-[event]
-# 22:00
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=21:50
-set_status=22:00
-
-[event]
-# 22:10
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=22:00
-set_status=22:10
-
-[event]
-# 22:20
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=22:10
-set_status=22:20
-
-[event]
-# 22:30
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=22:20
-set_status=22:30
-
-[event]
-# 22:40
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=22:30
-set_status=22:40
-
-[event]
-# 22:50
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=22:40
-set_status=22:50
-
-[event]
-# 23:00
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=22:50
-set_status=23:00
-
-[event]
-# 23:10
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=23:00
-set_status=23:10
-
-[event]
-# 23:20
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=23:10
-set_status=23:20
-unset_status=23:10
-
-[event]
-# 23:30
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=23:20
-set_status=23:30
-
-[event]
-# 23:40
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=23:30
-set_status=23:40
-
-[event]
-# 23:50
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=23:40
-set_status=23:50
-
-[event]
-# 00:00
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=23:50
-set_status=00:00
-unset_status=00:10
-unset_status=00:20
-unset_status=00:30
-unset_status=00:40
-unset_status=00:50
-unset_status=01:00
-unset_status=01:10
-unset_status=01:20
-unset_status=01:30
-unset_status=01:40
-unset_status=01:50
-unset_status=02:00
-unset_status=02:10
-unset_status=02:20
-unset_status=02:30
-unset_status=02:40
-unset_status=02:50
-unset_status=03:00
-unset_status=03:10
-unset_status=03:20
-unset_status=03:30
-unset_status=03:40
-unset_status=03:50
-unset_status=04:00
-unset_status=04:10
-unset_status=04:20
-unset_status=04:30
-unset_status=04:40
-unset_status=04:50
-unset_status=05:00
-unset_status=05:10
-unset_status=05:20
-unset_status=05:30
-unset_status=05:40
-unset_status=05:50
-unset_status=06:00
-unset_status=06:10
-unset_status=06:20
-unset_status=06:30
-unset_status=06:40
-unset_status=06:50
-unset_status=07:00
-unset_status=07:10
-unset_status=07:20
-unset_status=07:30
-unset_status=07:40
-unset_status=07:50
-unset_status=08:00
-unset_status=08:10
-unset_status=08:20
-unset_status=08:30
-unset_status=08:40
-unset_status=08:50
-unset_status=09:00
-unset_status=09:10
-unset_status=09:20
-unset_status=09:30
-unset_status=09:40
-unset_status=09:50
-unset_status=10:00
-unset_status=10:10
-unset_status=10:20
-unset_status=10:30
-unset_status=10:40
-unset_status=10:50
-unset_status=11:00
-unset_status=11:10
-unset_status=11:20
-unset_status=11:30
-unset_status=11:40
-unset_status=11:50
-unset_status=12:00
-unset_status=12:10
-unset_status=12:20
-unset_status=12:30
-unset_status=12:40
-unset_status=12:50
-unset_status=13:00
-unset_status=13:10
-unset_status=13:20
-unset_status=13:30
-unset_status=13:40
-unset_status=13:50
-unset_status=14:00
-unset_status=14:10
-unset_status=14:20
-unset_status=14:30
-unset_status=14:40
-unset_status=14:50
-unset_status=15:00
-unset_status=15:10
-unset_status=15:20
-unset_status=15:30
-unset_status=15:40
-unset_status=15:50
-unset_status=15:00
-unset_status=16:00
-unset_status=16:10
-unset_status=16:20
-unset_status=16:30
-unset_status=16:40
-unset_status=16:50
-unset_status=17:00
-unset_status=17:10
-unset_status=17:20
-unset_status=17:30
-unset_status=17:40
-unset_status=17:50
-unset_status=18:00
-unset_status=18:10
-unset_status=18:20
-unset_status=18:30
-unset_status=18:40
-unset_status=18:50
-unset_status=19:00
-unset_status=19:10
-unset_status=19:20
-unset_status=19:30
-unset_status=19:40
-unset_status=19:50
-unset_status=20:00
-unset_status=20:10
-unset_status=20:20
-unset_status=20:30
-unset_status=20:40
-unset_status=20:50
-unset_status=21:00
-unset_status=21:10
-unset_status=21:20
-unset_status=21:30
-unset_status=21:40
-unset_status=21:50
-unset_status=22:00
-unset_status=22:10
-unset_status=22:20
-unset_status=22:30
-unset_status=22:40
-unset_status=22:50
-unset_status=23:00
-unset_status=23:10
-unset_status=23:20
-unset_status=23:30
-unset_status=23:40
-unset_status=23:50
-
-[event]
-# 00:10
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=00:00
-set_status=new_day
-
-[event]
-# 00:20
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=00:10
-set_status=00:20
-
-[event]
-# 00:30
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=00:20
-set_status=00:30
-
-[event]
-# 00:40
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=00:30
-set_status=00:40
-
-[event]
-# 00:50
-type=event
-location=0,0,0,0
-activate=static
-delay=7s
-repeat=true
-requires_status=00:40
-set_status=00:50
+requires_not_status=h05,h06,h07,h08,h09,h10,h12,h01,h02,h03,h04,AM
+requires_status=hours
+set_status=h12
+set_status=m00
+set_status=AM
+unset_status=h11
+unset_status=m50
+unset_status=hours
+unset_status=PM
 
 [event]
 # 01:00
@@ -1396,69 +247,129 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_status=00:50
-set_status=01:00
+requires_not_status=h05,h06,h07,h08,h09,h10,h11,h01,h02,h03,h04
+requires_status=hours
+set_status=h01
+set_status=m00
+unset_status=h12
+unset_status=m50
+unset_status=hours
 
 [event]
-# 01:10
+# 02:00
 type=event
 location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_status=01:00
-set_status=01:10
-unset_status=00:00
+requires_not_status=h05,h06,h07,h08,h09,h10,h11,h12,h02,h03,h04
+requires_status=hours
+set_status=h02
+set_status=m00
+unset_status=h01
+unset_status=m50
+unset_status=hours
 
 [event]
-# 01:20
+# 03:00
 type=event
 location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_status=01:10
-set_status=01:20
+requires_not_status=h05,h06,h07,h08,h09,h10,h11,h12,h01,h03,h04
+requires_status=hours
+set_status=h03
+set_status=m00
+unset_status=h02
+unset_status=m50
+unset_status=hours
 
 [event]
-# 01:30
+# 04:00
 type=event
 location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_status=01:20
-set_status=01:30
+requires_not_status=h05,h06,h07,h08,h09,h10,h11,h12,h01,h02,h04
+requires_status=hours
+set_status=h04
+set_status=m00
+unset_status=h03
+unset_status=m50
+unset_status=hours
 
 [event]
-# 01:40
+# 05:00
 type=event
 location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_status=01:30
-set_status=01:40
+requires_not_status=h05,h06,h07,h08,h09,h10,h11,h12,h01,h02,h03
+requires_status=hours
+set_status=h05
+set_status=m00
+unset_status=h04
+unset_status=m50
+unset_status=hours
 
 [event]
-# 01:50
+# 10 min
 type=event
 location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_status=01:40
-set_status=01:50
+requires_status=m00
+set_status=m10
+unset_status=m00
 
 [event]
-# 20:00
+# 20 min
 type=event
 location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_status=01:50
-set_status=save_game
+requires_status=m10
+set_status=m20
+unset_status=m10
+
+[event]
+# 30 min
+type=event
+location=0,0,0,0
+activate=static
+delay=7s
+repeat=true
+requires_status=m20
+set_status=m30
+unset_status=m20
+
+[event]
+# 40 min
+type=event
+location=0,0,0,0
+activate=static
+delay=7s
+repeat=true
+requires_status=m30
+set_status=m40
+unset_status=m30
+
+[event]
+# 50 min
+type=event
+location=0,0,0,0
+activate=static
+delay=7s
+repeat=true
+requires_status=m40
+set_status=m50
+set_status=hours
+unset_status=m40
 
 [event]
 # fire on

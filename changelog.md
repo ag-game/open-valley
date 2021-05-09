@@ -19,8 +19,9 @@ Alpha 0.07
 * added the first 44/72 tiles of cutable grass (without character animation)
 * changed the tile of the grass to be cut and animated (animation should be improved)
 * started adding snow, rain and fog, in the parallax that make day/night cycle
-* re-enable hours, even if they don't work correctly... hours, days and seasons should always be added as last things, when a map can be declared complete
 * added tavern
+* split the 24 hour cycle into two cycles: one of 12 hours (which are repeated with AM and PM) and one for the minutes, in base 10, in this way it has decreased a lot the code that managed the hours
+* added the day and night cycle (for now without weather conditions)
 
 ............................................
 

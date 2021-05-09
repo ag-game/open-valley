@@ -4,5 +4,5 @@ Hi, i'm trying to re-create with Flare a completely open source version (using t
 
 currently the hours, days and seasons are disabled... I will re-enable them in the farmer's house, as soon as the house will be complete, because if I add them now, then editing the map file with tiled map editor, something disappears
 
-the version of the engine currently used is in this repo, for an easier download
+the version of the engine currently used is in this repo, for an easier download,
 windows version only, for other versions: https://github.com/clintbellanger/flare-game
