@@ -20,7 +20,7 @@ Alpha 0.07
 * changed the tile of the grass to be cut and animated (animation should be improved)
 * started adding snow, rain and fog, in the parallax that make day/night cycle
 * added tavern
-* split the 24 hour cycle into two cycles: one of 12 hours (which are repeated with AM and PM) and one for the minutes, in base 10, in this way it has decreased a lot the code that managed the hours
+* added the hours cycle, the days cycle, the dates cycle and the seasons cycle
 * added the day and night cycle (for now without weather conditions)
 
 ............................................

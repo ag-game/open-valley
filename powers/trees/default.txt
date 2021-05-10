@@ -105,280 +105,294 @@ visible_when_locked=false
 [power]
 id=401
 position=90,6
-requires_status=1
+requires_status=d01
 visible_when_locked=false
 
 [power]
 id=402
 position=90,6
-requires_status=2
+requires_status=d02
 visible_when_locked=false
 
 [power]
 id=403
 position=90,6
-requires_status=3
+requires_status=d03
 visible_when_locked=false
 
 [power]
 id=404
 position=90,6
-requires_status=4
+requires_status=d04
 visible_when_locked=false
 
 [power]
 id=405
 position=90,6
-requires_status=5
+requires_status=d05
 visible_when_locked=false
 
 [power]
 id=406
 position=90,6
-requires_status=6
+requires_status=d06
 visible_when_locked=false
 
 [power]
 id=407
 position=90,6
-requires_status=7
+requires_status=d07
 visible_when_locked=false
 
 [power]
 id=408
 position=90,6
-requires_status=8
+requires_status=d08
 visible_when_locked=false
 
 [power]
 id=409
 position=90,6
-requires_status=9
+requires_status=d09
 visible_when_locked=false
 
 [power]
 id=410
 position=90,6
-requires_status=10
+requires_status=d10
 visible_when_locked=false
 
 [power]
 id=411
 position=90,6
-requires_status=11
+requires_status=d11
 visible_when_locked=false
 
 [power]
 id=412
 position=90,6
-requires_status=12
+requires_status=d12
 visible_when_locked=false
 
 [power]
 id=413
 position=90,6
-requires_status=13
+requires_status=d13
 visible_when_locked=false
 
 [power]
 id=414
 position=90,6
-requires_status=14
+requires_status=d14
 visible_when_locked=false
 
 [power]
 id=415
 position=90,6
-requires_status=15
+requires_status=d15
 visible_when_locked=false
 
 [power]
 id=416
 position=90,6
-requires_status=16
+requires_status=d16
 visible_when_locked=false
 
 [power]
 id=417
 position=90,6
-requires_status=17
+requires_status=d17
 visible_when_locked=false
 
 [power]
 id=418
 position=90,6
-requires_status=18
+requires_status=d18
 visible_when_locked=false
 
 [power]
 id=419
 position=90,6
-requires_status=19
+requires_status=d19
 visible_when_locked=false
 
 [power]
 id=420
 position=90,6
-requires_status=20
+requires_status=d20
 visible_when_locked=false
 
 [power]
 id=421
 position=90,6
-requires_status=21
+requires_status=d21
 visible_when_locked=false
 
 [power]
 id=422
 position=90,6
-requires_status=22
+requires_status=d22
 visible_when_locked=false
 
 [power]
 id=423
 position=90,6
-requires_status=23
+requires_status=d23
 visible_when_locked=false
 
 [power]
 id=424
 position=90,6
-requires_status=24
+requires_status=d24
 visible_when_locked=false
 
 [power]
 id=425
 position=90,6
-requires_status=25
+requires_status=d25
 visible_when_locked=false
 
 [power]
 id=426
 position=90,6
-requires_status=26
+requires_status=d26
 visible_when_locked=false
 
 [power]
 id=427
 position=90,6
-requires_status=27
+requires_status=d27
 visible_when_locked=false
 
 [power]
 id=428
 position=90,6
-requires_status=28
+requires_status=d28
 visible_when_locked=false
 
 #----------------------------------- clock
 
 [power]
 id=100
-position=4,7
+position=14,7
 requires_status=h06
 visible_when_locked=false
 
 [power]
 id=107
-position=4,7
+position=14,7
 requires_status=h07
 visible_when_locked=false
 
 [power]
-id=114
-position=4,7
+id=108
+position=14,7
 requires_status=h08
 visible_when_locked=false
 
 [power]
-id=121
-position=4,7
+id=109
+position=14,7
 requires_status=h09
 visible_when_locked=false
 
 [power]
-id=128
-position=4,7
+id=110
+position=14,7
 requires_status=h10
 visible_when_locked=false
 
 [power]
-id=135
-position=4,7
+id=111
+position=14,7
 requires_status=h11
 visible_when_locked=false
 
 [power]
-id=142
-position=4,7
+id=112
+position=14,7
 requires_status=h12
 visible_when_locked=false
 
 [power]
-id=149
-position=4,7
+id=113
+position=14,7
 requires_status=h01
 visible_when_locked=false
 
 [power]
-id=156
-position=4,7
+id=114
+position=14,7
 requires_status=h02
 visible_when_locked=false
 
 [power]
-id=163
-position=4,7
+id=115
+position=14,7
 requires_status=h03
 visible_when_locked=false
 
 [power]
-id=170
-position=4,7
+id=116
+position=14,7
 requires_status=h04
 visible_when_locked=false
 
 [power]
-id=177
-position=4,7
+id=117
+position=14,7
 requires_status=h05
 visible_when_locked=false
 
 # -----------------------------------
 
 [power]
+id=118
+position=36,7
+requires_status=s_no
+visible_when_locked=false
+
+[power]
+id=119
+position=36,7
+requires_status=s_yes
+visible_when_locked=false
+
+# -----------------------------------
+
+[power]
 id=101
-position=50,7
+position=58,7
 requires_status=m00
 visible_when_locked=false
 
 [power]
 id=102
-position=50,7
+position=58,7
 requires_status=m10
 visible_when_locked=false
 
 [power]
 id=103
-position=50,7
+position=58,7
 requires_status=m20
 visible_when_locked=false
 
 [power]
 id=104
-position=50,7
+position=58,7
 requires_status=m30
 visible_when_locked=false
 
 [power]
 id=105
-position=50,7
+position=58,7
 requires_status=m40
 visible_when_locked=false
 
 [power]
 id=106
-position=50,7
+position=58,7
 requires_status=m50
 visible_when_locked=false
 

@@ -1,0 +1,66 @@
+are needed to activate the time, days, dates, and seasons when the character is created
+
+[event]
+# copy it only to the first map
+type=event
+location=0,0,0,0
+activate=on_load
+delay=2ms
+requires_not_status=block_clock
+set_status=block_clock
+
+[event]
+# copy it only to the first map
+type=event
+location=0,0,0,0
+activate=on_load
+requires_not_status=block_clock
+set_status=h06
+
+[event]
+# copy it only to the first map
+type=event
+location=0,0,0,0
+activate=on_load
+requires_not_status=block_clock
+set_status=m00
+
+[event]
+# copy it only to the first map
+type=event
+location=0,0,0,0
+activate=on_load
+requires_not_status=block_clock
+set_status=AM
+
+[event]
+# copy it only to the first map
+type=event
+location=0,0,0,0
+activate=on_load
+requires_not_status=block_clock
+set_status=s_yes
+
+[event]
+# copy it only to the first map
+type=event
+location=0,0,0,0
+activate=on_load
+requires_not_status=block_clock
+set_status=sunday
+
+[event]
+# copy it only to the first map
+type=event
+location=0,0,0,0
+activate=on_load
+requires_not_status=block_clock
+set_status=d01
+
+[event]
+# copy it only to the first map
+type=event
+location=0,0,0,0
+activate=on_load
+requires_not_status=block_clock
+set_status=spring

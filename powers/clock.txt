@@ -69,7 +69,7 @@ icon=77
 # --------
 
 [power]
-id=114
+id=108
 #name=08:00
 type=fixed
 buff=true
@@ -79,7 +79,7 @@ icon=85
 # --------
 
 [power]
-id=121
+id=109
 #name=09:00
 type=fixed
 buff=true
@@ -89,7 +89,7 @@ icon=93
 # --------
 
 [power]
-id=128
+id=110
 #name=10:00
 type=fixed
 buff=true
@@ -99,7 +99,7 @@ icon=22
 # --------
 
 [power]
-id=135
+id=111
 #name=11:00
 type=fixed
 buff=true
@@ -109,7 +109,7 @@ icon=30
 # --------
 
 [power]
-id=142
+id=112
 #name=12:00
 type=fixed
 buff=true
@@ -119,7 +119,7 @@ icon=38
 # --------
 
 [power]
-id=149
+id=113
 #name=01:00
 type=fixed
 buff=true
@@ -129,7 +129,7 @@ icon=29
 # --------
 
 [power]
-id=156
+id=114
 #name=02:00
 type=fixed
 buff=true
@@ -139,7 +139,7 @@ icon=37
 # --------
 
 [power]
-id=163
+id=115
 #name=03:00
 type=fixed
 buff=true
@@ -149,7 +149,7 @@ icon=45
 # --------
 
 [power]
-id=170
+id=116
 #name=04:00
 type=fixed
 buff=true
@@ -159,9 +159,27 @@ icon=53
 # --------
 
 [power]
-id=177
+id=117
 #name=05:00
 type=fixed
 buff=true
 passive=true
 icon=61
+
+# --------
+
+[power]
+id=118
+#name=second no
+type=fixed
+buff=true
+passive=true
+icon=47
+
+[power]
+id=119
+#name=second yes
+type=fixed
+buff=true
+passive=true
+icon=39
