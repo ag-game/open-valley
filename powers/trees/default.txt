@@ -270,6 +270,24 @@ position=90,6
 requires_status=d28
 visible_when_locked=false
 
+[power]
+id=429
+position=90,6
+requires_status=d29
+visible_when_locked=false
+
+[power]
+id=430
+position=90,6
+requires_status=d30
+visible_when_locked=false
+
+[power]
+id=431
+position=90,6
+requires_status=d31
+visible_when_locked=false
+
 #----------------------------------- clock
 
 [power]

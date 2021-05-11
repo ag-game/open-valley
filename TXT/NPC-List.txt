@@ -1,5 +1,7 @@
 below will be listed all the NPCs of the game, with some personal data
 
+some npcs will have their appearance and name created "randomly" (the character will be chosen from a list of XX available characters). some characters, instead, will be "unique" with their own story and will appear "randomly" inside Open Valley instead of a random character
+
 Name: Luzi Fehr (instead of Haley/Riley)
 Age: 25 years (approximately)
 Occupation: working from home with smartphone and/or PC

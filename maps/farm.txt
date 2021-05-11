@@ -1070,6 +1070,16 @@ set_status=s_yes
 unset_status=s_no
 
 [event]
+# unset hours
+type=event
+location=0,0,0,0
+activate=static
+delay=7s
+repeat=true
+requires_status=hours
+unset_status=hours
+
+[event]
 # 06:00
 type=event
 location=0,0,0,0
@@ -1079,10 +1089,7 @@ repeat=true
 requires_not_status=h06,h07,h08,h09,h10,h11,h12,h01,h02,h03,h04
 requires_status=hours
 set_status=h06
-set_status=m00
 unset_status=h05
-unset_status=m50
-unset_status=hours
 
 [event]
 # 07:00
@@ -1094,10 +1101,7 @@ repeat=true
 requires_not_status=h05,h07,h08,h09,h10,h11,h12,h01,h02,h03,h04
 requires_status=hours
 set_status=h07
-set_status=m00
 unset_status=h06
-unset_status=m50
-unset_status=hours
 
 [event]
 # 08:00
@@ -1109,10 +1113,7 @@ repeat=true
 requires_not_status=h05,h06,h08,h09,h10,h11,h12,h01,h02,h03,h04
 requires_status=hours
 set_status=h08
-set_status=m00
 unset_status=h07
-unset_status=m50
-unset_status=hours
 
 [event]
 # 09:00
@@ -1124,10 +1125,7 @@ repeat=true
 requires_not_status=h05,h06,h07,h09,h10,h11,h12,h01,h02,h03,h04
 requires_status=hours
 set_status=h09
-set_status=m00
 unset_status=h08
-unset_status=m50
-unset_status=hours
 
 [event]
 # 10:00
@@ -1139,10 +1137,7 @@ repeat=true
 requires_not_status=h05,h06,h07,h08,h10,h11,h12,h01,h02,h03,h04
 requires_status=hours
 set_status=h10
-set_status=m00
 unset_status=h09
-unset_status=m50
-unset_status=hours
 
 [event]
 # 11:00
@@ -1154,27 +1149,19 @@ repeat=true
 requires_not_status=h05,h06,h07,h08,h09,h11,h12,h01,h02,h03,h04
 requires_status=hours
 set_status=h11
-set_status=m00
 unset_status=h10
-unset_status=m50
-unset_status=hours
 
 [event]
-# 12:00 AM
+# 12:00
 type=event
 location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=h05,h06,h07,h08,h09,h10,h12,h01,h02,h03,h04,PM
+requires_not_status=h05,h06,h07,h08,h09,h10,h12,h01,h02,h03,h04
 requires_status=hours
 set_status=h12
-set_status=m00
-set_status=PM
 unset_status=h11
-unset_status=m50
-unset_status=hours
-unset_status=AM
 
 [event]
 # 12:00 PM
@@ -1183,14 +1170,21 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
+requires_not_status=h05,h06,h07,h08,h09,h10,h12,h01,h02,h03,h04,PM
+requires_status=hours
+set_status=PM
+unset_status=AM
+
+[event]
+# 12:00 AM
+type=event
+location=0,0,0,0
+activate=static
+delay=7s
+repeat=true
 requires_not_status=h05,h06,h07,h08,h09,h10,h12,h01,h02,h03,h04,AM
 requires_status=hours
-set_status=h12
-set_status=m00
 set_status=AM
-unset_status=h11
-unset_status=m50
-unset_status=hours
 unset_status=PM
 
 [event]
@@ -1203,10 +1197,7 @@ repeat=true
 requires_not_status=h05,h06,h07,h08,h09,h10,h11,h01,h02,h03,h04
 requires_status=hours
 set_status=h01
-set_status=m00
 unset_status=h12
-unset_status=m50
-unset_status=hours
 
 [event]
 # 02:00
@@ -1218,10 +1209,7 @@ repeat=true
 requires_not_status=h05,h06,h07,h08,h09,h10,h11,h12,h02,h03,h04
 requires_status=hours
 set_status=h02
-set_status=m00
 unset_status=h01
-unset_status=m50
-unset_status=hours
 
 [event]
 # 03:00
@@ -1233,10 +1221,7 @@ repeat=true
 requires_not_status=h05,h06,h07,h08,h09,h10,h11,h12,h01,h03,h04
 requires_status=hours
 set_status=h03
-set_status=m00
 unset_status=h02
-unset_status=m50
-unset_status=hours
 
 [event]
 # 04:00
@@ -1248,10 +1233,7 @@ repeat=true
 requires_not_status=h05,h06,h07,h08,h09,h10,h11,h12,h01,h02,h04
 requires_status=hours
 set_status=h04
-set_status=m00
 unset_status=h03
-unset_status=m50
-unset_status=hours
 
 [event]
 # 05:00
@@ -1263,10 +1245,7 @@ repeat=true
 requires_not_status=h05,h06,h07,h08,h09,h10,h11,h12,h01,h02,h03
 requires_status=hours
 set_status=h05
-set_status=m00
 unset_status=h04
-unset_status=m50
-unset_status=hours
 
 [event]
 # 10 min
@@ -1321,11 +1300,31 @@ delay=7s
 repeat=true
 requires_status=m40
 set_status=m50
-set_status=hours
 unset_status=m40
 
 [event]
-# ney day
+# 50 min
+type=event
+location=0,0,0,0
+activate=static
+delay=7s
+repeat=true
+requires_status=m40
+set_status=hours
+
+[event]
+# 00 min
+type=event
+location=0,0,0,0
+activate=static
+delay=7s
+repeat=true
+requires_status=m50
+set_status=m00
+unset_status=m50
+
+[event]
+# new day
 type=event
 location=0,0,0,0
 activate=static
@@ -1333,6 +1332,16 @@ repeat=true
 requires_not_status=h05,h06,h07,h08,h09,h10,h12,h01,h02,h03,h04,AM,m00,m10,m20,m30,m40
 requires_status=h11
 set_status=new_day
+
+[event]
+# unset new day
+type=event
+location=0,0,0,0
+activate=static
+delay=7s
+repeat=true
+requires_status=new_day
+unset_status=new_day
 
 [event]
 # monday
@@ -1345,7 +1354,6 @@ requires_not_status=monday,tuesday,wednesday,thusday,friday,saturday
 requires_status=new_day
 set_status=monday
 unset_status=sunday
-unset_status=new_day
 
 [event]
 # tuesday
@@ -1358,7 +1366,6 @@ requires_not_status=tuesday,wednesday,thusday,friday,saturday,sunday
 requires_status=new_day
 set_status=tuesday
 unset_status=monday
-unset_status=new_day
 
 [event]
 # wednesday
@@ -1371,7 +1378,6 @@ requires_not_status=monday,wednesday,thusday,friday,saturday,sunday
 requires_status=new_day
 set_status=wednesday
 unset_status=tuesday
-unset_status=new_day
 
 [event]
 # thusday
@@ -1384,7 +1390,6 @@ requires_not_status=monday,tuesday,thusday,friday,saturday,sunday
 requires_status=new_day
 set_status=thusday
 unset_status=wednesday
-unset_status=new_day
 
 [event]
 # friday
@@ -1397,7 +1402,6 @@ requires_not_status=monday,tuesday,wednesday,friday,saturday,sunday
 requires_status=new_day
 set_status=friday
 unset_status=thusday
-unset_status=new_day
 
 [event]
 # saturday
@@ -1410,7 +1414,6 @@ requires_not_status=monday,tuesday,wednesday,thusday,saturday,sunday
 requires_status=new_day
 set_status=saturday
 unset_status=friday
-unset_status=new_day
 
 [event]
 # sunday
@@ -1423,10 +1426,9 @@ requires_not_status=tuesday,wednesday,thusday,friday,saturday,sunday
 requires_status=new_day
 set_status=sunday
 unset_status=saturday
-unset_status=new_day
 
 [event]
-# ney date
+# new date
 type=event
 location=0,0,0,0
 activate=static
@@ -1436,17 +1438,26 @@ requires_status=h11
 set_status=new_date
 
 [event]
+# unset new date
+type=event
+location=0,0,0,0
+activate=static
+delay=7s
+repeat=true
+requires_status=new_date
+unset_status=new_date
+
+[event]
 # day 02
 type=event
 location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28
+requires_not_status=d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d02
 unset_status=d01
-unset_status=new_date
 
 [event]
 # day 03
@@ -1455,11 +1466,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28
+requires_not_status=d01,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d03
 unset_status=d02
-unset_status=new_date
 
 [event]
 # day 04
@@ -1468,11 +1478,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28
+requires_not_status=d01,d02,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d04
 unset_status=d03
-unset_status=new_date
 
 [event]
 # day 05
@@ -1481,11 +1490,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28
+requires_not_status=d01,d02,d03,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d05
 unset_status=d04
-unset_status=new_date
 
 [event]
 # day 06
@@ -1494,11 +1502,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28
+requires_not_status=d01,d02,d03,d04,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d06
 unset_status=d05
-unset_status=new_date
 
 [event]
 # day 07
@@ -1507,11 +1514,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d05,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28
+requires_not_status=d01,d02,d03,d04,d05,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d07
 unset_status=d06
-unset_status=new_date
 
 [event]
 # day 08
@@ -1520,11 +1526,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d05,d06,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28
+requires_not_status=d01,d02,d03,d04,d05,d06,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d08
 unset_status=d07
-unset_status=new_date
 
 [event]
 # day 09
@@ -1533,11 +1538,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d05,d06,d07,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d09
 unset_status=d08
-unset_status=new_date
 
 [event]
 # day 10
@@ -1546,11 +1550,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d10
 unset_status=d09
-unset_status=new_date
 
 [event]
 # day 11
@@ -1559,11 +1562,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d11
 unset_status=d10
-unset_status=new_date
 
 [event]
 # day 12
@@ -1572,11 +1574,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d12
 unset_status=d11
-unset_status=new_date
 
 [event]
 # day 13
@@ -1585,11 +1586,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d13
 unset_status=d12
-unset_status=new_date
 
 [event]
 # day 14
@@ -1598,11 +1598,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d14
 unset_status=d13
-unset_status=new_date
 
 [event]
 # day 15
@@ -1611,11 +1610,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d15
 unset_status=d14
-unset_status=new_date
 
 [event]
 # day 16
@@ -1624,11 +1622,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d16
 unset_status=d15
-unset_status=new_date
 
 [event]
 # day 17
@@ -1637,11 +1634,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d17
 unset_status=d16
-unset_status=new_date
 
 [event]
 # day 18
@@ -1650,11 +1646,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d18
 unset_status=d17
-unset_status=new_date
 
 [event]
 # day 19
@@ -1663,11 +1658,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d19
 unset_status=d18
-unset_status=new_date
 
 [event]
 # day 20
@@ -1676,11 +1670,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d20,d21,d22,d23,d24,d25,d26,d27,d28
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d20
 unset_status=d19
-unset_status=new_date
 
 [event]
 # day 21
@@ -1689,11 +1682,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d21,d22,d23,d24,d25,d26,d27,d28
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d21
 unset_status=d20
-unset_status=new_date
 
 [event]
 # day 22
@@ -1702,11 +1694,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d22,d23,d24,d25,d26,d27,d28
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d22,d23,d24,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d22
 unset_status=d21
-unset_status=new_date
 
 [event]
 # day 23
@@ -1715,11 +1706,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d23,d24,d25,d26,d27,d28
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d23,d24,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d23
 unset_status=d22
-unset_status=new_date
 
 [event]
 # day 24
@@ -1728,11 +1718,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d24,d25,d26,d27,d28
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d24,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d24
 unset_status=d23
-unset_status=new_date
 
 [event]
 # day 25
@@ -1741,11 +1730,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d25,d26,d27,d28
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d25,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d25
 unset_status=d24
-unset_status=new_date
 
 [event]
 # day 26
@@ -1754,11 +1742,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d26,d27,d28
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d26,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d26
 unset_status=d25
-unset_status=new_date
 
 [event]
 # day 27
@@ -1767,11 +1754,10 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d27,d28
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d27,d28,d29,d30,d31
 requires_status=new_date
 set_status=d27
 unset_status=d26
-unset_status=new_date
 
 [event]
 # day 28
@@ -1780,11 +1766,46 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d28
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d28,d29,d30,d31
 requires_status=new_date
 set_status=d28
 unset_status=d27
-unset_status=new_date
+
+[event]
+# day 29
+type=event
+location=0,0,0,0
+activate=static
+delay=7s
+repeat=true
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d29,d30,d31
+requires_status=new_date
+set_status=d29
+unset_status=d28
+
+[event]
+# day 30
+type=event
+location=0,0,0,0
+activate=static
+delay=7s
+repeat=true
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d30,d31
+requires_status=new_date
+set_status=d30
+unset_status=d29
+
+[event]
+# day 31
+type=event
+location=0,0,0,0
+activate=static
+delay=7s
+repeat=true
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d31
+requires_status=new_date
+set_status=d31
+unset_status=d30
 
 [event]
 # day 01
@@ -1793,21 +1814,30 @@ location=0,0,0,0
 activate=static
 delay=7s
 repeat=true
-requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27
+requires_not_status=d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30
 requires_status=new_date
 set_status=d01
-unset_status=d28
-unset_status=new_date
+unset_status=d31
 
 [event]
-# ney season
+# new season
 type=event
 location=0,0,0,0
 activate=static
 repeat=true
-requires_not_status=h05,h06,h07,h08,h09,h10,h12,h01,h02,h03,h04,AM,m00,m10,m20,m30,m40,d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27
+requires_not_status=h05,h06,h07,h08,h09,h10,h12,h01,h02,h03,h04,AM,m00,m10,m20,m30,m40,d01,d02,d03,d04,d05,d06,d07,d08,d09,d10,d11,d12,d13,d14,d15,d16,d17,d18,d19,d20,d21,d22,d23,d24,d25,d26,d27,d28,d29,d30
 requires_status=h11
 set_status=new_season
+
+[event]
+# unset new season
+type=event
+location=0,0,0,0
+activate=static
+delay=7s
+repeat=true
+requires_status=new_season
+unset_status=new_season
 
 [event]
 # summer
@@ -1820,7 +1850,6 @@ requires_not_status=summer,fall,winter
 requires_status=new_season
 set_status=summer
 unset_status=spring
-unset_status=new_season
 
 [event]
 # fall
@@ -1833,7 +1862,6 @@ requires_not_status=fall,winter,spring
 requires_status=new_season
 set_status=fall
 unset_status=summer
-unset_status=new_season
 
 [event]
 # winter
@@ -1846,7 +1874,6 @@ requires_not_status=winter,spring,summer
 requires_status=new_season
 set_status=winter
 unset_status=fall
-unset_status=new_season
 
 [event]
 # spring
@@ -1859,7 +1886,6 @@ requires_not_status=spring,summer,fall
 requires_status=new_season
 set_status=spring
 unset_status=winter
-unset_status=new_season
 
 [event]
 # change parallax 04

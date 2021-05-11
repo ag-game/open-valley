@@ -1,6 +1,7 @@
 
 Alpha 0.07
 
+* the game start on sunday, first day of spring, at 06:00AM
 * Removed the experience bar, which will be inserted in the skill menu, together with the other bars
 * created and add 100 trees and stumps, cuttable, to the farm map
 * use tools now costs energy points
@@ -22,6 +23,7 @@ Alpha 0.07
 * added tavern
 * added the hours cycle, the days cycle, the dates cycle and the seasons cycle
 * added the day and night cycle (for now without weather conditions)
+* changed the days of the seasons from 28 to 31 (to not have each season start with the same day of the week)
 
 ............................................
 
