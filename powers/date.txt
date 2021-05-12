@@ -230,7 +230,7 @@ id=429
 type=fixed
 buff=true
 passive=true
-icon=55
+icon=71
 
 [power]
 id=430
@@ -246,4 +246,4 @@ id=431
 type=fixed
 buff=true
 passive=true
-icon=71
+icon=55
