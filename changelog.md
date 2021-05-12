@@ -24,6 +24,7 @@ Alpha 0.07
 * added the hours cycle, the days cycle, the dates cycle and the seasons cycle
 * added the day and night cycle (for now without weather conditions)
 * changed the days of the seasons from 28 to 31 (to not have each season start with the same day of the week)
+* added a cycle of 9999 years (not yet completed)
 
 ............................................
 

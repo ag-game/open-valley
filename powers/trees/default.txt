@@ -56,6 +56,281 @@ position=120,7
 requires_status=winter
 visible_when_locked=false
 
+#----------------------------------- years
+
+[power]
+id=201
+position=145,6
+requires_status=y0
+visible_when_locked=false
+
+[power]
+id=202
+position=155,6
+requires_status=y0
+visible_when_locked=false
+
+[power]
+id=203
+position=165,6
+requires_status=y0
+visible_when_locked=false
+
+[power]
+id=204
+position=175,6
+requires_status=y0
+visible_when_locked=false
+
+#-----------------------------------
+
+[power]
+id=205
+position=175,6
+requires_status=y1
+visible_when_locked=false
+
+[power]
+id=206
+position=175,6
+requires_status=y2
+visible_when_locked=false
+
+[power]
+id=207
+position=175,6
+requires_status=y3
+visible_when_locked=false
+
+[power]
+id=208
+position=175,6
+requires_status=y4
+visible_when_locked=false
+
+[power]
+id=209
+position=175,6
+requires_status=y5
+visible_when_locked=false
+
+[power]
+id=210
+position=175,6
+requires_status=y6
+visible_when_locked=false
+
+[power]
+id=211
+position=175,6
+requires_status=y7
+visible_when_locked=false
+
+[power]
+id=212
+position=175,6
+requires_status=y8
+visible_when_locked=false
+
+[power]
+id=213
+position=175,6
+requires_status=y9
+visible_when_locked=false
+
+#-----------------------------------
+
+[power]
+id=214
+position=175,6
+requires_status=y00
+visible_when_locked=false
+
+[power]
+id=215
+position=175,6
+requires_status=y10
+visible_when_locked=false
+
+[power]
+id=216
+position=175,6
+requires_status=y20
+visible_when_locked=false
+
+[power]
+id=217
+position=175,6
+requires_status=y30
+visible_when_locked=false
+
+[power]
+id=218
+position=175,6
+requires_status=y40
+visible_when_locked=false
+
+[power]
+id=219
+position=175,6
+requires_status=y50
+visible_when_locked=false
+
+[power]
+id=220
+position=175,6
+requires_status=y60
+visible_when_locked=false
+
+[power]
+id=221
+position=175,6
+requires_status=y70
+visible_when_locked=false
+
+[power]
+id=222
+position=175,6
+requires_status=y80
+visible_when_locked=false
+
+[power]
+id=223
+position=175,6
+requires_status=y90
+visible_when_locked=false
+
+#-----------------------------------
+
+[power]
+id=224
+position=175,6
+requires_status=y000
+visible_when_locked=false
+
+[power]
+id=225
+position=175,6
+requires_status=y100
+visible_when_locked=false
+
+[power]
+id=226
+position=175,6
+requires_status=y200
+visible_when_locked=false
+
+[power]
+id=227
+position=175,6
+requires_status=y300
+visible_when_locked=false
+
+[power]
+id=228
+position=175,6
+requires_status=y400
+visible_when_locked=false
+
+[power]
+id=229
+position=175,6
+requires_status=y500
+visible_when_locked=false
+
+[power]
+id=230
+position=175,6
+requires_status=y600
+visible_when_locked=false
+
+[power]
+id=231
+position=175,6
+requires_status=y700
+visible_when_locked=false
+
+[power]
+id=232
+position=175,6
+requires_status=y800
+visible_when_locked=false
+
+[power]
+id=233
+position=175,6
+requires_status=y900
+visible_when_locked=false
+
+#-----------------------------------
+
+[power]
+id=234
+position=175,6
+requires_status=y0000
+visible_when_locked=false
+
+[power]
+id=235
+position=175,6
+requires_status=y1000
+visible_when_locked=false
+
+[power]
+id=236
+position=175,6
+requires_status=y2000
+visible_when_locked=false
+
+[power]
+id=237
+position=175,6
+requires_status=y3000
+visible_when_locked=false
+
+[power]
+id=238
+position=175,6
+requires_status=y4000
+visible_when_locked=false
+
+[power]
+id=239
+position=175,6
+requires_status=y5000
+visible_when_locked=false
+
+[power]
+id=240
+position=175,6
+requires_status=y6000
+visible_when_locked=false
+
+[power]
+id=241
+position=175,6
+requires_status=y7000
+visible_when_locked=false
+
+[power]
+id=242
+position=175,6
+requires_status=y8000
+visible_when_locked=false
+
+[power]
+id=243
+position=175,6
+requires_status=y9000
+visible_when_locked=false
+
+#-----------------------------------
+
+[power]
+id=200
+position=157,0
+visible_when_locked=false
+
 #----------------------------------- days
 
 [power]
@@ -3656,8 +3931,6 @@ position=42,36
 requires_primary=physical,451
 visible_when_locked=false
 
-#-----------------------------------
-
 #----------------------------------- level 2
 
 [power]
@@ -4639,8 +4912,6 @@ id=64449
 position=42,36
 requires_primary=physical,901
 visible_when_locked=false
-
-#-----------------------------------
 
 #----------------------------------- level 3
 
@@ -5624,8 +5895,6 @@ position=42,36
 requires_primary=physical,1501
 visible_when_locked=false
 
-#-----------------------------------
-
 #----------------------------------- level 4
 
 [power]
@@ -6607,8 +6876,6 @@ id=64749
 position=42,36
 requires_primary=physical,2251
 visible_when_locked=false
-
-#-----------------------------------
 
 #----------------------------------- level 5
 
@@ -7592,8 +7859,6 @@ position=42,36
 requires_primary=physical,3161
 visible_when_locked=false
 
-#-----------------------------------
-
 #----------------------------------- level 6
 
 [power]
@@ -8575,8 +8840,6 @@ id=641049
 position=42,36
 requires_primary=physical,4211
 visible_when_locked=false
-
-#-----------------------------------
 
 #----------------------------------- level 7
 
@@ -9560,8 +9823,6 @@ position=42,36
 requires_primary=physical,5411
 visible_when_locked=false
 
-#-----------------------------------
-
 #----------------------------------- level 8
 
 [power]
@@ -10543,8 +10804,6 @@ id=641349
 position=42,36
 requires_primary=physical,6761
 visible_when_locked=false
-
-#-----------------------------------
 
 #----------------------------------- level 9
 
@@ -11528,8 +11787,6 @@ position=42,36
 requires_primary=physical,8261
 visible_when_locked=false
 
-#-----------------------------------
-
 #----------------------------------- level 10
 
 [power]
@@ -11591,8 +11848,6 @@ id=63111
 position=162,37
 requires_primary=physical,8261
 visible_when_locked=false
-
-#-----------------------------------
 
 #----------------------------------- foraging ICON
 

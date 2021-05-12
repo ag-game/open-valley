@@ -64,3 +64,11 @@ location=0,0,0,0
 activate=on_load
 requires_not_status=block_clock
 set_status=spring
+
+[event]
+# copy it only to the first map
+type=event
+location=0,0,0,0
+activate=on_load
+requires_not_status=block_clock
+set_status=y0

@@ -1,10 +1,17 @@
 # Power Definitions
 
 INCLUDE powers/clock.txt
+# 100
+INCLUDE powers/years.txt
+# 200
 INCLUDE powers/days.txt
+# 300
 INCLUDE powers/date.txt
+# 400
 INCLUDE powers/seasons.txt
+# 500
 INCLUDE powers/foraging.txt
+# 600
 
 [power]
 id=10
