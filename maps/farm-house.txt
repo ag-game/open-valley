@@ -195,6 +195,14 @@ requires_not_status=block_clock
 set_status=y0000
 
 [event]
+# copy it only to the first map
+type=event
+location=0,0,0,0
+activate=on_load
+requires_not_status=block_clock
+set_status=morning
+
+[event]
 # second no
 type=event
 location=0,0,0,0

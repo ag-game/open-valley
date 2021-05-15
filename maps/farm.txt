@@ -2217,6 +2217,7 @@ parallax_layers=maps/parallax/01.txt
 repeat=false
 requires_not_status=PM
 requires_status=h04
+set_status=morning
 
 [event]
 # change parallax 05
@@ -2317,6 +2318,7 @@ parallax_layers=maps/parallax/18.txt
 repeat=false
 requires_not_status=AM
 requires_status=h06
+unset_status=morning
 
 [event]
 # change parallax 19
@@ -2430,84 +2432,163 @@ spawn=spring-tree1,19,6
 type=event
 location=7,25,1,1
 activate=on_load
-soundfx=soundfx/environment/water.ogg
+soundfx=soundfx/water.ogg
 
 [event]
 # river sound
 type=event
 location=15,2,1,1
 activate=on_load
-soundfx=soundfx/environment/water.ogg
+soundfx=soundfx/water.ogg
 
 [event]
 # river sound
 type=event
 location=11,48,1,1
 activate=on_load
-soundfx=soundfx/environment/water.ogg
+soundfx=soundfx/water.ogg
 
 [event]
 # river sound
 type=event
 location=30,60,1,1
 activate=on_load
-soundfx=soundfx/environment/water.ogg
+soundfx=soundfx/water.ogg
 
 [event]
 # river sound
 type=event
 location=66,62,1,1
 activate=on_load
-soundfx=soundfx/environment/water.ogg
+soundfx=soundfx/water.ogg
 
 [event]
-# bird sound
+# birds_0
 type=event
 location=33,1,1,1
 activate=on_load
-soundfx=soundfx/environment/bird_twitter_loop.ogg
+requires_status=morning
+soundfx=soundfx/birds_0.mp3
 
 [event]
-# bird sound
+# birds_0
 type=event
 location=58,2,1,1
 activate=on_load
-soundfx=soundfx/environment/bird_twitter_loop.ogg
+requires_status=morning
+soundfx=soundfx/birds_0.mp3
 
 [event]
-# raven sound
+# birds_1
 type=event
 location=78,5,1,1
 activate=on_load
-soundfx=soundfx/environment/raven_loop.ogg
+requires_status=morning
+soundfx=soundfx/birds_1.mp3
 
 [event]
-# raven sound
+# birds_1
 type=event
 location=72,62,1,1
 activate=on_load
-soundfx=soundfx/environment/raven_loop.ogg
+requires_status=morning
+soundfx=soundfx/birds_1.mp3
 
 [event]
-# bird 1
+# birds_0
 type=event
 location=2,35,1,1
 activate=on_load
-soundfx=soundfx/environment/amb_bird_1.ogg
+requires_status=morning
+soundfx=soundfx/birds_0.mp3
 
 [event]
-# bird 1
+# birds_0
 type=event
 location=3,1,1,1
 activate=on_load
-soundfx=soundfx/environment/amb_bird_1.ogg
+requires_status=morning
+soundfx=soundfx/birds_0.mp3
 
 [event]
-# bird 1
+# birds_0
 type=event
 location=78,36,1,1
 activate=on_load
-soundfx=soundfx/environment/amb_bird_1.ogg
+requires_status=morning
+soundfx=soundfx/birds_0.mp3
+
+[event]
+# birds_1
+type=event
+location=11,62,1,1
+activate=on_load
+requires_status=morning
+soundfx=soundfx/birds_1.mp3
+
+[event]
+# night_0
+type=event
+location=33,1,1,1
+activate=on_load
+requires_not_status=morning
+soundfx=soundfx/night_0.mp3
+
+[event]
+# night_0
+type=event
+location=58,2,1,1
+activate=on_load
+requires_not_status=morning
+soundfx=soundfx/night_0.mp3
+
+[event]
+# night_1
+type=event
+location=78,5,1,1
+activate=on_load
+requires_not_status=morning
+soundfx=soundfx/night_1.mp3
+
+[event]
+# night_1
+type=event
+location=72,62,1,1
+activate=on_load
+requires_not_status=morning
+soundfx=soundfx/night_1.mp3
+
+[event]
+# night_0
+type=event
+location=2,35,1,1
+activate=on_load
+requires_not_status=morning
+soundfx=soundfx/night_0.mp3
+
+[event]
+# night_0
+type=event
+location=3,1,1,1
+activate=on_load
+requires_not_status=morning
+soundfx=soundfx/night_0.mp3
+
+[event]
+# night_0
+type=event
+location=78,36,1,1
+activate=on_load
+requires_not_status=morning
+soundfx=soundfx/night_0.mp3
+
+[event]
+# crickets
+type=event
+location=11,62,1,1
+activate=on_load
+requires_not_status=morning
+soundfx=soundfx/crickets.mp3
 
 [event]
 # stump1
