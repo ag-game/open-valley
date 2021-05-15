@@ -229,7 +229,7 @@ data=
 0,409,545,1812,1813,0,0,0,0,0,0,0,0,418,2021,2022,2023,0,0,1305,873,0,801,0,0,0,0,0,0,709,0,0,0,0,0,801,0,0,0,0,712,0,709,0,1908,1979,1908,1979,0,800,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,801,0,0,0,0,800,0,0,0,0,0,0,0,
 0,409,545,405,0,0,0,0,0,0,0,0,2021,2022,1959,2086,2087,0,0,1305,873,0,0,0,0,0,800,0,0,0,0,0,0,800,0,0,0,709,0,0,0,0,0,0,1908,1979,1908,1979,0,0,0,712,0,0,0,0,801,0,0,0,800,0,0,0,0,0,0,0,0,801,0,0,0,0,0,0,0,0,0,0,
 0,409,868,402,0,0,0,0,0,0,0,0,2149,2150,1895,1894,2151,0,1241,1179,872,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,801,0,1908,1979,1908,1979,0,0,0,0,0,0,0,709,0,0,0,0,0,0,0,0,0,0,0,1841,712,0,0,0,0,0,0,0,0,801,0,0,
-0,409,739,405,0,0,0,0,0,0,0,0,388,0,2149,2151,0,0,1305,0,0,0,0,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,746,0,0,0,744,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,746,0,0,0,
+0,409,739,405,0,0,0,0,0,0,0,0,388,0,2149,2151,0,0,1305,0,0,0,0,0,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,746,0,0,0,744,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,745,746,0,0,0,
 472,473,0,405,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1908,1979,709,0,0,
 0,0,0,405,0,0,0,1963,1964,1965,1966,1967,1968,1969,418,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1908,1979,0,0,0,
 0,0,0,405,0,0,0,2027,2028,2029,2030,2031,2032,2033,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2097,0,0,0,0,0,0,0,1908,1979,0,0,0,
@@ -641,8 +641,8 @@ data=
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,693,0,1776,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,883,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -712,7 +712,7 @@ data=
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,744,745,745,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -779,9 +779,9 @@ data=
 800,0,0,0,0,0,0,0,0,0,0,1776,0,0,0,0,0,0,0,0,874,0,0,0,0,0,0,0,0,0,0,0,0,883,0,0,0,0,0,0,1776,0,0,0,0,873,0,873,0,0,0,0,0,1776,0,0,0,0,0,0,0,0,0,0,0,0,0,0,883,0,0,0,0,0,0,1776,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,737,0,0,0,0,0,0,0,0,0,0,1032,0,0,0,0,0,0,883,0,0,0,0,0,0,194,0,0,0,0,0,0,0,0,873,0,873,0,198,0,0,0,0,0,0,0,0,0,0,0,0,0,0,883,0,0,0,0,0,0,194,0,0,0,0,0,0,0,0,
 0,801,0,1621,1776,0,0,0,0,0,673,0,0,0,0,0,0,0,0,0,0,0,0,0,194,0,0,1032,0,0,0,0,0,689,0,0,0,0,1032,0,0,0,0,196,0,873,0,873,0,0,0,1032,0,0,0,0,194,0,0,194,0,0,1032,0,0,0,0,0,689,0,0,0,0,1032,0,0,0,0,196,0,
-1975,0,0,0,322,801,673,0,0,0,0,0,0,0,0,0,0,0,0,0,0,693,0,1776,0,0,0,0,0,0,1975,0,0,0,0,1032,0,0,0,0,0,689,0,0,0,873,0,873,1032,0,0,0,0,0,689,0,0,0,1776,0,0,0,0,0,0,1975,0,0,0,0,1032,0,0,0,0,0,689,0,0,0,
-0,0,0,0,386,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,883,0,0,0,689,0,196,0,0,0,0,0,693,0,0,1776,0,198,0,0,0,0,693,872,0,872,0,0,1776,0,194,0,0,0,0,693,0,0,0,689,0,196,0,0,0,0,0,693,0,0,1776,0,198,0,0,0,0,693,
-0,0,0,804,800,0,0,0,1836,1837,1838,1839,1840,1841,0,0,0,0,0,0,0,744,745,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+1975,0,0,0,322,801,673,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1975,0,0,0,0,1032,0,0,0,0,0,689,0,0,0,873,0,873,1032,0,0,0,0,0,689,0,0,0,1776,0,0,0,0,0,0,1975,0,0,0,0,1032,0,0,0,0,0,689,0,0,0,
+0,0,0,0,386,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,689,0,196,0,0,0,0,0,693,0,0,1776,0,198,0,0,0,0,693,872,0,872,0,0,1776,0,194,0,0,0,0,693,0,0,0,689,0,196,0,0,0,0,0,693,0,0,1776,0,198,0,0,0,0,693,
+0,0,0,804,800,0,0,0,1836,1837,1838,1839,1840,1841,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,801,868,0,0,0,1899,1900,1901,1902,1903,1904,1905,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,874,0,0,0,
 0,800,693,868,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,873,0,194,0,
 0,0,0,868,1032,0,0,387,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,873,693,0,0,
@@ -2420,14 +2420,6 @@ requires_class=Standard
 show_on_minimap=false
 
 [event]
-# tree1
-type=event
-location=19,6,1,1
-activate=on_load
-requires_not_status=cut1
-spawn=spring-tree1,19,6
-
-[event]
 # river sound
 type=event
 location=7,25,1,1
@@ -2591,16 +2583,6 @@ requires_not_status=morning
 soundfx=soundfx/crickets.mp3
 
 [event]
-# stump1
-type=event
-location=19,6,1,1
-activate=static
-repeat=false
-requires_not_status=cut1-1
-requires_status=cut1
-spawn=stump1,19,6
-
-[event]
 # fix bridge
 type=event
 location=40,61,1,1
@@ -2622,44 +2604,30 @@ requires_not_status=fix-1
 show_on_minimap=false
 
 [event]
-# tree2
+# springtree1
+type=event
+location=19,6,1,1
+activate=on_load
+requires_not_status=cut1,summer,fall,winter
+spawn=spring-tree1,19,6
+
+[event]
+# stump1
+type=event
+location=19,6,1,1
+activate=static
+repeat=false
+requires_not_status=cut1-1
+requires_status=cut1
+spawn=stump1,19,6
+
+[event]
+# springtree2
 type=event
 location=36,14,1,1
 activate=on_load
-requires_not_status=cut2
+requires_not_status=cut2,summer,fall,winter
 spawn=spring-tree2,37,14
-
-[event]
-# tree3
-type=event
-location=21,12,1,1
-activate=on_load
-requires_not_status=cut3
-spawn=spring-tree3,21,12
-
-[event]
-# tree4
-type=event
-location=15,21,1,1
-activate=on_load
-requires_not_status=cut4
-spawn=spring-tree4,15,21
-
-[event]
-# tree5
-type=event
-location=28,23,1,1
-activate=on_load
-requires_not_status=cut5
-spawn=spring-tree5,28,23
-
-[event]
-# tree6
-type=event
-location=17,26,1,1
-activate=on_load
-requires_not_status=cut6
-spawn=spring-tree6,17,26
 
 [event]
 # stump2
@@ -2672,6 +2640,14 @@ requires_status=cut2
 spawn=stump2,36,14
 
 [event]
+# springtree3
+type=event
+location=21,12,1,1
+activate=on_load
+requires_not_status=cut3,summer,fall,winter
+spawn=spring-tree3,21,12
+
+[event]
 # stump3
 type=event
 location=21,12,1,1
@@ -2680,6 +2656,14 @@ repeat=false
 requires_not_status=cut3-1
 requires_status=cut3
 spawn=stump3,21,12
+
+[event]
+# springtree4
+type=event
+location=15,21,1,1
+activate=on_load
+requires_not_status=cut4,summer,fall,winter
+spawn=spring-tree4,15,21
 
 [event]
 # stump4
@@ -2692,6 +2676,14 @@ requires_status=cut4
 spawn=stump4,15,21
 
 [event]
+# springtree5
+type=event
+location=28,23,1,1
+activate=on_load
+requires_not_status=cut5,summer,fall,winter
+spawn=spring-tree5,28,23
+
+[event]
 # stump5
 type=event
 location=28,23,1,1
@@ -2700,6 +2692,14 @@ repeat=false
 requires_not_status=cut5-1
 requires_status=cut5
 spawn=stump5,28,23
+
+[event]
+# springtree6
+type=event
+location=17,26,1,1
+activate=on_load
+requires_not_status=cut6,summer,fall,winter
+spawn=spring-tree6,17,26
 
 [event]
 # stump6
@@ -2712,317 +2712,11 @@ requires_status=cut6
 spawn=stump6,17,26
 
 [event]
-# tree18
-type=event
-location=53,18,1,1
-activate=on_load
-requires_not_status=cut18
-spawn=spring-tree18,53,18
-
-[event]
-# stump18
-type=event
-location=53,18,1,1
-activate=static
-repeat=false
-requires_not_status=cut18-1
-requires_status=cut18
-spawn=stump18,53,18
-
-[event]
-# tree25
-type=event
-location=68,14,1,1
-activate=on_load
-requires_not_status=cut25
-spawn=spring-tree25,68,14
-
-[event]
-# stump25
-type=event
-location=68,14,1,1
-activate=static
-repeat=false
-requires_not_status=cut25-1
-requires_status=cut25
-spawn=stump25,68,14
-
-[event]
-# tree22
-type=event
-location=64,25,1,1
-activate=on_load
-requires_not_status=cut22
-spawn=spring-tree22,64,25
-
-[event]
-# stump22
-type=event
-location=64,25,1,1
-activate=static
-repeat=false
-requires_not_status=cut22-1
-requires_status=cut22
-spawn=stump22,64,25
-
-[event]
-# tree21
-type=event
-location=59,12,1,1
-activate=on_load
-requires_not_status=cut21
-spawn=spring-tree21,59,12
-
-[event]
-# stump21
-type=event
-location=59,12,1,1
-activate=static
-repeat=false
-requires_not_status=cut21-1
-requires_status=cut21
-spawn=stump21,59,12
-
-[event]
-# tree19
-type=event
-location=54,27,1,1
-activate=on_load
-requires_not_status=cut19
-spawn=spring-tree19,54,27
-
-[event]
-# stump19
-type=event
-location=54,27,1,1
-activate=static
-repeat=false
-requires_not_status=cut19-1
-requires_status=cut19
-spawn=stump19,54,27
-
-[event]
-# tree14
-type=event
-location=43,26,1,1
-activate=on_load
-requires_not_status=cut14
-spawn=spring-tree14,43,26
-
-[event]
-# stump14
-type=event
-location=43,26,1,1
-activate=static
-repeat=false
-requires_not_status=cut14-1
-requires_status=cut14
-spawn=stump14,43,26
-
-[event]
-# tree20
-type=event
-location=60,47,1,1
-activate=on_load
-requires_not_status=cut20
-spawn=spring-tree20,60,47
-
-[event]
-# stump20
-type=event
-location=60,47,1,1
-activate=static
-repeat=false
-requires_not_status=cut20-1
-requires_status=cut20
-spawn=stump20,60,47
-
-[event]
-# tree24
-type=event
-location=67,52,1,1
-activate=on_load
-requires_not_status=cut24
-spawn=spring-tree24,67,52
-
-[event]
-# stump24
-type=event
-location=67,52,1,1
-activate=static
-repeat=false
-requires_not_status=cut24-1
-requires_status=cut24
-spawn=stump24,67,52
-
-[event]
-# tree23
-type=event
-location=66,39,1,1
-activate=on_load
-requires_not_status=cut23
-spawn=spring-tree23,66,39
-
-[event]
-# stump23
-type=event
-location=66,39,1,1
-activate=static
-repeat=false
-requires_not_status=cut23-1
-requires_status=cut23
-spawn=stump23,66,39
-
-[event]
-# tree16
-type=event
-location=47,38,1,1
-activate=on_load
-requires_not_status=cut16
-spawn=spring-tree16,47,38
-
-[event]
-# stump16
-type=event
-location=47,38,1,1
-activate=static
-repeat=false
-requires_not_status=cut16-1
-requires_status=cut16
-spawn=stump16,47,38
-
-[event]
-# tree15
-type=event
-location=47,51,1,1
-activate=on_load
-requires_not_status=cut15
-spawn=spring-tree15,47,51
-
-[event]
-# stump15
-type=event
-location=47,51,1,1
-activate=static
-repeat=false
-requires_not_status=cut15-1
-requires_status=cut15
-spawn=stump15,47,51
-
-[event]
-# tree13
-type=event
-location=38,45,1,1
-activate=on_load
-requires_not_status=cut13
-spawn=spring-tree13,38,45
-
-[event]
-# stump13
-type=event
-location=38,45,1,1
-activate=static
-repeat=false
-requires_not_status=cut13-1
-requires_status=cut13
-spawn=stump13,38,45
-
-[event]
-# tree9
-type=event
-location=31,33,1,1
-activate=on_load
-requires_not_status=cut9
-spawn=spring-tree9,31,33
-
-[event]
-# stump9
-type=event
-location=31,33,1,1
-activate=static
-repeat=false
-requires_not_status=cut9-1
-requires_status=cut9
-spawn=stump9,31,33
-
-[event]
-# tree10
-type=event
-location=29,42,1,1
-activate=on_load
-requires_not_status=cut10
-spawn=spring-tree10,29,42
-
-[event]
-# stump10
-type=event
-location=29,42,1,1
-activate=static
-repeat=false
-requires_not_status=cut10-1
-requires_status=cut10
-spawn=stump10,29,42
-
-[event]
-# tree12
-type=event
-location=26,53,1,1
-activate=on_load
-requires_not_status=cut12
-spawn=spring-tree12,26,53
-
-[event]
-# stump12
-type=event
-location=26,53,1,1
-activate=static
-repeat=false
-requires_not_status=cut12-1
-requires_status=cut12
-spawn=stump12,26,53
-
-[event]
-# tree11
-type=event
-location=16,49,1,1
-activate=on_load
-requires_not_status=cut11
-spawn=spring-tree11,16,49
-
-[event]
-# stump11
-type=event
-location=16,49,1,1
-activate=static
-repeat=false
-requires_not_status=cut11-1
-requires_status=cut11
-spawn=stump11,16,49
-
-[event]
-# tree8
-type=event
-location=16,39,1,1
-activate=on_load
-requires_not_status=cut8
-spawn=spring-tree8,16,39
-
-[event]
-# stump8
-type=event
-location=16,39,1,1
-activate=static
-repeat=false
-requires_not_status=cut8-1
-requires_status=cut8
-spawn=stump8,16,39
-
-[event]
-# tree7
+# springtree7
 type=event
 location=22,32,1,1
 activate=on_load
-requires_not_status=cut7
+requires_not_status=cut7,summer,fall,winter
 spawn=spring-tree7,22,32
 
 [event]
@@ -3036,11 +2730,173 @@ requires_status=cut7
 spawn=stump7,22,32
 
 [event]
-# tree17
+# springtree8
+type=event
+location=16,39,1,1
+activate=on_load
+requires_not_status=cut8,summer,fall,winter
+spawn=spring-tree8,16,39
+
+[event]
+# stump8
+type=event
+location=16,39,1,1
+activate=static
+repeat=false
+requires_not_status=cut8-1
+requires_status=cut8
+spawn=stump8,16,39
+
+[event]
+# springtree9
+type=event
+location=31,33,1,1
+activate=on_load
+requires_not_status=cut9,summer,fall,winter
+spawn=spring-tree9,31,33
+
+[event]
+# stump9
+type=event
+location=31,33,1,1
+activate=static
+repeat=false
+requires_not_status=cut9-1
+requires_status=cut9
+spawn=stump9,31,33
+
+[event]
+# springtree10
+type=event
+location=29,42,1,1
+activate=on_load
+requires_not_status=cut10,summer,fall,winter
+spawn=spring-tree10,29,42
+
+[event]
+# stump10
+type=event
+location=29,42,1,1
+activate=static
+repeat=false
+requires_not_status=cut10-1
+requires_status=cut10
+spawn=stump10,29,42
+
+[event]
+# springtree11
+type=event
+location=16,49,1,1
+activate=on_load
+requires_not_status=cut11,summer,fall,winter
+spawn=spring-tree11,16,49
+
+[event]
+# stump11
+type=event
+location=16,49,1,1
+activate=static
+repeat=false
+requires_not_status=cut11-1
+requires_status=cut11
+spawn=stump11,16,49
+
+[event]
+# springtree12
+type=event
+location=26,53,1,1
+activate=on_load
+requires_not_status=cut12,summer,fall,winter
+spawn=spring-tree12,26,53
+
+[event]
+# stump12
+type=event
+location=26,53,1,1
+activate=static
+repeat=false
+requires_not_status=cut12-1
+requires_status=cut12
+spawn=stump12,26,53
+
+[event]
+# springtree13
+type=event
+location=38,45,1,1
+activate=on_load
+requires_not_status=cut13,summer,fall,winter
+spawn=spring-tree13,38,45
+
+[event]
+# stump13
+type=event
+location=38,45,1,1
+activate=static
+repeat=false
+requires_not_status=cut13-1
+requires_status=cut13
+spawn=stump13,38,45
+
+[event]
+# springtree14
+type=event
+location=43,26,1,1
+activate=on_load
+requires_not_status=cut14,summer,fall,winter
+spawn=spring-tree14,43,26
+
+[event]
+# stump14
+type=event
+location=43,26,1,1
+activate=static
+repeat=false
+requires_not_status=cut14-1
+requires_status=cut14
+spawn=stump14,43,26
+
+[event]
+# springtree15
+type=event
+location=47,51,1,1
+activate=on_load
+requires_not_status=cut15,summer,fall,winter
+spawn=spring-tree15,47,51
+
+[event]
+# stump15
+type=event
+location=47,51,1,1
+activate=static
+repeat=false
+requires_not_status=cut15-1
+requires_status=cut15
+spawn=stump15,47,51
+
+[event]
+# springtree16
+type=event
+location=47,38,1,1
+activate=on_load
+requires_not_status=cut16,summer,fall,winter
+spawn=spring-tree16,47,38
+
+[event]
+# stump16
+type=event
+location=47,38,1,1
+activate=static
+repeat=false
+requires_not_status=cut16-1
+requires_status=cut16
+spawn=stump16,47,38
+
+[event]
+# springtree17
 type=event
 location=46,12,1,1
 activate=on_load
-requires_not_status=cut17
+requires_not_status=cut17,summer,fall,winter
 spawn=spring-tree17,46,12
 
 [event]
@@ -3054,83 +2910,155 @@ requires_status=cut17
 spawn=stump17,46,12
 
 [event]
-# tree30
+# springtree18
 type=event
-location=26,16,1,1
+location=53,18,1,1
 activate=on_load
-requires_not_status=cut30
-spawn=spring-tree30,26,16
+requires_not_status=cut18,summer,fall,winter
+spawn=spring-tree18,53,18
 
 [event]
-# stump30
+# stump18
 type=event
-location=26,16,1,1
+location=53,18,1,1
 activate=static
 repeat=false
-requires_not_status=cut30-1
-requires_status=cut30
-spawn=stump30,26,16
+requires_not_status=cut18-1
+requires_status=cut18
+spawn=stump18,53,18
 
 [event]
-# tree29
+# springtree19
 type=event
-location=22,25,1,1
+location=54,27,1,1
 activate=on_load
-requires_not_status=cut29
-spawn=spring-tree29,22,25
+requires_not_status=cut19,summer,fall,winter
+spawn=spring-tree19,54,27
 
 [event]
-# stump29
+# stump19
 type=event
-location=22,25,1,1
+location=54,27,1,1
 activate=static
 repeat=false
-requires_not_status=cut29-1
-requires_status=cut29
-spawn=stump29,22,25
+requires_not_status=cut19-1
+requires_status=cut19
+spawn=stump19,54,27
 
 [event]
-# tree31
+# springtree20
 type=event
-location=36,23,1,1
+location=60,47,1,1
 activate=on_load
-requires_not_status=cut31
-spawn=spring-tree31,36,23
+requires_not_status=cut20,summer,fall,winter
+spawn=spring-tree20,60,47
 
 [event]
-# stump31
+# stump20
 type=event
-location=36,23,1,1
+location=60,47,1,1
 activate=static
 repeat=false
-requires_not_status=cut31-1
-requires_status=cut31
-spawn=stump31,36,23
+requires_not_status=cut20-1
+requires_status=cut20
+spawn=stump20,60,47
 
 [event]
-# tree27
+# springtree21
 type=event
-location=13,30,1,1
+location=59,12,1,1
 activate=on_load
-requires_not_status=cut27
-spawn=spring-tree27,13,30
+requires_not_status=cut21,summer,fall,winter
+spawn=spring-tree21,59,12
 
 [event]
-# stump27
+# stump21
 type=event
-location=13,30,1,1
+location=59,12,1,1
 activate=static
 repeat=false
-requires_not_status=cut27-1
-requires_status=cut27
-spawn=stump27,13,30
+requires_not_status=cut21-1
+requires_status=cut21
+spawn=stump21,59,12
 
 [event]
-# tree26
+# springtree22
+type=event
+location=64,25,1,1
+activate=on_load
+requires_not_status=cut22,summer,fall,winter
+spawn=spring-tree22,64,25
+
+[event]
+# stump22
+type=event
+location=64,25,1,1
+activate=static
+repeat=false
+requires_not_status=cut22-1
+requires_status=cut22
+spawn=stump22,64,25
+
+[event]
+# springtree23
+type=event
+location=66,39,1,1
+activate=on_load
+requires_not_status=cut23,summer,fall,winter
+spawn=spring-tree23,66,39
+
+[event]
+# stump23
+type=event
+location=66,39,1,1
+activate=static
+repeat=false
+requires_not_status=cut23-1
+requires_status=cut23
+spawn=stump23,66,39
+
+[event]
+# springtree24
+type=event
+location=67,52,1,1
+activate=on_load
+requires_not_status=cut24,summer,fall,winter
+spawn=spring-tree24,67,52
+
+[event]
+# stump24
+type=event
+location=67,52,1,1
+activate=static
+repeat=false
+requires_not_status=cut24-1
+requires_status=cut24
+spawn=stump24,67,52
+
+[event]
+# springtree25
+type=event
+location=68,14,1,1
+activate=on_load
+requires_not_status=cut25,summer,fall,winter
+spawn=spring-tree25,68,14
+
+[event]
+# stump25
+type=event
+location=68,14,1,1
+activate=static
+repeat=false
+requires_not_status=cut25-1
+requires_status=cut25
+spawn=stump25,68,14
+
+[event]
+# springtree26
 type=event
 location=9,18,1,1
 activate=on_load
-requires_not_status=cut26
+requires_not_status=cut26,summer,fall,winter
 spawn=spring-tree26,9,18
 
 [event]
@@ -3144,11 +3072,29 @@ requires_status=cut26
 spawn=stump26,9,18
 
 [event]
-# tree28
+# springtree27
+type=event
+location=13,30,1,1
+activate=on_load
+requires_not_status=cut27,summer,fall,winter
+spawn=spring-tree27,13,30
+
+[event]
+# stump27
+type=event
+location=13,30,1,1
+activate=static
+repeat=false
+requires_not_status=cut27-1
+requires_status=cut27
+spawn=stump27,13,30
+
+[event]
+# springtree28
 type=event
 location=21,19,1,1
 activate=on_load
-requires_not_status=cut28
+requires_not_status=cut28,summer,fall,winter
 spawn=spring-tree28,21,19
 
 [event]
@@ -3162,11 +3108,65 @@ requires_status=cut28
 spawn=stump28,21,19
 
 [event]
-# tree32
+# springtree29
+type=event
+location=22,25,1,1
+activate=on_load
+requires_not_status=cut29,summer,fall,winter
+spawn=spring-tree29,22,25
+
+[event]
+# stump29
+type=event
+location=22,25,1,1
+activate=static
+repeat=false
+requires_not_status=cut29-1
+requires_status=cut29
+spawn=stump29,22,25
+
+[event]
+# springtree30
+type=event
+location=26,16,1,1
+activate=on_load
+requires_not_status=cut30,summer,fall,winter
+spawn=spring-tree30,26,16
+
+[event]
+# stump30
+type=event
+location=26,16,1,1
+activate=static
+repeat=false
+requires_not_status=cut30-1
+requires_status=cut30
+spawn=stump30,26,16
+
+[event]
+# springtree31
+type=event
+location=36,23,1,1
+activate=on_load
+requires_not_status=cut31,summer,fall,winter
+spawn=spring-tree31,36,23
+
+[event]
+# stump31
+type=event
+location=36,23,1,1
+activate=static
+repeat=false
+requires_not_status=cut31-1
+requires_status=cut31
+spawn=stump31,36,23
+
+[event]
+# springtree32
 type=event
 location=70,18,1,1
 activate=on_load
-requires_not_status=cut32
+requires_not_status=cut32,summer,fall,winter
 spawn=spring-tree32,70,18
 
 [event]
@@ -3180,11 +3180,11 @@ requires_status=cut32
 spawn=stump32,70,18
 
 [event]
-# tree33
+# springtree33
 type=event
 location=60,17,1,1
 activate=on_load
-requires_not_status=cut33
+requires_not_status=cut33,summer,fall,winter
 spawn=spring-tree33,60,17
 
 [event]
@@ -3198,11 +3198,11 @@ requires_status=cut33
 spawn=stump33,60,17
 
 [event]
-# tree34
+# springtree34
 type=event
 location=70,26,1,1
 activate=on_load
-requires_not_status=cut34
+requires_not_status=cut34,summer,fall,winter
 spawn=spring-tree34,70,26
 
 [event]
@@ -3216,11 +3216,11 @@ requires_status=cut34
 spawn=stump34,70,26
 
 [event]
-# tree35
+# springtree35
 type=event
 location=58,31,1,1
 activate=on_load
-requires_not_status=cut35
+requires_not_status=cut35,summer,fall,winter
 spawn=spring-tree35,58,31
 
 [event]
@@ -3234,11 +3234,11 @@ requires_status=cut35
 spawn=stump35,58,31
 
 [event]
-# tree36
+# springtree36
 type=event
 location=67,31,1,1
 activate=on_load
-requires_not_status=cut36
+requires_not_status=cut36,summer,fall,winter
 spawn=spring-tree36,67,31
 
 [event]
@@ -3252,11 +3252,11 @@ requires_status=cut36
 spawn=stump36,67,31
 
 [event]
-# tree37
+# springtree37
 type=event
 location=48,30,1,1
 activate=on_load
-requires_not_status=cut37
+requires_not_status=cut37,summer,fall,winter
 spawn=spring-tree37,48,30
 
 [event]
@@ -3270,11 +3270,11 @@ requires_status=cut37
 spawn=stump37,48,30
 
 [event]
-# tree38
+# springtree38
 type=event
 location=55,56,1,1
 activate=on_load
-requires_not_status=cut38
+requires_not_status=cut38,summer,fall,winter
 spawn=spring-tree38,55,56
 
 [event]
@@ -3288,11 +3288,11 @@ requires_status=cut38
 spawn=stump38,55,56
 
 [event]
-# tree39
+# springtree39
 type=event
 location=67,55,1,1
 activate=on_load
-requires_not_status=cut39
+requires_not_status=cut39,summer,fall,winter
 spawn=spring-tree39,67,55
 
 [event]
@@ -3306,11 +3306,11 @@ requires_status=cut39
 spawn=stump39,67,55
 
 [event]
-# tree40
+# springtree40
 type=event
 location=70,43,1,1
 activate=on_load
-requires_not_status=cut40
+requires_not_status=cut40,summer,fall,winter
 spawn=spring-tree40,70,43
 
 [event]
@@ -3324,11 +3324,11 @@ requires_status=cut40
 spawn=stump40,70,43
 
 [event]
-# tree41
+# springtree41
 type=event
 location=55,39,1,1
 activate=on_load
-requires_not_status=cut41
+requires_not_status=cut41,summer,fall,winter
 spawn=spring-tree41,55,39
 
 [event]
@@ -3342,11 +3342,11 @@ requires_status=cut41
 spawn=stump41,55,39
 
 [event]
-# tree42
+# springtree42
 type=event
 location=46,43,1,1
 activate=on_load
-requires_not_status=cut42
+requires_not_status=cut42,summer,fall,winter
 spawn=spring-tree42,46,43
 
 [event]
@@ -3360,11 +3360,11 @@ requires_status=cut42
 spawn=stump42,46,43
 
 [event]
-# tree43
+# springtree43
 type=event
 location=42,54,1,1
 activate=on_load
-requires_not_status=cut43
+requires_not_status=cut43,summer,fall,winter
 spawn=spring-tree43,42,54
 
 [event]
@@ -3378,11 +3378,11 @@ requires_status=cut43
 spawn=stump43,42,54
 
 [event]
-# tree44
+# springtree44
 type=event
 location=37,36,1,1
 activate=on_load
-requires_not_status=cut44
+requires_not_status=cut44,summer,fall,winter
 spawn=spring-tree44,37,36
 
 [event]
@@ -3396,11 +3396,11 @@ requires_status=cut44
 spawn=stump44,37,36
 
 [event]
-# tree45
+# springtree45
 type=event
 location=34,51,1,1
 activate=on_load
-requires_not_status=cut45
+requires_not_status=cut45,summer,fall,winter
 spawn=spring-tree45,34,51
 
 [event]
@@ -3414,11 +3414,11 @@ requires_status=cut45
 spawn=stump45,34,51
 
 [event]
-# tree46
+# springtree46
 type=event
 location=21,55,1,1
 activate=on_load
-requires_not_status=cut46
+requires_not_status=cut46,summer,fall,winter
 spawn=spring-tree46,21,55
 
 [event]
@@ -3432,11 +3432,11 @@ requires_status=cut46
 spawn=stump46,21,55
 
 [event]
-# tree47
+# springtree47
 type=event
 location=21,47,1,1
 activate=on_load
-requires_not_status=cut47
+requires_not_status=cut47,summer,fall,winter
 spawn=spring-tree47,21,47
 
 [event]
@@ -3450,11 +3450,11 @@ requires_status=cut47
 spawn=stump47,21,47
 
 [event]
-# tree48
+# springtree48
 type=event
 location=21,39,1,1
 activate=on_load
-requires_not_status=cut48
+requires_not_status=cut48,summer,fall,winter
 spawn=spring-tree48,21,39
 
 [event]
@@ -3468,11 +3468,11 @@ requires_status=cut48
 spawn=stump48,21,39
 
 [event]
-# tree49
+# springtree49
 type=event
 location=32,27,1,1
 activate=on_load
-requires_not_status=cut49
+requires_not_status=cut49,summer,fall,winter
 spawn=spring-tree49,32,27
 
 [event]
@@ -3486,11 +3486,11 @@ requires_status=cut49
 spawn=stump49,32,27
 
 [event]
-# tree50
+# springtree50
 type=event
 location=44,18,1,1
 activate=on_load
-requires_not_status=cut50
+requires_not_status=cut50,summer,fall,winter
 spawn=spring-tree50,44,18
 
 [event]
@@ -3504,11 +3504,11 @@ requires_status=cut50
 spawn=stump50,44,18
 
 [event]
-# tree51
+# springtree51
 type=event
 location=32,17,1,1
 activate=on_load
-requires_not_status=cut51
+requires_not_status=cut51,summer,fall,winter
 spawn=spring-tree51,32,17
 
 [event]
@@ -3522,11 +3522,11 @@ requires_status=cut51
 spawn=stump51,32,17
 
 [event]
-# tree52
+# springtree52
 type=event
 location=38,29,1,1
 activate=on_load
-requires_not_status=cut52
+requires_not_status=cut52,summer,fall,winter
 spawn=spring-tree52,38,29
 
 [event]
@@ -3540,11 +3540,11 @@ requires_status=cut52
 spawn=stump52,38,29
 
 [event]
-# tree53
+# springtree53
 type=event
 location=52,44,1,1
 activate=on_load
-requires_not_status=cut53
+requires_not_status=cut53,summer,fall,winter
 spawn=spring-tree53,52,44
 
 [event]
@@ -3558,11 +3558,11 @@ requires_status=cut53
 spawn=stump53,52,44
 
 [event]
-# tree54
+# springtree54
 type=event
 location=27,35,1,1
 activate=on_load
-requires_not_status=cut54
+requires_not_status=cut54,summer,fall,winter
 spawn=spring-tree54,27,35
 
 [event]
@@ -3576,11 +3576,11 @@ requires_status=cut54
 spawn=stump54,27,35
 
 [event]
-# tree55
+# springtree55
 type=event
 location=43,32,1,1
 activate=on_load
-requires_not_status=cut55
+requires_not_status=cut55,summer,fall,winter
 spawn=spring-tree55,43,32
 
 [event]
@@ -3594,11 +3594,11 @@ requires_status=cut55
 spawn=stump55,43,32
 
 [event]
-# tree56
+# springtree56
 type=event
 location=57,20,1,1
 activate=on_load
-requires_not_status=cu56
+requires_not_status=cu56,summer,fall,winter
 spawn=spring-tree56,57,20
 
 [event]
@@ -3612,11 +3612,11 @@ requires_status=cut56
 spawn=stump56,57,20
 
 [event]
-# tree57
+# springtree57
 type=event
 location=60,40,1,1
 activate=on_load
-requires_not_status=cut57
+requires_not_status=cut57,summer,fall,winter
 spawn=spring-tree57,60,40
 
 [event]
@@ -3630,11 +3630,11 @@ requires_status=cut57
 spawn=stump57,60,40
 
 [event]
-# tree58
+# springtree58
 type=event
 location=48,56,1,1
 activate=on_load
-requires_not_status=cut58
+requires_not_status=cut58,summer,fall,winter
 spawn=spring-tree58,48,56
 
 [event]
@@ -3648,11 +3648,11 @@ requires_status=cut58
 spawn=stump58,48,56
 
 [event]
-# tree59
+# springtree59
 type=event
 location=30,54,1,1
 activate=on_load
-requires_not_status=cut59
+requires_not_status=cut59,summer,fall,winter
 spawn=spring-tree59,30,54
 
 [event]
@@ -3666,11 +3666,11 @@ requires_status=cut59
 spawn=stump59,30,54
 
 [event]
-# tree60
+# springtree60
 type=event
 location=72,54,1,1
 activate=on_load
-requires_not_status=cut60
+requires_not_status=cut60,summer,fall,winter
 spawn=spring-tree60,72,54
 
 [event]
@@ -3684,11 +3684,11 @@ requires_status=cut60
 spawn=stump60,72,54
 
 [event]
-# tree61
+# springtree61
 type=event
 location=60,56,1,1
 activate=on_load
-requires_not_status=cut61
+requires_not_status=cut61,summer,fall,winter
 spawn=spring-tree61,60,56
 
 [event]
@@ -3702,11 +3702,11 @@ requires_status=cut61
 spawn=stump61,60,56
 
 [event]
-# tree62
+# springtree62
 type=event
 location=62,33,1,1
 activate=on_load
-requires_not_status=cut62
+requires_not_status=cut62,summer,fall,winter
 spawn=spring-tree62,62,33
 
 [event]
@@ -3720,11 +3720,11 @@ requires_status=cut62
 spawn=stump62,62,33
 
 [event]
-# tree63
+# springtree63
 type=event
 location=52,33,1,1
 activate=on_load
-requires_not_status=cut63
+requires_not_status=cut63,summer,fall,winter
 spawn=spring-tree63,52,33
 
 [event]
@@ -3738,11 +3738,11 @@ requires_status=cut63
 spawn=stump63,52,33
 
 [event]
-# tree64
+# springtree64
 type=event
 location=48,21,1,1
 activate=on_load
-requires_not_status=cut64
+requires_not_status=cut64,summer,fall,winter
 spawn=spring-tree64,48,21
 
 [event]
@@ -3756,11 +3756,11 @@ requires_status=cut64
 spawn=stump64,48,21
 
 [event]
-# tree65
+# springtree65
 type=event
 location=64,18,1,1
 activate=on_load
-requires_not_status=cut65
+requires_not_status=cut65,summer,fall,winter
 spawn=spring-tree65,64,18
 
 [event]
@@ -3774,11 +3774,11 @@ requires_status=cut65
 spawn=stump65,64,18
 
 [event]
-# tree66
+# springtree66
 type=event
 location=71,34,1,1
 activate=on_load
-requires_not_status=cut66
+requires_not_status=cut66,summer,fall,winter
 spawn=spring-tree66,71,34
 
 [event]
@@ -3792,11 +3792,11 @@ requires_status=cut66
 spawn=stump66,71,34
 
 [event]
-# tree67
+# springtree67
 type=event
 location=16,32,1,1
 activate=on_load
-requires_not_status=cut67
+requires_not_status=cut67,summer,fall,winter
 spawn=spring-tree67,16,32
 
 [event]
@@ -3810,11 +3810,11 @@ requires_status=cut67
 spawn=stump67,16,32
 
 [event]
-# tree68
+# springtree68
 type=event
 location=26,26,1,1
 activate=on_load
-requires_not_status=cut68
+requires_not_status=cut68,summer,fall,winter
 spawn=spring-tree68,26,26
 
 [event]
@@ -3828,11 +3828,11 @@ requires_status=cut68
 spawn=stump68,26,26
 
 [event]
-# tree69
+# springtree69
 type=event
 location=39,17,1,1
 activate=on_load
-requires_not_status=cut69
+requires_not_status=cut69,summer,fall,winter
 spawn=spring-tree69,39,17
 
 [event]
@@ -3846,11 +3846,11 @@ requires_status=cut69
 spawn=stump69,39,17
 
 [event]
-# tree70
+# springtree70
 type=event
 location=29,10,1,1
 activate=on_load
-requires_not_status=cut70
+requires_not_status=cut70,summer,fall,winter
 spawn=spring-tree70,29,10
 
 [event]
@@ -3864,11 +3864,11 @@ requires_status=cut70
 spawn=stump70,29,10
 
 [event]
-# tree71
+# springtree71
 type=event
 location=51,11,1,1
 activate=on_load
-requires_not_status=cut71
+requires_not_status=cut71,summer,fall,winter
 spawn=spring-tree71,51,11
 
 [event]
@@ -3882,11 +3882,11 @@ requires_status=cut71
 spawn=stump71,51,11
 
 [event]
-# tree72
+# springtree72
 type=event
 location=55,49,1,1
 activate=on_load
-requires_not_status=cut72
+requires_not_status=cut72,summer,fall,winter
 spawn=spring-tree72,55,49
 
 [event]
@@ -3900,11 +3900,11 @@ requires_status=cut72
 spawn=stump72,55,49
 
 [event]
-# tree73
+# springtree73
 type=event
 location=67,45,1,1
 activate=on_load
-requires_not_status=cut73
+requires_not_status=cut73,summer,fall,winter
 spawn=spring-tree73,67,45
 
 [event]
@@ -3918,11 +3918,11 @@ requires_status=cut73
 spawn=stump73,67,45
 
 [event]
-# tree74
+# springtree74
 type=event
 location=27,45,1,1
 activate=on_load
-requires_not_status=cut74
+requires_not_status=cut74,summer,fall,winter
 spawn=spring-tree74,27,45
 
 [event]
@@ -3936,11 +3936,11 @@ requires_status=cut74
 spawn=stump74,27,45
 
 [event]
-# tree75
+# springtree75
 type=event
 location=13,42,1,1
 activate=on_load
-requires_not_status=cut75
+requires_not_status=cut75,summer,fall,winter
 spawn=spring-tree75,13,42
 
 [event]
@@ -3954,11 +3954,11 @@ requires_status=cut75
 spawn=stump75,13,42
 
 [event]
-# tree76
+# springtree76
 type=event
 location=37,38,1,1
 activate=on_load
-requires_not_status=cut76
+requires_not_status=cut76,summer,fall,winter
 spawn=spring-tree76,37,38
 
 [event]
@@ -3972,11 +3972,11 @@ requires_status=cut76
 spawn=stump76,37,38
 
 [event]
-# tree77
+# springtree77
 type=event
 location=12,33,1,1
 activate=on_load
-requires_not_status=cut77
+requires_not_status=cut77,summer,fall,winter
 spawn=spring-tree77,12,33
 
 [event]
@@ -3990,11 +3990,11 @@ requires_status=cut77
 spawn=stump77,12,33
 
 [event]
-# tree78
+# springtree78
 type=event
 location=51,58,1,1
 activate=on_load
-requires_not_status=cut78
+requires_not_status=cut78,summer,fall,winter
 spawn=spring-tree78,51,58
 
 [event]
@@ -4008,11 +4008,11 @@ requires_status=cut78
 spawn=stump78,51,58
 
 [event]
-# tree79
+# springtree79
 type=event
 location=41,47,1,1
 activate=on_load
-requires_not_status=cut79
+requires_not_status=cut79,summer,fall,winter
 spawn=spring-tree79,41,47
 
 [event]
@@ -4026,11 +4026,11 @@ requires_status=cut79
 spawn=stump79,41,47
 
 [event]
-# tree80
+# springtree80
 type=event
 location=52,21,1,1
 activate=on_load
-requires_not_status=cut80
+requires_not_status=cut80,summer,fall,winter
 spawn=spring-tree80,52,21
 
 [event]
@@ -4044,11 +4044,11 @@ requires_status=cut80
 spawn=stump80,52,21
 
 [event]
-# tree81
+# springtree81
 type=event
 location=59,25,1,1
 activate=on_load
-requires_not_status=cut81
+requires_not_status=cut81,summer,fall,winter
 spawn=spring-tree81,59,25
 
 [event]
@@ -4062,11 +4062,11 @@ requires_status=cut81
 spawn=stump81,59,25
 
 [event]
-# tree82
+# springtree82
 type=event
 location=18,41,1,1
 activate=on_load
-requires_not_status=cut82
+requires_not_status=cut82,summer,fall,winter
 spawn=spring-tree82,18,41
 
 [event]
@@ -4080,11 +4080,11 @@ requires_status=cut82
 spawn=stump82,18,41
 
 [event]
-# tree83
+# springtree83
 type=event
 location=19,33,1,1
 activate=on_load
-requires_not_status=cut83
+requires_not_status=cut83,summer,fall,winter
 spawn=spring-tree83,19,33
 
 [event]
@@ -4098,11 +4098,11 @@ requires_status=cut83
 spawn=stump83,19,33
 
 [event]
-# tree84
+# springtree84
 type=event
 location=36,54,1,1
 activate=on_load
-requires_not_status=cut84
+requires_not_status=cut84,summer,fall,winter
 spawn=spring-tree84,36,54
 
 [event]
@@ -4116,11 +4116,11 @@ requires_status=cut84
 spawn=stump84,36,54
 
 [event]
-# tree85
+# springtree85
 type=event
 location=31,44,1,1
 activate=on_load
-requires_not_status=cut85
+requires_not_status=cut85,summer,fall,winter
 spawn=spring-tree85,31,44
 
 [event]
@@ -4134,11 +4134,11 @@ requires_status=cut85
 spawn=stump85,31,44
 
 [event]
-# tree86
+# springtree86
 type=event
 location=31,36,1,1
 activate=on_load
-requires_not_status=cut86
+requires_not_status=cut86,summer,fall,winter
 spawn=spring-tree86,31,36
 
 [event]
@@ -4152,11 +4152,11 @@ requires_status=cut86
 spawn=stump86,31,36
 
 [event]
-# tree87
+# springtree87
 type=event
 location=67,19,1,1
 activate=on_load
-requires_not_status=cut87
+requires_not_status=cut87,summer,fall,winter
 spawn=spring-tree87,67,19
 
 [event]
@@ -4170,11 +4170,11 @@ requires_status=cut87
 spawn=stump87,67,19
 
 [event]
-# tree88
+# springtree88
 type=event
 location=41,20,1,1
 activate=on_load
-requires_not_status=cut88
+requires_not_status=cut88,summer,fall,winter
 spawn=spring-tree88,41,20
 
 [event]
@@ -4188,11 +4188,11 @@ requires_status=cut88
 spawn=stump88,41,20
 
 [event]
-# tree89
+# springtree89
 type=event
 location=14,15,1,1
 activate=on_load
-requires_not_status=cut89
+requires_not_status=cut89,summer,fall,winter
 spawn=spring-tree89,14,15
 
 [event]
@@ -4206,11 +4206,11 @@ requires_status=cut89
 spawn=stump89,14,15
 
 [event]
-# tree90
+# springtree90
 type=event
 location=19,49,1,1
 activate=on_load
-requires_not_status=cut90
+requires_not_status=cut90,summer,fall,winter
 spawn=spring-tree90,19,49
 
 [event]
@@ -4224,11 +4224,11 @@ requires_status=cut90
 spawn=stump90,19,49
 
 [event]
-# tree91
+# springtree91
 type=event
 location=44,56,1,1
 activate=on_load
-requires_not_status=cut91
+requires_not_status=cut91,summer,fall,winter
 spawn=spring-tree91,44,56
 
 [event]
@@ -4242,11 +4242,11 @@ requires_status=cut91
 spawn=stump91,44,56
 
 [event]
-# tree92
+# springtree92
 type=event
 location=70,57,1,1
 activate=on_load
-requires_not_status=cut92
+requires_not_status=cut92,summer,fall,winter
 spawn=spring-tree92,70,57
 
 [event]
@@ -4260,11 +4260,11 @@ requires_status=cut92
 spawn=stump92,70,57
 
 [event]
-# tree93
+# springtree93
 type=event
 location=72,46,1,1
 activate=on_load
-requires_not_status=cut93
+requires_not_status=cut93,summer,fall,winter
 spawn=spring-tree93,72,46
 
 [event]
@@ -4278,11 +4278,11 @@ requires_status=cut93
 spawn=stump93,72,46
 
 [event]
-# tree94
+# springtree94
 type=event
 location=59,50,1,1
 activate=on_load
-requires_not_status=cut94
+requires_not_status=cut94,summer,fall,winter
 spawn=spring-tree94,59,50
 
 [event]
@@ -4296,11 +4296,11 @@ requires_status=cut94
 spawn=stump94,59,50
 
 [event]
-# tree95
+# springtree95
 type=event
 location=71,20,1,1
 activate=on_load
-requires_not_status=cut95
+requires_not_status=cut95,summer,fall,winter
 spawn=spring-tree95,71,20
 
 [event]
@@ -4314,11 +4314,11 @@ requires_status=cut95
 spawn=stump95,71,20
 
 [event]
-# tree96
+# springtree96
 type=event
 location=72,9,1,1
 activate=on_load
-requires_not_status=cut96
+requires_not_status=cut96,summer,fall,winter
 spawn=spring-tree96,72,9
 
 [event]
@@ -4332,11 +4332,11 @@ requires_status=cut96
 spawn=stump96,72,9
 
 [event]
-# tree97
+# springtree97
 type=event
 location=39,9,1,1
 activate=on_load
-requires_not_status=cut97
+requires_not_status=cut97,summer,fall,winter
 spawn=spring-tree97,39,9
 
 [event]
@@ -4350,11 +4350,11 @@ requires_status=cut97
 spawn=stump97,39,9
 
 [event]
-# tree98
+# springtree98
 type=event
 location=48,24,1,1
 activate=on_load
-requires_not_status=cut98
+requires_not_status=cut98,summer,fall,winter
 spawn=spring-tree98,48,24
 
 [event]
@@ -4368,11 +4368,11 @@ requires_status=cut98
 spawn=stump98,48,24
 
 [event]
-# tree99
+# springtree99
 type=event
 location=40,38,1,1
 activate=on_load
-requires_not_status=cut99
+requires_not_status=cut99,summer,fall,winter
 spawn=spring-tree99,40,38
 
 [event]
@@ -4386,11 +4386,11 @@ requires_status=cut99
 spawn=stump99,40,38
 
 [event]
-# tree100
+# springtree100
 type=event
 location=28,47,1,1
 activate=on_load
-requires_not_status=cut100
+requires_not_status=cut100,summer,fall,winter
 spawn=spring-tree100,28,47
 
 [event]
@@ -6048,7 +6048,7 @@ location=66,16,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,65,15,43;level 9,66,15,44;level 3,67,15,45;level 7,65,16,107;level 10,66,16,108;level 8,67,16,109;level 4,65,17,171;level 6,66,17,172;level 5,67,17,173
-requires_not_status=grass1
+requires_not_status=cut_grass1,winter
 
 [event]
 # cut grass1
@@ -6058,7 +6058,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,65,15,0;level 9,66,15,0;level 3,67,15,0;level 7,65,16,0;level 10,66,16,0;level 8,67,16,0;level 4,65,17,0;level 6,66,17,0;level 5,67,17,0
 requires_item=10
-set_status=grass1
+requires_not_status=winter
+set_status=cut_grass1
 
 [event]
 # grass2
@@ -6067,7 +6068,7 @@ location=67,16,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,66,15,43;level 9,67,15,44;level 3,68,15,45;level 7,66,16,107;level 10,67,16,108;level 8,68,16,109;level 4,66,17,171;level 6,67,17,172;level 5,68,17,173
-requires_not_status=grass2
+requires_not_status=cut_grass2,winter
 
 [event]
 # cut grass2
@@ -6077,7 +6078,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,66,15,0;level 9,67,15,0;level 3,68,15,0;level 7,66,16,0;level 10,67,16,0;level 8,68,16,0;level 4,66,17,0;level 6,67,17,0;level 5,68,17,0
 requires_item=10
-set_status=grass2
+requires_not_status=winter
+set_status=cut_grass2
 
 [event]
 # grass3
@@ -6086,7 +6088,7 @@ location=66,17,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,65,16,43;level 9,66,16,44;level 3,67,16,45;level 7,65,17,107;level 10,66,17,108;level 8,67,17,109;level 4,65,18,171;level 6,66,18,172;level 5,67,18,173
-requires_not_status=grass3
+requires_not_status=cut_grass3,winter
 
 [event]
 # cut grass3
@@ -6096,7 +6098,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,65,16,0;level 9,66,16,0;level 3,67,16,0;level 7,65,17,0;level 10,66,17,0;level 8,67,17,0;level 4,65,18,0;level 6,66,18,0;level 5,67,18,0
 requires_item=10
-set_status=grass3
+requires_not_status=winter
+set_status=cut_grass3
 
 [event]
 # grass4
@@ -6105,7 +6108,7 @@ location=66,12,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,65,11,43;level 9,66,11,44;level 3,67,11,45;level 7,65,12,107;level 10,66,12,108;level 8,67,12,109;level 4,65,13,171;level 6,66,13,172;level 5,67,13,173
-requires_not_status=grass4
+requires_not_status=cut_grass4,winter
 
 [event]
 # cut grass4
@@ -6115,7 +6118,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,65,11,0;level 9,66,11,0;level 3,67,11,0;level 7,65,12,0;level 10,66,12,0;level 8,67,12,0;level 4,65,13,0;level 6,66,13,0;level 5,67,13,0
 requires_item=10
-set_status=grass4
+requires_not_status=winter
+set_status=cut_grass4
 
 [event]
 # grass5
@@ -6124,7 +6128,7 @@ location=67,17,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,66,16,43;level 9,67,16,44;level 3,68,16,45;level 7,66,17,107;level 10,67,17,108;level 8,68,17,109;level 4,66,18,171;level 6,67,18,172;level 5,68,18,173
-requires_not_status=grass5
+requires_not_status=cut_grass5,winter
 
 [event]
 # cut grass5
@@ -6134,7 +6138,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,66,16,0;level 9,67,16,0;level 3,68,16,0;level 7,66,17,0;level 10,67,17,0;level 8,68,17,0;level 4,66,18,0;level 6,67,18,0;level 5,68,18,0
 requires_item=10
-set_status=grass5
+requires_not_status=winter
+set_status=cut_grass5
 
 [event]
 # grass6
@@ -6143,7 +6148,7 @@ location=68,16,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,67,15,43;level 9,68,15,44;level 3,69,15,45;level 7,67,16,107;level 10,68,16,108;level 8,69,16,109;level 4,67,17,171;level 6,68,17,172;level 5,69,17,173
-requires_not_status=grass6
+requires_not_status=cut_grass6,winter
 
 [event]
 # cut grass6
@@ -6153,7 +6158,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,67,15,0;level 9,68,15,0;level 3,69,15,0;level 7,67,16,0;level 10,68,16,0;level 8,69,16,0;level 4,67,17,0;level 6,68,17,0;level 5,69,17,0
 requires_item=10
-set_status=grass6
+requires_not_status=winter
+set_status=cut_grass6
 
 [event]
 # grass7
@@ -6162,7 +6168,7 @@ location=66,14,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,65,13,43;level 9,66,13,44;level 3,67,13,45;level 7,65,14,107;level 10,66,14,108;level 8,67,14,109;level 4,65,15,171;level 6,66,15,172;level 5,67,15,173
-requires_not_status=grass7
+requires_not_status=cut_grass7,winter
 
 [event]
 # cut grass7
@@ -6172,7 +6178,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,65,13,0;level 9,66,13,0;level 3,67,13,0;level 7,65,14,0;level 10,66,14,0;level 8,67,14,0;level 4,65,15,0;level 6,66,15,0;level 5,67,15,0
 requires_item=10
-set_status=grass7
+requires_not_status=winter
+set_status=cut_grass7
 
 [event]
 # grass8
@@ -6181,7 +6188,7 @@ location=67,12,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,66,11,43;level 9,67,11,44;level 3,68,11,45;level 7,66,12,107;level 10,67,12,108;level 8,68,12,109;level 4,66,13,171;level 6,67,13,172;level 5,68,13,173
-requires_not_status=grass8
+requires_not_status=cut_grass8,winter
 
 [event]
 # cut grass8
@@ -6191,7 +6198,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,66,11,0;level 9,67,11,0;level 3,68,11,0;level 7,66,12,0;level 10,67,12,0;level 8,68,12,0;level 4,66,13,0;level 6,67,13,0;level 5,68,13,0
 requires_item=10
-set_status=grass8
+requires_not_status=winter
+set_status=cut_grass8
 
 [event]
 # grass9
@@ -6200,7 +6208,7 @@ location=66,13,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,65,12,43;level 9,66,12,44;level 3,67,12,45;level 7,65,13,107;level 10,66,13,108;level 8,67,13,109;level 4,65,14,171;level 6,66,14,172;level 5,67,14,173
-requires_not_status=grass9
+requires_not_status=cut_grass9,winter
 
 [event]
 # cut grass9
@@ -6210,7 +6218,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,65,12,0;level 9,66,12,0;level 3,67,12,0;level 7,65,13,0;level 10,66,13,0;level 8,67,13,0;level 4,65,14,0;level 6,66,14,0;level 5,67,14,0
 requires_item=10
-set_status=grass9
+requires_not_status=winter
+set_status=cut_grass9
 
 [event]
 # grass10
@@ -6219,7 +6228,7 @@ location=65,15,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,14,43;level 9,65,14,44;level 3,66,14,45;level 7,64,15,107;level 10,65,15,108;level 8,66,15,109;level 4,64,16,171;level 6,65,16,172;level 5,66,16,173
-requires_not_status=grass10
+requires_not_status=cut_grass10,winter
 
 [event]
 # cut grass10
@@ -6229,7 +6238,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,64,14,0;level 9,65,14,0;level 3,66,14,0;level 7,64,15,0;level 10,65,15,0;level 8,66,15,0;level 4,64,16,0;level 6,65,16,0;level 5,66,16,0
 requires_item=10
-set_status=grass10
+requires_not_status=winter
+set_status=cut_grass10
 
 [event]
 # grass11
@@ -6238,7 +6248,7 @@ location=66,15,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,65,14,43;level 9,66,14,44;level 3,67,14,45;level 7,65,15,107;level 10,66,15,108;level 8,67,15,109;level 4,65,16,171;level 6,66,16,172;level 5,67,16,173
-requires_not_status=grass11
+requires_not_status=cut_grass11,winter
 
 [event]
 # cut grass11
@@ -6248,7 +6258,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,65,14,0;level 9,66,14,0;level 3,67,14,0;level 7,65,15,0;level 10,66,15,0;level 8,67,15,0;level 4,65,16,0;level 6,66,16,0;level 5,67,16,0
 requires_item=10
-set_status=grass11
+requires_not_status=winter
+set_status=cut_grass11
 
 [event]
 # grass12
@@ -6257,7 +6268,7 @@ location=68,17,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,67,16,43;level 9,68,16,44;level 3,69,16,45;level 7,67,17,107;level 10,68,17,108;level 8,69,17,109;level 4,67,18,171;level 6,68,18,172;level 5,69,18,173
-requires_not_status=grass12
+requires_not_status=cut_grass12,winter
 
 [event]
 # cut grass12
@@ -6267,7 +6278,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,67,16,0;level 9,68,16,0;level 3,69,16,0;level 7,67,17,0;level 10,68,17,0;level 8,69,17,0;level 4,67,18,0;level 6,68,18,0;level 5,69,18,0
 requires_item=10
-set_status=grass12
+requires_not_status=winter
+set_status=cut_grass12
 
 [event]
 # grass13
@@ -6276,7 +6288,7 @@ location=64,16,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,63,15,43;level 9,64,15,44;level 3,65,15,45;level 7,63,16,107;level 10,64,16,108;level 8,65,16,109;level 4,63,17,171;level 6,64,17,172;level 5,65,17,173
-requires_not_status=grass13
+requires_not_status=cut_grass13,winter
 
 [event]
 # cut grass13
@@ -6286,7 +6298,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,63,15,0;level 9,64,15,0;level 3,65,15,0;level 7,63,16,0;level 10,64,16,0;level 8,65,16,0;level 4,63,17,0;level 6,64,17,0;level 5,65,17,0
 requires_item=10
-set_status=grass13
+requires_not_status=winter
+set_status=cut_grass13
 
 [event]
 # grass14
@@ -6295,7 +6308,7 @@ location=65,16,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,15,43;level 9,65,15,44;level 3,66,15,45;level 7,64,16,107;level 10,65,16,108;level 8,66,16,109;level 4,64,17,171;level 6,65,17,172;level 5,66,17,173
-requires_not_status=grass14
+requires_not_status=cut_grass14,winter
 
 [event]
 # cut grass14
@@ -6305,7 +6318,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,64,15,0;level 9,65,15,0;level 3,66,15,0;level 7,64,16,0;level 10,65,16,0;level 8,66,16,0;level 4,64,17,0;level 6,65,17,0;level 5,66,17,0
 requires_item=10
-set_status=grass14
+requires_not_status=winter
+set_status=cut_grass14
 
 [event]
 # grass15
@@ -6314,7 +6328,7 @@ location=64,15,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,63,14,43;level 9,64,14,44;level 3,65,14,45;level 7,63,15,107;level 10,64,15,108;level 8,65,15,109;level 4,63,16,171;level 6,64,16,172;level 5,65,16,173
-requires_not_status=grass15
+requires_not_status=cut_grass15,winter
 
 [event]
 # cut grass15
@@ -6324,7 +6338,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,63,14,0;level 9,64,14,0;level 3,65,14,0;level 7,63,15,0;level 10,64,15,0;level 8,65,15,0;level 4,63,16,0;level 6,64,16,0;level 5,65,16,0
 requires_item=10
-set_status=grass15
+requires_not_status=winter
+set_status=cut_grass15
 
 [event]
 # grass16
@@ -6333,7 +6348,7 @@ location=65,12,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,11,43;level 9,65,11,44;level 3,66,11,45;level 7,64,12,107;level 10,65,12,108;level 8,66,12,109;level 4,64,13,171;level 6,65,13,172;level 5,66,13,173
-requires_not_status=grass16
+requires_not_status=cut_grass16,winter
 
 [event]
 # cut grass16
@@ -6343,7 +6358,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,64,11,0;level 9,65,11,0;level 3,66,11,0;level 7,64,12,0;level 10,65,12,0;level 8,66,12,0;level 4,64,13,0;level 6,65,13,0;level 5,66,13,0
 requires_item=10
-set_status=grass16
+requires_not_status=winter
+set_status=cut_grass16
 
 [event]
 # grass17
@@ -6352,7 +6368,7 @@ location=64,12,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,63,11,43;level 9,64,11,44;level 3,65,11,45;level 7,63,12,107;level 10,64,12,108;level 8,65,12,109;level 4,63,13,171;level 6,64,13,172;level 5,65,13,173
-requires_not_status=grass17
+requires_not_status=cut_grass17,winter
 
 [event]
 # cut grass17
@@ -6362,7 +6378,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,63,11,0;level 9,64,11,0;level 3,65,11,0;level 7,63,12,0;level 10,64,12,0;level 8,65,12,0;level 4,63,13,0;level 6,64,13,0;level 5,65,13,0
 requires_item=10
-set_status=grass17
+requires_not_status=winter
+set_status=cut_grass17
 
 [event]
 # grass18
@@ -6371,7 +6388,7 @@ location=63,12,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,62,11,43;level 9,63,11,44;level 3,64,11,45;level 7,62,12,107;level 10,63,12,108;level 8,64,12,109;level 4,62,13,171;level 6,63,13,172;level 5,64,13,173
-requires_not_status=grass18
+requires_not_status=cut_grass18,winter
 
 [event]
 # cut grass18
@@ -6381,7 +6398,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,62,11,0;level 9,63,11,0;level 3,64,11,0;level 7,62,12,0;level 10,63,12,0;level 8,64,12,0;level 4,62,13,0;level 6,63,13,0;level 5,64,13,0
 requires_item=10
-set_status=grass18
+requires_not_status=winter
+set_status=cut_grass18
 
 [event]
 # grass19
@@ -6390,7 +6408,7 @@ location=68,12,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,67,11,43;level 9,68,11,44;level 3,69,11,45;level 7,67,12,107;level 10,68,12,108;level 8,69,12,109;level 4,67,13,171;level 6,68,13,172;level 5,69,13,173
-requires_not_status=grass19
+requires_not_status=cut_grass19,winter
 
 [event]
 # cut grass19
@@ -6400,7 +6418,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,67,11,0;level 9,68,11,0;level 3,69,11,0;level 7,67,12,0;level 10,68,12,0;level 8,69,12,0;level 4,67,13,0;level 6,68,13,0;level 5,69,13,0
 requires_item=10
-set_status=grass19
+requires_not_status=winter
+set_status=cut_grass19
 
 [event]
 # grass20
@@ -6409,7 +6428,7 @@ location=65,17,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20,winter
 
 [event]
 # cut grass20
@@ -6419,7 +6438,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,64,16,0;level 9,65,16,0;level 3,66,16,0;level 7,64,17,0;level 10,65,17,0;level 8,66,17,0;level 4,64,18,0;level 6,65,18,0;level 5,66,18,0
 requires_item=10
-set_status=grass20
+requires_not_status=winter
+set_status=cut_grass20
 
 [event]
 # grass21
@@ -6428,7 +6448,7 @@ location=67,15,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,66,14,43;level 9,67,14,44;level 3,68,14,45;level 7,66,15,107;level 10,67,15,108;level 8,68,15,109;level 4,66,16,171;level 6,67,16,172;level 5,68,16,173
-requires_not_status=grass21
+requires_not_status=cut_grass21,winter
 
 [event]
 # cut grass21
@@ -6438,7 +6458,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,66,14,0;level 9,67,14,0;level 3,68,14,0;level 7,66,15,0;level 10,67,15,0;level 8,68,15,0;level 4,66,16,0;level 6,67,16,0;level 5,68,16,0
 requires_item=10
-set_status=grass21
+requires_not_status=winter
+set_status=cut_grass21
 
 [event]
 # grass22
@@ -6447,7 +6468,7 @@ location=36,27,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,35,26,43;level 9,36,26,44;level 3,37,26,45;level 7,35,27,107;level 10,36,27,108;level 8,36,27,109;level 4,35,28,171;level 6,36,28,172;level 5,37,28,173
-requires_not_status=grass22
+requires_not_status=cut_grass22,winter
 
 [event]
 # cut grass22
@@ -6457,7 +6478,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,35,26,0;level 9,36,26,0;level 3,37,26,0;level 7,35,27,0;level 10,36,27,0;level 8,36,27,0;level 4,35,28,0;level 6,36,28,0;level 5,37,28,0
 requires_item=10
-set_status=grass22
+requires_not_status=winter
+set_status=cut_grass22
 
 [event]
 # grass23
@@ -6466,7 +6488,7 @@ location=37,27,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,36,26,43;level 9,37,26,44;level 3,38,26,45;level 7,36,27,107;level 10,37,27,108;level 8,38,27,109;level 4,36,28,171;level 6,37,28,172;level 5,38,28,173
-requires_not_status=grass23
+requires_not_status=cut_grass23,winter
 
 [event]
 # cut grass23
@@ -6476,7 +6498,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,36,26,0;level 9,37,26,0;level 3,38,26,0;level 7,36,27,0;level 10,37,27,0;level 8,38,27,0;level 4,36,28,0;level 6,37,28,0;level 5,38,28,0
 requires_item=10
-set_status=grass23
+requires_not_status=winter
+set_status=cut_grass23
 
 [event]
 # grass24
@@ -6485,7 +6508,7 @@ location=38,27,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,37,26,43;level 9,38,26,44;level 3,39,26,45;level 7,37,27,107;level 10,38,27,108;level 8,39,27,109;level 4,37,28,171;level 6,38,28,172;level 5,39,28,173
-requires_not_status=grass24
+requires_not_status=cut_grass24,winter
 
 [event]
 # cut grass24
@@ -6495,7 +6518,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,37,26,0;level 9,38,26,0;level 3,39,26,0;level 7,37,27,0;level 10,38,27,0;level 8,39,27,0;level 4,37,28,0;level 6,38,28,0;level 5,39,28,0
 requires_item=10
-set_status=grass24
+requires_not_status=winter
+set_status=cut_grass24
 
 [event]
 # grass25
@@ -6504,7 +6528,7 @@ location=39,27,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,38,26,43;level 9,39,26,44;level 3,40,26,45;level 7,38,27,107;level 10,39,27,108;level 8,40,27,109;level 4,38,28,171;level 6,39,28,172;level 5,40,28,173
-requires_not_status=grass25
+requires_not_status=cut_grass25,winter
 
 [event]
 # cut grass25
@@ -6514,7 +6538,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,38,26,0;level 9,39,26,0;level 3,40,26,0;level 7,38,27,0;level 10,39,27,0;level 8,40,27,0;level 4,38,28,0;level 6,39,28,0;level 5,40,28,0
 requires_item=10
-set_status=grass25
+requires_not_status=winter
+set_status=cut_grass25
 
 [event]
 # grass26
@@ -6523,7 +6548,7 @@ location=40,27,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,39,26,43;level 9,40,26,44;level 3,41,26,45;level 7,39,27,107;level 10,40,27,108;level 8,41,27,109;level 4,39,28,171;level 6,40,28,172;level 5,41,28,173
-requires_not_status=grass26
+requires_not_status=cut_grass26,winter
 
 [event]
 # cut grass26
@@ -6533,7 +6558,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,39,26,0;level 9,40,26,0;level 3,41,26,0;level 7,39,27,0;level 10,40,27,0;level 8,41,27,0;level 4,39,28,0;level 6,40,28,0;level 5,41,28,0
 requires_item=10
-set_status=grass26
+requires_not_status=winter
+set_status=cut_grass26
 
 [event]
 # grass27
@@ -6542,7 +6568,7 @@ location=41,27,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,40,26,43;level 9,41,26,44;level 3,42,26,45;level 7,40,27,107;level 10,41,27,108;level 8,42,27,109;level 4,40,28,171;level 6,41,28,172;level 5,42,28,173
-requires_not_status=grass27
+requires_not_status=cut_grass27,winter
 
 [event]
 # cut grass27
@@ -6552,7 +6578,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,40,26,0;level 9,41,26,0;level 3,42,26,0;level 7,40,27,0;level 10,41,27,0;level 8,42,27,0;level 4,40,28,0;level 6,41,28,0;level 5,42,28,0
 requires_item=10
-set_status=grass27
+requires_not_status=winter
+set_status=cut_grass27
 
 [event]
 # grass28
@@ -6561,7 +6588,7 @@ location=41,28,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,40,27,43;level 9,41,27,44;level 3,42,27,45;level 7,40,28,107;level 10,41,28,108;level 8,42,28,109;level 4,40,29,171;level 6,41,29,172;level 5,42,29,173
-requires_not_status=grass28
+requires_not_status=cut_grass28,winter
 
 [event]
 # cut grass28
@@ -6571,7 +6598,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,40,27,0;level 9,41,27,0;level 3,42,27,0;level 7,40,28,0;level 10,41,28,0;level 8,42,28,0;level 4,40,29,0;level 6,41,29,0;level 5,42,29,0
 requires_item=10
-set_status=grass28
+requires_not_status=winter
+set_status=cut_grass28
 
 [event]
 # grass29
@@ -6580,7 +6608,7 @@ location=40,28,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,39,27,43;level 9,40,27,44;level 3,41,27,45;level 7,39,28,107;level 10,40,28,108;level 8,41,28,109;level 4,39,29,171;level 6,40,29,172;level 5,41,29,173
-requires_not_status=grass29
+requires_not_status=cut_grass29,winter
 
 [event]
 # cut grass29
@@ -6590,7 +6618,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,39,27,0;level 9,40,27,0;level 3,41,27,0;level 7,39,28,0;level 10,40,28,0;level 8,41,28,0;level 4,39,29,0;level 6,40,29,0;level 5,41,29,0
 requires_item=10
-set_status=grass29
+requires_not_status=winter
+set_status=cut_grass29
 
 [event]
 # grass30
@@ -6599,7 +6628,7 @@ location=40,29,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,39,28,43;level 9,40,28,44;level 3,41,28,45;level 7,39,29,107;level 10,40,29,108;level 8,41,29,109;level 4,39,30,171;level 6,40,30,172;level 5,41,30,173
-requires_not_status=grass30
+requires_not_status=cut_grass30,winter
 
 [event]
 # cut grass30
@@ -6609,7 +6638,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,39,28,0;level 9,40,28,0;level 3,41,28,0;level 7,39,29,0;level 10,40,29,0;level 8,41,29,0;level 4,39,30,0;level 6,40,30,0;level 5,41,30,0
 requires_item=10
-set_status=grass30
+requires_not_status=winter
+set_status=cut_grass30
 
 [event]
 # grass31
@@ -6618,7 +6648,7 @@ location=41,29,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,40,28,43;level 9,41,28,44;level 3,42,28,45;level 7,40,29,107;level 10,41,29,108;level 8,42,29,109;level 4,40,30,171;level 6,41,30,172;level 5,42,30,173
-requires_not_status=grass31
+requires_not_status=cut_grass31,winter
 
 [event]
 # cut grass31
@@ -6628,7 +6658,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,40,28,0;level 9,41,28,0;level 3,42,28,0;level 7,40,29,0;level 10,41,29,0;level 8,42,29,0;level 4,40,30,0;level 6,41,30,0;level 5,42,30,0
 requires_item=10
-set_status=grass31
+requires_not_status=winter
+set_status=cut_grass31
 
 [event]
 # grass32
@@ -6637,7 +6668,7 @@ location=40,30,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,39,29,43;level 9,40,29,44;level 3,41,29,45;level 7,39,30,107;level 10,40,30,108;level 8,41,30,109;level 4,39,31,171;level 6,40,31,172;level 5,41,31,173
-requires_not_status=grass32
+requires_not_status=cut_grass32,winter
 
 [event]
 # cut grass32
@@ -6647,7 +6678,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,39,29,0;level 9,40,29,0;level 3,41,29,0;level 7,39,30,0;level 10,40,30,0;level 8,41,30,0;level 4,39,31,0;level 6,40,31,0;level 5,41,31,0
 requires_item=10
-set_status=grass32
+requires_not_status=winter
+set_status=cut_grass32
 
 [event]
 # grass33
@@ -6656,7 +6688,7 @@ location=41,30,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,40,29,43;level 9,41,29,44;level 3,42,29,45;level 7,40,30,107;level 10,41,30,108;level 8,42,30,109;level 4,40,31,171;level 6,41,31,172;level 5,42,31,173
-requires_not_status=grass33
+requires_not_status=cut_grass33,winter
 
 [event]
 # cut grass33
@@ -6666,7 +6698,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,40,29,0;level 9,41,29,0;level 3,42,29,0;level 7,40,30,0;level 10,41,30,0;level 8,42,30,0;level 4,40,31,0;level 6,41,31,0;level 5,42,31,0
 requires_item=10
-set_status=grass33
+requires_not_status=winter
+set_status=cut_grass33
 
 [event]
 # grass34
@@ -6675,7 +6708,7 @@ location=40,31,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,39,30,43;level 9,40,30,44;level 3,41,30,45;level 7,39,31,107;level 10,40,31,108;level 8,41,31,109;level 4,39,32,171;level 6,40,32,172;level 5,41,32,173
-requires_not_status=grass34
+requires_not_status=cut_grass34,winter
 
 [event]
 # cut grass34
@@ -6685,7 +6718,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,39,30,0;level 9,40,30,0;level 3,41,30,0;level 7,39,31,0;level 10,40,31,0;level 8,41,31,0;level 4,39,32,0;level 6,40,32,0;level 5,41,32,0
 requires_item=10
-set_status=grass34
+requires_not_status=winter
+set_status=cut_grass34
 
 [event]
 # grass35
@@ -6694,7 +6728,7 @@ location=41,31,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,40,30,43;level 9,41,30,44;level 3,42,30,45;level 7,40,31,107;level 10,41,31,108;level 8,42,31,109;level 4,40,32,171;level 6,41,32,172;level 5,42,32,173
-requires_not_status=grass35
+requires_not_status=cut_grass35,winter
 
 [event]
 # cut grass35
@@ -6704,7 +6738,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,40,30,0;level 9,41,30,0;level 3,42,30,0;level 7,40,31,0;level 10,41,31,0;level 8,42,31,0;level 4,40,32,0;level 6,41,32,0;level 5,42,32,0
 requires_item=10
-set_status=grass35
+requires_not_status=winter
+set_status=cut_grass35
 
 [event]
 # grass36
@@ -6713,7 +6748,7 @@ location=42,31,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,41,30,43;level 9,42,30,44;level 3,43,30,45;level 7,41,31,107;level 10,42,31,108;level 8,43,31,109;level 4,41,32,171;level 6,42,32,172;level 5,43,32,173
-requires_not_status=grass36
+requires_not_status=cut_grass36,winter
 
 [event]
 # cut grass36
@@ -6723,7 +6758,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,41,30,0;level 9,42,30,0;level 3,43,30,0;level 7,41,31,0;level 10,42,31,0;level 8,43,31,0;level 4,41,32,0;level 6,42,32,0;level 5,43,32,0
 requires_item=10
-set_status=grass36
+requires_not_status=winter
+set_status=cut_grass36
 
 [event]
 # grass37
@@ -6732,7 +6768,7 @@ location=42,27,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,41,26,43;level 9,42,26,44;level 3,43,26,45;level 7,41,27,107;level 10,42,27,108;level 8,43,27,109;level 4,41,28,171;level 6,42,28,172;level 5,43,28,173
-requires_not_status=grass37
+requires_not_status=cut_grass37,winter
 
 [event]
 # cut grass37
@@ -6742,7 +6778,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,41,26,0;level 9,42,26,0;level 3,43,26,0;level 7,41,27,0;level 10,42,27,0;level 8,43,27,0;level 4,41,28,0;level 6,42,28,0;level 5,43,28,0
 requires_item=10
-set_status=grass37
+requires_not_status=winter
+set_status=cut_grass37
 
 [event]
 # grass38
@@ -6751,7 +6788,7 @@ location=39,31,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,38,30,43;level 9,39,30,44;level 3,40,30,45;level 7,38,31,107;level 10,39,31,108;level 8,40,31,109;level 4,38,32,171;level 6,39,32,172;level 5,40,32,173
-requires_not_status=grass38
+requires_not_status=cut_grass38,winter
 
 [event]
 # cut grass38
@@ -6759,9 +6796,10 @@ type=event
 location=39,31,1,1
 activate=on_interact
 hotspot=location
-mapmod=level 2,38,30,0;level 9,39,30,0;level 3,40,30,0;level 7,38,31,0;level 39,31,17,0;level 8,40,31,0;level 4,38,32,0;level 6,39,32,0;level 5,40,32,0
+mapmod=level 2,38,30,0;level 9,39,30,0;level 3,40,30,0;level 7,38,31,0;level 10,39,31,0;level 8,40,31,0;level 4,38,32,0;level 6,39,32,0;level 5,40,32,0
 requires_item=10
-set_status=grass38
+requires_not_status=winter
+set_status=cut_grass38
 
 [event]
 # grass39
@@ -6770,7 +6808,7 @@ location=38,31,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,37,30,43;level 9,38,30,44;level 3,39,30,45;level 7,37,31,107;level 10,38,31,108;level 8,39,31,109;level 4,37,32,171;level 6,38,32,172;level 5,39,32,173
-requires_not_status=grass39
+requires_not_status=cut_grass39,winter
 
 [event]
 # cut grass39
@@ -6780,7 +6818,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,37,30,0;level 9,38,30,0;level 3,39,30,0;level 7,37,31,0;level 10,38,31,0;level 8,39,31,0;level 4,37,32,0;level 6,38,32,0;level 5,39,32,0
 requires_item=10
-set_status=grass39
+requires_not_status=winter
+set_status=cut_grass39
 
 [event]
 # grass40
@@ -6789,7 +6828,7 @@ location=37,31,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,36,30,43;level 9,37,30,44;level 3,38,30,45;level 7,36,31,107;level 10,37,31,108;level 8,38,31,109;level 4,36,32,171;level 6,37,32,172;level 5,38,32,173
-requires_not_status=grass40
+requires_not_status=cut_grass40,winter
 
 [event]
 # cut grass40
@@ -6799,7 +6838,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,36,30,0;level 9,37,30,0;level 3,38,30,0;level 7,36,31,0;level 10,37,31,0;level 8,38,31,0;level 4,36,32,0;level 6,37,32,0;level 5,38,32,0
 requires_item=10
-set_status=grass40
+requires_not_status=winter
+set_status=cut_grass40
 
 [event]
 # grass41
@@ -6808,7 +6848,7 @@ location=36,31,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,35,30,43;level 9,36,30,44;level 3,37,30,45;level 7,35,31,107;level 10,36,31,108;level 8,37,31,109;level 4,35,32,171;level 6,36,32,172;level 5,37,32,173
-requires_not_status=grass41
+requires_not_status=cut_grass41,winter
 
 [event]
 # cut grass41
@@ -6818,7 +6858,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,35,30,0;level 9,36,30,0;level 3,37,30,0;level 7,35,31,0;level 10,36,31,0;level 8,37,31,0;level 4,35,32,0;level 6,36,32,0;level 5,37,32,0
 requires_item=10
-set_status=grass41
+requires_not_status=winter
+set_status=cut_grass41
 
 [event]
 # grass42
@@ -6827,7 +6868,7 @@ location=36,30,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,35,29,43;level 9,36,29,44;level 3,37,29,45;level 7,35,30,107;level 10,36,30,108;level 8,37,30,109;level 4,35,31,171;level 6,36,31,172;level 5,37,31,173
-requires_not_status=grass42
+requires_not_status=cut_grass42,winter
 
 [event]
 # cut grass42
@@ -6837,7 +6878,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,35,29,0;level 9,36,29,0;level 3,37,29,0;level 7,35,30,0;level 10,36,30,0;level 8,37,30,0;level 4,35,31,0;level 6,36,31,0;level 5,37,31,0
 requires_item=10
-set_status=grass42
+requires_not_status=winter
+set_status=cut_grass42
 
 [event]
 # grass43
@@ -6846,7 +6888,7 @@ location=36,29,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,35,28,43;level 9,36,28,44;level 3,37,28,45;level 7,35,29,107;level 10,36,29,108;level 8,37,29,109;level 4,35,30,171;level 6,36,30,172;level 5,37,30,173
-requires_not_status=grass43
+requires_not_status=cut_grass43,winter
 
 [event]
 # cut grass43
@@ -6856,7 +6898,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,35,28,0;level 9,36,28,0;level 3,37,28,0;level 7,35,29,0;level 10,36,29,0;level 8,37,29,0;level 4,35,30,0;level 6,36,30,0;level 5,37,30,0
 requires_item=10
-set_status=grass43
+requires_not_status=winter
+set_status=cut_grass43
 
 [event]
 # grass44
@@ -6865,7 +6908,7 @@ location=36,28,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,35,27,43;level 9,36,27,44;level 3,37,27,45;level 7,35,28,107;level 10,36,28,108;level 8,37,28,109;level 4,35,29,171;level 6,36,29,172;level 5,37,29,173
-requires_not_status=grass44
+requires_not_status=cut_grass44,winter
 
 [event]
 # cut grass44
@@ -6875,7 +6918,8 @@ activate=on_interact
 hotspot=location
 mapmod=level 2,35,27,0;level 9,36,27,0;level 3,37,27,0;level 7,35,28,0;level 10,36,28,0;level 8,37,28,0;level 4,35,29,0;level 6,36,29,0;level 5,37,29,0
 requires_item=10
-set_status=grass44
+requires_not_status=winter
+set_status=cut_grass44
 
 [event]
 # grass45
@@ -6884,7 +6928,7 @@ location=40,26,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,39,25,43;level 9,40,25,44;level 3,41,25,45;level 7,39,26,107;level 10,40,26,108;level 8,41,26,109;level 4,39,27,171;level 6,40,27,172;level 5,41,27,173
-requires_not_status=grass45
+requires_not_status=cut_grass45,winter
 
 [event]
 # cut grass45
@@ -6892,27 +6936,50 @@ type=event
 location=40,26,1,1
 activate=on_interact
 hotspot=location
-mapmod=level 2,39,25,0;level 9,40,0,44;level 3,41,25,0;level 7,39,26,0;level 10,40,26,0;level 8,41,26,0;level 4,39,27,0;level 6,40,27,0;level 5,41,27,0
+mapmod=level 2,39,25,0;level 9,40,25,0;level 3,41,25,0;level 7,39,26,0;level 10,40,26,0;level 8,41,26,0;level 4,39,27,0;level 6,40,27,0;level 5,41,27,0
 requires_item=10
-set_status=grass45
+requires_not_status=winter
+set_status=cut_grass45
 
 [event]
-# grass20
+# grass46
 type=event
 location=41,26,1,1
 activate=on_load
 hotspot=location
-mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+mapmod=level 2,40,25,43;level 9,41,25,44;level 3,42,25,45;level 7,40,26,107;level 10,41,26,108;level 8,42,26,109;level 4,40,27,171;level 6,41,27,172;level 5,42,27,173
+requires_not_status=cut_grass46,winter
 
 [event]
-# grass20
+# cut grass46
+type=event
+location=41,26,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,40,25,0;level 9,41,25,0;level 3,42,25,0;level 7,40,26,0;level 10,41,26,0;level 8,42,26,0;level 4,40,27,0;level 6,41,27,0;level 5,42,27,0
+requires_item=10
+requires_not_status=winter
+set_status=cut_grass46
+
+[event]
+# grass47
 type=event
 location=40,25,1,1
 activate=on_load
 hotspot=location
-mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+mapmod=level 2,39,24,43;level 9,40,24,44;level 3,41,24,45;level 7,39,25,107;level 10,40,25,108;level 8,41,25,109;level 4,39,26,171;level 6,40,26,172;level 5,41,26,173
+requires_not_status=cut_grass47,winter
+
+[event]
+# cut grass47
+type=event
+location=40,25,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,39,24,0;level 9,40,24,0;level 3,41,24,0;level 7,39,25,0;level 10,40,25,0;level 8,41,25,0;level 4,39,26,0;level 6,40,26,0;level 5,41,26,0
+requires_item=10
+requires_not_status=winter
+set_status=cut_grass47
 
 [event]
 # grass20
@@ -6921,7 +6988,7 @@ location=41,25,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -6930,7 +6997,7 @@ location=40,24,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -6939,7 +7006,7 @@ location=41,24,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -6948,7 +7015,7 @@ location=42,24,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -6957,7 +7024,7 @@ location=43,24,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -6966,7 +7033,7 @@ location=44,24,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -6975,7 +7042,7 @@ location=45,24,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -6984,7 +7051,7 @@ location=46,24,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -6993,7 +7060,7 @@ location=44,23,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -7002,7 +7069,7 @@ location=45,23,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -7011,7 +7078,7 @@ location=46,23,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -7020,7 +7087,7 @@ location=35,30,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -7029,7 +7096,7 @@ location=34,30,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -7038,7 +7105,7 @@ location=33,30,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -7047,7 +7114,7 @@ location=32,30,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -7056,7 +7123,7 @@ location=37,32,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -7065,7 +7132,7 @@ location=37,33,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -7074,7 +7141,7 @@ location=37,34,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -7083,7 +7150,7 @@ location=36,34,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -7092,7 +7159,7 @@ location=35,34,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -7101,7 +7168,7 @@ location=34,34,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -7110,7 +7177,7 @@ location=33,34,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -7119,7 +7186,7 @@ location=32,34,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -7128,7 +7195,7 @@ location=40,32,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -7137,7 +7204,7 @@ location=41,32,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -7146,7 +7213,7 @@ location=37,28,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [event]
 # grass20
@@ -7155,7 +7222,7 @@ location=39,30,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=grass20
+requires_not_status=cut_grass20
 
 [enemy]
 # fish
