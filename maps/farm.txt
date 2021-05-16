@@ -2612,6 +2612,3198 @@ requires_not_status=cut1,summer,fall,winter
 spawn=spring-tree1,19,6
 
 [event]
+# springtree2
+type=event
+location=36,14,1,1
+activate=on_load
+requires_not_status=cut2,summer,fall,winter
+spawn=spring-tree2,37,14
+
+[event]
+# springtree3
+type=event
+location=21,12,1,1
+activate=on_load
+requires_not_status=cut3,summer,fall,winter
+spawn=spring-tree3,21,12
+
+[event]
+# springtree4
+type=event
+location=15,21,1,1
+activate=on_load
+requires_not_status=cut4,summer,fall,winter
+spawn=spring-tree4,15,21
+
+[event]
+# springtree5
+type=event
+location=28,23,1,1
+activate=on_load
+requires_not_status=cut5,summer,fall,winter
+spawn=spring-tree5,28,23
+
+[event]
+# springtree6
+type=event
+location=17,26,1,1
+activate=on_load
+requires_not_status=cut6,summer,fall,winter
+spawn=spring-tree6,17,26
+
+[event]
+# springtree7
+type=event
+location=22,32,1,1
+activate=on_load
+requires_not_status=cut7,summer,fall,winter
+spawn=spring-tree7,22,32
+
+[event]
+# springtree8
+type=event
+location=16,39,1,1
+activate=on_load
+requires_not_status=cut8,summer,fall,winter
+spawn=spring-tree8,16,39
+
+[event]
+# springtree9
+type=event
+location=31,33,1,1
+activate=on_load
+requires_not_status=cut9,summer,fall,winter
+spawn=spring-tree9,31,33
+
+[event]
+# springtree10
+type=event
+location=29,42,1,1
+activate=on_load
+requires_not_status=cut10,summer,fall,winter
+spawn=spring-tree10,29,42
+
+[event]
+# springtree11
+type=event
+location=16,49,1,1
+activate=on_load
+requires_not_status=cut11,summer,fall,winter
+spawn=spring-tree11,16,49
+
+[event]
+# springtree12
+type=event
+location=26,53,1,1
+activate=on_load
+requires_not_status=cut12,summer,fall,winter
+spawn=spring-tree12,26,53
+
+[event]
+# springtree13
+type=event
+location=38,45,1,1
+activate=on_load
+requires_not_status=cut13,summer,fall,winter
+spawn=spring-tree13,38,45
+
+[event]
+# springtree14
+type=event
+location=43,26,1,1
+activate=on_load
+requires_not_status=cut14,summer,fall,winter
+spawn=spring-tree14,43,26
+
+[event]
+# springtree15
+type=event
+location=47,51,1,1
+activate=on_load
+requires_not_status=cut15,summer,fall,winter
+spawn=spring-tree15,47,51
+
+[event]
+# springtree16
+type=event
+location=47,38,1,1
+activate=on_load
+requires_not_status=cut16,summer,fall,winter
+spawn=spring-tree16,47,38
+
+[event]
+# springtree17
+type=event
+location=46,12,1,1
+activate=on_load
+requires_not_status=cut17,summer,fall,winter
+spawn=spring-tree17,46,12
+
+[event]
+# springtree18
+type=event
+location=53,18,1,1
+activate=on_load
+requires_not_status=cut18,summer,fall,winter
+spawn=spring-tree18,53,18
+
+[event]
+# springtree19
+type=event
+location=54,27,1,1
+activate=on_load
+requires_not_status=cut19,summer,fall,winter
+spawn=spring-tree19,54,27
+
+[event]
+# springtree20
+type=event
+location=60,47,1,1
+activate=on_load
+requires_not_status=cut20,summer,fall,winter
+spawn=spring-tree20,60,47
+
+[event]
+# springtree21
+type=event
+location=59,12,1,1
+activate=on_load
+requires_not_status=cut21,summer,fall,winter
+spawn=spring-tree21,59,12
+
+[event]
+# springtree22
+type=event
+location=64,25,1,1
+activate=on_load
+requires_not_status=cut22,summer,fall,winter
+spawn=spring-tree22,64,25
+
+[event]
+# springtree23
+type=event
+location=66,39,1,1
+activate=on_load
+requires_not_status=cut23,summer,fall,winter
+spawn=spring-tree23,66,39
+
+[event]
+# springtree24
+type=event
+location=67,52,1,1
+activate=on_load
+requires_not_status=cut24,summer,fall,winter
+spawn=spring-tree24,67,52
+
+[event]
+# springtree25
+type=event
+location=68,14,1,1
+activate=on_load
+requires_not_status=cut25,summer,fall,winter
+spawn=spring-tree25,68,14
+
+[event]
+# springtree26
+type=event
+location=9,18,1,1
+activate=on_load
+requires_not_status=cut26,summer,fall,winter
+spawn=spring-tree26,9,18
+
+[event]
+# springtree27
+type=event
+location=13,30,1,1
+activate=on_load
+requires_not_status=cut27,summer,fall,winter
+spawn=spring-tree27,13,30
+
+[event]
+# springtree28
+type=event
+location=21,19,1,1
+activate=on_load
+requires_not_status=cut28,summer,fall,winter
+spawn=spring-tree28,21,19
+
+[event]
+# springtree29
+type=event
+location=22,25,1,1
+activate=on_load
+requires_not_status=cut29,summer,fall,winter
+spawn=spring-tree29,22,25
+
+[event]
+# springtree30
+type=event
+location=26,16,1,1
+activate=on_load
+requires_not_status=cut30,summer,fall,winter
+spawn=spring-tree30,26,16
+
+[event]
+# springtree31
+type=event
+location=36,23,1,1
+activate=on_load
+requires_not_status=cut31,summer,fall,winter
+spawn=spring-tree31,36,23
+
+[event]
+# springtree32
+type=event
+location=70,18,1,1
+activate=on_load
+requires_not_status=cut32,summer,fall,winter
+spawn=spring-tree32,70,18
+
+[event]
+# springtree33
+type=event
+location=60,17,1,1
+activate=on_load
+requires_not_status=cut33,summer,fall,winter
+spawn=spring-tree33,60,17
+
+[event]
+# springtree34
+type=event
+location=70,26,1,1
+activate=on_load
+requires_not_status=cut34,summer,fall,winter
+spawn=spring-tree34,70,26
+
+[event]
+# springtree35
+type=event
+location=58,31,1,1
+activate=on_load
+requires_not_status=cut35,summer,fall,winter
+spawn=spring-tree35,58,31
+
+[event]
+# springtree36
+type=event
+location=67,31,1,1
+activate=on_load
+requires_not_status=cut36,summer,fall,winter
+spawn=spring-tree36,67,31
+
+[event]
+# springtree37
+type=event
+location=48,30,1,1
+activate=on_load
+requires_not_status=cut37,summer,fall,winter
+spawn=spring-tree37,48,30
+
+[event]
+# springtree38
+type=event
+location=55,56,1,1
+activate=on_load
+requires_not_status=cut38,summer,fall,winter
+spawn=spring-tree38,55,56
+
+[event]
+# springtree39
+type=event
+location=67,55,1,1
+activate=on_load
+requires_not_status=cut39,summer,fall,winter
+spawn=spring-tree39,67,55
+
+[event]
+# springtree40
+type=event
+location=70,43,1,1
+activate=on_load
+requires_not_status=cut40,summer,fall,winter
+spawn=spring-tree40,70,43
+
+[event]
+# springtree41
+type=event
+location=55,39,1,1
+activate=on_load
+requires_not_status=cut41,summer,fall,winter
+spawn=spring-tree41,55,39
+
+[event]
+# springtree42
+type=event
+location=46,43,1,1
+activate=on_load
+requires_not_status=cut42,summer,fall,winter
+spawn=spring-tree42,46,43
+
+[event]
+# springtree43
+type=event
+location=42,54,1,1
+activate=on_load
+requires_not_status=cut43,summer,fall,winter
+spawn=spring-tree43,42,54
+
+[event]
+# springtree44
+type=event
+location=37,36,1,1
+activate=on_load
+requires_not_status=cut44,summer,fall,winter
+spawn=spring-tree44,37,36
+
+[event]
+# springtree45
+type=event
+location=34,51,1,1
+activate=on_load
+requires_not_status=cut45,summer,fall,winter
+spawn=spring-tree45,34,51
+
+[event]
+# springtree46
+type=event
+location=21,55,1,1
+activate=on_load
+requires_not_status=cut46,summer,fall,winter
+spawn=spring-tree46,21,55
+
+[event]
+# springtree47
+type=event
+location=21,47,1,1
+activate=on_load
+requires_not_status=cut47,summer,fall,winter
+spawn=spring-tree47,21,47
+
+[event]
+# springtree48
+type=event
+location=21,39,1,1
+activate=on_load
+requires_not_status=cut48,summer,fall,winter
+spawn=spring-tree48,21,39
+
+[event]
+# springtree49
+type=event
+location=32,27,1,1
+activate=on_load
+requires_not_status=cut49,summer,fall,winter
+spawn=spring-tree49,32,27
+
+[event]
+# springtree50
+type=event
+location=44,18,1,1
+activate=on_load
+requires_not_status=cut50,summer,fall,winter
+spawn=spring-tree50,44,18
+
+[event]
+# springtree51
+type=event
+location=32,17,1,1
+activate=on_load
+requires_not_status=cut51,summer,fall,winter
+spawn=spring-tree51,32,17
+
+[event]
+# springtree52
+type=event
+location=38,29,1,1
+activate=on_load
+requires_not_status=cut52,summer,fall,winter
+spawn=spring-tree52,38,29
+
+[event]
+# springtree53
+type=event
+location=52,44,1,1
+activate=on_load
+requires_not_status=cut53,summer,fall,winter
+spawn=spring-tree53,52,44
+
+[event]
+# springtree54
+type=event
+location=27,35,1,1
+activate=on_load
+requires_not_status=cut54,summer,fall,winter
+spawn=spring-tree54,27,35
+
+[event]
+# springtree55
+type=event
+location=43,32,1,1
+activate=on_load
+requires_not_status=cut55,summer,fall,winter
+spawn=spring-tree55,43,32
+
+[event]
+# springtree56
+type=event
+location=57,20,1,1
+activate=on_load
+requires_not_status=cu56,summer,fall,winter
+spawn=spring-tree56,57,20
+
+[event]
+# springtree57
+type=event
+location=60,40,1,1
+activate=on_load
+requires_not_status=cut57,summer,fall,winter
+spawn=spring-tree57,60,40
+
+[event]
+# springtree58
+type=event
+location=48,56,1,1
+activate=on_load
+requires_not_status=cut58,summer,fall,winter
+spawn=spring-tree58,48,56
+
+[event]
+# springtree59
+type=event
+location=30,54,1,1
+activate=on_load
+requires_not_status=cut59,summer,fall,winter
+spawn=spring-tree59,30,54
+
+[event]
+# springtree60
+type=event
+location=72,54,1,1
+activate=on_load
+requires_not_status=cut60,summer,fall,winter
+spawn=spring-tree60,72,54
+
+[event]
+# springtree61
+type=event
+location=60,56,1,1
+activate=on_load
+requires_not_status=cut61,summer,fall,winter
+spawn=spring-tree61,60,56
+
+[event]
+# springtree62
+type=event
+location=62,33,1,1
+activate=on_load
+requires_not_status=cut62,summer,fall,winter
+spawn=spring-tree62,62,33
+
+[event]
+# springtree63
+type=event
+location=52,33,1,1
+activate=on_load
+requires_not_status=cut63,summer,fall,winter
+spawn=spring-tree63,52,33
+
+[event]
+# springtree64
+type=event
+location=48,21,1,1
+activate=on_load
+requires_not_status=cut64,summer,fall,winter
+spawn=spring-tree64,48,21
+
+[event]
+# springtree65
+type=event
+location=64,18,1,1
+activate=on_load
+requires_not_status=cut65,summer,fall,winter
+spawn=spring-tree65,64,18
+
+[event]
+# springtree66
+type=event
+location=71,34,1,1
+activate=on_load
+requires_not_status=cut66,summer,fall,winter
+spawn=spring-tree66,71,34
+
+[event]
+# springtree67
+type=event
+location=16,32,1,1
+activate=on_load
+requires_not_status=cut67,summer,fall,winter
+spawn=spring-tree67,16,32
+
+[event]
+# springtree68
+type=event
+location=26,26,1,1
+activate=on_load
+requires_not_status=cut68,summer,fall,winter
+spawn=spring-tree68,26,26
+
+[event]
+# springtree69
+type=event
+location=39,17,1,1
+activate=on_load
+requires_not_status=cut69,summer,fall,winter
+spawn=spring-tree69,39,17
+
+[event]
+# springtree70
+type=event
+location=29,10,1,1
+activate=on_load
+requires_not_status=cut70,summer,fall,winter
+spawn=spring-tree70,29,10
+
+[event]
+# springtree71
+type=event
+location=51,11,1,1
+activate=on_load
+requires_not_status=cut71,summer,fall,winter
+spawn=spring-tree71,51,11
+
+[event]
+# springtree72
+type=event
+location=55,49,1,1
+activate=on_load
+requires_not_status=cut72,summer,fall,winter
+spawn=spring-tree72,55,49
+
+[event]
+# springtree73
+type=event
+location=67,45,1,1
+activate=on_load
+requires_not_status=cut73,summer,fall,winter
+spawn=spring-tree73,67,45
+
+[event]
+# springtree74
+type=event
+location=27,45,1,1
+activate=on_load
+requires_not_status=cut74,summer,fall,winter
+spawn=spring-tree74,27,45
+
+[event]
+# springtree75
+type=event
+location=13,42,1,1
+activate=on_load
+requires_not_status=cut75,summer,fall,winter
+spawn=spring-tree75,13,42
+
+[event]
+# springtree76
+type=event
+location=37,38,1,1
+activate=on_load
+requires_not_status=cut76,summer,fall,winter
+spawn=spring-tree76,37,38
+
+[event]
+# springtree77
+type=event
+location=12,33,1,1
+activate=on_load
+requires_not_status=cut77,summer,fall,winter
+spawn=spring-tree77,12,33
+
+[event]
+# springtree78
+type=event
+location=51,58,1,1
+activate=on_load
+requires_not_status=cut78,summer,fall,winter
+spawn=spring-tree78,51,58
+
+[event]
+# springtree79
+type=event
+location=41,47,1,1
+activate=on_load
+requires_not_status=cut79,summer,fall,winter
+spawn=spring-tree79,41,47
+
+[event]
+# springtree80
+type=event
+location=52,21,1,1
+activate=on_load
+requires_not_status=cut80,summer,fall,winter
+spawn=spring-tree80,52,21
+
+[event]
+# springtree81
+type=event
+location=59,25,1,1
+activate=on_load
+requires_not_status=cut81,summer,fall,winter
+spawn=spring-tree81,59,25
+
+[event]
+# springtree82
+type=event
+location=18,41,1,1
+activate=on_load
+requires_not_status=cut82,summer,fall,winter
+spawn=spring-tree82,18,41
+
+[event]
+# springtree83
+type=event
+location=19,33,1,1
+activate=on_load
+requires_not_status=cut83,summer,fall,winter
+spawn=spring-tree83,19,33
+
+[event]
+# springtree84
+type=event
+location=36,54,1,1
+activate=on_load
+requires_not_status=cut84,summer,fall,winter
+spawn=spring-tree84,36,54
+
+[event]
+# springtree85
+type=event
+location=31,44,1,1
+activate=on_load
+requires_not_status=cut85,summer,fall,winter
+spawn=spring-tree85,31,44
+
+[event]
+# springtree86
+type=event
+location=31,36,1,1
+activate=on_load
+requires_not_status=cut86,summer,fall,winter
+spawn=spring-tree86,31,36
+
+[event]
+# springtree87
+type=event
+location=67,19,1,1
+activate=on_load
+requires_not_status=cut87,summer,fall,winter
+spawn=spring-tree87,67,19
+
+[event]
+# springtree88
+type=event
+location=41,20,1,1
+activate=on_load
+requires_not_status=cut88,summer,fall,winter
+spawn=spring-tree88,41,20
+
+[event]
+# springtree89
+type=event
+location=14,15,1,1
+activate=on_load
+requires_not_status=cut89,summer,fall,winter
+spawn=spring-tree89,14,15
+
+[event]
+# springtree90
+type=event
+location=19,49,1,1
+activate=on_load
+requires_not_status=cut90,summer,fall,winter
+spawn=spring-tree90,19,49
+
+[event]
+# springtree91
+type=event
+location=44,56,1,1
+activate=on_load
+requires_not_status=cut91,summer,fall,winter
+spawn=spring-tree91,44,56
+
+[event]
+# springtree92
+type=event
+location=70,57,1,1
+activate=on_load
+requires_not_status=cut92,summer,fall,winter
+spawn=spring-tree92,70,57
+
+[event]
+# springtree93
+type=event
+location=72,46,1,1
+activate=on_load
+requires_not_status=cut93,summer,fall,winter
+spawn=spring-tree93,72,46
+
+[event]
+# springtree94
+type=event
+location=59,50,1,1
+activate=on_load
+requires_not_status=cut94,summer,fall,winter
+spawn=spring-tree94,59,50
+
+[event]
+# springtree95
+type=event
+location=71,20,1,1
+activate=on_load
+requires_not_status=cut95,summer,fall,winter
+spawn=spring-tree95,71,20
+
+[event]
+# springtree96
+type=event
+location=72,9,1,1
+activate=on_load
+requires_not_status=cut96,summer,fall,winter
+spawn=spring-tree96,72,9
+
+[event]
+# summertree1
+type=event
+location=19,6,1,1
+activate=on_load
+requires_not_status=cut1,spring,fall,winter
+spawn=summer-tree1,19,6
+
+[event]
+# summertree2
+type=event
+location=36,14,1,1
+activate=on_load
+requires_not_status=cut2,spring,fall,winter
+spawn=summer-tree2,37,14
+
+[event]
+# summertree3
+type=event
+location=21,12,1,1
+activate=on_load
+requires_not_status=cut3,spring,fall,winter
+spawn=summer-tree3,21,12
+
+[event]
+# summertree4
+type=event
+location=15,21,1,1
+activate=on_load
+requires_not_status=cut4,spring,fall,winter
+spawn=summer-tree4,15,21
+
+[event]
+# summertree5
+type=event
+location=28,23,1,1
+activate=on_load
+requires_not_status=cut5,spring,fall,winter
+spawn=summer-tree5,28,23
+
+[event]
+# summertree6
+type=event
+location=17,26,1,1
+activate=on_load
+requires_not_status=cut6,spring,fall,winter
+spawn=summer-tree6,17,26
+
+[event]
+# summertree7
+type=event
+location=22,32,1,1
+activate=on_load
+requires_not_status=cut7,spring,fall,winter
+spawn=summer-tree7,22,32
+
+[event]
+# summertree8
+type=event
+location=16,39,1,1
+activate=on_load
+requires_not_status=cut8,spring,fall,winter
+spawn=summer-tree8,16,39
+
+[event]
+# summertree9
+type=event
+location=31,33,1,1
+activate=on_load
+requires_not_status=cut9,spring,fall,winter
+spawn=summer-tree9,31,33
+
+[event]
+# summertree10
+type=event
+location=29,42,1,1
+activate=on_load
+requires_not_status=cut10,spring,fall,winter
+spawn=summer-tree10,29,42
+
+[event]
+# summertree11
+type=event
+location=16,49,1,1
+activate=on_load
+requires_not_status=cut11,spring,fall,winter
+spawn=summer-tree11,16,49
+
+[event]
+# summertree12
+type=event
+location=26,53,1,1
+activate=on_load
+requires_not_status=cut12,spring,fall,winter
+spawn=summer-tree12,26,53
+
+[event]
+# summertree13
+type=event
+location=38,45,1,1
+activate=on_load
+requires_not_status=cut13,spring,fall,winter
+spawn=summer-tree13,38,45
+
+[event]
+# summertree14
+type=event
+location=43,26,1,1
+activate=on_load
+requires_not_status=cut14,spring,fall,winter
+spawn=summer-tree14,43,26
+
+[event]
+# summertree15
+type=event
+location=47,51,1,1
+activate=on_load
+requires_not_status=cut15,spring,fall,winter
+spawn=summer-tree15,47,51
+
+[event]
+# summertree16
+type=event
+location=47,38,1,1
+activate=on_load
+requires_not_status=cut16,spring,fall,winter
+spawn=summer-tree16,47,38
+
+[event]
+# summertree17
+type=event
+location=46,12,1,1
+activate=on_load
+requires_not_status=cut17,spring,fall,winter
+spawn=summer-tree17,46,12
+
+[event]
+# summertree18
+type=event
+location=53,18,1,1
+activate=on_load
+requires_not_status=cut18,spring,fall,winter
+spawn=summer-tree18,53,18
+
+[event]
+# summertree19
+type=event
+location=54,27,1,1
+activate=on_load
+requires_not_status=cut19,spring,fall,winter
+spawn=summer-tree19,54,27
+
+[event]
+# summertree20
+type=event
+location=60,47,1,1
+activate=on_load
+requires_not_status=cut20,spring,fall,winter
+spawn=summer-tree20,60,47
+
+[event]
+# summertree21
+type=event
+location=59,12,1,1
+activate=on_load
+requires_not_status=cut21,spring,fall,winter
+spawn=summer-tree21,59,12
+
+[event]
+# summertree22
+type=event
+location=64,25,1,1
+activate=on_load
+requires_not_status=cut22,spring,fall,winter
+spawn=summer-tree22,64,25
+
+[event]
+# summertree23
+type=event
+location=66,39,1,1
+activate=on_load
+requires_not_status=cut23,spring,fall,winter
+spawn=summer-tree23,66,39
+
+[event]
+# summertree24
+type=event
+location=67,52,1,1
+activate=on_load
+requires_not_status=cut24,spring,fall,winter
+spawn=summer-tree24,67,52
+
+[event]
+# summertree25
+type=event
+location=68,14,1,1
+activate=on_load
+requires_not_status=cut25,spring,fall,winter
+spawn=summer-tree25,68,14
+
+[event]
+# summertree26
+type=event
+location=9,18,1,1
+activate=on_load
+requires_not_status=cut26,spring,fall,winter
+spawn=summer-tree26,9,18
+
+[event]
+# summertree27
+type=event
+location=13,30,1,1
+activate=on_load
+requires_not_status=cut27,spring,fall,winter
+spawn=summer-tree27,13,30
+
+[event]
+# summertree28
+type=event
+location=21,19,1,1
+activate=on_load
+requires_not_status=cut28,spring,fall,winter
+spawn=summer-tree28,21,19
+
+[event]
+# summertree29
+type=event
+location=22,25,1,1
+activate=on_load
+requires_not_status=cut29,spring,fall,winter
+spawn=summer-tree29,22,25
+
+[event]
+# summertree30
+type=event
+location=26,16,1,1
+activate=on_load
+requires_not_status=cut30,spring,fall,winter
+spawn=summer-tree30,26,16
+
+[event]
+# summertree31
+type=event
+location=36,23,1,1
+activate=on_load
+requires_not_status=cut31,spring,fall,winter
+spawn=summer-tree31,36,23
+
+[event]
+# summertree32
+type=event
+location=70,18,1,1
+activate=on_load
+requires_not_status=cut32,spring,fall,winter
+spawn=summer-tree32,70,18
+
+[event]
+# summertree33
+type=event
+location=60,17,1,1
+activate=on_load
+requires_not_status=cut33,spring,fall,winter
+spawn=summer-tree33,60,17
+
+[event]
+# summertree34
+type=event
+location=70,26,1,1
+activate=on_load
+requires_not_status=cut34,spring,fall,winter
+spawn=summer-tree34,70,26
+
+[event]
+# summertree35
+type=event
+location=58,31,1,1
+activate=on_load
+requires_not_status=cut35,spring,fall,winter
+spawn=summer-tree35,58,31
+
+[event]
+# summertree36
+type=event
+location=67,31,1,1
+activate=on_load
+requires_not_status=cut36,spring,fall,winter
+spawn=summer-tree36,67,31
+
+[event]
+# summertree37
+type=event
+location=48,30,1,1
+activate=on_load
+requires_not_status=cut37,spring,fall,winter
+spawn=summer-tree37,48,30
+
+[event]
+# summertree38
+type=event
+location=55,56,1,1
+activate=on_load
+requires_not_status=cut38,spring,fall,winter
+spawn=summer-tree38,55,56
+
+[event]
+# summertree39
+type=event
+location=67,55,1,1
+activate=on_load
+requires_not_status=cut39,spring,fall,winter
+spawn=summer-tree39,67,55
+
+[event]
+# summertree40
+type=event
+location=70,43,1,1
+activate=on_load
+requires_not_status=cut40,spring,fall,winter
+spawn=summer-tree40,70,43
+
+[event]
+# summertree41
+type=event
+location=55,39,1,1
+activate=on_load
+requires_not_status=cut41,spring,fall,winter
+spawn=summer-tree41,55,39
+
+[event]
+# summertree42
+type=event
+location=46,43,1,1
+activate=on_load
+requires_not_status=cut42,spring,fall,winter
+spawn=summer-tree42,46,43
+
+[event]
+# summertree43
+type=event
+location=42,54,1,1
+activate=on_load
+requires_not_status=cut43,spring,fall,winter
+spawn=summer-tree43,42,54
+
+[event]
+# summertree44
+type=event
+location=37,36,1,1
+activate=on_load
+requires_not_status=cut44,spring,fall,winter
+spawn=summer-tree44,37,36
+
+[event]
+# summertree45
+type=event
+location=34,51,1,1
+activate=on_load
+requires_not_status=cut45,spring,fall,winter
+spawn=summer-tree45,34,51
+
+[event]
+# summertree46
+type=event
+location=21,55,1,1
+activate=on_load
+requires_not_status=cut46,spring,fall,winter
+spawn=summer-tree46,21,55
+
+[event]
+# summertree47
+type=event
+location=21,47,1,1
+activate=on_load
+requires_not_status=cut47,spring,fall,winter
+spawn=summer-tree47,21,47
+
+[event]
+# summertree48
+type=event
+location=21,39,1,1
+activate=on_load
+requires_not_status=cut48,spring,fall,winter
+spawn=summer-tree48,21,39
+
+[event]
+# summertree49
+type=event
+location=32,27,1,1
+activate=on_load
+requires_not_status=cut49,spring,fall,winter
+spawn=summer-tree49,32,27
+
+[event]
+# summertree50
+type=event
+location=44,18,1,1
+activate=on_load
+requires_not_status=cut50,spring,fall,winter
+spawn=summer-tree50,44,18
+
+[event]
+# summertree51
+type=event
+location=32,17,1,1
+activate=on_load
+requires_not_status=cut51,spring,fall,winter
+spawn=summer-tree51,32,17
+
+[event]
+# summertree52
+type=event
+location=38,29,1,1
+activate=on_load
+requires_not_status=cut52,spring,fall,winter
+spawn=summer-tree52,38,29
+
+[event]
+# summertree53
+type=event
+location=52,44,1,1
+activate=on_load
+requires_not_status=cut53,spring,fall,winter
+spawn=summer-tree53,52,44
+
+[event]
+# summertree54
+type=event
+location=27,35,1,1
+activate=on_load
+requires_not_status=cut54,spring,fall,winter
+spawn=summer-tree54,27,35
+
+[event]
+# summertree55
+type=event
+location=43,32,1,1
+activate=on_load
+requires_not_status=cut55,spring,fall,winter
+spawn=summer-tree55,43,32
+
+[event]
+# summertree56
+type=event
+location=57,20,1,1
+activate=on_load
+requires_not_status=cu56,spring,fall,winter
+spawn=summer-tree56,57,20
+
+[event]
+# summertree57
+type=event
+location=60,40,1,1
+activate=on_load
+requires_not_status=cut57,spring,fall,winter
+spawn=summer-tree57,60,40
+
+[event]
+# summertree58
+type=event
+location=48,56,1,1
+activate=on_load
+requires_not_status=cut58,spring,fall,winter
+spawn=summer-tree58,48,56
+
+[event]
+# summertree59
+type=event
+location=30,54,1,1
+activate=on_load
+requires_not_status=cut59,spring,fall,winter
+spawn=summer-tree59,30,54
+
+[event]
+# summertree60
+type=event
+location=72,54,1,1
+activate=on_load
+requires_not_status=cut60,spring,fall,winter
+spawn=summer-tree60,72,54
+
+[event]
+# summertree61
+type=event
+location=60,56,1,1
+activate=on_load
+requires_not_status=cut61,spring,fall,winter
+spawn=summer-tree61,60,56
+
+[event]
+# summertree62
+type=event
+location=62,33,1,1
+activate=on_load
+requires_not_status=cut62,spring,fall,winter
+spawn=summer-tree62,62,33
+
+[event]
+# summertree63
+type=event
+location=52,33,1,1
+activate=on_load
+requires_not_status=cut63,spring,fall,winter
+spawn=summer-tree63,52,33
+
+[event]
+# summertree64
+type=event
+location=48,21,1,1
+activate=on_load
+requires_not_status=cut64,spring,fall,winter
+spawn=summer-tree64,48,21
+
+[event]
+# summertree65
+type=event
+location=64,18,1,1
+activate=on_load
+requires_not_status=cut65,spring,fall,winter
+spawn=summer-tree65,64,18
+
+[event]
+# summertree66
+type=event
+location=71,34,1,1
+activate=on_load
+requires_not_status=cut66,spring,fall,winter
+spawn=summer-tree66,71,34
+
+[event]
+# summertree67
+type=event
+location=16,32,1,1
+activate=on_load
+requires_not_status=cut67,spring,fall,winter
+spawn=summer-tree67,16,32
+
+[event]
+# summertree68
+type=event
+location=26,26,1,1
+activate=on_load
+requires_not_status=cut68,spring,fall,winter
+spawn=summer-tree68,26,26
+
+[event]
+# summertree69
+type=event
+location=39,17,1,1
+activate=on_load
+requires_not_status=cut69,spring,fall,winter
+spawn=summer-tree69,39,17
+
+[event]
+# summertree70
+type=event
+location=29,10,1,1
+activate=on_load
+requires_not_status=cut70,spring,fall,winter
+spawn=summer-tree70,29,10
+
+[event]
+# summertree71
+type=event
+location=51,11,1,1
+activate=on_load
+requires_not_status=cut71,spring,fall,winter
+spawn=summer-tree71,51,11
+
+[event]
+# summertree72
+type=event
+location=55,49,1,1
+activate=on_load
+requires_not_status=cut72,spring,fall,winter
+spawn=summer-tree72,55,49
+
+[event]
+# summertree73
+type=event
+location=67,45,1,1
+activate=on_load
+requires_not_status=cut73,spring,fall,winter
+spawn=summer-tree73,67,45
+
+[event]
+# summertree74
+type=event
+location=27,45,1,1
+activate=on_load
+requires_not_status=cut74,spring,fall,winter
+spawn=summer-tree74,27,45
+
+[event]
+# summertree75
+type=event
+location=13,42,1,1
+activate=on_load
+requires_not_status=cut75,spring,fall,winter
+spawn=summer-tree75,13,42
+
+[event]
+# summertree76
+type=event
+location=37,38,1,1
+activate=on_load
+requires_not_status=cut76,spring,fall,winter
+spawn=summer-tree76,37,38
+
+[event]
+# summertree77
+type=event
+location=12,33,1,1
+activate=on_load
+requires_not_status=cut77,spring,fall,winter
+spawn=summer-tree77,12,33
+
+[event]
+# summertree78
+type=event
+location=51,58,1,1
+activate=on_load
+requires_not_status=cut78,spring,fall,winter
+spawn=summer-tree78,51,58
+
+[event]
+# summertree79
+type=event
+location=41,47,1,1
+activate=on_load
+requires_not_status=cut79,spring,fall,winter
+spawn=summer-tree79,41,47
+
+[event]
+# summertree80
+type=event
+location=52,21,1,1
+activate=on_load
+requires_not_status=cut80,spring,fall,winter
+spawn=summer-tree80,52,21
+
+[event]
+# summertree81
+type=event
+location=59,25,1,1
+activate=on_load
+requires_not_status=cut81,spring,fall,winter
+spawn=summer-tree81,59,25
+
+[event]
+# summertree82
+type=event
+location=18,41,1,1
+activate=on_load
+requires_not_status=cut82,spring,fall,winter
+spawn=summer-tree82,18,41
+
+[event]
+# summertree83
+type=event
+location=19,33,1,1
+activate=on_load
+requires_not_status=cut83,spring,fall,winter
+spawn=summer-tree83,19,33
+
+[event]
+# summertree84
+type=event
+location=36,54,1,1
+activate=on_load
+requires_not_status=cut84,spring,fall,winter
+spawn=summer-tree84,36,54
+
+[event]
+# summertree85
+type=event
+location=31,44,1,1
+activate=on_load
+requires_not_status=cut85,spring,fall,winter
+spawn=summer-tree85,31,44
+
+[event]
+# summertree86
+type=event
+location=31,36,1,1
+activate=on_load
+requires_not_status=cut86,spring,fall,winter
+spawn=summer-tree86,31,36
+
+[event]
+# summertree87
+type=event
+location=67,19,1,1
+activate=on_load
+requires_not_status=cut87,spring,fall,winter
+spawn=summer-tree87,67,19
+
+[event]
+# summertree88
+type=event
+location=41,20,1,1
+activate=on_load
+requires_not_status=cut88,spring,fall,winter
+spawn=summer-tree88,41,20
+
+[event]
+# summertree89
+type=event
+location=14,15,1,1
+activate=on_load
+requires_not_status=cut89,spring,fall,winter
+spawn=summer-tree89,14,15
+
+[event]
+# summertree90
+type=event
+location=19,49,1,1
+activate=on_load
+requires_not_status=cut90,spring,fall,winter
+spawn=summer-tree90,19,49
+
+[event]
+# summertree91
+type=event
+location=44,56,1,1
+activate=on_load
+requires_not_status=cut91,spring,fall,winter
+spawn=summer-tree91,44,56
+
+[event]
+# summertree92
+type=event
+location=70,57,1,1
+activate=on_load
+requires_not_status=cut92,spring,fall,winter
+spawn=summer-tree92,70,57
+
+[event]
+# summertree93
+type=event
+location=72,46,1,1
+activate=on_load
+requires_not_status=cut93,spring,fall,winter
+spawn=summer-tree93,72,46
+
+[event]
+# summertree94
+type=event
+location=59,50,1,1
+activate=on_load
+requires_not_status=cut94,spring,fall,winter
+spawn=summer-tree94,59,50
+
+[event]
+# summertree95
+type=event
+location=71,20,1,1
+activate=on_load
+requires_not_status=cut95,spring,fall,winter
+spawn=summer-tree95,71,20
+
+[event]
+# summertree96
+type=event
+location=72,9,1,1
+activate=on_load
+requires_not_status=cut96,spring,fall,winter
+spawn=summer-tree96,72,9
+
+[event]
+# summertree97
+type=event
+location=39,9,1,1
+activate=on_load
+requires_not_status=cut97,spring,fall,winter
+spawn=summer-tree97,39,9
+
+[event]
+# summertree98
+type=event
+location=48,24,1,1
+activate=on_load
+requires_not_status=cut98,spring,fall,winter
+spawn=summer-tree98,48,24
+
+[event]
+# summertree99
+type=event
+location=40,38,1,1
+activate=on_load
+requires_not_status=cut99,spring,fall,winter
+spawn=summer-tree99,40,38
+
+[event]
+# summertree100
+type=event
+location=28,47,1,1
+activate=on_load
+requires_not_status=cut100,spring,fall,winter
+spawn=summer-tree100,28,47
+
+[event]
+# falltree1
+type=event
+location=19,6,1,1
+activate=on_load
+requires_not_status=cut1,spring,summer,winter
+spawn=fall-tree1,19,6
+
+[event]
+# falltree2
+type=event
+location=36,14,1,1
+activate=on_load
+requires_not_status=cut2,spring,summer,winter
+spawn=fall-tree2,37,14
+
+[event]
+# falltree3
+type=event
+location=21,12,1,1
+activate=on_load
+requires_not_status=cut3,spring,summer,winter
+spawn=fall-tree3,21,12
+
+[event]
+# falltree4
+type=event
+location=15,21,1,1
+activate=on_load
+requires_not_status=cut4,spring,summer,winter
+spawn=fall-tree4,15,21
+
+[event]
+# falltree5
+type=event
+location=28,23,1,1
+activate=on_load
+requires_not_status=cut5,spring,summer,winter
+spawn=fall-tree5,28,23
+
+[event]
+# falltree6
+type=event
+location=17,26,1,1
+activate=on_load
+requires_not_status=cut6,spring,summer,winter
+spawn=fall-tree6,17,26
+
+[event]
+# falltree7
+type=event
+location=22,32,1,1
+activate=on_load
+requires_not_status=cut7,spring,summer,winter
+spawn=fall-tree7,22,32
+
+[event]
+# falltree8
+type=event
+location=16,39,1,1
+activate=on_load
+requires_not_status=cut8,spring,summer,winter
+spawn=fall-tree8,16,39
+
+[event]
+# falltree9
+type=event
+location=31,33,1,1
+activate=on_load
+requires_not_status=cut9,spring,summer,winter
+spawn=fall-tree9,31,33
+
+[event]
+# falltree10
+type=event
+location=29,42,1,1
+activate=on_load
+requires_not_status=cut10,spring,summer,winter
+spawn=fall-tree10,29,42
+
+[event]
+# falltree11
+type=event
+location=16,49,1,1
+activate=on_load
+requires_not_status=cut11,spring,summer,winter
+spawn=fall-tree11,16,49
+
+[event]
+# falltree12
+type=event
+location=26,53,1,1
+activate=on_load
+requires_not_status=cut12,spring,summer,winter
+spawn=fall-tree12,26,53
+
+[event]
+# falltree13
+type=event
+location=38,45,1,1
+activate=on_load
+requires_not_status=cut13,spring,summer,winter
+spawn=fall-tree13,38,45
+
+[event]
+# falltree14
+type=event
+location=43,26,1,1
+activate=on_load
+requires_not_status=cut14,spring,summer,winter
+spawn=fall-tree14,43,26
+
+[event]
+# falltree15
+type=event
+location=47,51,1,1
+activate=on_load
+requires_not_status=cut15,spring,summer,winter
+spawn=fall-tree15,47,51
+
+[event]
+# falltree16
+type=event
+location=47,38,1,1
+activate=on_load
+requires_not_status=cut16,spring,summer,winter
+spawn=fall-tree16,47,38
+
+[event]
+# falltree17
+type=event
+location=46,12,1,1
+activate=on_load
+requires_not_status=cut17,spring,summer,winter
+spawn=fall-tree17,46,12
+
+[event]
+# falltree18
+type=event
+location=53,18,1,1
+activate=on_load
+requires_not_status=cut18,spring,summer,winter
+spawn=fall-tree18,53,18
+
+[event]
+# falltree19
+type=event
+location=54,27,1,1
+activate=on_load
+requires_not_status=cut19,spring,summer,winter
+spawn=fall-tree19,54,27
+
+[event]
+# falltree20
+type=event
+location=60,47,1,1
+activate=on_load
+requires_not_status=cut20,spring,summer,winter
+spawn=fall-tree20,60,47
+
+[event]
+# falltree21
+type=event
+location=59,12,1,1
+activate=on_load
+requires_not_status=cut21,spring,summer,winter
+spawn=fall-tree21,59,12
+
+[event]
+# falltree22
+type=event
+location=64,25,1,1
+activate=on_load
+requires_not_status=cut22,spring,summer,winter
+spawn=fall-tree22,64,25
+
+[event]
+# falltree23
+type=event
+location=66,39,1,1
+activate=on_load
+requires_not_status=cut23,spring,summer,winter
+spawn=fall-tree23,66,39
+
+[event]
+# falltree24
+type=event
+location=67,52,1,1
+activate=on_load
+requires_not_status=cut24,spring,summer,winter
+spawn=fall-tree24,67,52
+
+[event]
+# falltree25
+type=event
+location=68,14,1,1
+activate=on_load
+requires_not_status=cut25,spring,summer,winter
+spawn=fall-tree25,68,14
+
+[event]
+# falltree26
+type=event
+location=9,18,1,1
+activate=on_load
+requires_not_status=cut26,spring,summer,winter
+spawn=fall-tree26,9,18
+
+[event]
+# falltree27
+type=event
+location=13,30,1,1
+activate=on_load
+requires_not_status=cut27,spring,summer,winter
+spawn=fall-tree27,13,30
+
+[event]
+# falltree28
+type=event
+location=21,19,1,1
+activate=on_load
+requires_not_status=cut28,spring,summer,winter
+spawn=fall-tree28,21,19
+
+[event]
+# falltree29
+type=event
+location=22,25,1,1
+activate=on_load
+requires_not_status=cut29,spring,summer,winter
+spawn=fall-tree29,22,25
+
+[event]
+# falltree30
+type=event
+location=26,16,1,1
+activate=on_load
+requires_not_status=cut30,spring,summer,winter
+spawn=fall-tree30,26,16
+
+[event]
+# falltree31
+type=event
+location=36,23,1,1
+activate=on_load
+requires_not_status=cut31,spring,summer,winter
+spawn=fall-tree31,36,23
+
+[event]
+# falltree32
+type=event
+location=70,18,1,1
+activate=on_load
+requires_not_status=cut32,spring,summer,winter
+spawn=fall-tree32,70,18
+
+[event]
+# falltree33
+type=event
+location=60,17,1,1
+activate=on_load
+requires_not_status=cut33,spring,summer,winter
+spawn=fall-tree33,60,17
+
+[event]
+# falltree34
+type=event
+location=70,26,1,1
+activate=on_load
+requires_not_status=cut34,spring,summer,winter
+spawn=fall-tree34,70,26
+
+[event]
+# falltree35
+type=event
+location=58,31,1,1
+activate=on_load
+requires_not_status=cut35,spring,summer,winter
+spawn=fall-tree35,58,31
+
+[event]
+# falltree36
+type=event
+location=67,31,1,1
+activate=on_load
+requires_not_status=cut36,spring,summer,winter
+spawn=fall-tree36,67,31
+
+[event]
+# falltree37
+type=event
+location=48,30,1,1
+activate=on_load
+requires_not_status=cut37,spring,summer,winter
+spawn=fall-tree37,48,30
+
+[event]
+# falltree38
+type=event
+location=55,56,1,1
+activate=on_load
+requires_not_status=cut38,spring,summer,winter
+spawn=fall-tree38,55,56
+
+[event]
+# falltree39
+type=event
+location=67,55,1,1
+activate=on_load
+requires_not_status=cut39,spring,summer,winter
+spawn=fall-tree39,67,55
+
+[event]
+# falltree40
+type=event
+location=70,43,1,1
+activate=on_load
+requires_not_status=cut40,spring,summer,winter
+spawn=fall-tree40,70,43
+
+[event]
+# falltree41
+type=event
+location=55,39,1,1
+activate=on_load
+requires_not_status=cut41,spring,summer,winter
+spawn=fall-tree41,55,39
+
+[event]
+# falltree42
+type=event
+location=46,43,1,1
+activate=on_load
+requires_not_status=cut42,spring,summer,winter
+spawn=fall-tree42,46,43
+
+[event]
+# falltree43
+type=event
+location=42,54,1,1
+activate=on_load
+requires_not_status=cut43,spring,summer,winter
+spawn=fall-tree43,42,54
+
+[event]
+# falltree44
+type=event
+location=37,36,1,1
+activate=on_load
+requires_not_status=cut44,spring,summer,winter
+spawn=fall-tree44,37,36
+
+[event]
+# falltree45
+type=event
+location=34,51,1,1
+activate=on_load
+requires_not_status=cut45,spring,summer,winter
+spawn=fall-tree45,34,51
+
+[event]
+# falltree46
+type=event
+location=21,55,1,1
+activate=on_load
+requires_not_status=cut46,spring,summer,winter
+spawn=fall-tree46,21,55
+
+[event]
+# falltree47
+type=event
+location=21,47,1,1
+activate=on_load
+requires_not_status=cut47,spring,summer,winter
+spawn=fall-tree47,21,47
+
+[event]
+# falltree48
+type=event
+location=21,39,1,1
+activate=on_load
+requires_not_status=cut48,spring,summer,winter
+spawn=fall-tree48,21,39
+
+[event]
+# falltree49
+type=event
+location=32,27,1,1
+activate=on_load
+requires_not_status=cut49,spring,summer,winter
+spawn=fall-tree49,32,27
+
+[event]
+# falltree50
+type=event
+location=44,18,1,1
+activate=on_load
+requires_not_status=cut50,spring,summer,winter
+spawn=fall-tree50,44,18
+
+[event]
+# falltree51
+type=event
+location=32,17,1,1
+activate=on_load
+requires_not_status=cut51,spring,summer,winter
+spawn=fall-tree51,32,17
+
+[event]
+# falltree52
+type=event
+location=38,29,1,1
+activate=on_load
+requires_not_status=cut52,spring,summer,winter
+spawn=fall-tree52,38,29
+
+[event]
+# falltree53
+type=event
+location=52,44,1,1
+activate=on_load
+requires_not_status=cut53,spring,summer,winter
+spawn=fall-tree53,52,44
+
+[event]
+# falltree54
+type=event
+location=27,35,1,1
+activate=on_load
+requires_not_status=cut54,spring,summer,winter
+spawn=fall-tree54,27,35
+
+[event]
+# falltree55
+type=event
+location=43,32,1,1
+activate=on_load
+requires_not_status=cut55,spring,summer,winter
+spawn=fall-tree55,43,32
+
+[event]
+# falltree56
+type=event
+location=57,20,1,1
+activate=on_load
+requires_not_status=cu56,spring,summer,winter
+spawn=fall-tree56,57,20
+
+[event]
+# falltree57
+type=event
+location=60,40,1,1
+activate=on_load
+requires_not_status=cut57,spring,summer,winter
+spawn=fall-tree57,60,40
+
+[event]
+# falltree58
+type=event
+location=48,56,1,1
+activate=on_load
+requires_not_status=cut58,spring,summer,winter
+spawn=fall-tree58,48,56
+
+[event]
+# falltree59
+type=event
+location=30,54,1,1
+activate=on_load
+requires_not_status=cut59,spring,summer,winter
+spawn=fall-tree59,30,54
+
+[event]
+# falltree60
+type=event
+location=72,54,1,1
+activate=on_load
+requires_not_status=cut60,spring,summer,winter
+spawn=fall-tree60,72,54
+
+[event]
+# falltree61
+type=event
+location=60,56,1,1
+activate=on_load
+requires_not_status=cut61,spring,summer,winter
+spawn=fall-tree61,60,56
+
+[event]
+# falltree62
+type=event
+location=62,33,1,1
+activate=on_load
+requires_not_status=cut62,spring,summer,winter
+spawn=fall-tree62,62,33
+
+[event]
+# falltree63
+type=event
+location=52,33,1,1
+activate=on_load
+requires_not_status=cut63,spring,summer,winter
+spawn=fall-tree63,52,33
+
+[event]
+# falltree64
+type=event
+location=48,21,1,1
+activate=on_load
+requires_not_status=cut64,spring,summer,winter
+spawn=fall-tree64,48,21
+
+[event]
+# falltree65
+type=event
+location=64,18,1,1
+activate=on_load
+requires_not_status=cut65,spring,summer,winter
+spawn=fall-tree65,64,18
+
+[event]
+# falltree66
+type=event
+location=71,34,1,1
+activate=on_load
+requires_not_status=cut66,spring,summer,winter
+spawn=fall-tree66,71,34
+
+[event]
+# falltree67
+type=event
+location=16,32,1,1
+activate=on_load
+requires_not_status=cut67,spring,summer,winter
+spawn=fall-tree67,16,32
+
+[event]
+# falltree68
+type=event
+location=26,26,1,1
+activate=on_load
+requires_not_status=cut68,spring,summer,winter
+spawn=fall-tree68,26,26
+
+[event]
+# falltree69
+type=event
+location=39,17,1,1
+activate=on_load
+requires_not_status=cut69,spring,summer,winter
+spawn=fall-tree69,39,17
+
+[event]
+# falltree70
+type=event
+location=29,10,1,1
+activate=on_load
+requires_not_status=cut70,spring,summer,winter
+spawn=fall-tree70,29,10
+
+[event]
+# falltree71
+type=event
+location=51,11,1,1
+activate=on_load
+requires_not_status=cut71,spring,summer,winter
+spawn=fall-tree71,51,11
+
+[event]
+# falltree72
+type=event
+location=55,49,1,1
+activate=on_load
+requires_not_status=cut72,spring,summer,winter
+spawn=fall-tree72,55,49
+
+[event]
+# falltree73
+type=event
+location=67,45,1,1
+activate=on_load
+requires_not_status=cut73,spring,summer,winter
+spawn=fall-tree73,67,45
+
+[event]
+# falltree74
+type=event
+location=27,45,1,1
+activate=on_load
+requires_not_status=cut74,spring,summer,winter
+spawn=fall-tree74,27,45
+
+[event]
+# falltree75
+type=event
+location=13,42,1,1
+activate=on_load
+requires_not_status=cut75,spring,summer,winter
+spawn=fall-tree75,13,42
+
+[event]
+# falltree76
+type=event
+location=37,38,1,1
+activate=on_load
+requires_not_status=cut76,spring,summer,winter
+spawn=fall-tree76,37,38
+
+[event]
+# falltree77
+type=event
+location=12,33,1,1
+activate=on_load
+requires_not_status=cut77,spring,summer,winter
+spawn=fall-tree77,12,33
+
+[event]
+# falltree78
+type=event
+location=51,58,1,1
+activate=on_load
+requires_not_status=cut78,spring,summer,winter
+spawn=fall-tree78,51,58
+
+[event]
+# falltree79
+type=event
+location=41,47,1,1
+activate=on_load
+requires_not_status=cut79,spring,summer,winter
+spawn=fall-tree79,41,47
+
+[event]
+# falltree80
+type=event
+location=52,21,1,1
+activate=on_load
+requires_not_status=cut80,spring,summer,winter
+spawn=fall-tree80,52,21
+
+[event]
+# falltree81
+type=event
+location=59,25,1,1
+activate=on_load
+requires_not_status=cut81,spring,summer,winter
+spawn=fall-tree81,59,25
+
+[event]
+# falltree82
+type=event
+location=18,41,1,1
+activate=on_load
+requires_not_status=cut82,spring,summer,winter
+spawn=fall-tree82,18,41
+
+[event]
+# falltree83
+type=event
+location=19,33,1,1
+activate=on_load
+requires_not_status=cut83,spring,summer,winter
+spawn=fall-tree83,19,33
+
+[event]
+# falltree84
+type=event
+location=36,54,1,1
+activate=on_load
+requires_not_status=cut84,spring,summer,winter
+spawn=fall-tree84,36,54
+
+[event]
+# falltree85
+type=event
+location=31,44,1,1
+activate=on_load
+requires_not_status=cut85,spring,summer,winter
+spawn=fall-tree85,31,44
+
+[event]
+# falltree86
+type=event
+location=31,36,1,1
+activate=on_load
+requires_not_status=cut86,spring,summer,winter
+spawn=fall-tree86,31,36
+
+[event]
+# falltree87
+type=event
+location=67,19,1,1
+activate=on_load
+requires_not_status=cut87,spring,summer,winter
+spawn=fall-tree87,67,19
+
+[event]
+# falltree88
+type=event
+location=41,20,1,1
+activate=on_load
+requires_not_status=cut88,spring,summer,winter
+spawn=fall-tree88,41,20
+
+[event]
+# falltree89
+type=event
+location=14,15,1,1
+activate=on_load
+requires_not_status=cut89,spring,summer,winter
+spawn=fall-tree89,14,15
+
+[event]
+# falltree90
+type=event
+location=19,49,1,1
+activate=on_load
+requires_not_status=cut90,spring,summer,winter
+spawn=fall-tree90,19,49
+
+[event]
+# falltree91
+type=event
+location=44,56,1,1
+activate=on_load
+requires_not_status=cut91,spring,summer,winter
+spawn=fall-tree91,44,56
+
+[event]
+# falltree92
+type=event
+location=70,57,1,1
+activate=on_load
+requires_not_status=cut92,spring,summer,winter
+spawn=fall-tree92,70,57
+
+[event]
+# falltree93
+type=event
+location=72,46,1,1
+activate=on_load
+requires_not_status=cut93,spring,summer,winter
+spawn=fall-tree93,72,46
+
+[event]
+# falltree94
+type=event
+location=59,50,1,1
+activate=on_load
+requires_not_status=cut94,spring,summer,winter
+spawn=fall-tree94,59,50
+
+[event]
+# falltree95
+type=event
+location=71,20,1,1
+activate=on_load
+requires_not_status=cut95,spring,summer,winter
+spawn=fall-tree95,71,20
+
+[event]
+# falltree96
+type=event
+location=72,9,1,1
+activate=on_load
+requires_not_status=cut96,spring,summer,winter
+spawn=fall-tree96,72,9
+
+[event]
+# falltree97
+type=event
+location=39,9,1,1
+activate=on_load
+requires_not_status=cut97,spring,summer,winter
+spawn=fall-tree97,39,9
+
+[event]
+# falltree98
+type=event
+location=48,24,1,1
+activate=on_load
+requires_not_status=cut98,spring,summer,winter
+spawn=fall-tree98,48,24
+
+[event]
+# falltree99
+type=event
+location=40,38,1,1
+activate=on_load
+requires_not_status=cut99,spring,summer,winter
+spawn=fall-tree99,40,38
+
+[event]
+# falltree100
+type=event
+location=28,47,1,1
+activate=on_load
+requires_not_status=cut100,spring,summer,winter
+spawn=fall-tree100,28,47
+
+[event]
+# wintertree1
+type=event
+location=19,6,1,1
+activate=on_load
+requires_not_status=cut1,spring,summer,fall
+spawn=winter-tree1,19,6
+
+[event]
+# wintertree2
+type=event
+location=36,14,1,1
+activate=on_load
+requires_not_status=cut2,spring,summer,fall
+spawn=winter-tree2,37,14
+
+[event]
+# wintertree3
+type=event
+location=21,12,1,1
+activate=on_load
+requires_not_status=cut3,spring,summer,fall
+spawn=winter-tree3,21,12
+
+[event]
+# wintertree4
+type=event
+location=15,21,1,1
+activate=on_load
+requires_not_status=cut4,spring,summer,fall
+spawn=winter-tree4,15,21
+
+[event]
+# wintertree5
+type=event
+location=28,23,1,1
+activate=on_load
+requires_not_status=cut5,spring,summer,fall
+spawn=winter-tree5,28,23
+
+[event]
+# wintertree6
+type=event
+location=17,26,1,1
+activate=on_load
+requires_not_status=cut6,spring,summer,fall
+spawn=winter-tree6,17,26
+
+[event]
+# wintertree7
+type=event
+location=22,32,1,1
+activate=on_load
+requires_not_status=cut7,spring,summer,fall
+spawn=winter-tree7,22,32
+
+[event]
+# wintertree8
+type=event
+location=16,39,1,1
+activate=on_load
+requires_not_status=cut8,spring,summer,fall
+spawn=winter-tree8,16,39
+
+[event]
+# wintertree9
+type=event
+location=31,33,1,1
+activate=on_load
+requires_not_status=cut9,spring,summer,fall
+spawn=winter-tree9,31,33
+
+[event]
+# wintertree10
+type=event
+location=29,42,1,1
+activate=on_load
+requires_not_status=cut10,spring,summer,fall
+spawn=winter-tree10,29,42
+
+[event]
+# wintertree11
+type=event
+location=16,49,1,1
+activate=on_load
+requires_not_status=cut11,spring,summer,fall
+spawn=winter-tree11,16,49
+
+[event]
+# wintertree12
+type=event
+location=26,53,1,1
+activate=on_load
+requires_not_status=cut12,spring,summer,fall
+spawn=winter-tree12,26,53
+
+[event]
+# wintertree13
+type=event
+location=38,45,1,1
+activate=on_load
+requires_not_status=cut13,spring,summer,fall
+spawn=winter-tree13,38,45
+
+[event]
+# wintertree14
+type=event
+location=43,26,1,1
+activate=on_load
+requires_not_status=cut14,spring,summer,fall
+spawn=winter-tree14,43,26
+
+[event]
+# wintertree15
+type=event
+location=47,51,1,1
+activate=on_load
+requires_not_status=cut15,spring,summer,fall
+spawn=winter-tree15,47,51
+
+[event]
+# wintertree16
+type=event
+location=47,38,1,1
+activate=on_load
+requires_not_status=cut16,spring,summer,fall
+spawn=winter-tree16,47,38
+
+[event]
+# wintertree17
+type=event
+location=46,12,1,1
+activate=on_load
+requires_not_status=cut17,spring,summer,fall
+spawn=winter-tree17,46,12
+
+[event]
+# wintertree18
+type=event
+location=53,18,1,1
+activate=on_load
+requires_not_status=cut18,spring,summer,fall
+spawn=winter-tree18,53,18
+
+[event]
+# wintertree19
+type=event
+location=54,27,1,1
+activate=on_load
+requires_not_status=cut19,spring,summer,fall
+spawn=winter-tree19,54,27
+
+[event]
+# wintertree20
+type=event
+location=60,47,1,1
+activate=on_load
+requires_not_status=cut20,spring,summer,fall
+spawn=winter-tree20,60,47
+
+[event]
+# wintertree21
+type=event
+location=59,12,1,1
+activate=on_load
+requires_not_status=cut21,spring,summer,fall
+spawn=winter-tree21,59,12
+
+[event]
+# wintertree22
+type=event
+location=64,25,1,1
+activate=on_load
+requires_not_status=cut22,spring,summer,fall
+spawn=winter-tree22,64,25
+
+[event]
+# wintertree23
+type=event
+location=66,39,1,1
+activate=on_load
+requires_not_status=cut23,spring,summer,fall
+spawn=winter-tree23,66,39
+
+[event]
+# wintertree24
+type=event
+location=67,52,1,1
+activate=on_load
+requires_not_status=cut24,spring,summer,fall
+spawn=winter-tree24,67,52
+
+[event]
+# wintertree25
+type=event
+location=68,14,1,1
+activate=on_load
+requires_not_status=cut25,spring,summer,fall
+spawn=winter-tree25,68,14
+
+[event]
+# wintertree26
+type=event
+location=9,18,1,1
+activate=on_load
+requires_not_status=cut26,spring,summer,fall
+spawn=winter-tree26,9,18
+
+[event]
+# wintertree27
+type=event
+location=13,30,1,1
+activate=on_load
+requires_not_status=cut27,spring,summer,fall
+spawn=winter-tree27,13,30
+
+[event]
+# wintertree28
+type=event
+location=21,19,1,1
+activate=on_load
+requires_not_status=cut28,spring,summer,fall
+spawn=winter-tree28,21,19
+
+[event]
+# wintertree29
+type=event
+location=22,25,1,1
+activate=on_load
+requires_not_status=cut29,spring,summer,fall
+spawn=winter-tree29,22,25
+
+[event]
+# wintertree30
+type=event
+location=26,16,1,1
+activate=on_load
+requires_not_status=cut30,spring,summer,fall
+spawn=winter-tree30,26,16
+
+[event]
+# wintertree31
+type=event
+location=36,23,1,1
+activate=on_load
+requires_not_status=cut31,spring,summer,fall
+spawn=winter-tree31,36,23
+
+[event]
+# wintertree32
+type=event
+location=70,18,1,1
+activate=on_load
+requires_not_status=cut32,spring,summer,fall
+spawn=winter-tree32,70,18
+
+[event]
+# wintertree33
+type=event
+location=60,17,1,1
+activate=on_load
+requires_not_status=cut33,spring,summer,fall
+spawn=winter-tree33,60,17
+
+[event]
+# wintertree34
+type=event
+location=70,26,1,1
+activate=on_load
+requires_not_status=cut34,spring,summer,fall
+spawn=winter-tree34,70,26
+
+[event]
+# wintertree35
+type=event
+location=58,31,1,1
+activate=on_load
+requires_not_status=cut35,spring,summer,fall
+spawn=winter-tree35,58,31
+
+[event]
+# wintertree36
+type=event
+location=67,31,1,1
+activate=on_load
+requires_not_status=cut36,spring,summer,fall
+spawn=winter-tree36,67,31
+
+[event]
+# wintertree37
+type=event
+location=48,30,1,1
+activate=on_load
+requires_not_status=cut37,spring,summer,fall
+spawn=winter-tree37,48,30
+
+[event]
+# wintertree38
+type=event
+location=55,56,1,1
+activate=on_load
+requires_not_status=cut38,spring,summer,fall
+spawn=winter-tree38,55,56
+
+[event]
+# wintertree39
+type=event
+location=67,55,1,1
+activate=on_load
+requires_not_status=cut39,spring,summer,fall
+spawn=winter-tree39,67,55
+
+[event]
+# wintertree40
+type=event
+location=70,43,1,1
+activate=on_load
+requires_not_status=cut40,spring,summer,fall
+spawn=winter-tree40,70,43
+
+[event]
+# wintertree41
+type=event
+location=55,39,1,1
+activate=on_load
+requires_not_status=cut41,spring,summer,fall
+spawn=winter-tree41,55,39
+
+[event]
+# wintertree42
+type=event
+location=46,43,1,1
+activate=on_load
+requires_not_status=cut42,spring,summer,fall
+spawn=winter-tree42,46,43
+
+[event]
+# wintertree43
+type=event
+location=42,54,1,1
+activate=on_load
+requires_not_status=cut43,spring,summer,fall
+spawn=winter-tree43,42,54
+
+[event]
+# wintertree44
+type=event
+location=37,36,1,1
+activate=on_load
+requires_not_status=cut44,spring,summer,fall
+spawn=winter-tree44,37,36
+
+[event]
+# wintertree45
+type=event
+location=34,51,1,1
+activate=on_load
+requires_not_status=cut45,spring,summer,fall
+spawn=winter-tree45,34,51
+
+[event]
+# wintertree46
+type=event
+location=21,55,1,1
+activate=on_load
+requires_not_status=cut46,spring,summer,fall
+spawn=winter-tree46,21,55
+
+[event]
+# wintertree47
+type=event
+location=21,47,1,1
+activate=on_load
+requires_not_status=cut47,spring,summer,fall
+spawn=winter-tree47,21,47
+
+[event]
+# wintertree48
+type=event
+location=21,39,1,1
+activate=on_load
+requires_not_status=cut48,spring,summer,fall
+spawn=winter-tree48,21,39
+
+[event]
+# wintertree49
+type=event
+location=32,27,1,1
+activate=on_load
+requires_not_status=cut49,spring,summer,fall
+spawn=winter-tree49,32,27
+
+[event]
+# wintertree50
+type=event
+location=44,18,1,1
+activate=on_load
+requires_not_status=cut50,spring,summer,fall
+spawn=winter-tree50,44,18
+
+[event]
+# wintertree51
+type=event
+location=32,17,1,1
+activate=on_load
+requires_not_status=cut51,spring,summer,fall
+spawn=winter-tree51,32,17
+
+[event]
+# wintertree52
+type=event
+location=38,29,1,1
+activate=on_load
+requires_not_status=cut52,spring,summer,fall
+spawn=winter-tree52,38,29
+
+[event]
+# wintertree53
+type=event
+location=52,44,1,1
+activate=on_load
+requires_not_status=cut53,spring,summer,fall
+spawn=winter-tree53,52,44
+
+[event]
+# wintertree54
+type=event
+location=27,35,1,1
+activate=on_load
+requires_not_status=cut54,spring,summer,fall
+spawn=winter-tree54,27,35
+
+[event]
+# wintertree55
+type=event
+location=43,32,1,1
+activate=on_load
+requires_not_status=cut55,spring,summer,fall
+spawn=winter-tree55,43,32
+
+[event]
+# wintertree56
+type=event
+location=57,20,1,1
+activate=on_load
+requires_not_status=cu56,spring,summer,fall
+spawn=winter-tree56,57,20
+
+[event]
+# wintertree57
+type=event
+location=60,40,1,1
+activate=on_load
+requires_not_status=cut57,spring,summer,fall
+spawn=winter-tree57,60,40
+
+[event]
+# wintertree58
+type=event
+location=48,56,1,1
+activate=on_load
+requires_not_status=cut58,spring,summer,fall
+spawn=winter-tree58,48,56
+
+[event]
+# wintertree59
+type=event
+location=30,54,1,1
+activate=on_load
+requires_not_status=cut59,spring,summer,fall
+spawn=winter-tree59,30,54
+
+[event]
+# wintertree60
+type=event
+location=72,54,1,1
+activate=on_load
+requires_not_status=cut60,spring,summer,fall
+spawn=winter-tree60,72,54
+
+[event]
+# wintertree61
+type=event
+location=60,56,1,1
+activate=on_load
+requires_not_status=cut61,spring,summer,fall
+spawn=winter-tree61,60,56
+
+[event]
+# wintertree62
+type=event
+location=62,33,1,1
+activate=on_load
+requires_not_status=cut62,spring,summer,fall
+spawn=winter-tree62,62,33
+
+[event]
+# wintertree63
+type=event
+location=52,33,1,1
+activate=on_load
+requires_not_status=cut63,spring,summer,fall
+spawn=winter-tree63,52,33
+
+[event]
+# wintertree64
+type=event
+location=48,21,1,1
+activate=on_load
+requires_not_status=cut64,spring,summer,fall
+spawn=winter-tree64,48,21
+
+[event]
+# wintertree65
+type=event
+location=64,18,1,1
+activate=on_load
+requires_not_status=cut65,spring,summer,fall
+spawn=winter-tree65,64,18
+
+[event]
+# wintertree66
+type=event
+location=71,34,1,1
+activate=on_load
+requires_not_status=cut66,spring,summer,fall
+spawn=winter-tree66,71,34
+
+[event]
+# wintertree67
+type=event
+location=16,32,1,1
+activate=on_load
+requires_not_status=cut67,spring,summer,fall
+spawn=winter-tree67,16,32
+
+[event]
+# wintertree68
+type=event
+location=26,26,1,1
+activate=on_load
+requires_not_status=cut68,spring,summer,fall
+spawn=winter-tree68,26,26
+
+[event]
+# wintertree69
+type=event
+location=39,17,1,1
+activate=on_load
+requires_not_status=cut69,spring,summer,fall
+spawn=winter-tree69,39,17
+
+[event]
+# wintertree70
+type=event
+location=29,10,1,1
+activate=on_load
+requires_not_status=cut70,spring,summer,fall
+spawn=winter-tree70,29,10
+
+[event]
+# wintertree71
+type=event
+location=51,11,1,1
+activate=on_load
+requires_not_status=cut71,spring,summer,fall
+spawn=winter-tree71,51,11
+
+[event]
+# wintertree72
+type=event
+location=55,49,1,1
+activate=on_load
+requires_not_status=cut72,spring,summer,fall
+spawn=winter-tree72,55,49
+
+[event]
+# wintertree73
+type=event
+location=67,45,1,1
+activate=on_load
+requires_not_status=cut73,spring,summer,fall
+spawn=winter-tree73,67,45
+
+[event]
+# wintertree74
+type=event
+location=27,45,1,1
+activate=on_load
+requires_not_status=cut74,spring,summer,fall
+spawn=winter-tree74,27,45
+
+[event]
+# wintertree75
+type=event
+location=13,42,1,1
+activate=on_load
+requires_not_status=cut75,spring,summer,fall
+spawn=winter-tree75,13,42
+
+[event]
+# wintertree76
+type=event
+location=37,38,1,1
+activate=on_load
+requires_not_status=cut76,spring,summer,fall
+spawn=winter-tree76,37,38
+
+[event]
+# wintertree77
+type=event
+location=12,33,1,1
+activate=on_load
+requires_not_status=cut77,spring,summer,fall
+spawn=winter-tree77,12,33
+
+[event]
+# wintertree78
+type=event
+location=51,58,1,1
+activate=on_load
+requires_not_status=cut78,spring,summer,fall
+spawn=winter-tree78,51,58
+
+[event]
+# wintertree79
+type=event
+location=41,47,1,1
+activate=on_load
+requires_not_status=cut79,spring,summer,fall
+spawn=winter-tree79,41,47
+
+[event]
+# wintertree80
+type=event
+location=52,21,1,1
+activate=on_load
+requires_not_status=cut80,spring,summer,fall
+spawn=winter-tree80,52,21
+
+[event]
+# wintertree81
+type=event
+location=59,25,1,1
+activate=on_load
+requires_not_status=cut81,spring,summer,fall
+spawn=winter-tree81,59,25
+
+[event]
+# wintertree82
+type=event
+location=18,41,1,1
+activate=on_load
+requires_not_status=cut82,spring,summer,fall
+spawn=winter-tree82,18,41
+
+[event]
+# wintertree83
+type=event
+location=19,33,1,1
+activate=on_load
+requires_not_status=cut83,spring,summer,fall
+spawn=winter-tree83,19,33
+
+[event]
+# wintertree84
+type=event
+location=36,54,1,1
+activate=on_load
+requires_not_status=cut84,spring,summer,fall
+spawn=winter-tree84,36,54
+
+[event]
+# wintertree85
+type=event
+location=31,44,1,1
+activate=on_load
+requires_not_status=cut85,spring,summer,fall
+spawn=winter-tree85,31,44
+
+[event]
+# wintertree86
+type=event
+location=31,36,1,1
+activate=on_load
+requires_not_status=cut86,spring,summer,fall
+spawn=winter-tree86,31,36
+
+[event]
+# wintertree87
+type=event
+location=67,19,1,1
+activate=on_load
+requires_not_status=cut87,spring,summer,fall
+spawn=winter-tree87,67,19
+
+[event]
+# wintertree88
+type=event
+location=41,20,1,1
+activate=on_load
+requires_not_status=cut88,spring,summer,fall
+spawn=winter-tree88,41,20
+
+[event]
+# wintertree89
+type=event
+location=14,15,1,1
+activate=on_load
+requires_not_status=cut89,spring,summer,fall
+spawn=winter-tree89,14,15
+
+[event]
+# wintertree90
+type=event
+location=19,49,1,1
+activate=on_load
+requires_not_status=cut90,spring,summer,fall
+spawn=winter-tree90,19,49
+
+[event]
+# wintertree91
+type=event
+location=44,56,1,1
+activate=on_load
+requires_not_status=cut91,spring,summer,fall
+spawn=winter-tree91,44,56
+
+[event]
+# wintertree92
+type=event
+location=70,57,1,1
+activate=on_load
+requires_not_status=cut92,spring,summer,fall
+spawn=winter-tree92,70,57
+
+[event]
+# wintertree93
+type=event
+location=72,46,1,1
+activate=on_load
+requires_not_status=cut93,spring,summer,fall
+spawn=winter-tree93,72,46
+
+[event]
+# wintertree94
+type=event
+location=59,50,1,1
+activate=on_load
+requires_not_status=cut94,spring,summer,fall
+spawn=winter-tree94,59,50
+
+[event]
+# wintertree95
+type=event
+location=71,20,1,1
+activate=on_load
+requires_not_status=cut95,spring,summer,fall
+spawn=winter-tree95,71,20
+
+[event]
+# wintertree96
+type=event
+location=72,9,1,1
+activate=on_load
+requires_not_status=cut96,spring,summer,fall
+spawn=winter-tree96,72,9
+
+[event]
+# wintertree97
+type=event
+location=39,9,1,1
+activate=on_load
+requires_not_status=cut97,spring,summer,fall
+spawn=winter-tree97,39,9
+
+[event]
+# wintertree98
+type=event
+location=48,24,1,1
+activate=on_load
+requires_not_status=cut98,spring,summer,fall
+spawn=winter-tree98,48,24
+
+[event]
+# wintertree99
+type=event
+location=40,38,1,1
+activate=on_load
+requires_not_status=cut99,spring,summer,fall
+spawn=winter-tree99,40,38
+
+[event]
+# wintertree100
+type=event
+location=28,47,1,1
+activate=on_load
+requires_not_status=cut100,spring,summer,fall
+spawn=winter-tree100,28,47
+
+[event]
+# springtree97
+type=event
+location=39,9,1,1
+activate=on_load
+requires_not_status=cut97,summer,fall,winter
+spawn=spring-tree97,39,9
+
+[event]
+# springtree98
+type=event
+location=48,24,1,1
+activate=on_load
+requires_not_status=cut98,summer,fall,winter
+spawn=spring-tree98,48,24
+
+[event]
+# springtree99
+type=event
+location=40,38,1,1
+activate=on_load
+requires_not_status=cut99,summer,fall,winter
+spawn=spring-tree99,40,38
+
+[event]
+# springtree100
+type=event
+location=28,47,1,1
+activate=on_load
+requires_not_status=cut100,summer,fall,winter
+spawn=spring-tree100,28,47
+
+[event]
 # stump1
 type=event
 location=19,6,1,1
@@ -2620,14 +5812,6 @@ repeat=false
 requires_not_status=cut1-1
 requires_status=cut1
 spawn=stump1,19,6
-
-[event]
-# springtree2
-type=event
-location=36,14,1,1
-activate=on_load
-requires_not_status=cut2,summer,fall,winter
-spawn=spring-tree2,37,14
 
 [event]
 # stump2
@@ -2640,14 +5824,6 @@ requires_status=cut2
 spawn=stump2,36,14
 
 [event]
-# springtree3
-type=event
-location=21,12,1,1
-activate=on_load
-requires_not_status=cut3,summer,fall,winter
-spawn=spring-tree3,21,12
-
-[event]
 # stump3
 type=event
 location=21,12,1,1
@@ -2656,14 +5832,6 @@ repeat=false
 requires_not_status=cut3-1
 requires_status=cut3
 spawn=stump3,21,12
-
-[event]
-# springtree4
-type=event
-location=15,21,1,1
-activate=on_load
-requires_not_status=cut4,summer,fall,winter
-spawn=spring-tree4,15,21
 
 [event]
 # stump4
@@ -2676,14 +5844,6 @@ requires_status=cut4
 spawn=stump4,15,21
 
 [event]
-# springtree5
-type=event
-location=28,23,1,1
-activate=on_load
-requires_not_status=cut5,summer,fall,winter
-spawn=spring-tree5,28,23
-
-[event]
 # stump5
 type=event
 location=28,23,1,1
@@ -2692,14 +5852,6 @@ repeat=false
 requires_not_status=cut5-1
 requires_status=cut5
 spawn=stump5,28,23
-
-[event]
-# springtree6
-type=event
-location=17,26,1,1
-activate=on_load
-requires_not_status=cut6,summer,fall,winter
-spawn=spring-tree6,17,26
 
 [event]
 # stump6
@@ -2712,14 +5864,6 @@ requires_status=cut6
 spawn=stump6,17,26
 
 [event]
-# springtree7
-type=event
-location=22,32,1,1
-activate=on_load
-requires_not_status=cut7,summer,fall,winter
-spawn=spring-tree7,22,32
-
-[event]
 # stump7
 type=event
 location=22,32,1,1
@@ -2728,14 +5872,6 @@ repeat=false
 requires_not_status=cut7-1
 requires_status=cut7
 spawn=stump7,22,32
-
-[event]
-# springtree8
-type=event
-location=16,39,1,1
-activate=on_load
-requires_not_status=cut8,summer,fall,winter
-spawn=spring-tree8,16,39
 
 [event]
 # stump8
@@ -2748,14 +5884,6 @@ requires_status=cut8
 spawn=stump8,16,39
 
 [event]
-# springtree9
-type=event
-location=31,33,1,1
-activate=on_load
-requires_not_status=cut9,summer,fall,winter
-spawn=spring-tree9,31,33
-
-[event]
 # stump9
 type=event
 location=31,33,1,1
@@ -2764,14 +5892,6 @@ repeat=false
 requires_not_status=cut9-1
 requires_status=cut9
 spawn=stump9,31,33
-
-[event]
-# springtree10
-type=event
-location=29,42,1,1
-activate=on_load
-requires_not_status=cut10,summer,fall,winter
-spawn=spring-tree10,29,42
 
 [event]
 # stump10
@@ -2784,14 +5904,6 @@ requires_status=cut10
 spawn=stump10,29,42
 
 [event]
-# springtree11
-type=event
-location=16,49,1,1
-activate=on_load
-requires_not_status=cut11,summer,fall,winter
-spawn=spring-tree11,16,49
-
-[event]
 # stump11
 type=event
 location=16,49,1,1
@@ -2800,14 +5912,6 @@ repeat=false
 requires_not_status=cut11-1
 requires_status=cut11
 spawn=stump11,16,49
-
-[event]
-# springtree12
-type=event
-location=26,53,1,1
-activate=on_load
-requires_not_status=cut12,summer,fall,winter
-spawn=spring-tree12,26,53
 
 [event]
 # stump12
@@ -2820,14 +5924,6 @@ requires_status=cut12
 spawn=stump12,26,53
 
 [event]
-# springtree13
-type=event
-location=38,45,1,1
-activate=on_load
-requires_not_status=cut13,summer,fall,winter
-spawn=spring-tree13,38,45
-
-[event]
 # stump13
 type=event
 location=38,45,1,1
@@ -2836,14 +5932,6 @@ repeat=false
 requires_not_status=cut13-1
 requires_status=cut13
 spawn=stump13,38,45
-
-[event]
-# springtree14
-type=event
-location=43,26,1,1
-activate=on_load
-requires_not_status=cut14,summer,fall,winter
-spawn=spring-tree14,43,26
 
 [event]
 # stump14
@@ -2856,14 +5944,6 @@ requires_status=cut14
 spawn=stump14,43,26
 
 [event]
-# springtree15
-type=event
-location=47,51,1,1
-activate=on_load
-requires_not_status=cut15,summer,fall,winter
-spawn=spring-tree15,47,51
-
-[event]
 # stump15
 type=event
 location=47,51,1,1
@@ -2872,14 +5952,6 @@ repeat=false
 requires_not_status=cut15-1
 requires_status=cut15
 spawn=stump15,47,51
-
-[event]
-# springtree16
-type=event
-location=47,38,1,1
-activate=on_load
-requires_not_status=cut16,summer,fall,winter
-spawn=spring-tree16,47,38
 
 [event]
 # stump16
@@ -2892,14 +5964,6 @@ requires_status=cut16
 spawn=stump16,47,38
 
 [event]
-# springtree17
-type=event
-location=46,12,1,1
-activate=on_load
-requires_not_status=cut17,summer,fall,winter
-spawn=spring-tree17,46,12
-
-[event]
 # stump17
 type=event
 location=46,12,1,1
@@ -2908,14 +5972,6 @@ repeat=false
 requires_not_status=cut17-1
 requires_status=cut17
 spawn=stump17,46,12
-
-[event]
-# springtree18
-type=event
-location=53,18,1,1
-activate=on_load
-requires_not_status=cut18,summer,fall,winter
-spawn=spring-tree18,53,18
 
 [event]
 # stump18
@@ -2928,14 +5984,6 @@ requires_status=cut18
 spawn=stump18,53,18
 
 [event]
-# springtree19
-type=event
-location=54,27,1,1
-activate=on_load
-requires_not_status=cut19,summer,fall,winter
-spawn=spring-tree19,54,27
-
-[event]
 # stump19
 type=event
 location=54,27,1,1
@@ -2944,14 +5992,6 @@ repeat=false
 requires_not_status=cut19-1
 requires_status=cut19
 spawn=stump19,54,27
-
-[event]
-# springtree20
-type=event
-location=60,47,1,1
-activate=on_load
-requires_not_status=cut20,summer,fall,winter
-spawn=spring-tree20,60,47
 
 [event]
 # stump20
@@ -2964,14 +6004,6 @@ requires_status=cut20
 spawn=stump20,60,47
 
 [event]
-# springtree21
-type=event
-location=59,12,1,1
-activate=on_load
-requires_not_status=cut21,summer,fall,winter
-spawn=spring-tree21,59,12
-
-[event]
 # stump21
 type=event
 location=59,12,1,1
@@ -2980,14 +6012,6 @@ repeat=false
 requires_not_status=cut21-1
 requires_status=cut21
 spawn=stump21,59,12
-
-[event]
-# springtree22
-type=event
-location=64,25,1,1
-activate=on_load
-requires_not_status=cut22,summer,fall,winter
-spawn=spring-tree22,64,25
 
 [event]
 # stump22
@@ -3000,14 +6024,6 @@ requires_status=cut22
 spawn=stump22,64,25
 
 [event]
-# springtree23
-type=event
-location=66,39,1,1
-activate=on_load
-requires_not_status=cut23,summer,fall,winter
-spawn=spring-tree23,66,39
-
-[event]
 # stump23
 type=event
 location=66,39,1,1
@@ -3016,14 +6032,6 @@ repeat=false
 requires_not_status=cut23-1
 requires_status=cut23
 spawn=stump23,66,39
-
-[event]
-# springtree24
-type=event
-location=67,52,1,1
-activate=on_load
-requires_not_status=cut24,summer,fall,winter
-spawn=spring-tree24,67,52
 
 [event]
 # stump24
@@ -3036,14 +6044,6 @@ requires_status=cut24
 spawn=stump24,67,52
 
 [event]
-# springtree25
-type=event
-location=68,14,1,1
-activate=on_load
-requires_not_status=cut25,summer,fall,winter
-spawn=spring-tree25,68,14
-
-[event]
 # stump25
 type=event
 location=68,14,1,1
@@ -3052,14 +6052,6 @@ repeat=false
 requires_not_status=cut25-1
 requires_status=cut25
 spawn=stump25,68,14
-
-[event]
-# springtree26
-type=event
-location=9,18,1,1
-activate=on_load
-requires_not_status=cut26,summer,fall,winter
-spawn=spring-tree26,9,18
 
 [event]
 # stump26
@@ -3072,14 +6064,6 @@ requires_status=cut26
 spawn=stump26,9,18
 
 [event]
-# springtree27
-type=event
-location=13,30,1,1
-activate=on_load
-requires_not_status=cut27,summer,fall,winter
-spawn=spring-tree27,13,30
-
-[event]
 # stump27
 type=event
 location=13,30,1,1
@@ -3088,14 +6072,6 @@ repeat=false
 requires_not_status=cut27-1
 requires_status=cut27
 spawn=stump27,13,30
-
-[event]
-# springtree28
-type=event
-location=21,19,1,1
-activate=on_load
-requires_not_status=cut28,summer,fall,winter
-spawn=spring-tree28,21,19
 
 [event]
 # stump28
@@ -3108,14 +6084,6 @@ requires_status=cut28
 spawn=stump28,21,19
 
 [event]
-# springtree29
-type=event
-location=22,25,1,1
-activate=on_load
-requires_not_status=cut29,summer,fall,winter
-spawn=spring-tree29,22,25
-
-[event]
 # stump29
 type=event
 location=22,25,1,1
@@ -3124,14 +6092,6 @@ repeat=false
 requires_not_status=cut29-1
 requires_status=cut29
 spawn=stump29,22,25
-
-[event]
-# springtree30
-type=event
-location=26,16,1,1
-activate=on_load
-requires_not_status=cut30,summer,fall,winter
-spawn=spring-tree30,26,16
 
 [event]
 # stump30
@@ -3144,14 +6104,6 @@ requires_status=cut30
 spawn=stump30,26,16
 
 [event]
-# springtree31
-type=event
-location=36,23,1,1
-activate=on_load
-requires_not_status=cut31,summer,fall,winter
-spawn=spring-tree31,36,23
-
-[event]
 # stump31
 type=event
 location=36,23,1,1
@@ -3160,14 +6112,6 @@ repeat=false
 requires_not_status=cut31-1
 requires_status=cut31
 spawn=stump31,36,23
-
-[event]
-# springtree32
-type=event
-location=70,18,1,1
-activate=on_load
-requires_not_status=cut32,summer,fall,winter
-spawn=spring-tree32,70,18
 
 [event]
 # stump32
@@ -3180,14 +6124,6 @@ requires_status=cut32
 spawn=stump32,70,18
 
 [event]
-# springtree33
-type=event
-location=60,17,1,1
-activate=on_load
-requires_not_status=cut33,summer,fall,winter
-spawn=spring-tree33,60,17
-
-[event]
 # stump33
 type=event
 location=60,17,1,1
@@ -3196,14 +6132,6 @@ repeat=false
 requires_not_status=cut33-1
 requires_status=cut33
 spawn=stump33,60,17
-
-[event]
-# springtree34
-type=event
-location=70,26,1,1
-activate=on_load
-requires_not_status=cut34,summer,fall,winter
-spawn=spring-tree34,70,26
 
 [event]
 # stump34
@@ -3216,14 +6144,6 @@ requires_status=cut34
 spawn=stump34,70,26
 
 [event]
-# springtree35
-type=event
-location=58,31,1,1
-activate=on_load
-requires_not_status=cut35,summer,fall,winter
-spawn=spring-tree35,58,31
-
-[event]
 # stump35
 type=event
 location=58,31,1,1
@@ -3232,14 +6152,6 @@ repeat=false
 requires_not_status=cut35-1
 requires_status=cut35
 spawn=stump35,58,31
-
-[event]
-# springtree36
-type=event
-location=67,31,1,1
-activate=on_load
-requires_not_status=cut36,summer,fall,winter
-spawn=spring-tree36,67,31
 
 [event]
 # stump36
@@ -3252,14 +6164,6 @@ requires_status=cut36
 spawn=stump36,67,31
 
 [event]
-# springtree37
-type=event
-location=48,30,1,1
-activate=on_load
-requires_not_status=cut37,summer,fall,winter
-spawn=spring-tree37,48,30
-
-[event]
 # stump37
 type=event
 location=48,30,1,1
@@ -3268,14 +6172,6 @@ repeat=false
 requires_not_status=cut37-1
 requires_status=cut37
 spawn=stump37,48,30
-
-[event]
-# springtree38
-type=event
-location=55,56,1,1
-activate=on_load
-requires_not_status=cut38,summer,fall,winter
-spawn=spring-tree38,55,56
 
 [event]
 # stump38
@@ -3288,14 +6184,6 @@ requires_status=cut38
 spawn=stump38,55,56
 
 [event]
-# springtree39
-type=event
-location=67,55,1,1
-activate=on_load
-requires_not_status=cut39,summer,fall,winter
-spawn=spring-tree39,67,55
-
-[event]
 # stump39
 type=event
 location=67,55,1,1
@@ -3304,14 +6192,6 @@ repeat=false
 requires_not_status=cut39-1
 requires_status=cut39
 spawn=stump39,67,55
-
-[event]
-# springtree40
-type=event
-location=70,43,1,1
-activate=on_load
-requires_not_status=cut40,summer,fall,winter
-spawn=spring-tree40,70,43
 
 [event]
 # stump40
@@ -3324,14 +6204,6 @@ requires_status=cut40
 spawn=stump40,70,43
 
 [event]
-# springtree41
-type=event
-location=55,39,1,1
-activate=on_load
-requires_not_status=cut41,summer,fall,winter
-spawn=spring-tree41,55,39
-
-[event]
 # stump41
 type=event
 location=55,39,1,1
@@ -3340,14 +6212,6 @@ repeat=false
 requires_not_status=cut41-1
 requires_status=cut41
 spawn=stump41,55,39
-
-[event]
-# springtree42
-type=event
-location=46,43,1,1
-activate=on_load
-requires_not_status=cut42,summer,fall,winter
-spawn=spring-tree42,46,43
 
 [event]
 # stump42
@@ -3360,14 +6224,6 @@ requires_status=cut42
 spawn=stump42,46,43
 
 [event]
-# springtree43
-type=event
-location=42,54,1,1
-activate=on_load
-requires_not_status=cut43,summer,fall,winter
-spawn=spring-tree43,42,54
-
-[event]
 # stump43
 type=event
 location=42,54,1,1
@@ -3376,14 +6232,6 @@ repeat=false
 requires_not_status=cut43-1
 requires_status=cut43
 spawn=stump43,42,54
-
-[event]
-# springtree44
-type=event
-location=37,36,1,1
-activate=on_load
-requires_not_status=cut44,summer,fall,winter
-spawn=spring-tree44,37,36
 
 [event]
 # stump44
@@ -3396,14 +6244,6 @@ requires_status=cut44
 spawn=stump44,37,36
 
 [event]
-# springtree45
-type=event
-location=34,51,1,1
-activate=on_load
-requires_not_status=cut45,summer,fall,winter
-spawn=spring-tree45,34,51
-
-[event]
 # stump45
 type=event
 location=34,51,1,1
@@ -3412,14 +6252,6 @@ repeat=false
 requires_not_status=cut45-1
 requires_status=cut45
 spawn=stump45,34,51
-
-[event]
-# springtree46
-type=event
-location=21,55,1,1
-activate=on_load
-requires_not_status=cut46,summer,fall,winter
-spawn=spring-tree46,21,55
 
 [event]
 # stump46
@@ -3432,14 +6264,6 @@ requires_status=cut46
 spawn=stump46,21,55
 
 [event]
-# springtree47
-type=event
-location=21,47,1,1
-activate=on_load
-requires_not_status=cut47,summer,fall,winter
-spawn=spring-tree47,21,47
-
-[event]
 # stump47
 type=event
 location=21,47,1,1
@@ -3448,14 +6272,6 @@ repeat=false
 requires_not_status=cut47-1
 requires_status=cut47
 spawn=stump47,21,47
-
-[event]
-# springtree48
-type=event
-location=21,39,1,1
-activate=on_load
-requires_not_status=cut48,summer,fall,winter
-spawn=spring-tree48,21,39
 
 [event]
 # stump48
@@ -3468,14 +6284,6 @@ requires_status=cut48
 spawn=stump48,21,39
 
 [event]
-# springtree49
-type=event
-location=32,27,1,1
-activate=on_load
-requires_not_status=cut49,summer,fall,winter
-spawn=spring-tree49,32,27
-
-[event]
 # stump49
 type=event
 location=32,27,1,1
@@ -3484,14 +6292,6 @@ repeat=false
 requires_not_status=cut49-1
 requires_status=cut49
 spawn=stump49,32,27
-
-[event]
-# springtree50
-type=event
-location=44,18,1,1
-activate=on_load
-requires_not_status=cut50,summer,fall,winter
-spawn=spring-tree50,44,18
 
 [event]
 # stump50
@@ -3504,14 +6304,6 @@ requires_status=cut50
 spawn=stump50,44,18
 
 [event]
-# springtree51
-type=event
-location=32,17,1,1
-activate=on_load
-requires_not_status=cut51,summer,fall,winter
-spawn=spring-tree51,32,17
-
-[event]
 # stump51
 type=event
 location=32,17,1,1
@@ -3520,14 +6312,6 @@ repeat=false
 requires_not_status=cut51-1
 requires_status=cut51
 spawn=stump51,32,17
-
-[event]
-# springtree52
-type=event
-location=38,29,1,1
-activate=on_load
-requires_not_status=cut52,summer,fall,winter
-spawn=spring-tree52,38,29
 
 [event]
 # stump52
@@ -3540,14 +6324,6 @@ requires_status=cut52
 spawn=stump52,38,29
 
 [event]
-# springtree53
-type=event
-location=52,44,1,1
-activate=on_load
-requires_not_status=cut53,summer,fall,winter
-spawn=spring-tree53,52,44
-
-[event]
 # stump53
 type=event
 location=52,44,1,1
@@ -3556,14 +6332,6 @@ repeat=false
 requires_not_status=cut53-1
 requires_status=cut53
 spawn=stump53,52,44
-
-[event]
-# springtree54
-type=event
-location=27,35,1,1
-activate=on_load
-requires_not_status=cut54,summer,fall,winter
-spawn=spring-tree54,27,35
 
 [event]
 # stump54
@@ -3576,14 +6344,6 @@ requires_status=cut54
 spawn=stump54,27,35
 
 [event]
-# springtree55
-type=event
-location=43,32,1,1
-activate=on_load
-requires_not_status=cut55,summer,fall,winter
-spawn=spring-tree55,43,32
-
-[event]
 # stump55
 type=event
 location=43,32,1,1
@@ -3592,14 +6352,6 @@ repeat=false
 requires_not_status=cut55-1
 requires_status=cut55
 spawn=stump55,43,32
-
-[event]
-# springtree56
-type=event
-location=57,20,1,1
-activate=on_load
-requires_not_status=cu56,summer,fall,winter
-spawn=spring-tree56,57,20
 
 [event]
 # stump56
@@ -3612,14 +6364,6 @@ requires_status=cut56
 spawn=stump56,57,20
 
 [event]
-# springtree57
-type=event
-location=60,40,1,1
-activate=on_load
-requires_not_status=cut57,summer,fall,winter
-spawn=spring-tree57,60,40
-
-[event]
 # stump57
 type=event
 location=60,40,1,1
@@ -3628,14 +6372,6 @@ repeat=false
 requires_not_status=cut57-1
 requires_status=cut57
 spawn=stump57,60,40
-
-[event]
-# springtree58
-type=event
-location=48,56,1,1
-activate=on_load
-requires_not_status=cut58,summer,fall,winter
-spawn=spring-tree58,48,56
 
 [event]
 # stump58
@@ -3648,14 +6384,6 @@ requires_status=cut58
 spawn=stump58,48,56
 
 [event]
-# springtree59
-type=event
-location=30,54,1,1
-activate=on_load
-requires_not_status=cut59,summer,fall,winter
-spawn=spring-tree59,30,54
-
-[event]
 # stump59
 type=event
 location=30,54,1,1
@@ -3664,14 +6392,6 @@ repeat=false
 requires_not_status=cut59-1
 requires_status=cut59
 spawn=stump59,30,54
-
-[event]
-# springtree60
-type=event
-location=72,54,1,1
-activate=on_load
-requires_not_status=cut60,summer,fall,winter
-spawn=spring-tree60,72,54
 
 [event]
 # stump60
@@ -3684,14 +6404,6 @@ requires_status=cut60
 spawn=stump60,72,54
 
 [event]
-# springtree61
-type=event
-location=60,56,1,1
-activate=on_load
-requires_not_status=cut61,summer,fall,winter
-spawn=spring-tree61,60,56
-
-[event]
 # stump61
 type=event
 location=60,56,1,1
@@ -3700,14 +6412,6 @@ repeat=false
 requires_not_status=cut61-1
 requires_status=cut61
 spawn=stump61,60,56
-
-[event]
-# springtree62
-type=event
-location=62,33,1,1
-activate=on_load
-requires_not_status=cut62,summer,fall,winter
-spawn=spring-tree62,62,33
 
 [event]
 # stump62
@@ -3720,14 +6424,6 @@ requires_status=cut62
 spawn=stump62,62,33
 
 [event]
-# springtree63
-type=event
-location=52,33,1,1
-activate=on_load
-requires_not_status=cut63,summer,fall,winter
-spawn=spring-tree63,52,33
-
-[event]
 # stump63
 type=event
 location=52,33,1,1
@@ -3736,14 +6432,6 @@ repeat=false
 requires_not_status=cut63-1
 requires_status=cut63
 spawn=stump63,52,33
-
-[event]
-# springtree64
-type=event
-location=48,21,1,1
-activate=on_load
-requires_not_status=cut64,summer,fall,winter
-spawn=spring-tree64,48,21
 
 [event]
 # stump64
@@ -3756,14 +6444,6 @@ requires_status=cut64
 spawn=stump64,48,21
 
 [event]
-# springtree65
-type=event
-location=64,18,1,1
-activate=on_load
-requires_not_status=cut65,summer,fall,winter
-spawn=spring-tree65,64,18
-
-[event]
 # stump65
 type=event
 location=64,18,1,1
@@ -3772,14 +6452,6 @@ repeat=false
 requires_not_status=cut65-1
 requires_status=cut65
 spawn=stump65,64,18
-
-[event]
-# springtree66
-type=event
-location=71,34,1,1
-activate=on_load
-requires_not_status=cut66,summer,fall,winter
-spawn=spring-tree66,71,34
 
 [event]
 # stump66
@@ -3792,14 +6464,6 @@ requires_status=cut66
 spawn=stump66,71,34
 
 [event]
-# springtree67
-type=event
-location=16,32,1,1
-activate=on_load
-requires_not_status=cut67,summer,fall,winter
-spawn=spring-tree67,16,32
-
-[event]
 # stump67
 type=event
 location=16,32,1,1
@@ -3808,14 +6472,6 @@ repeat=false
 requires_not_status=cut67-1
 requires_status=cut67
 spawn=stump67,16,32
-
-[event]
-# springtree68
-type=event
-location=26,26,1,1
-activate=on_load
-requires_not_status=cut68,summer,fall,winter
-spawn=spring-tree68,26,26
 
 [event]
 # stump68
@@ -3828,14 +6484,6 @@ requires_status=cut68
 spawn=stump68,26,26
 
 [event]
-# springtree69
-type=event
-location=39,17,1,1
-activate=on_load
-requires_not_status=cut69,summer,fall,winter
-spawn=spring-tree69,39,17
-
-[event]
 # stump69
 type=event
 location=39,17,1,1
@@ -3844,14 +6492,6 @@ repeat=false
 requires_not_status=cut69-1
 requires_status=cut69
 spawn=stump69,39,17
-
-[event]
-# springtree70
-type=event
-location=29,10,1,1
-activate=on_load
-requires_not_status=cut70,summer,fall,winter
-spawn=spring-tree70,29,10
 
 [event]
 # stump70
@@ -3864,14 +6504,6 @@ requires_status=cut70
 spawn=stump70,29,10
 
 [event]
-# springtree71
-type=event
-location=51,11,1,1
-activate=on_load
-requires_not_status=cut71,summer,fall,winter
-spawn=spring-tree71,51,11
-
-[event]
 # stump71
 type=event
 location=51,11,1,1
@@ -3880,14 +6512,6 @@ repeat=false
 requires_not_status=cut71-1
 requires_status=cut71
 spawn=stump71,51,11
-
-[event]
-# springtree72
-type=event
-location=55,49,1,1
-activate=on_load
-requires_not_status=cut72,summer,fall,winter
-spawn=spring-tree72,55,49
 
 [event]
 # stump72
@@ -3900,14 +6524,6 @@ requires_status=cut72
 spawn=stump72,55,49
 
 [event]
-# springtree73
-type=event
-location=67,45,1,1
-activate=on_load
-requires_not_status=cut73,summer,fall,winter
-spawn=spring-tree73,67,45
-
-[event]
 # stump73
 type=event
 location=67,45,1,1
@@ -3916,14 +6532,6 @@ repeat=false
 requires_not_status=cut73-1
 requires_status=cut73
 spawn=stump73,67,45
-
-[event]
-# springtree74
-type=event
-location=27,45,1,1
-activate=on_load
-requires_not_status=cut74,summer,fall,winter
-spawn=spring-tree74,27,45
 
 [event]
 # stump74
@@ -3936,14 +6544,6 @@ requires_status=cut74
 spawn=stump74,27,45
 
 [event]
-# springtree75
-type=event
-location=13,42,1,1
-activate=on_load
-requires_not_status=cut75,summer,fall,winter
-spawn=spring-tree75,13,42
-
-[event]
 # stump75
 type=event
 location=13,42,1,1
@@ -3952,14 +6552,6 @@ repeat=false
 requires_not_status=cut75-1
 requires_status=cut75
 spawn=stump75,13,42
-
-[event]
-# springtree76
-type=event
-location=37,38,1,1
-activate=on_load
-requires_not_status=cut76,summer,fall,winter
-spawn=spring-tree76,37,38
 
 [event]
 # stump76
@@ -3972,14 +6564,6 @@ requires_status=cut76
 spawn=stump76,37,38
 
 [event]
-# springtree77
-type=event
-location=12,33,1,1
-activate=on_load
-requires_not_status=cut77,summer,fall,winter
-spawn=spring-tree77,12,33
-
-[event]
 # stump77
 type=event
 location=12,33,1,1
@@ -3988,14 +6572,6 @@ repeat=false
 requires_not_status=cut77-1
 requires_status=cut77
 spawn=stump77,12,33
-
-[event]
-# springtree78
-type=event
-location=51,58,1,1
-activate=on_load
-requires_not_status=cut78,summer,fall,winter
-spawn=spring-tree78,51,58
 
 [event]
 # stump78
@@ -4008,14 +6584,6 @@ requires_status=cut78
 spawn=stump78,51,58
 
 [event]
-# springtree79
-type=event
-location=41,47,1,1
-activate=on_load
-requires_not_status=cut79,summer,fall,winter
-spawn=spring-tree79,41,47
-
-[event]
 # stump79
 type=event
 location=41,47,1,1
@@ -4024,14 +6592,6 @@ repeat=false
 requires_not_status=cut79-1
 requires_status=cut79
 spawn=stump79,41,47
-
-[event]
-# springtree80
-type=event
-location=52,21,1,1
-activate=on_load
-requires_not_status=cut80,summer,fall,winter
-spawn=spring-tree80,52,21
 
 [event]
 # stump80
@@ -4044,14 +6604,6 @@ requires_status=cut80
 spawn=stump80,52,21
 
 [event]
-# springtree81
-type=event
-location=59,25,1,1
-activate=on_load
-requires_not_status=cut81,summer,fall,winter
-spawn=spring-tree81,59,25
-
-[event]
 # stump81
 type=event
 location=59,25,1,1
@@ -4060,14 +6612,6 @@ repeat=false
 requires_not_status=cut81-1
 requires_status=cut81
 spawn=stump81,59,25
-
-[event]
-# springtree82
-type=event
-location=18,41,1,1
-activate=on_load
-requires_not_status=cut82,summer,fall,winter
-spawn=spring-tree82,18,41
 
 [event]
 # stump82
@@ -4080,14 +6624,6 @@ requires_status=cut82
 spawn=stump82,18,41
 
 [event]
-# springtree83
-type=event
-location=19,33,1,1
-activate=on_load
-requires_not_status=cut83,summer,fall,winter
-spawn=spring-tree83,19,33
-
-[event]
 # stump83
 type=event
 location=19,33,1,1
@@ -4096,14 +6632,6 @@ repeat=false
 requires_not_status=cut83-1
 requires_status=cut83
 spawn=stump83,19,33
-
-[event]
-# springtree84
-type=event
-location=36,54,1,1
-activate=on_load
-requires_not_status=cut84,summer,fall,winter
-spawn=spring-tree84,36,54
 
 [event]
 # stump84
@@ -4116,14 +6644,6 @@ requires_status=cut84
 spawn=stump84,36,54
 
 [event]
-# springtree85
-type=event
-location=31,44,1,1
-activate=on_load
-requires_not_status=cut85,summer,fall,winter
-spawn=spring-tree85,31,44
-
-[event]
 # stump85
 type=event
 location=31,44,1,1
@@ -4132,14 +6652,6 @@ repeat=false
 requires_not_status=cut85-1
 requires_status=cut85
 spawn=stump85,31,44
-
-[event]
-# springtree86
-type=event
-location=31,36,1,1
-activate=on_load
-requires_not_status=cut86,summer,fall,winter
-spawn=spring-tree86,31,36
 
 [event]
 # stump86
@@ -4152,14 +6664,6 @@ requires_status=cut86
 spawn=stump86,31,36
 
 [event]
-# springtree87
-type=event
-location=67,19,1,1
-activate=on_load
-requires_not_status=cut87,summer,fall,winter
-spawn=spring-tree87,67,19
-
-[event]
 # stump87
 type=event
 location=67,19,1,1
@@ -4168,14 +6672,6 @@ repeat=false
 requires_not_status=cut87-1
 requires_status=cut87
 spawn=stump87,67,19
-
-[event]
-# springtree88
-type=event
-location=41,20,1,1
-activate=on_load
-requires_not_status=cut88,summer,fall,winter
-spawn=spring-tree88,41,20
 
 [event]
 # stump88
@@ -4188,14 +6684,6 @@ requires_status=cut88
 spawn=stump88,41,20
 
 [event]
-# springtree89
-type=event
-location=14,15,1,1
-activate=on_load
-requires_not_status=cut89,summer,fall,winter
-spawn=spring-tree89,14,15
-
-[event]
 # stump89
 type=event
 location=14,15,1,1
@@ -4204,14 +6692,6 @@ repeat=false
 requires_not_status=cut89-1
 requires_status=cut89
 spawn=stump89,14,15
-
-[event]
-# springtree90
-type=event
-location=19,49,1,1
-activate=on_load
-requires_not_status=cut90,summer,fall,winter
-spawn=spring-tree90,19,49
 
 [event]
 # stump90
@@ -4224,14 +6704,6 @@ requires_status=cut90
 spawn=stump90,19,49
 
 [event]
-# springtree91
-type=event
-location=44,56,1,1
-activate=on_load
-requires_not_status=cut91,summer,fall,winter
-spawn=spring-tree91,44,56
-
-[event]
 # stump91
 type=event
 location=44,56,1,1
@@ -4240,14 +6712,6 @@ repeat=false
 requires_not_status=cut91-1
 requires_status=cut91
 spawn=stump91,44,56
-
-[event]
-# springtree92
-type=event
-location=70,57,1,1
-activate=on_load
-requires_not_status=cut92,summer,fall,winter
-spawn=spring-tree92,70,57
 
 [event]
 # stump92
@@ -4260,14 +6724,6 @@ requires_status=cut92
 spawn=stump92,70,57
 
 [event]
-# springtree93
-type=event
-location=72,46,1,1
-activate=on_load
-requires_not_status=cut93,summer,fall,winter
-spawn=spring-tree93,72,46
-
-[event]
 # stump93
 type=event
 location=72,46,1,1
@@ -4276,14 +6732,6 @@ repeat=false
 requires_not_status=cut93-1
 requires_status=cut93
 spawn=stump93,72,46
-
-[event]
-# springtree94
-type=event
-location=59,50,1,1
-activate=on_load
-requires_not_status=cut94,summer,fall,winter
-spawn=spring-tree94,59,50
 
 [event]
 # stump94
@@ -4296,14 +6744,6 @@ requires_status=cut94
 spawn=stump94,59,50
 
 [event]
-# springtree95
-type=event
-location=71,20,1,1
-activate=on_load
-requires_not_status=cut95,summer,fall,winter
-spawn=spring-tree95,71,20
-
-[event]
 # stump95
 type=event
 location=71,20,1,1
@@ -4312,14 +6752,6 @@ repeat=false
 requires_not_status=cut95-1
 requires_status=cut95
 spawn=stump95,71,20
-
-[event]
-# springtree96
-type=event
-location=72,9,1,1
-activate=on_load
-requires_not_status=cut96,summer,fall,winter
-spawn=spring-tree96,72,9
 
 [event]
 # stump96
@@ -4332,14 +6764,6 @@ requires_status=cut96
 spawn=stump96,72,9
 
 [event]
-# springtree97
-type=event
-location=39,9,1,1
-activate=on_load
-requires_not_status=cut97,summer,fall,winter
-spawn=spring-tree97,39,9
-
-[event]
 # stump97
 type=event
 location=39,9,1,1
@@ -4348,14 +6772,6 @@ repeat=false
 requires_not_status=cut97-1
 requires_status=cut97
 spawn=stump97,39,9
-
-[event]
-# springtree98
-type=event
-location=48,24,1,1
-activate=on_load
-requires_not_status=cut98,summer,fall,winter
-spawn=spring-tree98,48,24
 
 [event]
 # stump98
@@ -4368,14 +6784,6 @@ requires_status=cut98
 spawn=stump98,48,24
 
 [event]
-# springtree99
-type=event
-location=40,38,1,1
-activate=on_load
-requires_not_status=cut99,summer,fall,winter
-spawn=spring-tree99,40,38
-
-[event]
 # stump99
 type=event
 location=40,38,1,1
@@ -4384,14 +6792,6 @@ repeat=false
 requires_not_status=cut99-1
 requires_status=cut99
 spawn=stump99,40,38
-
-[event]
-# springtree100
-type=event
-location=28,47,1,1
-activate=on_load
-requires_not_status=cut100,summer,fall,winter
-spawn=spring-tree100,28,47
 
 [event]
 # stump100
@@ -6982,76 +9382,164 @@ requires_not_status=winter
 set_status=cut_grass47
 
 [event]
-# grass20
+# grass48
 type=event
 location=41,25,1,1
 activate=on_load
 hotspot=location
-mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+mapmod=level 2,40,24,43;level 9,41,24,44;level 3,42,24,45;level 7,40,25,107;level 10,41,25,108;level 8,42,25,109;level 4,40,26,171;level 6,41,26,172;level 5,42,26,173
+requires_not_status=cut_grass48,winter
 
 [event]
-# grass20
+# cut grass48
+type=event
+location=41,25,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,40,24,0;level 9,41,24,0;level 3,42,24,0;level 7,40,25,0;level 10,41,25,0;level 8,42,25,0;level 4,40,26,0;level 6,41,26,0;level 5,42,26,0
+requires_item=10
+requires_not_status=winter
+set_status=cut_grass48
+
+[event]
+# grass49
 type=event
 location=40,24,1,1
 activate=on_load
 hotspot=location
-mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+mapmod=level 2,39,23,43;level 9,40,23,44;level 3,41,23,45;level 7,39,24,107;level 10,40,24,108;level 8,41,24,109;level 4,39,25,171;level 6,40,25,172;level 5,41,25,173
+requires_not_status=cut_grass49,winter
 
 [event]
-# grass20
+# cut grass49
+type=event
+location=40,24,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,39,23,0;level 9,40,23,0;level 3,41,23,0;level 7,39,24,0;level 10,40,24,0;level 8,41,24,0;level 4,39,25,0;level 6,40,25,0;level 5,41,25,0
+requires_item=10
+requires_not_status=winter
+set_status=cut_grass49
+
+[event]
+# grass50
 type=event
 location=41,24,1,1
 activate=on_load
 hotspot=location
-mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+mapmod=level 2,40,23,43;level 9,41,23,44;level 3,42,23,45;level 7,40,24,107;level 10,41,24,108;level 8,42,24,109;level 4,40,25,171;level 6,41,25,172;level 5,42,25,173
+requires_not_status=cut_grass50,winter
 
 [event]
-# grass20
+# cut grass50
+type=event
+location=41,24,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,40,23,0;level 9,41,23,0;level 3,42,23,0;level 7,40,24,0;level 10,41,24,0;level 8,42,24,0;level 4,40,25,0;level 6,41,25,0;level 5,42,25,0
+requires_item=10
+requires_not_status=winter
+set_status=cut_grass50
+
+[event]
+# grass51
 type=event
 location=42,24,1,1
 activate=on_load
 hotspot=location
-mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+mapmod=level 2,41,23,43;level 9,42,23,44;level 3,43,23,45;level 7,41,24,107;level 10,42,24,108;level 8,43,24,109;level 4,41,25,171;level 6,42,25,172;level 5,43,25,173
+requires_not_status=cut_grass51,winter
 
 [event]
-# grass20
+# cut grass51
+type=event
+location=42,24,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,41,23,0;level 9,42,23,0;level 3,43,23,0;level 7,41,24,0;level 10,42,24,0;level 8,43,24,0;level 4,41,25,0;level 6,42,25,0;level 5,43,25,0
+requires_item=10
+requires_not_status=winter
+set_status=cut_grass51
+
+[event]
+# grass52
 type=event
 location=43,24,1,1
 activate=on_load
 hotspot=location
-mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+mapmod=level 2,42,23,43;level 9,43,23,44;level 3,44,23,45;level 7,42,24,107;level 10,43,24,108;level 8,44,24,109;level 4,42,25,171;level 6,43,25,172;level 5,44,25,173
+requires_not_status=cut_grass52,winter
 
 [event]
-# grass20
+# cut grass52
+type=event
+location=43,24,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,42,23,0;level 9,43,23,0;level 3,44,23,0;level 7,42,24,0;level 10,43,24,0;level 8,44,24,0;level 4,42,25,0;level 6,43,25,0;level 5,44,25,0
+requires_item=10
+requires_not_status=winter
+set_status=cut_grass52
+
+[event]
+# grass53
 type=event
 location=44,24,1,1
 activate=on_load
 hotspot=location
-mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+mapmod=level 2,43,23,43;level 9,44,23,44;level 3,45,23,45;level 7,43,24,107;level 10,44,24,108;level 8,45,24,109;level 4,43,25,171;level 6,44,25,172;level 5,45,25,173
+requires_not_status=cut_grass53,winter
 
 [event]
-# grass20
+# cut grass53
+type=event
+location=44,24,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,43,23,0;level 9,44,23,0;level 3,45,23,0;level 7,43,24,0;level 10,44,24,0;level 8,45,24,0;level 4,43,25,0;level 6,44,25,0;level 5,45,25,0
+requires_item=10
+requires_not_status=winter
+set_status=cut_grass53
+
+[event]
+# grass54
 type=event
 location=45,24,1,1
 activate=on_load
 hotspot=location
-mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+mapmod=level 2,44,23,43;level 9,45,23,44;level 3,46,23,45;level 7,44,24,107;level 10,45,24,108;level 8,46,24,109;level 4,44,25,171;level 6,45,25,172;level 5,46,25,173
+requires_not_status=cut_grass54,winter
 
 [event]
-# grass20
+# cut grass54
+type=event
+location=45,24,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,44,23,0;level 9,45,23,0;level 3,46,23,0;level 7,44,24,0;level 10,45,24,0;level 8,46,24,0;level 4,44,25,0;level 6,45,25,0;level 5,46,25,0
+requires_item=10
+requires_not_status=winter
+set_status=cut_grass54
+
+[event]
+# grass55
 type=event
 location=46,24,1,1
 activate=on_load
 hotspot=location
-mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+mapmod=level 2,45,23,43;level 9,46,23,44;level 3,47,23,45;level 7,45,24,107;level 10,46,24,108;level 8,47,24,109;level 4,45,25,171;level 6,46,25,172;level 5,47,25,173
+requires_not_status=cut_grass55,winter
+
+[event]
+# cut grass55
+type=event
+location=46,24,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,45,23,0;level 9,46,23,0;level 3,47,23,0;level 7,45,24,0;level 10,46,24,0;level 8,47,24,0;level 4,45,25,0;level 6,46,25,0;level 5,47,25,0
+requires_item=10
+requires_not_status=winter
+set_status=cut_grass55
 
 [event]
 # grass20
@@ -7060,7 +9548,7 @@ location=44,23,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+requires_not_status=cut_grass20,winter
 
 [event]
 # grass20
@@ -7069,7 +9557,7 @@ location=45,23,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+requires_not_status=cut_grass20,winter
 
 [event]
 # grass20
@@ -7078,7 +9566,7 @@ location=46,23,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+requires_not_status=cut_grass20,winter
 
 [event]
 # grass20
@@ -7087,7 +9575,7 @@ location=35,30,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+requires_not_status=cut_grass20,winter
 
 [event]
 # grass20
@@ -7096,7 +9584,7 @@ location=34,30,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+requires_not_status=cut_grass20,winter
 
 [event]
 # grass20
@@ -7105,7 +9593,7 @@ location=33,30,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+requires_not_status=cut_grass20,winter
 
 [event]
 # grass20
@@ -7114,7 +9602,7 @@ location=32,30,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+requires_not_status=cut_grass20,winter
 
 [event]
 # grass20
@@ -7123,7 +9611,7 @@ location=37,32,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+requires_not_status=cut_grass20,winter
 
 [event]
 # grass20
@@ -7132,7 +9620,7 @@ location=37,33,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+requires_not_status=cut_grass20,winter
 
 [event]
 # grass20
@@ -7141,7 +9629,7 @@ location=37,34,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+requires_not_status=cut_grass20,winter
 
 [event]
 # grass20
@@ -7150,7 +9638,7 @@ location=36,34,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+requires_not_status=cut_grass20,winter
 
 [event]
 # grass20
@@ -7159,7 +9647,7 @@ location=35,34,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+requires_not_status=cut_grass20,winter
 
 [event]
 # grass20
@@ -7168,7 +9656,7 @@ location=34,34,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+requires_not_status=cut_grass20,winter
 
 [event]
 # grass20
@@ -7177,7 +9665,7 @@ location=33,34,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+requires_not_status=cut_grass20,winter
 
 [event]
 # grass20
@@ -7186,7 +9674,7 @@ location=32,34,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+requires_not_status=cut_grass20,winter
 
 [event]
 # grass20
@@ -7195,7 +9683,7 @@ location=40,32,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+requires_not_status=cut_grass20,winter
 
 [event]
 # grass20
@@ -7204,7 +9692,7 @@ location=41,32,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+requires_not_status=cut_grass20,winter
 
 [event]
 # grass20
@@ -7213,7 +9701,7 @@ location=37,28,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+requires_not_status=cut_grass20,winter
 
 [event]
 # grass20
@@ -7222,7 +9710,7 @@ location=39,30,1,1
 activate=on_load
 hotspot=location
 mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20
+requires_not_status=cut_grass20,winter
 
 [enemy]
 # fish
