@@ -3,7 +3,7 @@ Alpha 0.07
 
 * the game start on sunday, first day of spring, at 06:00AM
 * Removed the experience bar, which will be inserted in the skill menu, together with the other bars
-* created and add 100 trees (only for spring) and stumps, cuttable, to the farm map, and started adding trees for all 4 seasons as well (each season they change appearance)
+* created and add 100 trees (trees change appearance according to season) and stumps, cuttable, to the farm map
 * use tools now costs energy points
 * all bridges in the maps, now, will be repaired (with logs and nails... for now this function is not implemented)
 * added tabs, in the skill menu (for now they are only for testing)
@@ -18,7 +18,7 @@ Alpha 0.07
 * created 10 additional layers, in the map, under the character, to be able to arrange the edges of the grass properly
 * removed the season in the name of the maps because I will try to put all the seasons in a single map, instead of making 4 identical ones, one per season
 * changed the tile of the grass to be cut and animated (animation should be improved)
-* started adding snow, rain and fog, in the parallax that make day/night cycle
+* added snow, rain and fog parallax images for the day/night cycle
 * added tavern
 * added the hours cycle, the days cycle, the dates cycle and the seasons cycle
 * added the day and night cycle (for now without weather conditions)
