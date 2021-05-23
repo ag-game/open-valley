@@ -8,7 +8,7 @@ activate=static
 hotspot=location
 parallax_layers=maps/parallax/01.txt
 repeat=false
-requires_not_status=PM,summer,fall,winter
+requires_not_status=PM,summer,fall,winter,fog,rain,snow
 requires_status=h06
 
 [event]
@@ -18,7 +18,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/02.txt
 repeat=false
-requires_not_status=PM,summer,fall,winter,m00,m10,m20
+requires_not_status=PM,summer,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h06
 
 [event]
@@ -28,7 +28,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/03.txt
 repeat=false
-requires_not_status=PM,summer,fall,winter
+requires_not_status=PM,summer,fall,winter,fog,rain,snow
 requires_status=h07
 
 [event]
@@ -38,7 +38,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/04.txt
 repeat=false
-requires_not_status=PM,summer,fall,winter,m00,m10,m20
+requires_not_status=PM,summer,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h07
 
 [event]
@@ -48,7 +48,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/05.txt
 repeat=false
-requires_not_status=PM,summer,fall,winter
+requires_not_status=PM,summer,fall,winter,fog,rain,snow
 requires_status=h08
 
 [event]
@@ -58,7 +58,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/06.txt
 repeat=false
-requires_not_status=PM,summer,fall,winter,m00,m10,m20
+requires_not_status=PM,summer,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h08
 
 [event]
@@ -68,7 +68,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/07.txt
 repeat=false
-requires_not_status=PM,summer,fall,winter
+requires_not_status=PM,summer,fall,winter,fog,rain,snow
 requires_status=h09
 
 [event]
@@ -78,7 +78,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/08.txt
 repeat=false
-requires_not_status=PM,summer,fall,winter,m00,m10,m20
+requires_not_status=PM,summer,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h09
 
 [event]
@@ -88,7 +88,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=
 repeat=false
-requires_not_status=AM,summer,fall,winter
+requires_not_status=AM,summer,fall,winter,fog,rain,snow
 requires_status=h10
 
 [event]
@@ -98,7 +98,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/17.txt
 repeat=false
-requires_not_status=AM,summer,fall,winter
+requires_not_status=AM,summer,fall,winter,fog,rain,snow
 requires_status=h07
 
 [event]
@@ -108,7 +108,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/18.txt
 repeat=false
-requires_not_status=AM,summer,fall,winter,m00,m10,m20
+requires_not_status=AM,summer,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h07
 
 [event]
@@ -118,7 +118,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/19.txt
 repeat=false
-requires_not_status=AM,summer,fall,winter
+requires_not_status=AM,summer,fall,winter,fog,rain,snow
 requires_status=h08
 
 [event]
@@ -128,7 +128,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/20.txt
 repeat=false
-requires_not_status=AM,summer,fall,winter,m00,m10,m20
+requires_not_status=AM,summer,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h08
 
 [event]
@@ -138,7 +138,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/21.txt
 repeat=false
-requires_not_status=AM,summer,fall,winter
+requires_not_status=AM,summer,fall,winter,fog,rain,snow
 requires_status=h09
 
 [event]
@@ -148,7 +148,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/22.txt
 repeat=false
-requires_not_status=AM,summer,fall,winter,m00,m10,m20
+requires_not_status=AM,summer,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h09
 
 [event]
@@ -168,7 +168,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/24.txt
 repeat=false
-requires_not_status=PM,summer,fall,winter,m00,m10,m20
+requires_not_status=PM,summer,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h10
 
 [event]
@@ -179,7 +179,7 @@ activate=static
 hotspot=location
 parallax_layers=maps/parallax/01.txt
 repeat=false
-requires_not_status=PM,spring,fall,winter
+requires_not_status=PM,spring,fall,winter,fog,rain,snow
 requires_status=h05
 
 [event]
@@ -189,7 +189,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/02.txt
 repeat=false
-requires_not_status=PM,spring,fall,winter,m00,m10,m20
+requires_not_status=PM,spring,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h05
 
 [event]
@@ -199,7 +199,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/03.txt
 repeat=false
-requires_not_status=PM,spring,fall,winter
+requires_not_status=PM,spring,fall,winter,fog,rain,snow
 requires_status=h06
 
 [event]
@@ -209,7 +209,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/04.txt
 repeat=false
-requires_not_status=PM,spring,fall,winter,m00,m10,m20
+requires_not_status=PM,spring,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h06
 
 [event]
@@ -219,7 +219,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/05.txt
 repeat=false
-requires_not_status=PM,spring,fall,winter
+requires_not_status=PM,spring,fall,winter,fog,rain,snow
 requires_status=h07
 
 [event]
@@ -229,7 +229,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/06.txt
 repeat=false
-requires_not_status=PM,spring,fall,winter,m00,m10,m20
+requires_not_status=PM,spring,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h07
 
 [event]
@@ -239,7 +239,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/07.txt
 repeat=false
-requires_not_status=PM,spring,fall,winter
+requires_not_status=PM,spring,fall,winter,fog,rain,snow
 requires_status=h08
 
 [event]
@@ -249,7 +249,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/08.txt
 repeat=false
-requires_not_status=PM,spring,fall,winter,m00,m10,m20
+requires_not_status=PM,spring,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h08
 
 [event]
@@ -259,7 +259,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=
 repeat=false
-requires_not_status=AM,spring,fall,winter
+requires_not_status=AM,spring,fall,winter,fog,rain,snow
 requires_status=h09
 
 [event]
@@ -269,7 +269,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/17.txt
 repeat=false
-requires_not_status=AM,spring,fall,winter
+requires_not_status=AM,spring,fall,winter,fog,rain,snow
 requires_status=h09
 
 [event]
@@ -279,7 +279,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/18.txt
 repeat=false
-requires_not_status=AM,spring,fall,winter,m00,m10,m20
+requires_not_status=AM,spring,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h09
 
 [event]
@@ -289,7 +289,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/19.txt
 repeat=false
-requires_not_status=AM,spring,fall,winter
+requires_not_status=AM,spring,fall,winter,fog,rain,snow
 requires_status=h10
 
 [event]
@@ -299,7 +299,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/20.txt
 repeat=false
-requires_not_status=AM,spring,fall,winter,m00,m10,m20
+requires_not_status=AM,spring,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h10
 
 [event]
@@ -309,7 +309,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/21.txt
 repeat=false
-requires_not_status=AM,spring,fall,winter
+requires_not_status=AM,spring,fall,winter,fog,rain,snow
 requires_status=h11
 
 [event]
@@ -319,7 +319,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/22.txt
 repeat=false
-requires_not_status=AM,spring,fall,winter,m00,m10,m20
+requires_not_status=AM,spring,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h11
 
 [event]
@@ -329,7 +329,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/23.txt
 repeat=false
-requires_not_status=AM,spring,fall,winter
+requires_not_status=AM,spring,fall,winter,fog,rain,snow
 requires_status=h12
 
 [event]
@@ -339,7 +339,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/24.txt
 repeat=false
-requires_not_status=PM,spring,fall,winter,m00,m10,m20
+requires_not_status=PM,spring,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h12
 
 [event]
@@ -350,7 +350,7 @@ activate=static
 hotspot=location
 parallax_layers=maps/parallax/01.txt
 repeat=false
-requires_not_status=PM,spring,summer,winter
+requires_not_status=PM,spring,summer,winter,fog,rain,snow
 requires_status=h07
 
 [event]
@@ -360,7 +360,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/02.txt
 repeat=false
-requires_not_status=PM,spring,summer,winter,m00,m10,m20
+requires_not_status=PM,spring,summer,winter,m00,m10,m20,fog,rain,snow
 requires_status=h07
 
 [event]
@@ -370,7 +370,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/03.txt
 repeat=false
-requires_not_status=PM,spring,summer,winter
+requires_not_status=PM,spring,summer,winter,fog,rain,snow
 requires_status=h08
 
 [event]
@@ -380,7 +380,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/04.txt
 repeat=false
-requires_not_status=PM,spring,summer,winter,m00,m10,m20
+requires_not_status=PM,spring,summer,winter,m00,m10,m20,fog,rain,snow
 requires_status=h08
 
 [event]
@@ -390,7 +390,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/05.txt
 repeat=false
-requires_not_status=PM,spring,summer,winter
+requires_not_status=PM,spring,summer,winter,fog,rain,snow
 requires_status=h09
 
 [event]
@@ -400,7 +400,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/06.txt
 repeat=false
-requires_not_status=PM,spring,summer,winter,m00,m10,m20
+requires_not_status=PM,spring,summer,winter,m00,m10,m20,fog,rain,snow
 requires_status=h09
 
 [event]
@@ -410,7 +410,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/07.txt
 repeat=false
-requires_not_status=PM,spring,summer,winter
+requires_not_status=PM,spring,summer,winter,fog,rain,snow
 requires_status=h10
 
 [event]
@@ -420,7 +420,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/08.txt
 repeat=false
-requires_not_status=PM,spring,summer,winter,m00,m10,m20
+requires_not_status=PM,spring,summer,winter,m00,m10,m20,fog,rain,snow
 requires_status=h10
 
 [event]
@@ -430,7 +430,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=
 repeat=false
-requires_not_status=AM,spring,summer,winter
+requires_not_status=AM,spring,summer,winter,fog,rain,snow
 requires_status=h11
 
 [event]
@@ -440,7 +440,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/17.txt
 repeat=false
-requires_not_status=AM,spring,summer,winter
+requires_not_status=AM,spring,summer,winter,fog,rain,snow
 requires_status=h07
 
 [event]
@@ -450,7 +450,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/18.txt
 repeat=false
-requires_not_status=AM,spring,summer,winter,m00,m10,m20
+requires_not_status=AM,spring,summer,winter,m00,m10,m20,fog,rain,snow
 requires_status=h07
 
 [event]
@@ -460,7 +460,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/19.txt
 repeat=false
-requires_not_status=AM,spring,summer,winter
+requires_not_status=AM,spring,summer,winter,fog,rain,snow
 requires_status=h08
 
 [event]
@@ -470,7 +470,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/20.txt
 repeat=false
-requires_not_status=AM,spring,summer,winter,m00,m10,m20
+requires_not_status=AM,spring,summer,winter,m00,m10,m20,fog,rain,snow
 requires_status=h08
 
 [event]
@@ -480,7 +480,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/21.txt
 repeat=false
-requires_not_status=AM,spring,summer,winter
+requires_not_status=AM,spring,summer,winter,fog,rain,snow
 requires_status=h09
 
 [event]
@@ -490,7 +490,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/22.txt
 repeat=false
-requires_not_status=AM,spring,summer,winter,m00,m10,m20
+requires_not_status=AM,spring,summer,winter,m00,m10,m20,fog,rain,snow
 requires_status=h09
 
 [event]
@@ -500,7 +500,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/23.txt
 repeat=false
-requires_not_status=AM,spring,summer,winter
+requires_not_status=AM,spring,summer,winter,fog,rain,snow
 requires_status=h10
 
 [event]
@@ -510,7 +510,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/24.txt
 repeat=false
-requires_not_status=PM,spring,summer,winter,m00,m10,m20
+requires_not_status=PM,spring,summer,winter,m00,m10,m20,fog,rain,snow
 requires_status=h10
 
 [event]
@@ -521,7 +521,7 @@ activate=static
 hotspot=location
 parallax_layers=maps/parallax/01.txt
 repeat=false
-requires_not_status=PM,spring,summer,fall
+requires_not_status=PM,spring,summer,fall,fog,rain,snow
 requires_status=h08
 
 [event]
@@ -531,7 +531,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/02.txt
 repeat=false
-requires_not_status=PM,spring,summer,fall,m00,m10,m20
+requires_not_status=PM,spring,summer,fall,m00,m10,m20,fog,rain,snow
 requires_status=h08
 
 [event]
@@ -541,7 +541,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/03.txt
 repeat=false
-requires_not_status=PM,spring,summer,fall
+requires_not_status=PM,spring,summer,fall,fog,rain,snow
 requires_status=h09
 
 [event]
@@ -551,7 +551,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/04.txt
 repeat=false
-requires_not_status=PM,spring,summer,fall,m00,m10,m20
+requires_not_status=PM,spring,summer,fall,m00,m10,m20,fog,rain,snow
 requires_status=h09
 
 [event]
@@ -561,7 +561,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/05.txt
 repeat=false
-requires_not_status=PM,spring,summer,fall
+requires_not_status=PM,spring,summer,fall,fog,rain,snow
 requires_status=h10
 
 [event]
@@ -571,7 +571,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/06.txt
 repeat=false
-requires_not_status=PM,spring,summer,fall,m00,m10,m20
+requires_not_status=PM,spring,summer,fall,m00,m10,m20,fog,rain,snow
 requires_status=h10
 
 [event]
@@ -581,7 +581,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/07.txt
 repeat=false
-requires_not_status=PM,spring,summer,fall
+requires_not_status=PM,spring,summer,fall,fog,rain,snow
 requires_status=h11
 
 [event]
@@ -591,7 +591,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/08.txt
 repeat=false
-requires_not_status=PM,spring,summer,fall,m00,m10,m20
+requires_not_status=PM,spring,summer,fall,m00,m10,m20,fog,rain,snow
 requires_status=h11
 
 [event]
@@ -601,7 +601,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=
 repeat=false
-requires_not_status=AM,spring,summer,fall
+requires_not_status=AM,spring,summer,fall,fog,rain,snow
 requires_status=h12
 
 [event]
@@ -611,7 +611,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/17.txt
 repeat=false
-requires_not_status=AM,spring,summer,fall
+requires_not_status=AM,spring,summer,fall,fog,rain,snow
 requires_status=h05
 
 [event]
@@ -621,7 +621,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/18.txt
 repeat=false
-requires_not_status=AM,spring,summer,fall,m00,m10,m20
+requires_not_status=AM,spring,summer,fall,m00,m10,m20,fog,rain,snow
 requires_status=h05
 
 [event]
@@ -631,7 +631,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/19.txt
 repeat=false
-requires_not_status=AM,spring,summer,fall
+requires_not_status=AM,spring,summer,fall,fog,rain,snow
 requires_status=h06
 
 [event]
@@ -641,7 +641,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/20.txt
 repeat=false
-requires_not_status=AM,spring,summer,fall,m00,m10,m20
+requires_not_status=AM,spring,summer,fall,m00,m10,m20,fog,rain,snow
 requires_status=h06
 
 [event]
@@ -651,7 +651,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/21.txt
 repeat=false
-requires_not_status=AM,spring,summer,fall
+requires_not_status=AM,spring,summer,fall,fog,rain,snow
 requires_status=h07
 
 [event]
@@ -661,7 +661,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/22.txt
 repeat=false
-requires_not_status=AM,spring,summer,fall,m00,m10,m20
+requires_not_status=AM,spring,summer,fall,m00,m10,m20,fog,rain,snow
 requires_status=h07
 
 [event]
@@ -671,7 +671,7 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/23.txt
 repeat=false
-requires_not_status=AM,spring,summer,fall
+requires_not_status=AM,spring,summer,fall,fog,rain,snow
 requires_status=h08
 
 [event]
@@ -681,5 +681,1715 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/24.txt
 repeat=false
-requires_not_status=PM,spring,summer,fall,m00,m10,m20
+requires_not_status=PM,spring,summer,fall,m00,m10,m20,fog,rain,snow
+requires_status=h08
+
+[event]
+# change parallax spring fog
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/01.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,clear,rain,snow
+requires_status=h06
+
+[event]
+# change parallax spring fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/02.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,m00,m10,m20,clear,rain,snow
+requires_status=h06
+
+[event]
+# change parallax spring fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/03.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,clear,rain,snow
+requires_status=h07
+
+[event]
+# change parallax spring fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/04.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,m00,m10,m20,clear,rain,snow
+requires_status=h07
+
+[event]
+# change parallax spring fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/05.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,clear,rain,snow
+requires_status=h08
+
+[event]
+# change parallax spring fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/06.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,m00,m10,m20,clear,rain,snow
+requires_status=h08
+
+[event]
+# change parallax spring fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/07.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,clear,rain,snow
+requires_status=h09
+
+[event]
+# change parallax spring fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/08.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,m00,m10,m20,clear,rain,snow
+requires_status=h09
+
+[event]
+# change parallax spring fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/fog.txt
+repeat=false
+requires_not_status=AM,summer,fall,winter,clear,rain,snow
+requires_status=h10
+
+[event]
+# change parallax spring fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/17.txt
+repeat=false
+requires_not_status=AM,summer,fall,winter,clear,rain,snow
+requires_status=h07
+
+[event]
+# change parallax spring fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/18.txt
+repeat=false
+requires_not_status=AM,summer,fall,winter,m00,m10,m20,clear,rain,snow
+requires_status=h07
+
+[event]
+# change parallax spring fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/19.txt
+repeat=false
+requires_not_status=AM,summer,fall,winter,clear,rain,snow
+requires_status=h08
+
+[event]
+# change parallax spring fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/20.txt
+repeat=false
+requires_not_status=AM,summer,fall,winter,m00,m10,m20,clear,rain,snow
+requires_status=h08
+
+[event]
+# change parallax spring fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/21.txt
+repeat=false
+requires_not_status=AM,summer,fall,winter,clear,rain,snow
+requires_status=h09
+
+[event]
+# change parallax spring fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/22.txt
+repeat=false
+requires_not_status=AM,summer,fall,winter,m00,m10,m20,clear,rain,snow
+requires_status=h09
+
+[event]
+# change parallax spring fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/23.txt
+repeat=false
+requires_not_status=AM,summer,fall,winter
+requires_status=h10
+
+[event]
+# change parallax spring fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,m00,m10,m20,clear,rain,snow
+requires_status=h10
+
+[event]
+# change parallax summer fog
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/01.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,clear,rain,snow
+requires_status=h05
+
+[event]
+# change parallax summer fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/02.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,m00,m10,m20,clear,rain,snow
+requires_status=h05
+
+[event]
+# change parallax summer fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/03.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,clear,rain,snow
+requires_status=h06
+
+[event]
+# change parallax summer fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/04.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,m00,m10,m20,clear,rain,snow
+requires_status=h06
+
+[event]
+# change parallax summer fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/05.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,clear,rain,snow
+requires_status=h07
+
+[event]
+# change parallax summer fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/06.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,m00,m10,m20,clear,rain,snow
+requires_status=h07
+
+[event]
+# change parallax summer fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/07.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,clear,rain,snow
+requires_status=h08
+
+[event]
+# change parallax summer fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/08.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,m00,m10,m20,clear,rain,snow
+requires_status=h08
+
+[event]
+# change parallax summer fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/fog.txt
+repeat=false
+requires_not_status=AM,spring,fall,winter,clear,rain,snow
+requires_status=h09
+
+[event]
+# change parallax summer fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/17.txt
+repeat=false
+requires_not_status=AM,spring,fall,winter,clear,rain,snow
+requires_status=h09
+
+[event]
+# change parallax summer fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/18.txt
+repeat=false
+requires_not_status=AM,spring,fall,winter,m00,m10,m20,clear,rain,snow
+requires_status=h09
+
+[event]
+# change parallax summer fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/19.txt
+repeat=false
+requires_not_status=AM,spring,fall,winter,clear,rain,snow
+requires_status=h10
+
+[event]
+# change parallax summer fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/20.txt
+repeat=false
+requires_not_status=AM,spring,fall,winter,m00,m10,m20,clear,rain,snow
+requires_status=h10
+
+[event]
+# change parallax summer fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/21.txt
+repeat=false
+requires_not_status=AM,spring,fall,winter,clear,rain,snow
+requires_status=h11
+
+[event]
+# change parallax summer fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/22.txt
+repeat=false
+requires_not_status=AM,spring,fall,winter,m00,m10,m20,clear,rain,snow
+requires_status=h11
+
+[event]
+# change parallax summer fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/23.txt
+repeat=false
+requires_not_status=AM,spring,fall,winter,clear,rain,snow
+requires_status=h12
+
+[event]
+# change parallax summer fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,m00,m10,m20,clear,rain,snow
+requires_status=h12
+
+[event]
+# change parallax fall fog
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/01.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,clear,rain,snow
+requires_status=h07
+
+[event]
+# change parallax fall fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/02.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,rain,snow
+requires_status=h07
+
+[event]
+# change parallax fall fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/03.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,clear,rain,snow
+requires_status=h08
+
+[event]
+# change parallax fall fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/04.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,rain,snow
+requires_status=h08
+
+[event]
+# change parallax fall fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/05.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,clear,rain,snow
+requires_status=h09
+
+[event]
+# change parallax fall fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/06.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,rain,snow
+requires_status=h09
+
+[event]
+# change parallax fall fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/07.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,clear,rain,snow
+requires_status=h10
+
+[event]
+# change parallax fall fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/08.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,rain,snow
+requires_status=h10
+
+[event]
+# change parallax fall fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/fog.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,clear,rain,snow
+requires_status=h11
+
+[event]
+# change parallax fall fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/17.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,clear,rain,snow
+requires_status=h07
+
+[event]
+# change parallax fall fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/18.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,m00,m10,m20,clear,rain,snow
+requires_status=h07
+
+[event]
+# change parallax fall fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/19.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,clear,rain,snow
+requires_status=h08
+
+[event]
+# change parallax fall fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/20.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,m00,m10,m20,clear,rain,snow
+requires_status=h08
+
+[event]
+# change parallax fall fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/21.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,clear,rain,snow
+requires_status=h09
+
+[event]
+# change parallax fall fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/22.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,m00,m10,m20,clear,rain,snow
+requires_status=h09
+
+[event]
+# change parallax fall fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/23.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,clear,rain,snow
+requires_status=h10
+
+[event]
+# change parallax fall fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,rain,snow
+requires_status=h10
+
+[event]
+# change parallax winter fog
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/01.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,clear,rain,snow
+requires_status=h08
+
+[event]
+# change parallax winter fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/02.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,rain,snow
+requires_status=h08
+
+[event]
+# change parallax winter fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/03.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,clear,rain,snow
+requires_status=h09
+
+[event]
+# change parallax winter fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/04.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,rain,snow
+requires_status=h09
+
+[event]
+# change parallax winter fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/05.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,clear,rain,snow
+requires_status=h10
+
+[event]
+# change parallax winter fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/06.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,rain,snow
+requires_status=h10
+
+[event]
+# change parallax winter fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/07.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,clear,rain,snow
+requires_status=h11
+
+[event]
+# change parallax winter fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/08.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,rain,snow
+requires_status=h11
+
+[event]
+# change parallax winter fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/fog.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,clear,rain,snow
+requires_status=h12
+
+[event]
+# change parallax winter fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/17.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,clear,rain,snow
+requires_status=h05
+
+[event]
+# change parallax winter fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/18.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,m00,m10,m20,clear,rain,snow
+requires_status=h05
+
+[event]
+# change parallax winter fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/19.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,clear,rain,snow
+requires_status=h06
+
+[event]
+# change parallax winter fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/20.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,m00,m10,m20,clear,rain,snow
+requires_status=h06
+
+[event]
+# change parallax winter fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/21.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,clear,rain,snow
+requires_status=h07
+
+[event]
+# change parallax winter fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/22.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,m00,m10,m20,clear,rain,snow
+requires_status=h07
+
+[event]
+# change parallax winter fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/23.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,clear,rain,snow
+requires_status=h08
+
+[event]
+# change parallax winter fog
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,rain,snow
+requires_status=h08
+
+[event]
+# change parallax spring rain
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/01.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,clear,fog,snow
+requires_status=h06
+
+[event]
+# change parallax spring rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/02.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,m00,m10,m20,clear,fog,snow
+requires_status=h06
+
+[event]
+# change parallax spring rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/03.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,clear,fog,snow
+requires_status=h07
+
+[event]
+# change parallax spring rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/04.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,m00,m10,m20,clear,fog,snow
+requires_status=h07
+
+[event]
+# change parallax spring rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/05.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,clear,fog,snow
+requires_status=h08
+
+[event]
+# change parallax spring rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/06.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,m00,m10,m20,clear,fog,snow
+requires_status=h08
+
+[event]
+# change parallax spring rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/07.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,clear,fog,snow
+requires_status=h09
+
+[event]
+# change parallax spring rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/08.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,m00,m10,m20,clear,fog,snow
+requires_status=h09
+
+[event]
+# change parallax spring rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/rain.txt
+repeat=false
+requires_not_status=AM,summer,fall,winter,clear,fog,snow
+requires_status=h10
+
+[event]
+# change parallax spring rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/17.txt
+repeat=false
+requires_not_status=AM,summer,fall,winter,clear,fog,snow
+requires_status=h07
+
+[event]
+# change parallax spring rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/18.txt
+repeat=false
+requires_not_status=AM,summer,fall,winter,m00,m10,m20,clear,fog,snow
+requires_status=h07
+
+[event]
+# change parallax spring rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/19.txt
+repeat=false
+requires_not_status=AM,summer,fall,winter,clear,fog,snow
+requires_status=h08
+
+[event]
+# change parallax spring rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/20.txt
+repeat=false
+requires_not_status=AM,summer,fall,winter,m00,m10,m20,clear,fog,snow
+requires_status=h08
+
+[event]
+# change parallax spring rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/21.txt
+repeat=false
+requires_not_status=AM,summer,fall,winter,clear,fog,snow
+requires_status=h09
+
+[event]
+# change parallax spring rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/22.txt
+repeat=false
+requires_not_status=AM,summer,fall,winter,m00,m10,m20,clear,fog,snow
+requires_status=h09
+
+[event]
+# change parallax spring rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/23.txt
+repeat=false
+requires_not_status=AM,summer,fall,winter
+requires_status=h10
+
+[event]
+# change parallax spring rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,m00,m10,m20,clear,fog,snow
+requires_status=h10
+
+[event]
+# change parallax summer rain
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/01.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,clear,fog,snow
+requires_status=h05
+
+[event]
+# change parallax summer rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/02.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,m00,m10,m20,clear,fog,snow
+requires_status=h05
+
+[event]
+# change parallax summer rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/03.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,clear,fog,snow
+requires_status=h06
+
+[event]
+# change parallax summer rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/04.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,m00,m10,m20,clear,fog,snow
+requires_status=h06
+
+[event]
+# change parallax summer rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/05.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,clear,fog,snow
+requires_status=h07
+
+[event]
+# change parallax summer rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/06.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,m00,m10,m20,clear,fog,snow
+requires_status=h07
+
+[event]
+# change parallax summer rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/07.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,clear,fog,snow
+requires_status=h08
+
+[event]
+# change parallax summer rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/08.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,m00,m10,m20,clear,fog,snow
+requires_status=h08
+
+[event]
+# change parallax summer rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/rain.txt
+repeat=false
+requires_not_status=AM,spring,fall,winter,clear,fog,snow
+requires_status=h09
+
+[event]
+# change parallax summer rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/17.txt
+repeat=false
+requires_not_status=AM,spring,fall,winter,clear,fog,snow
+requires_status=h09
+
+[event]
+# change parallax summer rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/18.txt
+repeat=false
+requires_not_status=AM,spring,fall,winter,m00,m10,m20,clear,fog,snow
+requires_status=h09
+
+[event]
+# change parallax summer rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/19.txt
+repeat=false
+requires_not_status=AM,spring,fall,winter,clear,fog,snow
+requires_status=h10
+
+[event]
+# change parallax summer rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/20.txt
+repeat=false
+requires_not_status=AM,spring,fall,winter,m00,m10,m20,clear,fog,snow
+requires_status=h10
+
+[event]
+# change parallax summer rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/21.txt
+repeat=false
+requires_not_status=AM,spring,fall,winter,clear,fog,snow
+requires_status=h11
+
+[event]
+# change parallax summer rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/22.txt
+repeat=false
+requires_not_status=AM,spring,fall,winter,m00,m10,m20,clear,fog,snow
+requires_status=h11
+
+[event]
+# change parallax summer rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/23.txt
+repeat=false
+requires_not_status=AM,spring,fall,winter,clear,fog,snow
+requires_status=h12
+
+[event]
+# change parallax summer rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,m00,m10,m20,clear,fog,snow
+requires_status=h12
+
+[event]
+# change parallax fall rain
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/01.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,clear,fog,snow
+requires_status=h07
+
+[event]
+# change parallax fall rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/02.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,fog,snow
+requires_status=h07
+
+[event]
+# change parallax fall rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/03.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,clear,fog,snow
+requires_status=h08
+
+[event]
+# change parallax fall rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/04.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,fog,snow
+requires_status=h08
+
+[event]
+# change parallax fall rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/05.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,clear,fog,snow
+requires_status=h09
+
+[event]
+# change parallax fall rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/06.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,fog,snow
+requires_status=h09
+
+[event]
+# change parallax fall rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/07.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,clear,fog,snow
+requires_status=h10
+
+[event]
+# change parallax fall rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/08.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,fog,snow
+requires_status=h10
+
+[event]
+# change parallax fall rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/rain.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,clear,fog,snow
+requires_status=h11
+
+[event]
+# change parallax fall rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/17.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,clear,fog,snow
+requires_status=h07
+
+[event]
+# change parallax fall rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/18.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,m00,m10,m20,clear,fog,snow
+requires_status=h07
+
+[event]
+# change parallax fall rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/19.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,clear,fog,snow
+requires_status=h08
+
+[event]
+# change parallax fall rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/20.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,m00,m10,m20,clear,fog,snow
+requires_status=h08
+
+[event]
+# change parallax fall rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/21.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,clear,fog,snow
+requires_status=h09
+
+[event]
+# change parallax fall rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/22.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,m00,m10,m20,clear,fog,snow
+requires_status=h09
+
+[event]
+# change parallax fall rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/23.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,clear,fog,snow
+requires_status=h10
+
+[event]
+# change parallax fall rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,fog,snow
+requires_status=h10
+
+[event]
+# change parallax winter rain
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/01.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,clear,fog,snow
+requires_status=h08
+
+[event]
+# change parallax winter rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/02.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,fog,snow
+requires_status=h08
+
+[event]
+# change parallax winter rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/03.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,clear,fog,snow
+requires_status=h09
+
+[event]
+# change parallax winter rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/04.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,fog,snow
+requires_status=h09
+
+[event]
+# change parallax winter rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/05.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,clear,fog,snow
+requires_status=h10
+
+[event]
+# change parallax winter rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/06.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,fog,snow
+requires_status=h10
+
+[event]
+# change parallax winter rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/07.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,clear,fog,snow
+requires_status=h11
+
+[event]
+# change parallax winter rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/08.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,fog,snow
+requires_status=h11
+
+[event]
+# change parallax winter rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/rain.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,clear,fog,snow
+requires_status=h12
+
+[event]
+# change parallax winter rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/17.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,clear,fog,snow
+requires_status=h05
+
+[event]
+# change parallax winter rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/18.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,m00,m10,m20,clear,fog,snow
+requires_status=h05
+
+[event]
+# change parallax winter rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/19.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,clear,fog,snow
+requires_status=h06
+
+[event]
+# change parallax winter rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/20.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,m00,m10,m20,clear,fog,snow
+requires_status=h06
+
+[event]
+# change parallax winter rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/21.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,clear,fog,snow
+requires_status=h07
+
+[event]
+# change parallax winter rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/22.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,m00,m10,m20,clear,fog,snow
+requires_status=h07
+
+[event]
+# change parallax winter rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/23.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,clear,fog,snow
+requires_status=h08
+
+[event]
+# change parallax winter rain
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,fog,snow
+requires_status=h08
+
+[event]
+# change parallax fall snow
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/01.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,clear,fog,rain
+requires_status=h07
+
+[event]
+# change parallax fall snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/02.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,fog,rain
+requires_status=h07
+
+[event]
+# change parallax fall snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/03.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,clear,fog,rain
+requires_status=h08
+
+[event]
+# change parallax fall snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/04.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,fog,rain
+requires_status=h08
+
+[event]
+# change parallax fall snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/05.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,clear,fog,rain
+requires_status=h09
+
+[event]
+# change parallax fall snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/06.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,fog,rain
+requires_status=h09
+
+[event]
+# change parallax fall snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/07.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,clear,fog,rain
+requires_status=h10
+
+[event]
+# change parallax fall snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/08.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,fog,rain
+requires_status=h10
+
+[event]
+# change parallax fall snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/snow.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,clear,fog,rain
+requires_status=h11
+
+[event]
+# change parallax fall snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/17.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,clear,fog,rain
+requires_status=h07
+
+[event]
+# change parallax fall snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/18.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,m00,m10,m20,clear,fog,rain
+requires_status=h07
+
+[event]
+# change parallax fall snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/19.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,clear,fog,rain
+requires_status=h08
+
+[event]
+# change parallax fall snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/20.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,m00,m10,m20,clear,fog,rain
+requires_status=h08
+
+[event]
+# change parallax fall snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/21.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,clear,fog,rain
+requires_status=h09
+
+[event]
+# change parallax fall snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/22.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,m00,m10,m20,clear,fog,rain
+requires_status=h09
+
+[event]
+# change parallax fall snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/23.txt
+repeat=false
+requires_not_status=AM,spring,summer,winter,clear,fog,rain
+requires_status=h10
+
+[event]
+# change parallax fall snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,fog,rain
+requires_status=h10
+
+[event]
+# change parallax winter snow
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/01.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,clear,fog,rain
+requires_status=h08
+
+[event]
+# change parallax winter snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/02.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,fog,rain
+requires_status=h08
+
+[event]
+# change parallax winter snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/03.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,clear,fog,rain
+requires_status=h09
+
+[event]
+# change parallax winter snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/04.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,fog,rain
+requires_status=h09
+
+[event]
+# change parallax winter snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/05.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,clear,fog,rain
+requires_status=h10
+
+[event]
+# change parallax winter snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/06.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,fog,rain
+requires_status=h10
+
+[event]
+# change parallax winter snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/07.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,clear,fog,rain
+requires_status=h11
+
+[event]
+# change parallax winter snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/08.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,fog,rain
+requires_status=h11
+
+[event]
+# change parallax winter snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/snow.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,clear,fog,rain
+requires_status=h12
+
+[event]
+# change parallax winter snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/17.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,clear,fog,rain
+requires_status=h05
+
+[event]
+# change parallax winter snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/18.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,m00,m10,m20,clear,fog,rain
+requires_status=h05
+
+[event]
+# change parallax winter snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/19.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,clear,fog,rain
+requires_status=h06
+
+[event]
+# change parallax winter snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/20.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,m00,m10,m20,clear,fog,rain
+requires_status=h06
+
+[event]
+# change parallax winter snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/21.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,clear,fog,rain
+requires_status=h07
+
+[event]
+# change parallax winter snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/22.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,m00,m10,m20,clear,fog,rain
+requires_status=h07
+
+[event]
+# change parallax winter snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/23.txt
+repeat=false
+requires_not_status=AM,spring,summer,fall,clear,fog,rain
+requires_status=h08
+
+[event]
+# change parallax winter snow
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,fog,rain
 requires_status=h08

@@ -27,7 +27,8 @@ Alpha 0.07
 * added some soundfx
 * added the first 55/72 tiles of cutable grass (without character animation)
 * set the grass disappearing in winter
-* changed the day/night cycle, now the sunrise and sunset change time according to the season
+* changed the day/night cycle, with the sunrise and sunset change time according to the season. now the day/night cycle changes every in-game half hour
+* started to set the change of weather conditions that are activated every in-game 2 hours
 
 ............................................
 

@@ -1,0 +1,56 @@
+these events will be inserted on EVERY (outdoor and indoor) map that will be created
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=on_load
+requires_not_status=m10,m20,m30,m40,m50
+requires_status=h02
+unset_status=weather
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=on_load
+requires_not_status=m10,m20,m30,m40,m50
+requires_status=h04
+unset_status=weather
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=on_load
+requires_not_status=m10,m20,m30,m40,m50
+requires_status=h06
+unset_status=weather
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=on_load
+requires_not_status=m10,m20,m30,m40,m50
+requires_status=h08
+unset_status=weather
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=on_load
+requires_not_status=m10,m20,m30,m40,m50
+requires_status=h10
+unset_status=weather
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=on_load
+requires_not_status=m10,m20,m30,m40,m50
+requires_status=h12
+unset_status=weather
+
