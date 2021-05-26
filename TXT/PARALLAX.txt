@@ -6,10 +6,143 @@ type=event
 location=0,0,0,0
 activate=static
 hotspot=location
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h12
+unset_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,fog,rain,snow
+requires_status=h01
+unset_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h01
+unset_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,fog,rain,snow
+requires_status=h02
+unset_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h02
+unset_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,fog,rain,snow
+requires_status=h03
+unset_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h03
+unset_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,fog,rain,snow
+requires_status=h04
+unset_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h04
+unset_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,fog,rain,snow
+requires_status=h05
+unset_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h05
+unset_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
 parallax_layers=maps/parallax/01.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,fog,rain,snow
 requires_status=h06
+unset_status=morning
 
 [event]
 # change parallax spring
@@ -20,6 +153,7 @@ parallax_layers=maps/parallax/02.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h06
+unset_status=morning
 
 [event]
 # change parallax spring
@@ -30,6 +164,7 @@ parallax_layers=maps/parallax/03.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,fog,rain,snow
 requires_status=h07
+unset_status=morning
 
 [event]
 # change parallax spring
@@ -40,6 +175,7 @@ parallax_layers=maps/parallax/04.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h07
+set_status=morning
 
 [event]
 # change parallax spring
@@ -50,6 +186,7 @@ parallax_layers=maps/parallax/05.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,fog,rain,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax spring
@@ -60,6 +197,7 @@ parallax_layers=maps/parallax/06.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax spring
@@ -70,6 +208,7 @@ parallax_layers=maps/parallax/07.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,fog,rain,snow
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax spring
@@ -80,6 +219,51 @@ parallax_layers=maps/parallax/08.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h09
+set_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=PM,summer,fall,winter,fog,rain,snow
+requires_status=h10
+set_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=PM,summer,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h10
+set_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=PM,summer,fall,winter,fog,rain,snow
+requires_status=h11
+set_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=PM,summer,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h11
+set_status=morning
 
 [event]
 # change parallax spring
@@ -89,7 +273,151 @@ activate=static
 parallax_layers=
 repeat=false
 requires_not_status=AM,summer,fall,winter,fog,rain,snow
-requires_status=h10
+requires_status=h12
+set_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,summer,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h12
+set_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,summer,fall,winter,fog,rain,snow
+requires_status=h01
+set_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,summer,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h01
+set_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,summer,fall,winter,fog,rain,snow
+requires_status=h02
+set_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,summer,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h02
+set_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,summer,fall,winter,fog,rain,snow
+requires_status=h03
+set_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,summer,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h03
+set_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,summer,fall,winter,fog,rain,snow
+requires_status=h04
+set_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,summer,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h04
+set_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,summer,fall,winter,fog,rain,snow
+requires_status=h05
+set_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,summer,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h05
+set_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,summer,fall,winter,fog,rain,snow
+requires_status=h06
+set_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,summer,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h06
+set_status=morning
 
 [event]
 # change parallax spring
@@ -100,6 +428,7 @@ parallax_layers=maps/parallax/17.txt
 repeat=false
 requires_not_status=AM,summer,fall,winter,fog,rain,snow
 requires_status=h07
+set_status=morning
 
 [event]
 # change parallax spring
@@ -110,6 +439,7 @@ parallax_layers=maps/parallax/18.txt
 repeat=false
 requires_not_status=AM,summer,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h07
+set_status=morning
 
 [event]
 # change parallax spring
@@ -120,6 +450,7 @@ parallax_layers=maps/parallax/19.txt
 repeat=false
 requires_not_status=AM,summer,fall,winter,fog,rain,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax spring
@@ -130,6 +461,7 @@ parallax_layers=maps/parallax/20.txt
 repeat=false
 requires_not_status=AM,summer,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax spring
@@ -140,6 +472,7 @@ parallax_layers=maps/parallax/21.txt
 repeat=false
 requires_not_status=AM,summer,fall,winter,fog,rain,snow
 requires_status=h09
+unset_status=morning
 
 [event]
 # change parallax spring
@@ -150,6 +483,7 @@ parallax_layers=maps/parallax/22.txt
 repeat=false
 requires_not_status=AM,summer,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h09
+unset_status=morning
 
 [event]
 # change parallax spring
@@ -160,6 +494,7 @@ parallax_layers=maps/parallax/23.txt
 repeat=false
 requires_not_status=AM,summer,fall,winter
 requires_status=h10
+unset_status=morning
 
 [event]
 # change parallax spring
@@ -168,8 +503,150 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/24.txt
 repeat=false
-requires_not_status=PM,summer,fall,winter,m00,m10,m20,fog,rain,snow
+requires_not_status=AM,summer,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h10
+unset_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=AM,summer,fall,winter,fog,rain,snow
+requires_status=h11
+unset_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=AM,summer,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h11
+unset_status=morning
+
+[event]
+# change parallax spring
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=maps/parallax/24.txt
+repeat=false
+requires_not_status=PM,summer,fall,winter,fog,rain,snow
+requires_status=h12
+unset_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/01.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h12
+unset_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/01.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,fog,rain,snow
+requires_status=h01
+unset_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/01.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h01
+unset_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/01.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,fog,rain,snow
+requires_status=h02
+unset_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/01.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h02
+unset_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/01.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,fog,rain,snow
+requires_status=h03
+unset_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/01.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h03
+unset_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/01.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,fog,rain,snow
+requires_status=h04
+unset_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+hotspot=location
+parallax_layers=maps/parallax/01.txt
+repeat=false
+requires_not_status=PM,spring,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h04
+unset_status=morning
 
 [event]
 # change parallax summer
@@ -181,6 +658,7 @@ parallax_layers=maps/parallax/01.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,fog,rain,snow
 requires_status=h05
+unset_status=morning
 
 [event]
 # change parallax summer
@@ -191,6 +669,7 @@ parallax_layers=maps/parallax/02.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h05
+unset_status=morning
 
 [event]
 # change parallax summer
@@ -201,6 +680,7 @@ parallax_layers=maps/parallax/03.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,fog,rain,snow
 requires_status=h06
+unset_status=morning
 
 [event]
 # change parallax summer
@@ -211,6 +691,7 @@ parallax_layers=maps/parallax/04.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h06
+set_status=morning
 
 [event]
 # change parallax summer
@@ -221,6 +702,7 @@ parallax_layers=maps/parallax/05.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,fog,rain,snow
 requires_status=h07
+set_status=morning
 
 [event]
 # change parallax summer
@@ -231,6 +713,7 @@ parallax_layers=maps/parallax/06.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h07
+set_status=morning
 
 [event]
 # change parallax summer
@@ -241,6 +724,7 @@ parallax_layers=maps/parallax/07.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,fog,rain,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax summer
@@ -251,6 +735,73 @@ parallax_layers=maps/parallax/08.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h08
+set_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=PM,spring,fall,winter,fog,rain,snow
+requires_status=h09
+set_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=PM,spring,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h09
+set_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=PM,spring,fall,winter,fog,rain,snow
+requires_status=h10
+set_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=PM,spring,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h10
+set_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=PM,spring,fall,winter,fog,rain,snow
+requires_status=h11
+set_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=PM,spring,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h11
+set_status=morning
 
 [event]
 # change parallax summer
@@ -260,7 +811,195 @@ activate=static
 parallax_layers=
 repeat=false
 requires_not_status=AM,spring,fall,winter,fog,rain,snow
-requires_status=h09
+requires_status=h12
+set_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,spring,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h12
+set_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,spring,fall,winter,fog,rain,snow
+requires_status=h01
+set_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,spring,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h01
+set_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,spring,fall,winter,fog,rain,snow
+requires_status=h02
+set_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,spring,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h02
+set_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,spring,fall,winter,fog,rain,snow
+requires_status=h03
+set_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,spring,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h03
+set_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,spring,fall,winter,fog,rain,snow
+requires_status=h04
+set_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,spring,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h04
+set_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,spring,fall,winter,fog,rain,snow
+requires_status=h05
+set_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,spring,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h05
+set_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,spring,fall,winter,fog,rain,snow
+requires_status=h06
+set_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,spring,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h06
+set_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,spring,fall,winter,fog,rain,snow
+requires_status=h07
+set_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,spring,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h07
+set_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,spring,fall,winter,fog,rain,snow
+requires_status=h08
+set_status=morning
+
+[event]
+# change parallax summer
+type=event
+location=0,0,0,0
+activate=static
+parallax_layers=
+repeat=false
+requires_not_status=AM,spring,fall,winter,m00,m10,m20,fog,rain,snow
+requires_status=h08
+set_status=morning
 
 [event]
 # change parallax summer
@@ -271,6 +1010,7 @@ parallax_layers=maps/parallax/17.txt
 repeat=false
 requires_not_status=AM,spring,fall,winter,fog,rain,snow
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax summer
@@ -281,6 +1021,7 @@ parallax_layers=maps/parallax/18.txt
 repeat=false
 requires_not_status=AM,spring,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax summer
@@ -291,6 +1032,7 @@ parallax_layers=maps/parallax/19.txt
 repeat=false
 requires_not_status=AM,spring,fall,winter,fog,rain,snow
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax summer
@@ -301,6 +1043,7 @@ parallax_layers=maps/parallax/20.txt
 repeat=false
 requires_not_status=AM,spring,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax summer
@@ -311,6 +1054,7 @@ parallax_layers=maps/parallax/21.txt
 repeat=false
 requires_not_status=AM,spring,fall,winter,fog,rain,snow
 requires_status=h11
+unset_status=morning
 
 [event]
 # change parallax summer
@@ -321,6 +1065,7 @@ parallax_layers=maps/parallax/22.txt
 repeat=false
 requires_not_status=AM,spring,fall,winter,m00,m10,m20,fog,rain,snow
 requires_status=h11
+unset_status=morning
 
 [event]
 # change parallax summer
@@ -329,18 +1074,22 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/23.txt
 repeat=false
-requires_not_status=AM,spring,fall,winter,fog,rain,snow
+requires_not_status=PM,spring,fall,winter,fog,rain,snow
 requires_status=h12
+unset_status=morning
+
+#-------------------------------------
 
 [event]
-# change parallax summer
+# change parallax fall
 type=event
 location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/24.txt
 repeat=false
-requires_not_status=PM,spring,fall,winter,m00,m10,m20,fog,rain,snow
+requires_not_status=PM,spring,summer,winter,m00,m10,m20,fog,rain,snow
 requires_status=h12
+unset_status=morning
 
 [event]
 # change parallax fall
@@ -352,6 +1101,7 @@ parallax_layers=maps/parallax/01.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,fog,rain,snow
 requires_status=h07
+unset_status=morning
 
 [event]
 # change parallax fall
@@ -362,6 +1112,7 @@ parallax_layers=maps/parallax/02.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,m00,m10,m20,fog,rain,snow
 requires_status=h07
+unset_status=morning
 
 [event]
 # change parallax fall
@@ -372,6 +1123,7 @@ parallax_layers=maps/parallax/03.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,fog,rain,snow
 requires_status=h08
+unset_status=morning
 
 [event]
 # change parallax fall
@@ -382,6 +1134,7 @@ parallax_layers=maps/parallax/04.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,m00,m10,m20,fog,rain,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax fall
@@ -392,6 +1145,7 @@ parallax_layers=maps/parallax/05.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,fog,rain,snow
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax fall
@@ -402,6 +1156,7 @@ parallax_layers=maps/parallax/06.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,m00,m10,m20,fog,rain,snow
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax fall
@@ -412,6 +1167,7 @@ parallax_layers=maps/parallax/07.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,fog,rain,snow
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax fall
@@ -422,6 +1178,7 @@ parallax_layers=maps/parallax/08.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,m00,m10,m20,fog,rain,snow
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax fall
@@ -430,8 +1187,9 @@ location=0,0,0,0
 activate=static
 parallax_layers=
 repeat=false
-requires_not_status=AM,spring,summer,winter,fog,rain,snow
+requires_not_status=PM,spring,summer,winter,fog,rain,snow
 requires_status=h11
+set_status=morning
 
 [event]
 # change parallax fall
@@ -442,6 +1200,7 @@ parallax_layers=maps/parallax/17.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,fog,rain,snow
 requires_status=h07
+set_status=morning
 
 [event]
 # change parallax fall
@@ -452,6 +1211,7 @@ parallax_layers=maps/parallax/18.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,m00,m10,m20,fog,rain,snow
 requires_status=h07
+set_status=morning
 
 [event]
 # change parallax fall
@@ -462,6 +1222,7 @@ parallax_layers=maps/parallax/19.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,fog,rain,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax fall
@@ -472,6 +1233,7 @@ parallax_layers=maps/parallax/20.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,m00,m10,m20,fog,rain,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax fall
@@ -482,6 +1244,7 @@ parallax_layers=maps/parallax/21.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,fog,rain,snow
 requires_status=h09
+unset_status=morning
 
 [event]
 # change parallax fall
@@ -492,6 +1255,7 @@ parallax_layers=maps/parallax/22.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,m00,m10,m20,fog,rain,snow
 requires_status=h09
+unset_status=morning
 
 [event]
 # change parallax fall
@@ -502,6 +1266,7 @@ parallax_layers=maps/parallax/23.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,fog,rain,snow
 requires_status=h10
+unset_status=morning
 
 [event]
 # change parallax fall
@@ -510,8 +1275,9 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/24.txt
 repeat=false
-requires_not_status=PM,spring,summer,winter,m00,m10,m20,fog,rain,snow
+requires_not_status=AM,spring,summer,winter,m00,m10,m20,fog,rain,snow
 requires_status=h10
+unset_status=morning
 
 [event]
 # change parallax winter
@@ -523,6 +1289,7 @@ parallax_layers=maps/parallax/01.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,fog,rain,snow
 requires_status=h08
+unset_status=morning
 
 [event]
 # change parallax winter
@@ -533,6 +1300,7 @@ parallax_layers=maps/parallax/02.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,m00,m10,m20,fog,rain,snow
 requires_status=h08
+unset_status=morning
 
 [event]
 # change parallax winter
@@ -543,6 +1311,7 @@ parallax_layers=maps/parallax/03.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,fog,rain,snow
 requires_status=h09
+unset_status=morning
 
 [event]
 # change parallax winter
@@ -553,6 +1322,7 @@ parallax_layers=maps/parallax/04.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,m00,m10,m20,fog,rain,snow
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax winter
@@ -563,6 +1333,7 @@ parallax_layers=maps/parallax/05.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,fog,rain,snow
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax winter
@@ -573,6 +1344,7 @@ parallax_layers=maps/parallax/06.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,m00,m10,m20,fog,rain,snow
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax winter
@@ -583,6 +1355,7 @@ parallax_layers=maps/parallax/07.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,fog,rain,snow
 requires_status=h11
+set_status=morning
 
 [event]
 # change parallax winter
@@ -593,6 +1366,7 @@ parallax_layers=maps/parallax/08.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,m00,m10,m20,fog,rain,snow
 requires_status=h11
+set_status=morning
 
 [event]
 # change parallax winter
@@ -603,6 +1377,7 @@ parallax_layers=
 repeat=false
 requires_not_status=AM,spring,summer,fall,fog,rain,snow
 requires_status=h12
+set_status=morning
 
 [event]
 # change parallax winter
@@ -613,6 +1388,7 @@ parallax_layers=maps/parallax/17.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,fog,rain,snow
 requires_status=h05
+set_status=morning
 
 [event]
 # change parallax winter
@@ -623,6 +1399,7 @@ parallax_layers=maps/parallax/18.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,m00,m10,m20,fog,rain,snow
 requires_status=h05
+set_status=morning
 
 [event]
 # change parallax winter
@@ -633,6 +1410,7 @@ parallax_layers=maps/parallax/19.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,fog,rain,snow
 requires_status=h06
+set_status=morning
 
 [event]
 # change parallax winter
@@ -643,6 +1421,7 @@ parallax_layers=maps/parallax/20.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,m00,m10,m20,fog,rain,snow
 requires_status=h06
+set_status=morning
 
 [event]
 # change parallax winter
@@ -653,6 +1432,7 @@ parallax_layers=maps/parallax/21.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,fog,rain,snow
 requires_status=h07
+unset_status=morning
 
 [event]
 # change parallax winter
@@ -663,6 +1443,7 @@ parallax_layers=maps/parallax/22.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,m00,m10,m20,fog,rain,snow
 requires_status=h07
+unset_status=morning
 
 [event]
 # change parallax winter
@@ -673,6 +1454,7 @@ parallax_layers=maps/parallax/23.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,fog,rain,snow
 requires_status=h08
+unset_status=morning
 
 [event]
 # change parallax winter
@@ -681,8 +1463,9 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/24.txt
 repeat=false
-requires_not_status=PM,spring,summer,fall,m00,m10,m20,fog,rain,snow
+requires_not_status=AM,spring,summer,fall,m00,m10,m20,fog,rain,snow
 requires_status=h08
+unset_status=morning
 
 [event]
 # change parallax spring fog
@@ -690,80 +1473,88 @@ type=event
 location=0,0,0,0
 activate=static
 hotspot=location
-parallax_layers=maps/parallax/01.txt
+parallax_layers=maps/parallax/01_fog.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,clear,rain,snow
 requires_status=h06
+unset_status=morning
 
 [event]
 # change parallax spring fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/02.txt
+parallax_layers=maps/parallax/02_fog.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,m00,m10,m20,clear,rain,snow
 requires_status=h06
+unset_status=morning
 
 [event]
 # change parallax spring fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/03.txt
+parallax_layers=maps/parallax/03_fog.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,clear,rain,snow
 requires_status=h07
+unset_status=morning
 
 [event]
 # change parallax spring fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/04.txt
+parallax_layers=maps/parallax/04_fog.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,m00,m10,m20,clear,rain,snow
 requires_status=h07
+set_status=morning
 
 [event]
 # change parallax spring fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/05.txt
+parallax_layers=maps/parallax/05_fog.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,clear,rain,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax spring fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/06.txt
+parallax_layers=maps/parallax/06_fog.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,m00,m10,m20,clear,rain,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax spring fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/07.txt
+parallax_layers=maps/parallax/07_fog.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,clear,rain,snow
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax spring fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/08.txt
+parallax_layers=maps/parallax/08_fog.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,m00,m10,m20,clear,rain,snow
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax spring fog
@@ -772,88 +1563,97 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/fog.txt
 repeat=false
-requires_not_status=AM,summer,fall,winter,clear,rain,snow
+requires_not_status=PM,summer,fall,winter,clear,rain,snow
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax spring fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/17.txt
+parallax_layers=maps/parallax/17_fog.txt
 repeat=false
 requires_not_status=AM,summer,fall,winter,clear,rain,snow
 requires_status=h07
+set_status=morning
 
 [event]
 # change parallax spring fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/18.txt
+parallax_layers=maps/parallax/18_fog.txt
 repeat=false
 requires_not_status=AM,summer,fall,winter,m00,m10,m20,clear,rain,snow
 requires_status=h07
+set_status=morning
 
 [event]
 # change parallax spring fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/19.txt
+parallax_layers=maps/parallax/19_fog.txt
 repeat=false
 requires_not_status=AM,summer,fall,winter,clear,rain,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax spring fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/20.txt
+parallax_layers=maps/parallax/20_fog.txt
 repeat=false
 requires_not_status=AM,summer,fall,winter,m00,m10,m20,clear,rain,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax spring fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/21.txt
+parallax_layers=maps/parallax/21_fog.txt
 repeat=false
 requires_not_status=AM,summer,fall,winter,clear,rain,snow
 requires_status=h09
+unset_status=morning
 
 [event]
 # change parallax spring fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/22.txt
+parallax_layers=maps/parallax/22_fog.txt
 repeat=false
 requires_not_status=AM,summer,fall,winter,m00,m10,m20,clear,rain,snow
 requires_status=h09
+unset_status=morning
 
 [event]
 # change parallax spring fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/23.txt
+parallax_layers=maps/parallax/23_fog.txt
 repeat=false
 requires_not_status=AM,summer,fall,winter
 requires_status=h10
+unset_status=morning
 
 [event]
 # change parallax spring fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/24.txt
+parallax_layers=maps/parallax/24_fog.txt
 repeat=false
-requires_not_status=PM,summer,fall,winter,m00,m10,m20,clear,rain,snow
+requires_not_status=AM,summer,fall,winter,m00,m10,m20,clear,rain,snow
 requires_status=h10
+unset_status=morning
 
 [event]
 # change parallax summer fog
@@ -861,80 +1661,88 @@ type=event
 location=0,0,0,0
 activate=static
 hotspot=location
-parallax_layers=maps/parallax/01.txt
+parallax_layers=maps/parallax/01_fog.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,clear,rain,snow
 requires_status=h05
+unset_status=morning
 
 [event]
 # change parallax summer fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/02.txt
+parallax_layers=maps/parallax/02_fog.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,m00,m10,m20,clear,rain,snow
 requires_status=h05
+unset_status=morning
 
 [event]
 # change parallax summer fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/03.txt
+parallax_layers=maps/parallax/03_fog.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,clear,rain,snow
 requires_status=h06
+unset_status=morning
 
 [event]
 # change parallax summer fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/04.txt
+parallax_layers=maps/parallax/04_fog.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,m00,m10,m20,clear,rain,snow
 requires_status=h06
+set_status=morning
 
 [event]
 # change parallax summer fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/05.txt
+parallax_layers=maps/parallax/05_fog.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,clear,rain,snow
 requires_status=h07
+set_status=morning
 
 [event]
 # change parallax summer fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/06.txt
+parallax_layers=maps/parallax/06_fog.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,m00,m10,m20,clear,rain,snow
 requires_status=h07
+set_status=morning
 
 [event]
 # change parallax summer fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/07.txt
+parallax_layers=maps/parallax/07_fog.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,clear,rain,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax summer fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/08.txt
+parallax_layers=maps/parallax/08_fog.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,m00,m10,m20,clear,rain,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax summer fog
@@ -943,88 +1751,97 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/fog.txt
 repeat=false
-requires_not_status=AM,spring,fall,winter,clear,rain,snow
+requires_not_status=PM,spring,fall,winter,clear,rain,snow
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax summer fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/17.txt
+parallax_layers=maps/parallax/17_fog.txt
 repeat=false
 requires_not_status=AM,spring,fall,winter,clear,rain,snow
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax summer fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/18.txt
+parallax_layers=maps/parallax/18_fog.txt
 repeat=false
 requires_not_status=AM,spring,fall,winter,m00,m10,m20,clear,rain,snow
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax summer fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/19.txt
+parallax_layers=maps/parallax/19_fog.txt
 repeat=false
 requires_not_status=AM,spring,fall,winter,clear,rain,snow
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax summer fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/20.txt
+parallax_layers=maps/parallax/20_fog.txt
 repeat=false
 requires_not_status=AM,spring,fall,winter,m00,m10,m20,clear,rain,snow
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax summer fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/21.txt
+parallax_layers=maps/parallax/21_fog.txt
 repeat=false
 requires_not_status=AM,spring,fall,winter,clear,rain,snow
 requires_status=h11
+unset_status=morning
 
 [event]
 # change parallax summer fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/22.txt
+parallax_layers=maps/parallax/22_fog.txt
 repeat=false
 requires_not_status=AM,spring,fall,winter,m00,m10,m20,clear,rain,snow
 requires_status=h11
+unset_status=morning
 
 [event]
 # change parallax summer fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/23.txt
+parallax_layers=maps/parallax/23_fog.txt
 repeat=false
-requires_not_status=AM,spring,fall,winter,clear,rain,snow
+requires_not_status=PM,spring,fall,winter,clear,rain,snow
 requires_status=h12
+unset_status=morning
 
 [event]
 # change parallax summer fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/24.txt
+parallax_layers=maps/parallax/24_fog.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,m00,m10,m20,clear,rain,snow
 requires_status=h12
+unset_status=morning
 
 [event]
 # change parallax fall fog
@@ -1032,80 +1849,88 @@ type=event
 location=0,0,0,0
 activate=static
 hotspot=location
-parallax_layers=maps/parallax/01.txt
+parallax_layers=maps/parallax/01_fog.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,clear,rain,snow
 requires_status=h07
+unset_status=morning
 
 [event]
 # change parallax fall fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/02.txt
+parallax_layers=maps/parallax/02_fog.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,rain,snow
 requires_status=h07
+unset_status=morning
 
 [event]
 # change parallax fall fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/03.txt
+parallax_layers=maps/parallax/03_fog.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,clear,rain,snow
 requires_status=h08
+unset_status=morning
 
 [event]
 # change parallax fall fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/04.txt
+parallax_layers=maps/parallax/04_fog.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,rain,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax fall fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/05.txt
+parallax_layers=maps/parallax/05_fog.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,clear,rain,snow
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax fall fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/06.txt
+parallax_layers=maps/parallax/06_fog.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,rain,snow
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax fall fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/07.txt
+parallax_layers=maps/parallax/07_fog.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,clear,rain,snow
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax fall fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/08.txt
+parallax_layers=maps/parallax/08_fog.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,rain,snow
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax fall fog
@@ -1114,88 +1939,97 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/fog.txt
 repeat=false
-requires_not_status=AM,spring,summer,winter,clear,rain,snow
+requires_not_status=PM,spring,summer,winter,clear,rain,snow
 requires_status=h11
+set_status=morning
 
 [event]
 # change parallax fall fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/17.txt
+parallax_layers=maps/parallax/17_fog.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,clear,rain,snow
 requires_status=h07
+set_status=morning
 
 [event]
 # change parallax fall fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/18.txt
+parallax_layers=maps/parallax/18_fog.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,m00,m10,m20,clear,rain,snow
 requires_status=h07
+set_status=morning
 
 [event]
 # change parallax fall fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/19.txt
+parallax_layers=maps/parallax/19_fog.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,clear,rain,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax fall fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/20.txt
+parallax_layers=maps/parallax/20_fog.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,m00,m10,m20,clear,rain,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax fall fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/21.txt
+parallax_layers=maps/parallax/21_fog.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,clear,rain,snow
 requires_status=h09
+unset_status=morning
 
 [event]
 # change parallax fall fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/22.txt
+parallax_layers=maps/parallax/22_fog.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,m00,m10,m20,clear,rain,snow
 requires_status=h09
+unset_status=morning
 
 [event]
 # change parallax fall fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/23.txt
+parallax_layers=maps/parallax/23_fog.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,clear,rain,snow
 requires_status=h10
+unset_status=morning
 
 [event]
 # change parallax fall fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/24.txt
+parallax_layers=maps/parallax/24_fog.txt
 repeat=false
-requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,rain,snow
+requires_not_status=AM,spring,summer,winter,m00,m10,m20,clear,rain,snow
 requires_status=h10
+unset_status=morning
 
 [event]
 # change parallax winter fog
@@ -1203,80 +2037,88 @@ type=event
 location=0,0,0,0
 activate=static
 hotspot=location
-parallax_layers=maps/parallax/01.txt
+parallax_layers=maps/parallax/01_fog.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,clear,rain,snow
 requires_status=h08
+unset_status=morning
 
 [event]
 # change parallax winter fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/02.txt
+parallax_layers=maps/parallax/02_fog.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,rain,snow
 requires_status=h08
+unset_status=morning
 
 [event]
 # change parallax winter fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/03.txt
+parallax_layers=maps/parallax/03_fog.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,clear,rain,snow
 requires_status=h09
+unset_status=morning
 
 [event]
 # change parallax winter fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/04.txt
+parallax_layers=maps/parallax/04_fog.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,rain,snow
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax winter fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/05.txt
+parallax_layers=maps/parallax/05_fog.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,clear,rain,snow
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax winter fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/06.txt
+parallax_layers=maps/parallax/06_fog.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,rain,snow
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax winter fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/07.txt
+parallax_layers=maps/parallax/07_fog.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,clear,rain,snow
 requires_status=h11
+set_status=morning
 
 [event]
 # change parallax winter fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/08.txt
+parallax_layers=maps/parallax/08_fog.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,rain,snow
 requires_status=h11
+set_status=morning
 
 [event]
 # change parallax winter fog
@@ -1287,86 +2129,95 @@ parallax_layers=maps/parallax/fog.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,clear,rain,snow
 requires_status=h12
+set_status=morning
 
 [event]
 # change parallax winter fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/17.txt
+parallax_layers=maps/parallax/17_fog.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,clear,rain,snow
 requires_status=h05
+set_status=morning
 
 [event]
 # change parallax winter fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/18.txt
+parallax_layers=maps/parallax/18_fog.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,m00,m10,m20,clear,rain,snow
 requires_status=h05
+set_status=morning
 
 [event]
 # change parallax winter fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/19.txt
+parallax_layers=maps/parallax/19_fog.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,clear,rain,snow
 requires_status=h06
+set_status=morning
 
 [event]
 # change parallax winter fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/20.txt
+parallax_layers=maps/parallax/20_fog.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,m00,m10,m20,clear,rain,snow
 requires_status=h06
+set_status=morning
 
 [event]
 # change parallax winter fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/21.txt
+parallax_layers=maps/parallax/21_fog.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,clear,rain,snow
 requires_status=h07
+unset_status=morning
 
 [event]
 # change parallax winter fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/22.txt
+parallax_layers=maps/parallax/22_fog.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,m00,m10,m20,clear,rain,snow
 requires_status=h07
+unset_status=morning
 
 [event]
 # change parallax winter fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/23.txt
+parallax_layers=maps/parallax/23_fog.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,clear,rain,snow
 requires_status=h08
+unset_status=morning
 
 [event]
 # change parallax winter fog
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/24.txt
+parallax_layers=maps/parallax/24_fog.txt
 repeat=false
-requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,rain,snow
+requires_not_status=AM,spring,summer,fall,m00,m10,m20,clear,rain,snow
 requires_status=h08
+unset_status=morning
 
 [event]
 # change parallax spring rain
@@ -1374,80 +2225,88 @@ type=event
 location=0,0,0,0
 activate=static
 hotspot=location
-parallax_layers=maps/parallax/01.txt
+parallax_layers=maps/parallax/01_rain.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,clear,fog,snow
 requires_status=h06
+unset_status=morning
 
 [event]
 # change parallax spring rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/02.txt
+parallax_layers=maps/parallax/02_rain.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,m00,m10,m20,clear,fog,snow
 requires_status=h06
+unset_status=morning
 
 [event]
 # change parallax spring rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/03.txt
+parallax_layers=maps/parallax/03_rain.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,clear,fog,snow
 requires_status=h07
+unset_status=morning
 
 [event]
 # change parallax spring rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/04.txt
+parallax_layers=maps/parallax/04_rain.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,m00,m10,m20,clear,fog,snow
 requires_status=h07
+set_status=morning
 
 [event]
 # change parallax spring rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/05.txt
+parallax_layers=maps/parallax/05_rain.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,clear,fog,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax spring rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/06.txt
+parallax_layers=maps/parallax/06_rain.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,m00,m10,m20,clear,fog,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax spring rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/07.txt
+parallax_layers=maps/parallax/07_rain.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,clear,fog,snow
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax spring rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/08.txt
+parallax_layers=maps/parallax/08_rain.txt
 repeat=false
 requires_not_status=PM,summer,fall,winter,m00,m10,m20,clear,fog,snow
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax spring rain
@@ -1456,88 +2315,97 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/rain.txt
 repeat=false
-requires_not_status=AM,summer,fall,winter,clear,fog,snow
+requires_not_status=PM,summer,fall,winter,clear,fog,snow
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax spring rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/17.txt
+parallax_layers=maps/parallax/17_rain.txt
 repeat=false
 requires_not_status=AM,summer,fall,winter,clear,fog,snow
 requires_status=h07
+set_status=morning
 
 [event]
 # change parallax spring rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/18.txt
+parallax_layers=maps/parallax/18_rain.txt
 repeat=false
 requires_not_status=AM,summer,fall,winter,m00,m10,m20,clear,fog,snow
 requires_status=h07
+set_status=morning
 
 [event]
 # change parallax spring rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/19.txt
+parallax_layers=maps/parallax/19_rain.txt
 repeat=false
 requires_not_status=AM,summer,fall,winter,clear,fog,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax spring rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/20.txt
+parallax_layers=maps/parallax/20_rain.txt
 repeat=false
 requires_not_status=AM,summer,fall,winter,m00,m10,m20,clear,fog,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax spring rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/21.txt
+parallax_layers=maps/parallax/21_rain.txt
 repeat=false
 requires_not_status=AM,summer,fall,winter,clear,fog,snow
 requires_status=h09
+unset_status=morning
 
 [event]
 # change parallax spring rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/22.txt
+parallax_layers=maps/parallax/22_rain.txt
 repeat=false
 requires_not_status=AM,summer,fall,winter,m00,m10,m20,clear,fog,snow
 requires_status=h09
+unset_status=morning
 
 [event]
 # change parallax spring rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/23.txt
+parallax_layers=maps/parallax/23_rain.txt
 repeat=false
 requires_not_status=AM,summer,fall,winter
 requires_status=h10
+unset_status=morning
 
 [event]
 # change parallax spring rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/24.txt
+parallax_layers=maps/parallax/24_rain.txt
 repeat=false
-requires_not_status=PM,summer,fall,winter,m00,m10,m20,clear,fog,snow
+requires_not_status=AM,summer,fall,winter,m00,m10,m20,clear,fog,snow
 requires_status=h10
+unset_status=morning
 
 [event]
 # change parallax summer rain
@@ -1545,80 +2413,88 @@ type=event
 location=0,0,0,0
 activate=static
 hotspot=location
-parallax_layers=maps/parallax/01.txt
+parallax_layers=maps/parallax/01_rain.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,clear,fog,snow
 requires_status=h05
+unset_status=morning
 
 [event]
 # change parallax summer rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/02.txt
+parallax_layers=maps/parallax/02_rain.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,m00,m10,m20,clear,fog,snow
 requires_status=h05
+unset_status=morning
 
 [event]
 # change parallax summer rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/03.txt
+parallax_layers=maps/parallax/03_rain.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,clear,fog,snow
 requires_status=h06
+unset_status=morning
 
 [event]
 # change parallax summer rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/04.txt
+parallax_layers=maps/parallax/04_rain.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,m00,m10,m20,clear,fog,snow
 requires_status=h06
+set_status=morning
 
 [event]
 # change parallax summer rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/05.txt
+parallax_layers=maps/parallax/05_rain.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,clear,fog,snow
 requires_status=h07
+set_status=morning
 
 [event]
 # change parallax summer rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/06.txt
+parallax_layers=maps/parallax/06_rain.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,m00,m10,m20,clear,fog,snow
 requires_status=h07
+set_status=morning
 
 [event]
 # change parallax summer rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/07.txt
+parallax_layers=maps/parallax/07_rain.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,clear,fog,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax summer rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/08.txt
+parallax_layers=maps/parallax/08_rain.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,m00,m10,m20,clear,fog,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax summer rain
@@ -1627,88 +2503,97 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/rain.txt
 repeat=false
-requires_not_status=AM,spring,fall,winter,clear,fog,snow
+requires_not_status=PM,spring,fall,winter,clear,fog,snow
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax summer rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/17.txt
+parallax_layers=maps/parallax/17_rain.txt
 repeat=false
 requires_not_status=AM,spring,fall,winter,clear,fog,snow
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax summer rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/18.txt
+parallax_layers=maps/parallax/18_rain.txt
 repeat=false
 requires_not_status=AM,spring,fall,winter,m00,m10,m20,clear,fog,snow
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax summer rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/19.txt
+parallax_layers=maps/parallax/19_rain.txt
 repeat=false
 requires_not_status=AM,spring,fall,winter,clear,fog,snow
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax summer rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/20.txt
+parallax_layers=maps/parallax/20_rain.txt
 repeat=false
 requires_not_status=AM,spring,fall,winter,m00,m10,m20,clear,fog,snow
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax summer rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/21.txt
+parallax_layers=maps/parallax/21_rain.txt
 repeat=false
 requires_not_status=AM,spring,fall,winter,clear,fog,snow
 requires_status=h11
+unset_status=morning
 
 [event]
 # change parallax summer rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/22.txt
+parallax_layers=maps/parallax/22_rain.txt
 repeat=false
 requires_not_status=AM,spring,fall,winter,m00,m10,m20,clear,fog,snow
 requires_status=h11
+unset_status=morning
 
 [event]
 # change parallax summer rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/23.txt
+parallax_layers=maps/parallax/23_rain.txt
 repeat=false
-requires_not_status=AM,spring,fall,winter,clear,fog,snow
+requires_not_status=PM,spring,fall,winter,clear,fog,snow
 requires_status=h12
+unset_status=morning
 
 [event]
 # change parallax summer rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/24.txt
+parallax_layers=maps/parallax/24_rain.txt
 repeat=false
 requires_not_status=PM,spring,fall,winter,m00,m10,m20,clear,fog,snow
 requires_status=h12
+unset_status=morning
 
 [event]
 # change parallax fall rain
@@ -1716,80 +2601,88 @@ type=event
 location=0,0,0,0
 activate=static
 hotspot=location
-parallax_layers=maps/parallax/01.txt
+parallax_layers=maps/parallax/01_rain.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,clear,fog,snow
 requires_status=h07
+unset_status=morning
 
 [event]
 # change parallax fall rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/02.txt
+parallax_layers=maps/parallax/02_rain.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,fog,snow
 requires_status=h07
+unset_status=morning
 
 [event]
 # change parallax fall rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/03.txt
+parallax_layers=maps/parallax/03_rain.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,clear,fog,snow
 requires_status=h08
+unset_status=morning
 
 [event]
 # change parallax fall rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/04.txt
+parallax_layers=maps/parallax/04_rain.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,fog,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax fall rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/05.txt
+parallax_layers=maps/parallax/05_rain.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,clear,fog,snow
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax fall rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/06.txt
+parallax_layers=maps/parallax/06_rain.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,fog,snow
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax fall rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/07.txt
+parallax_layers=maps/parallax/07_rain.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,clear,fog,snow
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax fall rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/08.txt
+parallax_layers=maps/parallax/08_rain.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,fog,snow
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax fall rain
@@ -1798,88 +2691,97 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/rain.txt
 repeat=false
-requires_not_status=AM,spring,summer,winter,clear,fog,snow
+requires_not_status=PM,spring,summer,winter,clear,fog,snow
 requires_status=h11
+set_status=morning
 
 [event]
 # change parallax fall rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/17.txt
+parallax_layers=maps/parallax/17_rain.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,clear,fog,snow
 requires_status=h07
+set_status=morning
 
 [event]
 # change parallax fall rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/18.txt
+parallax_layers=maps/parallax/18_rain.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,m00,m10,m20,clear,fog,snow
 requires_status=h07
+set_status=morning
 
 [event]
 # change parallax fall rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/19.txt
+parallax_layers=maps/parallax/19_rain.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,clear,fog,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax fall rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/20.txt
+parallax_layers=maps/parallax/20_rain.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,m00,m10,m20,clear,fog,snow
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax fall rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/21.txt
+parallax_layers=maps/parallax/21_rain.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,clear,fog,snow
 requires_status=h09
+unset_status=morning
 
 [event]
 # change parallax fall rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/22.txt
+parallax_layers=maps/parallax/22_rain.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,m00,m10,m20,clear,fog,snow
 requires_status=h09
+unset_status=morning
 
 [event]
 # change parallax fall rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/23.txt
+parallax_layers=maps/parallax/23_rain.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,clear,fog,snow
 requires_status=h10
+unset_status=morning
 
 [event]
 # change parallax fall rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/24.txt
+parallax_layers=maps/parallax/24_rain.txt
 repeat=false
-requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,fog,snow
+requires_not_status=AM,spring,summer,winter,m00,m10,m20,clear,fog,snow
 requires_status=h10
+unset_status=morning
 
 [event]
 # change parallax winter rain
@@ -1887,27 +2789,29 @@ type=event
 location=0,0,0,0
 activate=static
 hotspot=location
-parallax_layers=maps/parallax/01.txt
+parallax_layers=maps/parallax/01_rain.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,clear,fog,snow
 requires_status=h08
+unset_status=morning
 
 [event]
 # change parallax winter rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/02.txt
+parallax_layers=maps/parallax/02_rain.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,fog,snow
 requires_status=h08
+unset_status=morning
 
 [event]
 # change parallax winter rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/03.txt
+parallax_layers=maps/parallax/03_rain.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,clear,fog,snow
 requires_status=h09
@@ -1917,50 +2821,55 @@ requires_status=h09
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/04.txt
+parallax_layers=maps/parallax/04_rain.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,fog,snow
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax winter rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/05.txt
+parallax_layers=maps/parallax/05_rain.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,clear,fog,snow
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax winter rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/06.txt
+parallax_layers=maps/parallax/06_rain.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,fog,snow
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax winter rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/07.txt
+parallax_layers=maps/parallax/07_rain.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,clear,fog,snow
 requires_status=h11
+set_status=morning
 
 [event]
 # change parallax winter rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/08.txt
+parallax_layers=maps/parallax/08_rain.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,fog,snow
 requires_status=h11
+set_status=morning
 
 [event]
 # change parallax winter rain
@@ -1971,86 +2880,95 @@ parallax_layers=maps/parallax/rain.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,clear,fog,snow
 requires_status=h12
+set_status=morning
 
 [event]
 # change parallax winter rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/17.txt
+parallax_layers=maps/parallax/17_rain.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,clear,fog,snow
 requires_status=h05
+set_status=morning
 
 [event]
 # change parallax winter rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/18.txt
+parallax_layers=maps/parallax/18_rain.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,m00,m10,m20,clear,fog,snow
 requires_status=h05
+set_status=morning
 
 [event]
 # change parallax winter rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/19.txt
+parallax_layers=maps/parallax/19_rain.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,clear,fog,snow
 requires_status=h06
+set_status=morning
 
 [event]
 # change parallax winter rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/20.txt
+parallax_layers=maps/parallax/20_rain.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,m00,m10,m20,clear,fog,snow
 requires_status=h06
+set_status=morning
 
 [event]
 # change parallax winter rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/21.txt
+parallax_layers=maps/parallax/21_rain.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,clear,fog,snow
 requires_status=h07
+unset_status=morning
 
 [event]
 # change parallax winter rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/22.txt
+parallax_layers=maps/parallax/22_rain.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,m00,m10,m20,clear,fog,snow
 requires_status=h07
+unset_status=morning
 
 [event]
 # change parallax winter rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/23.txt
+parallax_layers=maps/parallax/23_rain.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,clear,fog,snow
 requires_status=h08
+unset_status=morning
 
 [event]
 # change parallax winter rain
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/24.txt
+parallax_layers=maps/parallax/24_rain.txt
 repeat=false
-requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,fog,snow
+requires_not_status=AM,spring,summer,fall,m00,m10,m20,clear,fog,snow
 requires_status=h08
+unset_status=morning
 
 [event]
 # change parallax fall snow
@@ -2058,80 +2976,88 @@ type=event
 location=0,0,0,0
 activate=static
 hotspot=location
-parallax_layers=maps/parallax/01.txt
+parallax_layers=maps/parallax/01_snow.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,clear,fog,rain
 requires_status=h07
+unset_status=morning
 
 [event]
 # change parallax fall snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/02.txt
+parallax_layers=maps/parallax/02_snow.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,fog,rain
 requires_status=h07
+unset_status=morning
 
 [event]
 # change parallax fall snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/03.txt
+parallax_layers=maps/parallax/03_snow.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,clear,fog,rain
 requires_status=h08
+unset_status=morning
 
 [event]
 # change parallax fall snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/04.txt
+parallax_layers=maps/parallax/04_snow.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,fog,rain
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax fall snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/05.txt
+parallax_layers=maps/parallax/05_snow.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,clear,fog,rain
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax fall snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/06.txt
+parallax_layers=maps/parallax/06_snow.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,fog,rain
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax fall snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/07.txt
+parallax_layers=maps/parallax/07_snow.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,clear,fog,rain
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax fall snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/08.txt
+parallax_layers=maps/parallax/08_snow.txt
 repeat=false
 requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,fog,rain
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax fall snow
@@ -2140,88 +3066,97 @@ location=0,0,0,0
 activate=static
 parallax_layers=maps/parallax/snow.txt
 repeat=false
-requires_not_status=AM,spring,summer,winter,clear,fog,rain
+requires_not_status=PM,spring,summer,winter,clear,fog,rain
 requires_status=h11
+set_status=morning
 
 [event]
 # change parallax fall snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/17.txt
+parallax_layers=maps/parallax/17_snow.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,clear,fog,rain
 requires_status=h07
+set_status=morning
 
 [event]
 # change parallax fall snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/18.txt
+parallax_layers=maps/parallax/18_snow.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,m00,m10,m20,clear,fog,rain
 requires_status=h07
+set_status=morning
 
 [event]
 # change parallax fall snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/19.txt
+parallax_layers=maps/parallax/19_snow.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,clear,fog,rain
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax fall snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/20.txt
+parallax_layers=maps/parallax/20_snow.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,m00,m10,m20,clear,fog,rain
 requires_status=h08
+set_status=morning
 
 [event]
 # change parallax fall snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/21.txt
+parallax_layers=maps/parallax/21_snow.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,clear,fog,rain
 requires_status=h09
+unset_status=morning
 
 [event]
 # change parallax fall snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/22.txt
+parallax_layers=maps/parallax/22_snow.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,m00,m10,m20,clear,fog,rain
 requires_status=h09
+unset_status=morning
 
 [event]
 # change parallax fall snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/23.txt
+parallax_layers=maps/parallax/23_snow.txt
 repeat=false
 requires_not_status=AM,spring,summer,winter,clear,fog,rain
 requires_status=h10
+unset_status=morning
 
 [event]
 # change parallax fall snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/24.txt
+parallax_layers=maps/parallax/24_snow.txt
 repeat=false
-requires_not_status=PM,spring,summer,winter,m00,m10,m20,clear,fog,rain
+requires_not_status=AM,spring,summer,winter,m00,m10,m20,clear,fog,rain
 requires_status=h10
+unset_status=morning
 
 [event]
 # change parallax winter snow
@@ -2229,80 +3164,88 @@ type=event
 location=0,0,0,0
 activate=static
 hotspot=location
-parallax_layers=maps/parallax/01.txt
+parallax_layers=maps/parallax/01_snow.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,clear,fog,rain
 requires_status=h08
+unset_status=morning
 
 [event]
 # change parallax winter snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/02.txt
+parallax_layers=maps/parallax/02_snow.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,fog,rain
 requires_status=h08
+unset_status=morning
 
 [event]
 # change parallax winter snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/03.txt
+parallax_layers=maps/parallax/03_snow.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,clear,fog,rain
 requires_status=h09
+unset_status=morning
 
 [event]
 # change parallax winter snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/04.txt
+parallax_layers=maps/parallax/04_snow.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,fog,rain
 requires_status=h09
+set_status=morning
 
 [event]
 # change parallax winter snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/05.txt
+parallax_layers=maps/parallax/05_snow.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,clear,fog,rain
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax winter snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/06.txt
+parallax_layers=maps/parallax/06_snow.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,fog,rain
 requires_status=h10
+set_status=morning
 
 [event]
 # change parallax winter snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/07.txt
+parallax_layers=maps/parallax/07_snow.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,clear,fog,rain
 requires_status=h11
+set_status=morning
 
 [event]
 # change parallax winter snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/08.txt
+parallax_layers=maps/parallax/08_snow.txt
 repeat=false
 requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,fog,rain
 requires_status=h11
+set_status=morning
 
 [event]
 # change parallax winter snow
@@ -2313,83 +3256,92 @@ parallax_layers=maps/parallax/snow.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,clear,fog,rain
 requires_status=h12
+set_status=morning
 
 [event]
 # change parallax winter snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/17.txt
+parallax_layers=maps/parallax/17_snow.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,clear,fog,rain
 requires_status=h05
+set_status=morning
 
 [event]
 # change parallax winter snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/18.txt
+parallax_layers=maps/parallax/18_snow.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,m00,m10,m20,clear,fog,rain
 requires_status=h05
+set_status=morning
 
 [event]
 # change parallax winter snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/19.txt
+parallax_layers=maps/parallax/19_snow.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,clear,fog,rain
 requires_status=h06
+set_status=morning
 
 [event]
 # change parallax winter snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/20.txt
+parallax_layers=maps/parallax/20_snow.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,m00,m10,m20,clear,fog,rain
 requires_status=h06
+set_status=morning
 
 [event]
 # change parallax winter snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/21.txt
+parallax_layers=maps/parallax/21_snow.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,clear,fog,rain
 requires_status=h07
+unset_status=morning
 
 [event]
 # change parallax winter snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/22.txt
+parallax_layers=maps/parallax/22_snow.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,m00,m10,m20,clear,fog,rain
 requires_status=h07
+unset_status=morning
 
 [event]
 # change parallax winter snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/23.txt
+parallax_layers=maps/parallax/23_snow.txt
 repeat=false
 requires_not_status=AM,spring,summer,fall,clear,fog,rain
 requires_status=h08
+unset_status=morning
 
 [event]
 # change parallax winter snow
 type=event
 location=0,0,0,0
 activate=static
-parallax_layers=maps/parallax/24.txt
+parallax_layers=maps/parallax/24_snow.txt
 repeat=false
-requires_not_status=PM,spring,summer,fall,m00,m10,m20,clear,fog,rain
+requires_not_status=AM,spring,summer,fall,m00,m10,m20,clear,fog,rain
 requires_status=h08
+unset_status=morning

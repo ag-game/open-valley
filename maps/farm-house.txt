@@ -200,7 +200,7 @@ type=event
 location=0,0,0,0
 activate=on_load
 requires_not_status=block_clock
-set_status=morning
+set_status=weather
 
 [event]
 # second no
@@ -1363,6 +1363,384 @@ requires_status=new_1000year
 unset_status=new_1000year
 
 [event]
+# weather1
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_status=weather
+set_status=weather1
+
+[event]
+# weather2
+type=event
+location=0,0,0,0
+activate=static
+delay=40ms
+repeat=false
+requires_status=weather
+set_status=weather2
+
+[event]
+# weather3
+type=event
+location=0,0,0,0
+activate=static
+delay=40ms
+repeat=false
+requires_status=weather
+set_status=weather3
+
+[event]
+# spring fog
+type=event
+location=6,11,1,1
+activate=on_trigger
+repeat=false
+chance_exec=50
+hotspot=location
+requires_not_status=clear,rain,snow,summer,fall,winter
+requires_status=weather1
+set_status=fog
+unset_status=weather1
+
+[event]
+# spring rain
+type=event
+location=6,11,1,1
+activate=on_trigger
+repeat=false
+chance_exec=50
+hotspot=location
+requires_not_status=clear,fog,snow,summer,fall,winter
+requires_status=weather2
+set_status=rain
+unset_status=weather2
+
+[event]
+# spring clear
+type=event
+location=6,11,1,1
+activate=on_trigger
+repeat=false
+chance_exec=50
+hotspot=location
+requires_not_status=fog,rain,snow,summer,fall,winter
+requires_status=weather3
+set_status=clear
+unset_status=weather3
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h02
+set_status=weather
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h02
+unset_status=clear
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h02
+unset_status=fog
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h02
+unset_status=rain
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h02
+unset_status=snow
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h02
+unset_status=clear
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h04
+set_status=weather
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h04
+unset_status=clear
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h04
+unset_status=fog
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h04
+unset_status=rain
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h04
+unset_status=snow
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h06
+set_status=weather
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h06
+unset_status=clear
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h06
+unset_status=fog
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h06
+unset_status=rain
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h06
+unset_status=snow
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h08
+set_status=weather
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h08
+unset_status=clear
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h08
+unset_status=fog
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h08
+unset_status=rain
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h08
+unset_status=snow
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h10
+set_status=weather
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h10
+unset_status=clear
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h10
+unset_status=fog
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h10
+unset_status=rain
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h10
+unset_status=snow
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h12
+set_status=weather
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h12
+unset_status=clear
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h12
+unset_status=fog
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h12
+unset_status=rain
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=static
+repeat=false
+requires_not_status=m00,m20,m30,m40,m50
+requires_status=h12
+unset_status=snow
+
+[event]
 # fire on
 type=event
 location=10,3,1,1
@@ -1416,13 +1794,3 @@ hotspot=location
 intermap=maps/farm.txt,10,12,0,0
 requires_class=Standard
 show_on_minimap=false
-
-[event]
-# fog
-type=event
-location=6,11,1,1
-activate=on_trigger
-chance_exec=10
-hotspot=location
-set_status=fog
-
