@@ -5,8 +5,33 @@ these events will be inserted on EVERY (oudoor) map that will be created
 type=event
 location=0,0,0,0
 activate=on_load
+delay=1s
 requires_status=weather
 unset_status=weather
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=on_load
+requires_status=weather
+unset_status=weather1
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=on_load
+requires_status=weather
+unset_status=weather2
+
+[event]
+# weather
+type=event
+location=0,0,0,0
+activate=on_load
+requires_status=weather
+unset_status=weather3
 
 these events will be inserted on EVERY (indoor) map that will be created
 
