@@ -7,10 +7,11 @@ DONE
 * [DONE] add a set of tool (axe, hoe, pick, etc) to the character to make him cut down trees, hoe, etc
 * [DONE] add hours (24), days (7), dates (31) and seasons (4)
 * [DONE] add day/night cycle
+* [DONE] add weather conditions
+* [DONE] add 9999 years
 
 to do
 
-* add years
 * create all the houses in the game
 * create all the maps
 * create all the npc (outdoor)
