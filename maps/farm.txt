@@ -12377,76 +12377,164 @@ requires_not_status=winter
 set_status=cut_grass56
 
 [event]
-# grass20
+# grass57
 type=event
 location=45,23,1,1
 activate=on_load
 hotspot=location
-mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20,winter
+mapmod=level 2,44,22,43;level 9,45,22,44;level 3,46,22,45;level 7,44,23,107;level 10,45,23,108;level 8,46,23,109;level 4,44,24,171;level 6,45,24,172;level 5,46,24,173
+requires_not_status=cut_grass57,winter
 
 [event]
-# grass20
+# cut grass57
+type=event
+location=45,23,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,44,22,0;level 9,45,22,0;level 3,46,22,0;level 7,44,23,0;level 10,45,23,0;level 8,46,23,0;level 4,44,24,0;level 6,45,24,0;level 5,46,24,0
+requires_item=10
+requires_not_status=winter
+set_status=cut_grass57
+
+[event]
+# grass58
 type=event
 location=46,23,1,1
 activate=on_load
 hotspot=location
-mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20,winter
+mapmod=level 2,45,22,43;level 9,46,22,44;level 3,47,22,45;level 7,45,23,107;level 10,46,23,108;level 8,47,23,109;level 4,45,24,171;level 6,46,24,172;level 5,47,24,173
+requires_not_status=cut_grass58,winter
 
 [event]
-# grass20
+# cut grass58
+type=event
+location=46,23,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,45,22,0;level 9,46,22,0;level 3,47,22,0;level 7,45,23,0;level 10,46,23,0;level 8,47,23,0;level 4,45,24,0;level 6,46,24,0;level 5,47,24,0
+requires_item=10
+requires_not_status=winter
+set_status=cut_grass58
+
+[event]
+# grass59
 type=event
 location=35,30,1,1
 activate=on_load
 hotspot=location
-mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20,winter
+mapmod=level 2,34,29,43;level 9,35,29,44;level 3,36,29,45;level 7,34,30,107;level 10,35,30,108;level 8,36,30,109;level 4,34,31,171;level 6,35,31,172;level 5,36,31,173
+requires_not_status=cut_grass59,winter
 
 [event]
-# grass20
+# cut grass59
+type=event
+location=35,30,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,34,29,0;level 9,35,29,0;level 3,36,29,0;level 7,34,30,0;level 10,35,30,0;level 8,36,30,0;level 4,34,31,0;level 6,35,31,0;level 5,36,31,0
+requires_item=10
+requires_not_status=winter
+set_status=cut_grass59
+
+[event]
+# grass60
 type=event
 location=34,30,1,1
 activate=on_load
 hotspot=location
-mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20,winter
+mapmod=level 2,33,29,43;level 9,34,29,44;level 3,35,29,45;level 7,33,30,107;level 10,34,30,108;level 8,35,30,109;level 4,33,31,171;level 6,34,31,172;level 5,35,31,173
+requires_not_status=cut_grass60,winter
 
 [event]
-# grass20
+# cut grass60
+type=event
+location=34,30,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,33,29,0;level 9,34,29,0;level 3,35,29,0;level 7,33,30,0;level 10,34,30,0;level 8,35,30,0;level 4,33,31,0;level 6,34,31,0;level 5,35,31,0
+requires_item=10
+requires_not_status=winter
+set_status=cut_grass60
+
+[event]
+# grass61
 type=event
 location=33,30,1,1
 activate=on_load
 hotspot=location
-mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20,winter
+mapmod=level 2,32,29,43;level 9,33,29,44;level 3,34,29,45;level 7,32,30,107;level 10,33,30,108;level 8,34,30,109;level 4,32,31,171;level 6,33,31,172;level 5,34,31,173
+requires_not_status=cut_grass61,winter
 
 [event]
-# grass20
+# cut grass61
+type=event
+location=33,30,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,32,29,0;level 9,33,29,0;level 3,34,29,0;level 7,32,30,0;level 10,33,30,0;level 8,34,30,0;level 4,32,31,0;level 6,33,31,0;level 5,34,31,0
+requires_item=10
+requires_not_status=winter
+set_status=cut_grass61
+
+[event]
+# grass62
 type=event
 location=32,30,1,1
 activate=on_load
 hotspot=location
-mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20,winter
+mapmod=level 2,31,29,43;level 9,32,29,44;level 3,33,29,45;level 7,31,30,107;level 10,32,30,108;level 8,33,30,109;level 4,31,31,171;level 6,32,31,172;level 5,33,31,173
+requires_not_status=cut_grass62,winter
 
 [event]
-# grass20
+# cut grass62
+type=event
+location=32,30,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,31,29,0;level 9,32,29,0;level 3,33,29,0;level 7,31,30,0;level 10,32,30,0;level 8,33,30,0;level 4,31,31,0;level 6,32,31,0;level 5,33,31,0
+requires_item=10
+requires_not_status=winter
+set_status=cut_grass62
+
+[event]
+# grass63
 type=event
 location=37,32,1,1
 activate=on_load
 hotspot=location
-mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20,winter
+mapmod=level 2,36,31,43;level 9,37,31,44;level 3,38,31,45;level 7,36,32,107;level 10,37,32,108;level 8,38,32,109;level 4,36,33,171;level 6,37,33,172;level 5,38,33,173
+requires_not_status=cut_grass63,winter
 
 [event]
-# grass20
+# cut grass63
+type=event
+location=37,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,36,31,0;level 9,37,31,0;level 3,38,31,0;level 7,36,32,0;level 10,37,32,0;level 8,38,32,0;level 4,36,33,0;level 6,37,33,0;level 5,38,33,0
+requires_item=10
+requires_not_status=winter
+set_status=cut_grass63
+
+[event]
+# grass64
 type=event
 location=37,33,1,1
 activate=on_load
 hotspot=location
-mapmod=level 2,64,16,43;level 9,65,16,44;level 3,66,16,45;level 7,64,17,107;level 10,65,17,108;level 8,66,17,109;level 4,64,18,171;level 6,65,18,172;level 5,66,18,173
-requires_not_status=cut_grass20,winter
+mapmod=level 2,36,32,43;level 9,37,32,44;level 3,38,32,45;level 7,36,33,107;level 10,37,33,108;level 8,38,33,109;level 4,36,34,171;level 6,37,34,172;level 5,38,34,173
+requires_not_status=cut_grass64,winter
+
+[event]
+# cut grass64
+type=event
+location=37,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,36,32,0;level 9,37,32,0;level 3,38,32,0;level 7,36,33,0;level 10,37,33,0;level 8,38,33,0;level 4,36,34,0;level 6,37,34,0;level 5,38,34,0
+requires_item=10
+requires_not_status=winter
+set_status=cut_grass64
 
 [event]
 # grass20

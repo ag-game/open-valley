@@ -25,7 +25,7 @@ Alpha 0.07
 * changed the days of the seasons from 28 to 31 (to not have each season start with the same day of the week)
 * added a cycle of 9999 years
 * added some soundfx
-* added the first 55/72 tiles of cutable grass (without character animation)
+* added the first 64/72 tiles of cutable grass (without character animation)
 * set the grass disappearing in winter
 * changed the day/night cycle, with the sunrise and sunset change time according to the season. now the day/night cycle changes every in-game half hour
 * set the change of weather conditions that are activated every in-game 2 hours
