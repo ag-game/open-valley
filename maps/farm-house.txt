@@ -1803,6 +1803,7 @@ activate=on_trigger
 chance_exec=50
 hotspot=location
 repeat=false
-requires_not_status=winter
+requires_not_status=plant1,winter
 set_status=grass1
+unset_status=dig1
 
