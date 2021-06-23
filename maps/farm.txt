@@ -11296,92 +11296,164 @@ requires_status=grass2
 unset_status=grass2
 
 [event]
-# cut grass1
+# grass3
+type=event
+location=21,9,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,20,8,43;level 9,21,8,44;level 3,22,8,45;level 7,20,9,107;level 10,21,9,108;level 8,22,9,109;level 4,20,10,171;level 6,21,10,172;level 5,22,10,173
+requires_status=grass3
+
+[event]
+# cut grass3
 type=event
 location=21,9,1,1
 activate=on_interact
 hotspot=location
-mapmod=level 2,18,8,0;level 9,19,8,0;level 3,20,8,0;level 7,18,9,0;level 10,19,9,0;level 8,20,9,0;level 4,18,10,0;level 6,19,10,0;level 5,20,10,0
+mapmod=level 2,20,8,0;level 9,21,8,0;level 3,22,8,0;level 7,20,9,0;level 10,21,9,0;level 8,22,9,0;level 4,20,10,0;level 6,21,10,0;level 5,22,10,0
 requires_item=10
-requires_status=grass1
-unset_status=grass1
+requires_status=grass3
+unset_status=grass3
 
 [event]
-# cut grass1
+# grass4
+type=event
+location=22,9,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,21,8,43;level 9,22,8,44;level 3,23,8,45;level 7,21,9,107;level 10,22,9,108;level 8,23,9,109;level 4,21,10,171;level 6,22,10,172;level 5,23,10,173
+requires_status=grass4
+
+[event]
+# cut grass4
 type=event
 location=22,9,1,1
 activate=on_interact
 hotspot=location
-mapmod=level 2,18,8,0;level 9,19,8,0;level 3,20,8,0;level 7,18,9,0;level 10,19,9,0;level 8,20,9,0;level 4,18,10,0;level 6,19,10,0;level 5,20,10,0
+mapmod=level 2,21,8,0;level 9,22,8,0;level 3,23,8,0;level 7,21,9,0;level 10,22,9,0;level 8,23,9,0;level 4,21,10,0;level 6,22,10,0;level 5,23,10,0
 requires_item=10
-requires_status=grass1
-unset_status=grass1
+requires_status=grass4
+unset_status=grass4
 
 [event]
-# cut grass1
+# grass5
+type=event
+location=23,9,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,22,8,43;level 9,23,8,44;level 3,24,8,45;level 7,22,9,107;level 10,23,9,108;level 8,24,9,109;level 4,22,10,171;level 6,23,10,172;level 5,24,10,173
+requires_status=grass5
+
+[event]
+# cut grass5
 type=event
 location=23,9,1,1
 activate=on_interact
 hotspot=location
-mapmod=level 2,18,8,0;level 9,19,8,0;level 3,20,8,0;level 7,18,9,0;level 10,19,9,0;level 8,20,9,0;level 4,18,10,0;level 6,19,10,0;level 5,20,10,0
+mapmod=level 2,22,8,0;level 9,23,8,0;level 3,24,8,0;level 7,22,9,0;level 10,23,9,0;level 8,24,9,0;level 4,22,10,0;level 6,23,10,0;level 5,24,10,0
 requires_item=10
-requires_status=grass1
-unset_status=grass1
+requires_status=grass5
+unset_status=grass5
 
 [event]
-# cut grass1
+# grass6
+type=event
+location=24,9,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,23,8,43;level 9,24,8,44;level 3,25,8,45;level 7,23,9,107;level 10,24,9,108;level 8,25,9,109;level 4,23,10,171;level 6,24,10,172;level 5,25,10,173
+requires_status=grass6
+
+[event]
+# cut grass6
 type=event
 location=24,9,1,1
 activate=on_interact
 hotspot=location
-mapmod=level 2,18,8,0;level 9,19,8,0;level 3,20,8,0;level 7,18,9,0;level 10,19,9,0;level 8,20,9,0;level 4,18,10,0;level 6,19,10,0;level 5,20,10,0
+mapmod=level 2,23,8,0;level 9,24,8,0;level 3,25,8,0;level 7,23,9,0;level 10,24,9,0;level 8,25,9,0;level 4,23,10,0;level 6,24,10,0;level 5,25,10,0
 requires_item=10
-requires_status=grass1
-unset_status=grass1
+requires_status=grass6
+unset_status=grass6
 
 [event]
-# cut grass1
+# grass7
+type=event
+location=25,9,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,24,8,43;level 9,25,8,44;level 3,26,8,45;level 7,24,9,107;level 10,25,9,108;level 8,26,9,109;level 4,24,10,171;level 6,25,10,172;level 5,26,10,173
+requires_status=grass7
+
+[event]
+# cut grass7
 type=event
 location=25,9,1,1
 activate=on_interact
 hotspot=location
-mapmod=level 2,18,8,0;level 9,19,8,0;level 3,20,8,0;level 7,18,9,0;level 10,19,9,0;level 8,20,9,0;level 4,18,10,0;level 6,19,10,0;level 5,20,10,0
+mapmod=level 2,24,8,0;level 9,25,8,0;level 3,26,8,0;level 7,24,9,0;level 10,25,9,0;level 8,26,9,0;level 4,24,10,0;level 6,25,10,0;level 5,26,10,0
 requires_item=10
-requires_status=grass1
-unset_status=grass1
+requires_status=grass7
+unset_status=grass7
 
 [event]
-# cut grass1
+# grass8
+type=event
+location=26,9,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,25,8,43;level 9,26,8,44;level 3,27,8,45;level 7,25,9,107;level 10,26,9,108;level 8,27,9,109;level 4,25,10,171;level 6,26,10,172;level 5,27,10,173
+requires_status=grass8
+
+[event]
+# cut grass8
 type=event
 location=26,9,1,1
 activate=on_interact
 hotspot=location
-mapmod=level 2,18,8,0;level 9,19,8,0;level 3,20,8,0;level 7,18,9,0;level 10,19,9,0;level 8,20,9,0;level 4,18,10,0;level 6,19,10,0;level 5,20,10,0
+mapmod=level 2,25,8,0;level 9,26,8,0;level 3,27,8,0;level 7,25,9,0;level 10,26,9,0;level 8,27,9,0;level 4,25,10,0;level 6,26,10,0;level 5,27,10,0
 requires_item=10
-requires_status=grass1
-unset_status=grass1
+requires_status=grass8
+unset_status=grass8
 
 [event]
-# cut grass1
+# grass9
+type=event
+location=27,9,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,26,8,43;level 9,27,8,44;level 3,28,8,45;level 7,26,9,107;level 10,27,9,108;level 8,28,9,109;level 4,26,10,171;level 6,27,10,172;level 5,28,10,173
+requires_status=grass9
+
+[event]
+# cut grass9
 type=event
 location=27,9,1,1
 activate=on_interact
 hotspot=location
-mapmod=level 2,18,8,0;level 9,19,8,0;level 3,20,8,0;level 7,18,9,0;level 10,19,9,0;level 8,20,9,0;level 4,18,10,0;level 6,19,10,0;level 5,20,10,0
+mapmod=level 2,26,8,0;level 9,27,8,0;level 3,28,8,0;level 7,26,9,0;level 10,27,9,0;level 8,28,9,0;level 4,26,10,0;level 6,27,10,0;level 5,28,10,0
 requires_item=10
-requires_status=grass1
-unset_status=grass1
+requires_status=grass9
+unset_status=grass9
 
 [event]
-# cut grass1
+# grass10
+type=event
+location=28,9,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,27,8,43;level 9,28,8,44;level 3,29,8,45;level 7,27,9,107;level 10,28,9,108;level 8,29,9,109;level 4,27,10,171;level 6,28,10,172;level 5,29,10,173
+requires_status=grass10
+
+[event]
+# cut grass10
 type=event
 location=28,9,1,1
 activate=on_interact
 hotspot=location
-mapmod=level 2,18,8,0;level 9,19,8,0;level 3,20,8,0;level 7,18,9,0;level 10,19,9,0;level 8,20,9,0;level 4,18,10,0;level 6,19,10,0;level 5,20,10,0
+mapmod=level 2,27,8,0;level 9,28,8,0;level 3,29,8,0;level 7,27,9,0;level 10,28,9,0;level 8,29,9,0;level 4,27,10,0;level 6,28,10,0;level 5,29,10,0
 requires_item=10
-requires_status=grass1
-unset_status=grass1
+requires_status=grass10
+unset_status=grass10
 
 [event]
 # cut grass1
