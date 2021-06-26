@@ -1,8 +1,8 @@
-# OpenValley - CC-BY-NC-SA 4.0 [![Donate](https://img.shields.io/liberapay/receives/OpenValley.svg)](https://liberapay.com/OpenValley/donate)
+# OpenValley - CC-BY-NC-SA 4.0 [![Donate](https://img.shields.io/liberapay/receives/OpenValley.svg)](https://coindrop.to/openvalley)
 
 Hi, i'm trying to re-create with Flare a completely open source version (using the Liberated Pixel Cup asset, present on OpenGameArt.org) of Stardew valley... i have no idea if this idea will last or i'll get tired before, but I try XD
 
-currently the hours, days and seasons are disabled... I will re-enable them in the farmer's house, as soon as the house will be complete, because if I add them now, then editing the map file with tiled map editor, something disappears
+[![](https://pod.geraspora.de/uploads/images/7a9ea689d344b44f8a5a.jpg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 the version of the engine currently used is in this repo, for an easier download,
 windows version only, for other versions: https://github.com/clintbellanger/flare-game
