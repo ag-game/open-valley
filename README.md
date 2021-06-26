@@ -6,3 +6,10 @@ currently the hours, days and seasons are disabled... I will re-enable them in t
 
 the version of the engine currently used is in this repo, for an easier download,
 windows version only, for other versions: https://github.com/clintbellanger/flare-game
+
+my contacts:
+mail - rixty@tuta.io
+telegram - @tryckster
+matrix - @rixty.dixet:matrix.org
+
+we have also been added on Open Source Game Clones - https://osgameclones.com/#stardew-valley-games
