@@ -8,7 +8,7 @@ actionbar=10,11,12,13,0,0,0,0,0,0,0,0
 hero_options=0,1
 
 [class]
-name=Riverland
+name=[To-Do] Riverland
 description=The majority of this map is water. Fishing is viable on this farm.
 currency=500
 equipment=2
@@ -17,7 +17,7 @@ actionbar=0,0,0,0,0,0,0,0,0,0,0,0
 hero_options=0,1
 
 [class]
-name=Forest
+name=[To-Do] Forest
 description=The farm border is made of trees and foliage, just like in the Secret Woods.
 currency=500
 equipment=2
@@ -26,7 +26,7 @@ actionbar=0,0,0,0,0,0,0,0,0,0,0,0
 hero_options=0,1
 
 [class]
-name=Hill-top
+name=[To-Do] Hill-top
 description=The southwest hilltop spawns Stones, Ore nodes, and Geode nodes depending on the player's Mining level. The mining area may sometimes be blocked by a Large Stump, Large Log, or a Boulder, making it impossible to enter until the player has the correct tool.
 currency=500
 equipment=2
@@ -35,7 +35,7 @@ actionbar=0,0,0,0,0,0,0,0,0,0,0,0
 hero_options=0,1
 
 [class]
-name=Wilderness
+name=[To-Do] Wilderness
 description=Monsters spawn at night (scales with the player's Combat level).
 This map can spawn more Wilderness Golems than other farms if they have spawning monster enabled.
 currency=500
@@ -45,7 +45,7 @@ actionbar=0,0,0,0,0,0,0,0,0,0,0,0
 hero_options=0,1
 
 [class]
-name=Four-Corners
+name=[To-Do] Four-Corners
 description=The farming area is split by cliffs into four distinct areas, each reminiscent of some of the other Farm Maps.
 currency=500
 equipment=2
@@ -55,7 +55,7 @@ hero_options=0,1
 
 
 [class]
-name=Beach
+name=[To-Do] Beach
 description=Good foraging and fishing, and tons of open space. Sometimes, supply crates wash up on shore.
 currency=500
 equipment=2

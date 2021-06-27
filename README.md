@@ -5,7 +5,7 @@ Hi, i'm trying to re-create with Flare a completely open source version (using t
 [![](https://pod.geraspora.de/uploads/images/7a9ea689d344b44f8a5a.jpg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 the version of the engine currently used is in this repo, for an easier download,
-windows version only, for other versions: https://github.com/clintbellanger/flare-game
+windows version only, for other versions: https://github.com/flareteam/flare-engine
 
 if you want to support the project: https://coindrop.to/openvalley
 
