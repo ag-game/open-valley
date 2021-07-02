@@ -1,6 +1,7 @@
 
 Alpha 0.07
 
+* change repo to gitea.it
 * the game start on sunday, first day of spring, at 06:00AM
 * Removed the experience bar, which will be inserted in the skill menu, together with the other bars
 * created and add 100 trees (trees change appearance according to season) and stumps, cuttable, to the farm map
