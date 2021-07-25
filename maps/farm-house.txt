@@ -50,23 +50,23 @@ data=
 type=object
 data=
 0,87,0,0,0,0,0,0,0,0,86,0,
-0,0,504,0,0,221,0,0,0,504,305,0,
-0,0,93,95,0,0,0,0,0,0,368,0,
-0,0,157,417,0,0,0,0,423,424,432,0,
-0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,48,49,0,0,0,0,0,0,0,0,
+0,0,504,0,0,221,0,0,305,504,0,0,
+0,0,93,95,0,0,0,0,368,0,0,0,
+0,0,157,417,0,0,423,424,432,284,285,0,
+0,0,0,0,0,0,0,0,0,348,349,0,
+0,0,48,49,0,0,0,0,0,412,413,0,
 0,0,112,113,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,284,285,0,
-0,0,0,0,0,0,0,0,0,348,349,0,
-0,0,0,0,0,0,0,0,0,412,413,0,
+0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,27,220,25,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0
 
 [layer]
 type=level +1
 data=
-145,0,0,0,0,0,0,0,0,0,304,144,
+145,0,0,0,0,0,0,0,304,0,0,144,
 85,0,0,0,0,0,0,0,0,0,0,83,
 85,0,0,0,0,0,0,0,0,0,0,83,
 85,0,0,0,0,0,0,0,0,0,0,83,
@@ -86,14 +86,14 @@ data=
 1,1,1,1,1,1,1,1,1,1,1,1,
 1,1,1,1,1,1,1,1,1,1,1,1,
 1,1,1,1,1,1,1,1,1,1,1,1,
-1,2,2,2,2,0,0,0,4,4,4,1,
+1,2,2,2,2,0,4,4,4,4,4,1,
 1,0,0,0,0,0,0,0,0,0,0,1,
-1,0,0,0,0,0,0,0,0,0,0,1,
+1,0,0,0,0,0,0,0,0,4,4,1,
 1,0,4,4,0,0,0,0,0,0,0,1,
 1,0,0,0,0,0,0,0,0,0,0,1,
-1,0,0,0,0,0,0,0,0,4,4,1,
 1,0,0,0,0,0,0,0,0,0,0,1,
-1,0,0,0,0,0,0,0,0,4,4,1,
+1,0,0,0,0,0,0,0,0,0,0,1,
+1,0,0,0,0,0,0,0,0,0,0,1,
 1,0,0,0,0,0,0,0,0,0,0,1,
 1,1,1,1,1,1,0,1,1,1,1,1
 
@@ -1394,7 +1394,7 @@ set_status=weather3
 [event]
 # spring fog
 type=event
-location=6,11,1,1
+location=1,6,1,1
 activate=on_trigger
 chance_exec=50
 hotspot=location
@@ -1407,7 +1407,7 @@ unset_status=weather1
 [event]
 # spring rain
 type=event
-location=6,11,1,1
+location=1,6,1,1
 activate=on_trigger
 chance_exec=50
 hotspot=location
@@ -1420,7 +1420,7 @@ unset_status=weather2
 [event]
 # spring clear
 type=event
-location=6,11,1,1
+location=1,6,1,1
 activate=on_trigger
 chance_exec=50
 hotspot=location
@@ -1743,7 +1743,7 @@ unset_status=snow
 [event]
 # fire on
 type=event
-location=10,3,1,1
+location=8,3,1,1
 activate=on_trigger
 hotspot=location
 mapmod=object,10,3,369
@@ -1753,7 +1753,7 @@ set_status=fire
 [event]
 # fire off
 type=event
-location=10,3,1,1
+location=8,3,1,1
 activate=on_trigger
 hotspot=location
 mapmod=object,10,3,432
@@ -1763,10 +1763,10 @@ unset_status=fire
 [event]
 # savegame
 type=event
-location=10,9,1,1
+location=10,4,1,1
 activate=on_trigger
 hotspot=location
-intermap=maps/farm-house.txt,9,9,0,0
+intermap=maps/farm-house.txt,9,4,0,0
 npc=npc/savegame.txt
 repeat=false
 show_on_minimap=false
@@ -1796,14 +1796,50 @@ requires_class=Standard
 show_on_minimap=false
 
 [event]
-# spring fog
+# grass1
 type=event
-location=6,11,1,1
+location=1,7,1,1
 activate=on_trigger
 chance_exec=50
 hotspot=location
 repeat=false
-requires_not_status=plant1,winter
+requires_not_status=tree1,rock1,trunk1,plant1,winter
 set_status=grass1
+unset_status=dig1
+
+[event]
+# tree1
+type=event
+location=1,8,1,1
+activate=on_trigger
+chance_exec=50
+hotspot=location
+repeat=false
+requires_not_status=grass1,rock1,trunk1,plant1,winter
+set_status=tree1
+unset_status=dig1
+
+[event]
+# rock1
+type=event
+location=1,9,1,1
+activate=on_trigger
+chance_exec=50
+hotspot=location
+repeat=false
+requires_not_status=tree1,grass1,trunk1,plant1,winter
+set_status=rock1
+unset_status=dig1
+
+[event]
+# trunk1
+type=event
+location=1,10,1,1
+activate=on_trigger
+chance_exec=50
+hotspot=location
+repeat=false
+requires_not_status=tree1,rock1,grass1,plant1,winter
+set_status=trunk1
 unset_status=dig1
 
