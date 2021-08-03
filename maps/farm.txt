@@ -1048,6 +1048,15 @@ data=
 2,0,0,2,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,0,1,0,0,2,2,0,0,2,2,2,0,0,0,0,0,2,2,2,0,0,2,2,0,2,2,2,2,0,2,0,0,2,2,2,0,0,0,2,2
 
 [event]
+# activate savegame
+type=event
+location=0,0,0,0
+activate=on_load
+delay=2ms
+requires_status=savegame
+unset_status=savegame
+
+[event]
 # weather
 type=event
 location=0,0,0,0
