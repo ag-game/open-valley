@@ -9,7 +9,7 @@ hero_pos=0,0
 [event]
 type=on_load
 location=0,0,1,1
-intermap=maps/farm-house.txt,9,9
+intermap=maps/farm-house.txt,9,4
 requires_class=Standard
 
 [event]
