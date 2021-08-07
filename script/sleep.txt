@@ -1,0 +1,22 @@
+[event]
+# chance_exec = 100/3
+chance_exec=33
+set_status=cutscene_lock
+cutscene=cutscenes/sleep1.txt
+
+[event]
+# chance_exec = 100/2
+chance_exec=50
+requires_not_status=cutscene_lock
+set_status=cutscene_lock
+cutscene=cutscenes/sleep2.txt
+
+[event]
+# chance_exec = 100/1
+chance_exec=100
+requires_not_status=cutscene_lock
+set_status=cutscene_lock
+cutscene=cutscenes/sleep3.txt
+
+[event]
+unset_status=cutscene_lock

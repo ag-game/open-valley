@@ -31,6 +31,12 @@ Alpha 0.07
 * set the grass disappearing in winter
 * changed the day/night cycle, with the sunrise and sunset change time according to the season. now the day/night cycle changes every in-game half hour
 * set the change of weather conditions that are activated every in-game 2 hours
+* every time the character sleeps the time goes forward by 8 hours and the game save is turned on
+* when the character sleeps a description of a dream will appear (random)
+
+Known BUGS
+
+* when, while sleeping, you switch from one day to another, in the time menu the day changes after 7 seconds, instead of instantaneously (it is a known bug, because every event that changes the time, date, season and year is always updated every 7 seconds)
 
 ............................................
 

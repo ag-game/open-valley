@@ -5,4 +5,5 @@ caption_margins=5,65
 #caption_background=0,0,0,200
 
 [scene]
+caption=You dream of a sick person who keeps complaining, also, a vampiric tries to enchant you to be his slave
 pause=8s

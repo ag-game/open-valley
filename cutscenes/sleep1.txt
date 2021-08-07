@@ -1,0 +1,9 @@
+#this scales art to width of flare window
+#scale_gfx=true
+
+caption_margins=5,65
+#caption_background=0,0,0,200
+
+[scene]
+caption=You dream that someone has a crush on you, and that keeps you up late at night talking. Also, a ghost of someone who was killed by an old farm owner visits you.
+pause=8s

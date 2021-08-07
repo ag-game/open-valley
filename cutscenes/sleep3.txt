@@ -1,0 +1,9 @@
+#this scales art to width of flare window
+#scale_gfx=true
+
+caption_margins=5,65
+#caption_background=0,0,0,200
+
+[scene]
+caption=You dream you're a magician dabbling in black magic and you accidentally summon a demon/evil that's more powerful than you anticipated and all hell breaks loose. Literally.
+pause=8s

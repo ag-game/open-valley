@@ -1,0 +1,11 @@
+# Power Definitions
+
+[power]
+id=000
+type=fixed
+icon=11
+name=Rejuvenation Potion
+new_state=instant
+passive=true
+post_effect=mp_regen,99999,1s
+post_effect=hp_regen,99999,1s
