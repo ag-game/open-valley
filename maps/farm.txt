@@ -37024,6 +37024,2246 @@ requires_item=10
 requires_status=grass1288
 unset_status=grass1288
 
+[event]
+# grass1289
+type=event
+location=19,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,18,31,43;level 9,19,31,44;level 3,20,31,45;level 7,18,32,107;level 10,19,32,108;level 8,20,32,109;level 4,18,33,171;level 6,19,33,172;level 5,20,33,173
+requires_status=grass1289
+
+[event]
+# cut grass1289
+type=event
+location=19,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,18,31,0;level 9,19,31,0;level 3,20,31,0;level 7,18,32,0;level 10,19,32,0;level 8,20,32,0;level 4,18,33,0;level 6,19,33,0;level 5,20,33,0
+requires_item=10
+requires_status=grass1289
+unset_status=grass1289
+
+[event]
+# grass1290
+type=event
+location=20,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,19,31,43;level 9,20,31,44;level 3,21,31,45;level 7,19,32,107;level 10,20,32,108;level 8,21,32,109;level 4,19,33,171;level 6,20,33,172;level 5,21,33,173
+requires_status=grass1290
+
+[event]
+# cut grass1290
+type=event
+location=20,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,19,31,0;level 9,20,31,0;level 3,21,31,0;level 7,19,32,0;level 10,20,32,0;level 8,21,32,0;level 4,19,33,0;level 6,20,33,0;level 5,21,33,0
+requires_item=10
+requires_status=grass1290
+unset_status=grass1290
+
+[event]
+# grass1291
+type=event
+location=21,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,20,31,43;level 9,21,31,44;level 3,22,31,45;level 7,20,32,107;level 10,21,32,108;level 8,22,32,109;level 4,20,33,171;level 6,21,33,172;level 5,22,33,173
+requires_status=grass1291
+
+[event]
+# cut grass1291
+type=event
+location=21,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,20,31,0;level 9,21,31,0;level 3,22,31,0;level 7,20,32,0;level 10,21,32,0;level 8,22,32,0;level 4,20,33,0;level 6,21,33,0;level 5,22,33,0
+requires_item=10
+requires_status=grass1291
+unset_status=grass1291
+
+[event]
+# grass1292
+type=event
+location=22,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,21,31,43;level 9,22,31,44;level 3,23,31,45;level 7,21,32,107;level 10,22,32,108;level 8,23,32,109;level 4,21,33,171;level 6,22,33,172;level 5,23,33,173
+requires_status=grass1292
+
+[event]
+# cut grass1292
+type=event
+location=22,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,21,31,0;level 9,22,31,0;level 3,23,31,0;level 7,21,32,0;level 10,22,32,0;level 8,23,32,0;level 4,21,33,0;level 6,22,33,0;level 5,23,33,0
+requires_item=10
+requires_status=grass1292
+unset_status=grass1292
+
+[event]
+# grass1293
+type=event
+location=23,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,22,31,43;level 9,23,31,44;level 3,24,31,45;level 7,22,32,107;level 10,23,32,108;level 8,24,32,109;level 4,22,33,171;level 6,23,33,172;level 5,24,33,173
+requires_status=grass1293
+
+[event]
+# cut grass1293
+type=event
+location=23,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,22,31,0;level 9,23,31,0;level 3,24,31,0;level 7,22,32,0;level 10,23,32,0;level 8,24,32,0;level 4,22,33,0;level 6,23,33,0;level 5,24,33,0
+requires_item=10
+requires_status=grass1293
+unset_status=grass1293
+
+[event]
+# grass1294
+type=event
+location=24,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,23,31,43;level 9,24,31,44;level 3,25,31,45;level 7,23,32,107;level 10,24,32,108;level 8,25,32,109;level 4,23,33,171;level 6,24,33,172;level 5,25,33,173
+requires_status=grass1294
+
+[event]
+# cut grass1294
+type=event
+location=24,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,23,31,0;level 9,24,31,0;level 3,25,31,0;level 7,23,32,0;level 10,24,32,0;level 8,25,32,0;level 4,23,33,0;level 6,24,33,0;level 5,25,33,0
+requires_item=10
+requires_status=grass1294
+unset_status=grass1294
+
+[event]
+# grass1295
+type=event
+location=25,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,24,31,43;level 9,25,31,44;level 3,26,31,45;level 7,24,32,107;level 10,25,32,108;level 8,26,32,109;level 4,24,33,171;level 6,25,33,172;level 5,26,33,173
+requires_status=grass1295
+
+[event]
+# cut grass1295
+type=event
+location=25,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,24,31,0;level 9,25,31,0;level 3,26,31,0;level 7,24,32,0;level 10,25,32,0;level 8,26,32,0;level 4,24,33,0;level 6,25,33,0;level 5,26,33,0
+requires_item=10
+requires_status=grass1295
+unset_status=grass1295
+
+[event]
+# grass1296
+type=event
+location=26,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,25,31,43;level 9,26,31,44;level 3,27,31,45;level 7,25,32,107;level 10,26,32,108;level 8,27,32,109;level 4,25,33,171;level 6,26,33,172;level 5,27,33,173
+requires_status=grass1296
+
+[event]
+# cut grass1296
+type=event
+location=26,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,25,31,0;level 9,26,31,0;level 3,27,31,0;level 7,25,32,0;level 10,26,32,0;level 8,27,32,0;level 4,25,33,0;level 6,26,33,0;level 5,27,33,0
+requires_item=10
+requires_status=grass1296
+unset_status=grass1296
+
+[event]
+# grass1297
+type=event
+location=27,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,26,31,43;level 9,27,31,44;level 3,28,31,45;level 7,26,32,107;level 10,27,32,108;level 8,28,32,109;level 4,26,33,171;level 6,27,33,172;level 5,28,33,173
+requires_status=grass1297
+
+[event]
+# cut grass1297
+type=event
+location=27,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,26,31,0;level 9,27,31,0;level 3,28,31,0;level 7,26,32,0;level 10,27,32,0;level 8,28,32,0;level 4,26,33,0;level 6,27,33,0;level 5,28,33,0
+requires_item=10
+requires_status=grass1297
+unset_status=grass1297
+
+[event]
+# grass1298
+type=event
+location=28,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,27,31,43;level 9,28,31,44;level 3,29,31,45;level 7,27,32,107;level 10,28,32,108;level 8,29,32,109;level 4,27,33,171;level 6,28,33,172;level 5,29,33,173
+requires_status=grass1298
+
+[event]
+# cut grass1298
+type=event
+location=28,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,27,31,0;level 9,28,31,0;level 3,29,31,0;level 7,27,32,0;level 10,28,32,0;level 8,29,32,0;level 4,27,33,0;level 6,28,33,0;level 5,29,33,0
+requires_item=10
+requires_status=grass1298
+unset_status=grass1298
+
+[event]
+# grass1299
+type=event
+location=29,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,28,31,43;level 9,29,31,44;level 3,30,31,45;level 7,28,32,107;level 10,29,32,108;level 8,30,32,109;level 4,28,33,171;level 6,29,33,172;level 5,30,33,173
+requires_status=grass1299
+
+[event]
+# cut grass1299
+type=event
+location=29,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,28,31,0;level 9,29,31,0;level 3,30,31,0;level 7,28,32,0;level 10,29,32,0;level 8,30,32,0;level 4,28,33,0;level 6,29,33,0;level 5,30,33,0
+requires_item=10
+requires_status=grass1299
+unset_status=grass1299
+
+[event]
+# grass1300
+type=event
+location=30,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,29,31,43;level 9,30,31,44;level 3,31,31,45;level 7,29,32,107;level 10,30,32,108;level 8,31,32,109;level 4,29,33,171;level 6,30,33,172;level 5,31,33,173
+requires_status=grass1300
+
+[event]
+# cut grass1300
+type=event
+location=30,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,29,31,0;level 9,30,31,0;level 3,31,31,0;level 7,29,32,0;level 10,30,32,0;level 8,31,32,0;level 4,29,33,0;level 6,30,33,0;level 5,31,33,0
+requires_item=10
+requires_status=grass1300
+unset_status=grass1300
+
+[event]
+# grass1301
+type=event
+location=31,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,30,31,43;level 9,31,31,44;level 3,32,31,45;level 7,30,32,107;level 10,31,32,108;level 8,32,32,109;level 4,30,33,171;level 6,31,33,172;level 5,32,33,173
+requires_status=grass1301
+
+[event]
+# cut grass1301
+type=event
+location=31,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,30,31,0;level 9,31,31,0;level 3,32,31,0;level 7,30,32,0;level 10,31,32,0;level 8,32,32,0;level 4,30,33,0;level 6,31,33,0;level 5,32,33,0
+requires_item=10
+requires_status=grass1301
+unset_status=grass1301
+
+[event]
+# grass1302
+type=event
+location=32,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,31,31,43;level 9,32,31,44;level 3,33,31,45;level 7,31,32,107;level 10,32,32,108;level 8,33,32,109;level 4,31,33,171;level 6,32,33,172;level 5,33,33,173
+requires_status=grass1302
+
+[event]
+# cut grass1302
+type=event
+location=32,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,31,31,0;level 9,32,31,0;level 3,33,31,0;level 7,31,32,0;level 10,32,32,0;level 8,33,32,0;level 4,31,33,0;level 6,32,33,0;level 5,33,33,0
+requires_item=10
+requires_status=grass1302
+unset_status=grass1302
+
+[event]
+# grass1303
+type=event
+location=33,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,32,31,43;level 9,33,31,44;level 3,34,31,45;level 7,32,32,107;level 10,33,32,108;level 8,34,32,109;level 4,32,33,171;level 6,33,33,172;level 5,34,33,173
+requires_status=grass1303
+
+[event]
+# cut grass1303
+type=event
+location=33,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,32,31,0;level 9,33,31,0;level 3,34,31,0;level 7,32,32,0;level 10,33,32,0;level 8,34,32,0;level 4,32,33,0;level 6,33,33,0;level 5,34,33,0
+requires_item=10
+requires_status=grass1303
+unset_status=grass1303
+
+[event]
+# grass1304
+type=event
+location=34,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,33,31,43;level 9,34,31,44;level 3,35,31,45;level 7,33,32,107;level 10,34,32,108;level 8,35,32,109;level 4,33,33,171;level 6,34,33,172;level 5,35,33,173
+requires_status=grass1304
+
+[event]
+# cut grass1304
+type=event
+location=34,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,33,31,0;level 9,34,31,0;level 3,35,31,0;level 7,33,32,0;level 10,34,32,0;level 8,35,32,0;level 4,33,33,0;level 6,34,33,0;level 5,35,33,0
+requires_item=10
+requires_status=grass1304
+unset_status=grass1304
+
+[event]
+# grass1305
+type=event
+location=35,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,34,31,43;level 9,35,31,44;level 3,36,31,45;level 7,34,32,107;level 10,35,32,108;level 8,36,32,109;level 4,34,33,171;level 6,35,33,172;level 5,36,33,173
+requires_status=grass1305
+
+[event]
+# cut grass1305
+type=event
+location=35,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,34,31,0;level 9,35,31,0;level 3,36,31,0;level 7,34,32,0;level 10,35,32,0;level 8,36,32,0;level 4,34,33,0;level 6,35,33,0;level 5,36,33,0
+requires_item=10
+requires_status=grass1305
+unset_status=grass1305
+
+[event]
+# grass1306
+type=event
+location=36,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,35,31,43;level 9,36,31,44;level 3,37,31,45;level 7,35,32,107;level 10,36,32,108;level 8,37,32,109;level 4,35,33,171;level 6,36,33,172;level 5,37,33,173
+requires_status=grass1306
+
+[event]
+# cut grass1306
+type=event
+location=36,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,35,31,0;level 9,36,31,0;level 3,37,31,0;level 7,35,32,0;level 10,36,32,0;level 8,37,32,0;level 4,35,33,0;level 6,36,33,0;level 5,37,33,0
+requires_item=10
+requires_status=grass1306
+unset_status=grass1306
+
+[event]
+# grass1307
+type=event
+location=37,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,36,31,43;level 9,37,31,44;level 3,38,31,45;level 7,36,32,107;level 10,37,32,108;level 8,38,32,109;level 4,36,33,171;level 6,37,33,172;level 5,38,33,173
+requires_status=grass1307
+
+[event]
+# cut grass1307
+type=event
+location=37,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,36,31,0;level 9,37,31,0;level 3,38,31,0;level 7,36,32,0;level 10,37,32,0;level 8,38,32,0;level 4,36,33,0;level 6,37,33,0;level 5,38,33,0
+requires_item=10
+requires_status=grass1307
+unset_status=grass1307
+
+[event]
+# grass1308
+type=event
+location=38,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,37,31,43;level 9,38,31,44;level 3,39,31,45;level 7,37,32,107;level 10,38,32,108;level 8,39,32,109;level 4,37,33,171;level 6,38,33,172;level 5,39,33,173
+requires_status=grass1308
+
+[event]
+# cut grass1308
+type=event
+location=38,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,37,31,0;level 9,38,31,0;level 3,39,31,0;level 7,37,32,0;level 10,38,32,0;level 8,39,32,0;level 4,37,33,0;level 6,38,33,0;level 5,39,33,0
+requires_item=10
+requires_status=grass1308
+unset_status=grass1308
+
+[event]
+# grass1309
+type=event
+location=39,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,38,31,43;level 9,39,31,44;level 3,40,31,45;level 7,38,32,107;level 10,39,32,108;level 8,40,32,109;level 4,38,33,171;level 6,39,33,172;level 5,40,33,173
+requires_status=grass1309
+
+[event]
+# cut grass1309
+type=event
+location=39,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,38,31,0;level 9,39,31,0;level 3,40,31,0;level 7,38,32,0;level 10,39,32,0;level 8,40,32,0;level 4,38,33,0;level 6,39,33,0;level 5,40,33,0
+requires_item=10
+requires_status=grass1309
+unset_status=grass1309
+
+[event]
+# grass1310
+type=event
+location=40,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,39,31,43;level 9,40,31,44;level 3,41,31,45;level 7,39,32,107;level 10,40,32,108;level 8,41,32,109;level 4,39,33,171;level 6,40,33,172;level 5,41,33,173
+requires_status=grass1310
+
+[event]
+# cut grass1310
+type=event
+location=40,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,39,31,0;level 9,40,31,0;level 3,41,31,0;level 7,39,32,0;level 10,40,32,0;level 8,41,32,0;level 4,39,33,0;level 6,40,33,0;level 5,41,33,0
+requires_item=10
+requires_status=grass1310
+unset_status=grass1310
+
+[event]
+# grass1311
+type=event
+location=41,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,40,31,43;level 9,41,31,44;level 3,42,31,45;level 7,40,32,107;level 10,41,32,108;level 8,42,32,109;level 4,40,33,171;level 6,41,33,172;level 5,42,33,173
+requires_status=grass1311
+
+[event]
+# cut grass1311
+type=event
+location=41,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,40,31,0;level 9,41,31,0;level 3,42,31,0;level 7,40,32,0;level 10,41,32,0;level 8,42,32,0;level 4,40,33,0;level 6,41,33,0;level 5,42,33,0
+requires_item=10
+requires_status=grass1311
+unset_status=grass1311
+
+[event]
+# grass1312
+type=event
+location=42,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,41,31,43;level 9,42,31,44;level 3,43,31,45;level 7,41,32,107;level 10,42,32,108;level 8,43,32,109;level 4,41,33,171;level 6,42,33,172;level 5,43,33,173
+requires_status=grass1312
+
+[event]
+# cut grass1312
+type=event
+location=42,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,41,31,0;level 9,42,31,0;level 3,43,31,0;level 7,41,32,0;level 10,42,32,0;level 8,43,32,0;level 4,41,33,0;level 6,42,33,0;level 5,43,33,0
+requires_item=10
+requires_status=grass1312
+unset_status=grass1312
+
+[event]
+# grass1313
+type=event
+location=43,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,42,31,43;level 9,43,31,44;level 3,44,31,45;level 7,42,32,107;level 10,43,32,108;level 8,44,32,109;level 4,42,33,171;level 6,43,33,172;level 5,44,33,173
+requires_status=grass1313
+
+[event]
+# cut grass1313
+type=event
+location=43,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,42,31,0;level 9,43,31,0;level 3,44,31,0;level 7,42,32,0;level 10,43,32,0;level 8,44,32,0;level 4,42,33,0;level 6,43,33,0;level 5,44,33,0
+requires_item=10
+requires_status=grass1313
+unset_status=grass1313
+
+[event]
+# grass1314
+type=event
+location=44,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,43,31,43;level 9,44,31,44;level 3,45,31,45;level 7,43,32,107;level 10,44,32,108;level 8,45,32,109;level 4,43,33,171;level 6,44,33,172;level 5,45,33,173
+requires_status=grass1314
+
+[event]
+# cut grass1314
+type=event
+location=44,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,43,31,0;level 9,44,31,0;level 3,45,31,0;level 7,43,32,0;level 10,44,32,0;level 8,45,32,0;level 4,43,33,0;level 6,44,33,0;level 5,45,33,0
+requires_item=10
+requires_status=grass1314
+unset_status=grass1314
+
+[event]
+# grass1315
+type=event
+location=45,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,44,31,43;level 9,45,31,44;level 3,46,31,45;level 7,44,32,107;level 10,45,32,108;level 8,46,32,109;level 4,44,33,171;level 6,45,33,172;level 5,46,33,173
+requires_status=grass1315
+
+[event]
+# cut grass1315
+type=event
+location=45,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,44,31,0;level 9,45,31,0;level 3,46,31,0;level 7,44,32,0;level 10,45,32,0;level 8,46,32,0;level 4,44,33,0;level 6,45,33,0;level 5,46,33,0
+requires_item=10
+requires_status=grass1315
+unset_status=grass1315
+
+[event]
+# grass1316
+type=event
+location=46,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,45,31,43;level 9,46,31,44;level 3,47,31,45;level 7,45,32,107;level 10,46,32,108;level 8,47,32,109;level 4,45,33,171;level 6,46,33,172;level 5,47,33,173
+requires_status=grass1316
+
+[event]
+# cut grass1316
+type=event
+location=46,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,45,31,0;level 9,46,31,0;level 3,47,31,0;level 7,45,32,0;level 10,46,32,0;level 8,47,32,0;level 4,45,33,0;level 6,46,33,0;level 5,47,33,0
+requires_item=10
+requires_status=grass1316
+unset_status=grass1316
+
+[event]
+# grass1317
+type=event
+location=47,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,46,31,43;level 9,47,31,44;level 3,48,31,45;level 7,46,32,107;level 10,47,32,108;level 8,48,32,109;level 4,46,33,171;level 6,47,33,172;level 5,48,33,173
+requires_status=grass1317
+
+[event]
+# cut grass1317
+type=event
+location=47,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,46,31,0;level 9,47,31,0;level 3,48,31,0;level 7,46,32,0;level 10,47,32,0;level 8,48,32,0;level 4,46,33,0;level 6,47,33,0;level 5,48,33,0
+requires_item=10
+requires_status=grass1317
+unset_status=grass1317
+
+[event]
+# grass1318
+type=event
+location=48,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,47,31,43;level 9,48,31,44;level 3,49,31,45;level 7,47,32,107;level 10,48,32,108;level 8,49,32,109;level 4,47,33,171;level 6,48,33,172;level 5,49,33,173
+requires_status=grass1318
+
+[event]
+# cut grass1318
+type=event
+location=48,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,47,31,0;level 9,48,31,0;level 3,49,31,0;level 7,47,32,0;level 10,48,32,0;level 8,49,32,0;level 4,47,33,0;level 6,48,33,0;level 5,49,33,0
+requires_item=10
+requires_status=grass1318
+unset_status=grass1318
+
+[event]
+# grass1319
+type=event
+location=49,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,48,31,43;level 9,49,31,44;level 3,50,31,45;level 7,48,32,107;level 10,49,32,108;level 8,50,32,109;level 4,48,33,171;level 6,49,33,172;level 5,50,33,173
+requires_status=grass1319
+
+[event]
+# cut grass1319
+type=event
+location=49,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,48,31,0;level 9,49,31,0;level 3,50,31,0;level 7,48,32,0;level 10,49,32,0;level 8,50,32,0;level 4,48,33,0;level 6,49,33,0;level 5,50,33,0
+requires_item=10
+requires_status=grass1319
+unset_status=grass1319
+
+[event]
+# grass1320
+type=event
+location=50,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,49,31,43;level 9,50,31,44;level 3,51,31,45;level 7,49,32,107;level 10,50,32,108;level 8,51,32,109;level 4,49,33,171;level 6,50,33,172;level 5,51,33,173
+requires_status=grass1320
+
+[event]
+# cut grass1320
+type=event
+location=50,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,49,31,0;level 9,50,31,0;level 3,51,31,0;level 7,49,32,0;level 10,50,32,0;level 8,51,32,0;level 4,49,33,0;level 6,50,33,0;level 5,51,33,0
+requires_item=10
+requires_status=grass1320
+unset_status=grass1320
+
+[event]
+# grass1321
+type=event
+location=51,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,50,31,43;level 9,51,31,44;level 3,52,31,45;level 7,50,32,107;level 10,51,32,108;level 8,52,32,109;level 4,50,33,171;level 6,51,33,172;level 5,52,33,173
+requires_status=grass1321
+
+[event]
+# cut grass1321
+type=event
+location=51,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,50,31,0;level 9,51,31,0;level 3,52,31,0;level 7,50,32,0;level 10,51,32,0;level 8,52,32,0;level 4,50,33,0;level 6,51,33,0;level 5,52,33,0
+requires_item=10
+requires_status=grass1321
+unset_status=grass1321
+
+[event]
+# grass1322
+type=event
+location=52,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,51,31,43;level 9,52,31,44;level 3,53,31,45;level 7,51,32,107;level 10,52,32,108;level 8,53,32,109;level 4,51,33,171;level 6,52,33,172;level 5,53,33,173
+requires_status=grass1322
+
+[event]
+# cut grass1322
+type=event
+location=52,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,51,31,0;level 9,52,31,0;level 3,53,31,0;level 7,51,32,0;level 10,52,32,0;level 8,53,32,0;level 4,51,33,0;level 6,52,33,0;level 5,53,33,0
+requires_item=10
+requires_status=grass1322
+unset_status=grass1322
+
+[event]
+# grass1323
+type=event
+location=53,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,52,31,43;level 9,53,31,44;level 3,54,31,45;level 7,52,32,107;level 10,53,32,108;level 8,54,32,109;level 4,52,33,171;level 6,53,33,172;level 5,54,33,173
+requires_status=grass1323
+
+[event]
+# cut grass1323
+type=event
+location=53,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,52,31,0;level 9,53,31,0;level 3,54,31,0;level 7,52,32,0;level 10,53,32,0;level 8,54,32,0;level 4,52,33,0;level 6,53,33,0;level 5,54,33,0
+requires_item=10
+requires_status=grass1323
+unset_status=grass1323
+
+[event]
+# grass1324
+type=event
+location=54,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,53,31,43;level 9,54,31,44;level 3,55,31,45;level 7,53,32,107;level 10,54,32,108;level 8,55,32,109;level 4,53,33,171;level 6,54,33,172;level 5,55,33,173
+requires_status=grass1324
+
+[event]
+# cut grass1324
+type=event
+location=54,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,53,31,0;level 9,54,31,0;level 3,55,31,0;level 7,53,32,0;level 10,54,32,0;level 8,55,32,0;level 4,53,33,0;level 6,54,33,0;level 5,55,33,0
+requires_item=10
+requires_status=grass1324
+unset_status=grass1324
+
+[event]
+# grass1325
+type=event
+location=55,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,54,31,43;level 9,55,31,44;level 3,56,31,45;level 7,54,32,107;level 10,55,32,108;level 8,56,32,109;level 4,54,33,171;level 6,55,33,172;level 5,56,33,173
+requires_status=grass1325
+
+[event]
+# cut grass1325
+type=event
+location=55,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,54,31,0;level 9,55,31,0;level 3,56,31,0;level 7,54,32,0;level 10,55,32,0;level 8,56,32,0;level 4,54,33,0;level 6,55,33,0;level 5,56,33,0
+requires_item=10
+requires_status=grass1325
+unset_status=grass1325
+
+[event]
+# grass1326
+type=event
+location=56,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,55,31,43;level 9,56,31,44;level 3,57,31,45;level 7,55,32,107;level 10,56,32,108;level 8,57,32,109;level 4,55,33,171;level 6,56,33,172;level 5,57,33,173
+requires_status=grass1326
+
+[event]
+# cut grass1326
+type=event
+location=56,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,55,31,0;level 9,56,31,0;level 3,57,31,0;level 7,55,32,0;level 10,56,32,0;level 8,57,32,0;level 4,55,33,0;level 6,56,33,0;level 5,57,33,0
+requires_item=10
+requires_status=grass1326
+unset_status=grass1326
+
+[event]
+# grass1327
+type=event
+location=57,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,56,31,43;level 9,57,31,44;level 3,58,31,45;level 7,56,32,107;level 10,57,32,108;level 8,58,32,109;level 4,56,33,171;level 6,57,33,172;level 5,58,33,173
+requires_status=grass1327
+
+[event]
+# cut grass1327
+type=event
+location=57,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,56,31,0;level 9,57,31,0;level 3,58,31,0;level 7,56,32,0;level 10,57,32,0;level 8,58,32,0;level 4,56,33,0;level 6,57,33,0;level 5,58,33,0
+requires_item=10
+requires_status=grass1327
+unset_status=grass1327
+
+[event]
+# grass1328
+type=event
+location=58,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,57,31,43;level 9,58,31,44;level 3,59,31,45;level 7,57,32,107;level 10,58,32,108;level 8,59,32,109;level 4,57,33,171;level 6,58,33,172;level 5,59,33,173
+requires_status=grass1328
+
+[event]
+# cut grass1328
+type=event
+location=58,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,57,31,0;level 9,58,31,0;level 3,59,31,0;level 7,57,32,0;level 10,58,32,0;level 8,59,32,0;level 4,57,33,0;level 6,58,33,0;level 5,59,33,0
+requires_item=10
+requires_status=grass1328
+unset_status=grass1328
+
+[event]
+# grass1329
+type=event
+location=59,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,58,31,43;level 9,59,31,44;level 3,60,31,45;level 7,58,32,107;level 10,59,32,108;level 8,60,32,109;level 4,58,33,171;level 6,59,33,172;level 5,60,33,173
+requires_status=grass1329
+
+[event]
+# cut grass1329
+type=event
+location=59,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,58,31,0;level 9,59,31,0;level 3,60,31,0;level 7,58,32,0;level 10,59,32,0;level 8,60,32,0;level 4,58,33,0;level 6,59,33,0;level 5,60,33,0
+requires_item=10
+requires_status=grass1329
+unset_status=grass1329
+
+[event]
+# grass1330
+type=event
+location=60,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,59,31,43;level 9,60,31,44;level 3,61,31,45;level 7,59,32,107;level 10,60,32,108;level 8,61,32,109;level 4,59,33,171;level 6,60,33,172;level 5,61,33,173
+requires_status=grass1330
+
+[event]
+# cut grass1330
+type=event
+location=60,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,59,31,0;level 9,60,31,0;level 3,61,31,0;level 7,59,32,0;level 10,60,32,0;level 8,61,32,0;level 4,59,33,0;level 6,60,33,0;level 5,61,33,0
+requires_item=10
+requires_status=grass1330
+unset_status=grass1330
+
+[event]
+# grass1331
+type=event
+location=61,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,60,31,43;level 9,61,31,44;level 3,62,31,45;level 7,60,32,107;level 10,61,32,108;level 8,62,32,109;level 4,60,33,171;level 6,61,33,172;level 5,62,33,173
+requires_status=grass1331
+
+[event]
+# cut grass1331
+type=event
+location=61,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,60,31,0;level 9,61,31,0;level 3,62,31,0;level 7,60,32,0;level 10,61,32,0;level 8,62,32,0;level 4,60,33,0;level 6,61,33,0;level 5,62,33,0
+requires_item=10
+requires_status=grass1331
+unset_status=grass1331
+
+[event]
+# grass1332
+type=event
+location=62,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,61,31,43;level 9,62,31,44;level 3,63,31,45;level 7,61,32,107;level 10,62,32,108;level 8,63,32,109;level 4,61,33,171;level 6,62,33,172;level 5,63,33,173
+requires_status=grass1332
+
+[event]
+# cut grass1332
+type=event
+location=62,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,61,31,0;level 9,62,31,0;level 3,63,31,0;level 7,61,32,0;level 10,62,32,0;level 8,63,32,0;level 4,61,33,0;level 6,62,33,0;level 5,63,33,0
+requires_item=10
+requires_status=grass1332
+unset_status=grass1332
+
+[event]
+# grass1333
+type=event
+location=63,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,62,31,43;level 9,63,31,44;level 3,64,31,45;level 7,62,32,107;level 10,63,32,108;level 8,64,32,109;level 4,62,33,171;level 6,63,33,172;level 5,64,33,173
+requires_status=grass1333
+
+[event]
+# cut grass1333
+type=event
+location=63,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,62,31,0;level 9,63,31,0;level 3,64,31,0;level 7,62,32,0;level 10,63,32,0;level 8,64,32,0;level 4,62,33,0;level 6,63,33,0;level 5,64,33,0
+requires_item=10
+requires_status=grass1333
+unset_status=grass1333
+
+[event]
+# grass1334
+type=event
+location=64,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,63,31,43;level 9,64,31,44;level 3,65,31,45;level 7,63,32,107;level 10,64,32,108;level 8,65,32,109;level 4,63,33,171;level 6,64,33,172;level 5,65,33,173
+requires_status=grass1334
+
+[event]
+# cut grass1334
+type=event
+location=64,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,63,31,0;level 9,64,31,0;level 3,65,31,0;level 7,63,32,0;level 10,64,32,0;level 8,65,32,0;level 4,63,33,0;level 6,64,33,0;level 5,65,33,0
+requires_item=10
+requires_status=grass1334
+unset_status=grass1334
+
+[event]
+# grass1335
+type=event
+location=65,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,64,31,43;level 9,65,31,44;level 3,66,31,45;level 7,64,32,107;level 10,65,32,108;level 8,66,32,109;level 4,64,33,171;level 6,65,33,172;level 5,66,33,173
+requires_status=grass1335
+
+[event]
+# cut grass1335
+type=event
+location=65,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,64,31,0;level 9,65,31,0;level 3,66,31,0;level 7,64,32,0;level 10,65,32,0;level 8,66,32,0;level 4,64,33,0;level 6,65,33,0;level 5,66,33,0
+requires_item=10
+requires_status=grass1335
+unset_status=grass1335
+
+[event]
+# grass1336
+type=event
+location=66,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,65,31,43;level 9,66,31,44;level 3,67,31,45;level 7,65,32,107;level 10,66,32,108;level 8,67,32,109;level 4,65,33,171;level 6,66,33,172;level 5,67,33,173
+requires_status=grass1336
+
+[event]
+# cut grass1336
+type=event
+location=66,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,65,31,0;level 9,66,31,0;level 3,67,31,0;level 7,65,32,0;level 10,66,32,0;level 8,67,32,0;level 4,65,33,0;level 6,66,33,0;level 5,67,33,0
+requires_item=10
+requires_status=grass1336
+unset_status=grass1336
+
+[event]
+# grass1337
+type=event
+location=67,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,66,31,43;level 9,67,31,44;level 3,68,31,45;level 7,66,32,107;level 10,67,32,108;level 8,68,32,109;level 4,66,33,171;level 6,67,33,172;level 5,68,33,173
+requires_status=grass1337
+
+[event]
+# cut grass1337
+type=event
+location=67,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,66,31,0;level 9,67,31,0;level 3,68,31,0;level 7,66,32,0;level 10,67,32,0;level 8,68,32,0;level 4,66,33,0;level 6,67,33,0;level 5,68,33,0
+requires_item=10
+requires_status=grass1337
+unset_status=grass1337
+
+[event]
+# grass1338
+type=event
+location=68,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,67,31,43;level 9,68,31,44;level 3,69,31,45;level 7,67,32,107;level 10,68,32,108;level 8,69,32,109;level 4,67,33,171;level 6,68,33,172;level 5,69,33,173
+requires_status=grass1338
+
+[event]
+# cut grass1338
+type=event
+location=68,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,67,31,0;level 9,68,31,0;level 3,69,31,0;level 7,67,32,0;level 10,68,32,0;level 8,69,32,0;level 4,67,33,0;level 6,68,33,0;level 5,69,33,0
+requires_item=10
+requires_status=grass1338
+unset_status=grass1338
+
+[event]
+# grass1339
+type=event
+location=69,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,68,31,43;level 9,69,31,44;level 3,70,31,45;level 7,68,32,107;level 10,69,32,108;level 8,70,32,109;level 4,68,33,171;level 6,69,33,172;level 5,70,33,173
+requires_status=grass1339
+
+[event]
+# cut grass1339
+type=event
+location=69,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,68,31,0;level 9,69,31,0;level 3,70,31,0;level 7,68,32,0;level 10,69,32,0;level 8,70,32,0;level 4,68,33,0;level 6,69,33,0;level 5,70,33,0
+requires_item=10
+requires_status=grass1339
+unset_status=grass1339
+
+[event]
+# grass1340
+type=event
+location=70,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,69,31,43;level 9,70,31,44;level 3,71,31,45;level 7,69,32,107;level 10,70,32,108;level 8,71,32,109;level 4,69,33,171;level 6,70,33,172;level 5,71,33,173
+requires_status=grass1340
+
+[event]
+# cut grass1340
+type=event
+location=70,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,69,31,0;level 9,70,31,0;level 3,71,31,0;level 7,69,32,0;level 10,70,32,0;level 8,71,32,0;level 4,69,33,0;level 6,70,33,0;level 5,71,33,0
+requires_item=10
+requires_status=grass1340
+unset_status=grass1340
+
+[event]
+# grass1341
+type=event
+location=71,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,70,31,43;level 9,71,31,44;level 3,72,31,45;level 7,70,32,107;level 10,71,32,108;level 8,72,32,109;level 4,70,33,171;level 6,71,33,172;level 5,72,33,173
+requires_status=grass1341
+
+[event]
+# cut grass1341
+type=event
+location=71,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,70,31,0;level 9,71,31,0;level 3,72,31,0;level 7,70,32,0;level 10,71,32,0;level 8,72,32,0;level 4,70,33,0;level 6,71,33,0;level 5,72,33,0
+requires_item=10
+requires_status=grass1341
+unset_status=grass1341
+
+[event]
+# grass1342
+type=event
+location=72,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,71,31,43;level 9,72,31,44;level 3,73,31,45;level 7,71,32,107;level 10,72,32,108;level 8,73,32,109;level 4,71,33,171;level 6,72,33,172;level 5,73,33,173
+requires_status=grass1342
+
+[event]
+# cut grass1342
+type=event
+location=72,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,71,31,0;level 9,72,31,0;level 3,73,31,0;level 7,71,32,0;level 10,72,32,0;level 8,73,32,0;level 4,71,33,0;level 6,72,33,0;level 5,73,33,0
+requires_item=10
+requires_status=grass1342
+unset_status=grass1342
+
+[event]
+# grass1343
+type=event
+location=73,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,72,31,43;level 9,73,31,44;level 3,74,31,45;level 7,72,32,107;level 10,73,32,108;level 8,74,32,109;level 4,72,33,171;level 6,73,33,172;level 5,74,33,173
+requires_status=grass1343
+
+[event]
+# cut grass1343
+type=event
+location=73,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,72,31,0;level 9,73,31,0;level 3,74,31,0;level 7,72,32,0;level 10,73,32,0;level 8,74,32,0;level 4,72,33,0;level 6,73,33,0;level 5,74,33,0
+requires_item=10
+requires_status=grass1343
+unset_status=grass1343
+
+[event]
+# grass1344
+type=event
+location=74,32,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,73,31,43;level 9,74,31,44;level 3,75,31,45;level 7,73,32,107;level 10,74,32,108;level 8,75,32,109;level 4,73,33,171;level 6,74,33,172;level 5,75,33,173
+requires_status=grass1344
+
+[event]
+# cut grass1344
+type=event
+location=74,32,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,73,31,0;level 9,74,31,0;level 3,75,31,0;level 7,73,32,0;level 10,74,32,0;level 8,75,32,0;level 4,73,33,0;level 6,74,33,0;level 5,75,33,0
+requires_item=10
+requires_status=grass1344
+unset_status=grass1344
+
+[event]
+# grass1345
+type=event
+location=19,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,18,32,43;level 9,19,32,44;level 3,20,32,45;level 7,18,33,107;level 10,19,33,108;level 8,20,33,109;level 4,18,34,171;level 6,19,34,172;level 5,20,34,173
+requires_status=grass1345
+
+[event]
+# cut grass1345
+type=event
+location=19,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,18,32,0;level 9,19,32,0;level 3,20,32,0;level 7,18,33,0;level 10,19,33,0;level 8,20,33,0;level 4,18,34,0;level 6,19,34,0;level 5,20,34,0
+requires_item=10
+requires_status=grass1345
+unset_status=grass1345
+
+[event]
+# grass1346
+type=event
+location=20,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,19,32,43;level 9,20,32,44;level 3,21,32,45;level 7,19,33,107;level 10,20,33,108;level 8,21,33,109;level 4,19,34,171;level 6,20,34,172;level 5,21,34,173
+requires_status=grass1346
+
+[event]
+# cut grass1346
+type=event
+location=20,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,19,32,0;level 9,20,32,0;level 3,21,32,0;level 7,19,33,0;level 10,20,33,0;level 8,21,33,0;level 4,19,34,0;level 6,20,34,0;level 5,21,34,0
+requires_item=10
+requires_status=grass1346
+unset_status=grass1346
+
+[event]
+# grass1347
+type=event
+location=21,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,20,32,43;level 9,21,32,44;level 3,22,32,45;level 7,20,33,107;level 10,21,33,108;level 8,22,33,109;level 4,20,34,171;level 6,21,34,172;level 5,22,34,173
+requires_status=grass1347
+
+[event]
+# cut grass1347
+type=event
+location=21,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,20,32,0;level 9,21,32,0;level 3,22,32,0;level 7,20,33,0;level 10,21,33,0;level 8,22,33,0;level 4,20,34,0;level 6,21,34,0;level 5,22,34,0
+requires_item=10
+requires_status=grass1347
+unset_status=grass1347
+
+[event]
+# grass1348
+type=event
+location=22,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,21,32,43;level 9,22,32,44;level 3,23,32,45;level 7,21,33,107;level 10,22,33,108;level 8,23,33,109;level 4,21,34,171;level 6,22,34,172;level 5,23,34,173
+requires_status=grass1348
+
+[event]
+# cut grass1348
+type=event
+location=22,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,21,32,0;level 9,22,32,0;level 3,23,32,0;level 7,21,33,0;level 10,22,33,0;level 8,23,33,0;level 4,21,34,0;level 6,22,34,0;level 5,23,34,0
+requires_item=10
+requires_status=grass1348
+unset_status=grass1348
+
+[event]
+# grass1349
+type=event
+location=23,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,22,32,43;level 9,23,32,44;level 3,24,32,45;level 7,22,33,107;level 10,23,33,108;level 8,24,33,109;level 4,22,34,171;level 6,23,34,172;level 5,24,34,173
+requires_status=grass1349
+
+[event]
+# cut grass1349
+type=event
+location=23,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,22,32,0;level 9,23,32,0;level 3,24,32,0;level 7,22,33,0;level 10,23,33,0;level 8,24,33,0;level 4,22,34,0;level 6,23,34,0;level 5,24,34,0
+requires_item=10
+requires_status=grass1349
+unset_status=grass1349
+
+[event]
+# grass1350
+type=event
+location=24,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,23,32,43;level 9,24,32,44;level 3,25,32,45;level 7,23,33,107;level 10,24,33,108;level 8,25,33,109;level 4,23,34,171;level 6,24,34,172;level 5,25,34,173
+requires_status=grass1350
+
+[event]
+# cut grass1350
+type=event
+location=24,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,23,32,0;level 9,24,32,0;level 3,25,32,0;level 7,23,33,0;level 10,24,33,0;level 8,25,33,0;level 4,23,34,0;level 6,24,34,0;level 5,25,34,0
+requires_item=10
+requires_status=grass1350
+unset_status=grass1350
+
+[event]
+# grass1351
+type=event
+location=25,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,24,32,43;level 9,25,32,44;level 3,26,32,45;level 7,24,33,107;level 10,25,33,108;level 8,26,33,109;level 4,24,34,171;level 6,25,34,172;level 5,26,34,173
+requires_status=grass1351
+
+[event]
+# cut grass1351
+type=event
+location=25,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,24,32,0;level 9,25,32,0;level 3,26,32,0;level 7,24,33,0;level 10,25,33,0;level 8,26,33,0;level 4,24,34,0;level 6,25,34,0;level 5,26,34,0
+requires_item=10
+requires_status=grass1351
+unset_status=grass1351
+
+[event]
+# grass1352
+type=event
+location=26,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,25,32,43;level 9,26,32,44;level 3,27,32,45;level 7,25,33,107;level 10,26,33,108;level 8,27,33,109;level 4,25,34,171;level 6,26,34,172;level 5,27,34,173
+requires_status=grass1352
+
+[event]
+# cut grass1352
+type=event
+location=26,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,25,32,0;level 9,26,32,0;level 3,27,32,0;level 7,25,33,0;level 10,26,33,0;level 8,27,33,0;level 4,25,34,0;level 6,26,34,0;level 5,27,34,0
+requires_item=10
+requires_status=grass1352
+unset_status=grass1352
+
+[event]
+# grass1353
+type=event
+location=27,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,26,32,43;level 9,27,32,44;level 3,28,32,45;level 7,26,33,107;level 10,27,33,108;level 8,28,33,109;level 4,26,34,171;level 6,27,34,172;level 5,28,34,173
+requires_status=grass1353
+
+[event]
+# cut grass1353
+type=event
+location=27,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,26,32,0;level 9,27,32,0;level 3,28,32,0;level 7,26,33,0;level 10,27,33,0;level 8,28,33,0;level 4,26,34,0;level 6,27,34,0;level 5,28,34,0
+requires_item=10
+requires_status=grass1353
+unset_status=grass1353
+
+[event]
+# grass1354
+type=event
+location=28,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,27,32,43;level 9,28,32,44;level 3,29,32,45;level 7,27,33,107;level 10,28,33,108;level 8,29,33,109;level 4,27,34,171;level 6,28,34,172;level 5,29,34,173
+requires_status=grass1354
+
+[event]
+# cut grass1354
+type=event
+location=28,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,27,32,0;level 9,28,32,0;level 3,29,32,0;level 7,27,33,0;level 10,28,33,0;level 8,29,33,0;level 4,27,34,0;level 6,28,34,0;level 5,29,34,0
+requires_item=10
+requires_status=grass1354
+unset_status=grass1354
+
+[event]
+# grass1355
+type=event
+location=29,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,28,32,43;level 9,29,32,44;level 3,30,32,45;level 7,28,33,107;level 10,29,33,108;level 8,30,33,109;level 4,28,34,171;level 6,29,34,172;level 5,30,34,173
+requires_status=grass1355
+
+[event]
+# cut grass1355
+type=event
+location=29,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,28,32,0;level 9,29,32,0;level 3,30,32,0;level 7,28,33,0;level 10,29,33,0;level 8,30,33,0;level 4,28,34,0;level 6,29,34,0;level 5,30,34,0
+requires_item=10
+requires_status=grass1355
+unset_status=grass1355
+
+[event]
+# grass1356
+type=event
+location=30,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,29,32,43;level 9,30,32,44;level 3,31,32,45;level 7,29,33,107;level 10,30,33,108;level 8,31,33,109;level 4,29,34,171;level 6,30,34,172;level 5,31,34,173
+requires_status=grass1356
+
+[event]
+# cut grass1356
+type=event
+location=30,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,29,32,0;level 9,30,32,0;level 3,31,32,0;level 7,29,33,0;level 10,30,33,0;level 8,31,33,0;level 4,29,34,0;level 6,30,34,0;level 5,31,34,0
+requires_item=10
+requires_status=grass1356
+unset_status=grass1356
+
+[event]
+# grass1357
+type=event
+location=31,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,30,32,43;level 9,31,32,44;level 3,32,32,45;level 7,30,33,107;level 10,31,33,108;level 8,32,33,109;level 4,30,34,171;level 6,31,34,172;level 5,32,34,173
+requires_status=grass1357
+
+[event]
+# cut grass1357
+type=event
+location=31,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,30,32,0;level 9,31,32,0;level 3,32,32,0;level 7,30,33,0;level 10,31,33,0;level 8,32,33,0;level 4,30,34,0;level 6,31,34,0;level 5,32,34,0
+requires_item=10
+requires_status=grass1357
+unset_status=grass1357
+
+[event]
+# grass1358
+type=event
+location=32,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,31,32,43;level 9,32,32,44;level 3,33,32,45;level 7,31,33,107;level 10,32,33,108;level 8,33,33,109;level 4,31,34,171;level 6,32,34,172;level 5,33,34,173
+requires_status=grass1358
+
+[event]
+# cut grass1358
+type=event
+location=32,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,31,32,0;level 9,32,32,0;level 3,33,32,0;level 7,31,33,0;level 10,32,33,0;level 8,33,33,0;level 4,31,34,0;level 6,32,34,0;level 5,33,34,0
+requires_item=10
+requires_status=grass1358
+unset_status=grass1358
+
+[event]
+# grass1359
+type=event
+location=33,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,32,32,43;level 9,33,32,44;level 3,34,32,45;level 7,32,33,107;level 10,33,33,108;level 8,34,33,109;level 4,32,34,171;level 6,33,34,172;level 5,34,34,173
+requires_status=grass1359
+
+[event]
+# cut grass1359
+type=event
+location=33,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,32,32,0;level 9,33,32,0;level 3,34,32,0;level 7,32,33,0;level 10,33,33,0;level 8,34,33,0;level 4,32,34,0;level 6,33,34,0;level 5,34,34,0
+requires_item=10
+requires_status=grass1359
+unset_status=grass1359
+
+[event]
+# grass1360
+type=event
+location=34,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,33,32,43;level 9,34,32,44;level 3,35,32,45;level 7,33,33,107;level 10,34,33,108;level 8,35,33,109;level 4,33,34,171;level 6,34,34,172;level 5,35,34,173
+requires_status=grass1360
+
+[event]
+# cut grass1360
+type=event
+location=34,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,33,32,0;level 9,34,32,0;level 3,35,32,0;level 7,33,33,0;level 10,34,33,0;level 8,35,33,0;level 4,33,34,0;level 6,34,34,0;level 5,35,34,0
+requires_item=10
+requires_status=grass1360
+unset_status=grass1360
+
+[event]
+# grass1361
+type=event
+location=35,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,34,32,43;level 9,35,32,44;level 3,36,32,45;level 7,34,33,107;level 10,35,33,108;level 8,36,33,109;level 4,34,34,171;level 6,35,34,172;level 5,36,34,173
+requires_status=grass1361
+
+[event]
+# cut grass1361
+type=event
+location=35,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,34,32,0;level 9,35,32,0;level 3,36,32,0;level 7,34,33,0;level 10,35,33,0;level 8,36,33,0;level 4,34,34,0;level 6,35,34,0;level 5,36,34,0
+requires_item=10
+requires_status=grass1361
+unset_status=grass1361
+
+[event]
+# grass1362
+type=event
+location=36,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,35,32,43;level 9,36,32,44;level 3,37,32,45;level 7,35,33,107;level 10,36,33,108;level 8,37,33,109;level 4,35,34,171;level 6,36,34,172;level 5,37,34,173
+requires_status=grass1362
+
+[event]
+# cut grass1362
+type=event
+location=36,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,35,32,0;level 9,36,32,0;level 3,37,32,0;level 7,35,33,0;level 10,36,33,0;level 8,37,33,0;level 4,35,34,0;level 6,36,34,0;level 5,37,34,0
+requires_item=10
+requires_status=grass1362
+unset_status=grass1362
+
+[event]
+# grass1363
+type=event
+location=37,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,36,32,43;level 9,37,32,44;level 3,38,32,45;level 7,36,33,107;level 10,37,33,108;level 8,38,33,109;level 4,36,34,171;level 6,37,34,172;level 5,38,34,173
+requires_status=grass1363
+
+[event]
+# cut grass1363
+type=event
+location=37,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,36,32,0;level 9,37,32,0;level 3,38,32,0;level 7,36,33,0;level 10,37,33,0;level 8,38,33,0;level 4,36,34,0;level 6,37,34,0;level 5,38,34,0
+requires_item=10
+requires_status=grass1363
+unset_status=grass1363
+
+[event]
+# grass1364
+type=event
+location=38,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,37,32,43;level 9,38,32,44;level 3,39,32,45;level 7,37,33,107;level 10,38,33,108;level 8,39,33,109;level 4,37,34,171;level 6,38,34,172;level 5,39,34,173
+requires_status=grass1364
+
+[event]
+# cut grass1364
+type=event
+location=38,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,37,32,0;level 9,38,32,0;level 3,39,32,0;level 7,37,33,0;level 10,38,33,0;level 8,39,33,0;level 4,37,34,0;level 6,38,34,0;level 5,39,34,0
+requires_item=10
+requires_status=grass1364
+unset_status=grass1364
+
+[event]
+# grass1365
+type=event
+location=39,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,38,32,43;level 9,39,32,44;level 3,40,32,45;level 7,38,33,107;level 10,39,33,108;level 8,40,33,109;level 4,38,34,171;level 6,39,34,172;level 5,40,34,173
+requires_status=grass1365
+
+[event]
+# cut grass1365
+type=event
+location=39,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,38,32,0;level 9,39,32,0;level 3,40,32,0;level 7,38,33,0;level 10,39,33,0;level 8,40,33,0;level 4,38,34,0;level 6,39,34,0;level 5,40,34,0
+requires_item=10
+requires_status=grass1365
+unset_status=grass1365
+
+[event]
+# grass1366
+type=event
+location=40,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,39,32,43;level 9,40,32,44;level 3,41,32,45;level 7,39,33,107;level 10,40,33,108;level 8,41,33,109;level 4,39,34,171;level 6,40,34,172;level 5,41,34,173
+requires_status=grass1366
+
+[event]
+# cut grass1366
+type=event
+location=40,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,39,32,0;level 9,40,32,0;level 3,41,32,0;level 7,39,33,0;level 10,40,33,0;level 8,41,33,0;level 4,39,34,0;level 6,40,34,0;level 5,41,34,0
+requires_item=10
+requires_status=grass1366
+unset_status=grass1366
+
+[event]
+# grass1367
+type=event
+location=41,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,40,32,43;level 9,41,32,44;level 3,42,32,45;level 7,40,33,107;level 10,41,33,108;level 8,42,33,109;level 4,40,34,171;level 6,41,34,172;level 5,42,34,173
+requires_status=grass1367
+
+[event]
+# cut grass1367
+type=event
+location=41,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,40,32,0;level 9,41,32,0;level 3,42,32,0;level 7,40,33,0;level 10,41,33,0;level 8,42,33,0;level 4,40,34,0;level 6,41,34,0;level 5,42,34,0
+requires_item=10
+requires_status=grass1367
+unset_status=grass1367
+
+[event]
+# grass1368
+type=event
+location=42,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,41,32,43;level 9,42,32,44;level 3,43,32,45;level 7,41,33,107;level 10,42,33,108;level 8,43,33,109;level 4,41,34,171;level 6,42,34,172;level 5,43,34,173
+requires_status=grass1368
+
+[event]
+# cut grass1368
+type=event
+location=42,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,41,32,0;level 9,42,32,0;level 3,43,32,0;level 7,41,33,0;level 10,42,33,0;level 8,43,33,0;level 4,41,34,0;level 6,42,34,0;level 5,43,34,0
+requires_item=10
+requires_status=grass1368
+unset_status=grass1368
+
+[event]
+# grass1369
+type=event
+location=43,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,42,32,43;level 9,43,32,44;level 3,44,32,45;level 7,42,33,107;level 10,43,33,108;level 8,44,33,109;level 4,42,34,171;level 6,43,34,172;level 5,44,34,173
+requires_status=grass1369
+
+[event]
+# cut grass1369
+type=event
+location=43,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,42,32,0;level 9,43,32,0;level 3,44,32,0;level 7,42,33,0;level 10,43,33,0;level 8,44,33,0;level 4,42,34,0;level 6,43,34,0;level 5,44,34,0
+requires_item=10
+requires_status=grass1369
+unset_status=grass1369
+
+[event]
+# grass1370
+type=event
+location=44,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,43,32,43;level 9,44,32,44;level 3,45,32,45;level 7,43,33,107;level 10,44,33,108;level 8,45,33,109;level 4,43,34,171;level 6,44,34,172;level 5,45,34,173
+requires_status=grass1370
+
+[event]
+# cut grass1370
+type=event
+location=44,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,43,32,0;level 9,44,32,0;level 3,45,32,0;level 7,43,33,0;level 10,44,33,0;level 8,45,33,0;level 4,43,34,0;level 6,44,34,0;level 5,45,34,0
+requires_item=10
+requires_status=grass1370
+unset_status=grass1370
+
+[event]
+# grass1371
+type=event
+location=45,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,44,32,43;level 9,45,32,44;level 3,46,32,45;level 7,44,33,107;level 10,45,33,108;level 8,46,33,109;level 4,44,34,171;level 6,45,34,172;level 5,46,34,173
+requires_status=grass1371
+
+[event]
+# cut grass1371
+type=event
+location=45,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,44,32,0;level 9,45,32,0;level 3,46,32,0;level 7,44,33,0;level 10,45,33,0;level 8,46,33,0;level 4,44,34,0;level 6,45,34,0;level 5,46,34,0
+requires_item=10
+requires_status=grass1371
+unset_status=grass1371
+
+[event]
+# grass1372
+type=event
+location=46,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,45,32,43;level 9,46,32,44;level 3,47,32,45;level 7,45,33,107;level 10,46,33,108;level 8,47,33,109;level 4,45,34,171;level 6,46,34,172;level 5,47,34,173
+requires_status=grass1372
+
+[event]
+# cut grass1372
+type=event
+location=46,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,45,32,0;level 9,46,32,0;level 3,47,32,0;level 7,45,33,0;level 10,46,33,0;level 8,47,33,0;level 4,45,34,0;level 6,46,34,0;level 5,47,34,0
+requires_item=10
+requires_status=grass1372
+unset_status=grass1372
+
+[event]
+# grass1373
+type=event
+location=47,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,46,32,43;level 9,47,32,44;level 3,48,32,45;level 7,46,33,107;level 10,47,33,108;level 8,48,33,109;level 4,46,34,171;level 6,47,34,172;level 5,48,34,173
+requires_status=grass1373
+
+[event]
+# cut grass1373
+type=event
+location=47,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,46,32,0;level 9,47,32,0;level 3,48,32,0;level 7,46,33,0;level 10,47,33,0;level 8,48,33,0;level 4,46,34,0;level 6,47,34,0;level 5,48,34,0
+requires_item=10
+requires_status=grass1373
+unset_status=grass1373
+
+[event]
+# grass1374
+type=event
+location=48,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,47,32,43;level 9,48,32,44;level 3,49,32,45;level 7,47,33,107;level 10,48,33,108;level 8,49,33,109;level 4,47,34,171;level 6,48,34,172;level 5,49,34,173
+requires_status=grass1374
+
+[event]
+# cut grass1374
+type=event
+location=48,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,47,32,0;level 9,48,32,0;level 3,49,32,0;level 7,47,33,0;level 10,48,33,0;level 8,49,33,0;level 4,47,34,0;level 6,48,34,0;level 5,49,34,0
+requires_item=10
+requires_status=grass1374
+unset_status=grass1374
+
+[event]
+# grass1375
+type=event
+location=49,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,48,32,43;level 9,49,32,44;level 3,50,32,45;level 7,48,33,107;level 10,49,33,108;level 8,50,33,109;level 4,48,34,171;level 6,49,34,172;level 5,50,34,173
+requires_status=grass1375
+
+[event]
+# cut grass1375
+type=event
+location=49,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,48,32,0;level 9,49,32,0;level 3,50,32,0;level 7,48,33,0;level 10,49,33,0;level 8,50,33,0;level 4,48,34,0;level 6,49,34,0;level 5,50,34,0
+requires_item=10
+requires_status=grass1375
+unset_status=grass1375
+
+[event]
+# grass1376
+type=event
+location=50,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,49,32,43;level 9,50,32,44;level 3,51,32,45;level 7,49,33,107;level 10,50,33,108;level 8,51,33,109;level 4,49,34,171;level 6,50,34,172;level 5,51,34,173
+requires_status=grass1376
+
+[event]
+# cut grass1376
+type=event
+location=50,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,49,32,0;level 9,50,32,0;level 3,51,32,0;level 7,49,33,0;level 10,50,33,0;level 8,51,33,0;level 4,49,34,0;level 6,50,34,0;level 5,51,34,0
+requires_item=10
+requires_status=grass1376
+unset_status=grass1376
+
+[event]
+# grass1377
+type=event
+location=51,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,50,32,43;level 9,51,32,44;level 3,52,32,45;level 7,50,33,107;level 10,51,33,108;level 8,52,33,109;level 4,50,34,171;level 6,51,34,172;level 5,52,34,173
+requires_status=grass1377
+
+[event]
+# cut grass1377
+type=event
+location=51,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,50,32,0;level 9,51,32,0;level 3,52,32,0;level 7,50,33,0;level 10,51,33,0;level 8,52,33,0;level 4,50,34,0;level 6,51,34,0;level 5,52,34,0
+requires_item=10
+requires_status=grass1377
+unset_status=grass1377
+
+[event]
+# grass1378
+type=event
+location=52,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,51,32,43;level 9,52,32,44;level 3,53,32,45;level 7,51,33,107;level 10,52,33,108;level 8,53,33,109;level 4,51,34,171;level 6,52,34,172;level 5,53,34,173
+requires_status=grass1378
+
+[event]
+# cut grass1378
+type=event
+location=52,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,51,32,0;level 9,52,32,0;level 3,53,32,0;level 7,51,33,0;level 10,52,33,0;level 8,53,33,0;level 4,51,34,0;level 6,52,34,0;level 5,53,34,0
+requires_item=10
+requires_status=grass1378
+unset_status=grass1378
+
+[event]
+# grass1379
+type=event
+location=53,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,52,32,43;level 9,53,32,44;level 3,54,32,45;level 7,52,33,107;level 10,53,33,108;level 8,54,33,109;level 4,52,34,171;level 6,53,34,172;level 5,54,34,173
+requires_status=grass1379
+
+[event]
+# cut grass1379
+type=event
+location=53,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,52,32,0;level 9,53,32,0;level 3,54,32,0;level 7,52,33,0;level 10,53,33,0;level 8,54,33,0;level 4,52,34,0;level 6,53,34,0;level 5,54,34,0
+requires_item=10
+requires_status=grass1379
+unset_status=grass1379
+
+[event]
+# grass1380
+type=event
+location=54,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,53,32,43;level 9,54,32,44;level 3,55,32,45;level 7,53,33,107;level 10,54,33,108;level 8,55,33,109;level 4,53,34,171;level 6,54,34,172;level 5,55,34,173
+requires_status=grass1380
+
+[event]
+# cut grass1380
+type=event
+location=54,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,53,32,0;level 9,54,32,0;level 3,55,32,0;level 7,53,33,0;level 10,54,33,0;level 8,55,33,0;level 4,53,34,0;level 6,54,34,0;level 5,55,34,0
+requires_item=10
+requires_status=grass1380
+unset_status=grass1380
+
+[event]
+# grass1381
+type=event
+location=55,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,54,32,43;level 9,55,32,44;level 3,56,32,45;level 7,54,33,107;level 10,55,33,108;level 8,56,33,109;level 4,54,34,171;level 6,55,34,172;level 5,56,34,173
+requires_status=grass1381
+
+[event]
+# cut grass1381
+type=event
+location=55,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,54,32,0;level 9,55,32,0;level 3,56,32,0;level 7,54,33,0;level 10,55,33,0;level 8,56,33,0;level 4,54,34,0;level 6,55,34,0;level 5,56,34,0
+requires_item=10
+requires_status=grass1381
+unset_status=grass1381
+
+[event]
+# grass1382
+type=event
+location=56,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,55,32,43;level 9,56,32,44;level 3,57,32,45;level 7,55,33,107;level 10,56,33,108;level 8,57,33,109;level 4,55,34,171;level 6,56,34,172;level 5,57,34,173
+requires_status=grass1382
+
+[event]
+# cut grass1382
+type=event
+location=56,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,55,32,0;level 9,56,32,0;level 3,57,32,0;level 7,55,33,0;level 10,56,33,0;level 8,57,33,0;level 4,55,34,0;level 6,56,34,0;level 5,57,34,0
+requires_item=10
+requires_status=grass1382
+unset_status=grass1382
+
+[event]
+# grass1383
+type=event
+location=57,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,56,32,43;level 9,57,32,44;level 3,58,32,45;level 7,56,33,107;level 10,57,33,108;level 8,58,33,109;level 4,56,34,171;level 6,57,34,172;level 5,58,34,173
+requires_status=grass1383
+
+[event]
+# cut grass1383
+type=event
+location=57,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,56,32,0;level 9,57,32,0;level 3,58,32,0;level 7,56,33,0;level 10,57,33,0;level 8,58,33,0;level 4,56,34,0;level 6,57,34,0;level 5,58,34,0
+requires_item=10
+requires_status=grass1383
+unset_status=grass1383
+
+[event]
+# grass1384
+type=event
+location=58,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,57,32,43;level 9,58,32,44;level 3,59,32,45;level 7,57,33,107;level 10,58,33,108;level 8,59,33,109;level 4,57,34,171;level 6,58,34,172;level 5,59,34,173
+requires_status=grass1384
+
+[event]
+# cut grass1384
+type=event
+location=58,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,57,32,0;level 9,58,32,0;level 3,59,32,0;level 7,57,33,0;level 10,58,33,0;level 8,59,33,0;level 4,57,34,0;level 6,58,34,0;level 5,59,34,0
+requires_item=10
+requires_status=grass1384
+unset_status=grass1384
+
+[event]
+# grass1385
+type=event
+location=59,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,58,32,43;level 9,59,32,44;level 3,60,32,45;level 7,58,33,107;level 10,59,33,108;level 8,60,33,109;level 4,58,34,171;level 6,59,34,172;level 5,60,34,173
+requires_status=grass1385
+
+[event]
+# cut grass1385
+type=event
+location=59,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,58,32,0;level 9,59,32,0;level 3,60,32,0;level 7,58,33,0;level 10,59,33,0;level 8,60,33,0;level 4,58,34,0;level 6,59,34,0;level 5,60,34,0
+requires_item=10
+requires_status=grass1385
+unset_status=grass1385
+
+[event]
+# grass1386
+type=event
+location=60,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,59,32,43;level 9,60,32,44;level 3,61,32,45;level 7,59,33,107;level 10,60,33,108;level 8,61,33,109;level 4,59,34,171;level 6,60,34,172;level 5,61,34,173
+requires_status=grass1386
+
+[event]
+# cut grass1386
+type=event
+location=60,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,59,32,0;level 9,60,32,0;level 3,61,32,0;level 7,59,33,0;level 10,60,33,0;level 8,61,33,0;level 4,59,34,0;level 6,60,34,0;level 5,61,34,0
+requires_item=10
+requires_status=grass1386
+unset_status=grass1386
+
+[event]
+# grass1387
+type=event
+location=61,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,60,32,43;level 9,61,32,44;level 3,62,32,45;level 7,60,33,107;level 10,61,33,108;level 8,62,33,109;level 4,60,34,171;level 6,61,34,172;level 5,62,34,173
+requires_status=grass1387
+
+[event]
+# cut grass1387
+type=event
+location=61,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,60,32,0;level 9,61,32,0;level 3,62,32,0;level 7,60,33,0;level 10,61,33,0;level 8,62,33,0;level 4,60,34,0;level 6,61,34,0;level 5,62,34,0
+requires_item=10
+requires_status=grass1387
+unset_status=grass1387
+
+[event]
+# grass1388
+type=event
+location=62,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,61,32,43;level 9,62,32,44;level 3,63,32,45;level 7,61,33,107;level 10,62,33,108;level 8,63,33,109;level 4,61,34,171;level 6,62,34,172;level 5,63,34,173
+requires_status=grass1388
+
+[event]
+# cut grass1388
+type=event
+location=62,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,61,32,0;level 9,62,32,0;level 3,63,32,0;level 7,61,33,0;level 10,62,33,0;level 8,63,33,0;level 4,61,34,0;level 6,62,34,0;level 5,63,34,0
+requires_item=10
+requires_status=grass1388
+unset_status=grass1388
+
+[event]
+# grass1389
+type=event
+location=63,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,62,32,43;level 9,63,32,44;level 3,64,32,45;level 7,62,33,107;level 10,63,33,108;level 8,64,33,109;level 4,62,34,171;level 6,63,34,172;level 5,64,34,173
+requires_status=grass1389
+
+[event]
+# cut grass1389
+type=event
+location=63,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,62,32,0;level 9,63,32,0;level 3,64,32,0;level 7,62,33,0;level 10,63,33,0;level 8,64,33,0;level 4,62,34,0;level 6,63,34,0;level 5,64,34,0
+requires_item=10
+requires_status=grass1389
+unset_status=grass1389
+
+[event]
+# grass1390
+type=event
+location=64,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,63,32,43;level 9,64,32,44;level 3,65,32,45;level 7,63,33,107;level 10,64,33,108;level 8,65,33,109;level 4,63,34,171;level 6,64,34,172;level 5,65,34,173
+requires_status=grass1390
+
+[event]
+# cut grass1390
+type=event
+location=64,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,63,32,0;level 9,64,32,0;level 3,65,32,0;level 7,63,33,0;level 10,64,33,0;level 8,65,33,0;level 4,63,34,0;level 6,64,34,0;level 5,65,34,0
+requires_item=10
+requires_status=grass1390
+unset_status=grass1390
+
+[event]
+# grass1391
+type=event
+location=65,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,64,32,43;level 9,65,32,44;level 3,66,32,45;level 7,64,33,107;level 10,65,33,108;level 8,66,33,109;level 4,64,34,171;level 6,65,34,172;level 5,66,34,173
+requires_status=grass1391
+
+[event]
+# cut grass1391
+type=event
+location=65,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,64,32,0;level 9,65,32,0;level 3,66,32,0;level 7,64,33,0;level 10,65,33,0;level 8,66,33,0;level 4,64,34,0;level 6,65,34,0;level 5,66,34,0
+requires_item=10
+requires_status=grass1391
+unset_status=grass1391
+
+[event]
+# grass1392
+type=event
+location=66,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,65,32,43;level 9,66,32,44;level 3,67,32,45;level 7,65,33,107;level 10,66,33,108;level 8,67,33,109;level 4,65,34,171;level 6,66,34,172;level 5,67,34,173
+requires_status=grass1392
+
+[event]
+# cut grass1392
+type=event
+location=66,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,65,32,0;level 9,66,32,0;level 3,67,32,0;level 7,65,33,0;level 10,66,33,0;level 8,67,33,0;level 4,65,34,0;level 6,66,34,0;level 5,67,34,0
+requires_item=10
+requires_status=grass1392
+unset_status=grass1392
+
+[event]
+# grass1393
+type=event
+location=67,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,66,32,43;level 9,67,32,44;level 3,68,32,45;level 7,66,33,107;level 10,67,33,108;level 8,68,33,109;level 4,66,34,171;level 6,67,34,172;level 5,68,34,173
+requires_status=grass1393
+
+[event]
+# cut grass1393
+type=event
+location=67,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,66,32,0;level 9,67,32,0;level 3,68,32,0;level 7,66,33,0;level 10,67,33,0;level 8,68,33,0;level 4,66,34,0;level 6,67,34,0;level 5,68,34,0
+requires_item=10
+requires_status=grass1393
+unset_status=grass1393
+
+[event]
+# grass1394
+type=event
+location=68,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,67,32,43;level 9,68,32,44;level 3,69,32,45;level 7,67,33,107;level 10,68,33,108;level 8,69,33,109;level 4,67,34,171;level 6,68,34,172;level 5,69,34,173
+requires_status=grass1394
+
+[event]
+# cut grass1394
+type=event
+location=68,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,67,32,0;level 9,68,32,0;level 3,69,32,0;level 7,67,33,0;level 10,68,33,0;level 8,69,33,0;level 4,67,34,0;level 6,68,34,0;level 5,69,34,0
+requires_item=10
+requires_status=grass1394
+unset_status=grass1394
+
+[event]
+# grass1395
+type=event
+location=69,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,68,32,43;level 9,69,32,44;level 3,70,32,45;level 7,68,33,107;level 10,69,33,108;level 8,70,33,109;level 4,68,34,171;level 6,69,34,172;level 5,70,34,173
+requires_status=grass1395
+
+[event]
+# cut grass1395
+type=event
+location=69,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,68,32,0;level 9,69,32,0;level 3,70,32,0;level 7,68,33,0;level 10,69,33,0;level 8,70,33,0;level 4,68,34,0;level 6,69,34,0;level 5,70,34,0
+requires_item=10
+requires_status=grass1395
+unset_status=grass1395
+
+[event]
+# grass1396
+type=event
+location=70,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,69,32,43;level 9,70,32,44;level 3,71,32,45;level 7,69,33,107;level 10,70,33,108;level 8,71,33,109;level 4,69,34,171;level 6,70,34,172;level 5,71,34,173
+requires_status=grass1396
+
+[event]
+# cut grass1396
+type=event
+location=70,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,69,32,0;level 9,70,32,0;level 3,71,32,0;level 7,69,33,0;level 10,70,33,0;level 8,71,33,0;level 4,69,34,0;level 6,70,34,0;level 5,71,34,0
+requires_item=10
+requires_status=grass1396
+unset_status=grass1396
+
+[event]
+# grass1397
+type=event
+location=71,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,70,32,43;level 9,71,32,44;level 3,72,32,45;level 7,70,33,107;level 10,71,33,108;level 8,72,33,109;level 4,70,34,171;level 6,71,34,172;level 5,72,34,173
+requires_status=grass1397
+
+[event]
+# cut grass1397
+type=event
+location=71,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,70,32,0;level 9,71,32,0;level 3,72,32,0;level 7,70,33,0;level 10,71,33,0;level 8,72,33,0;level 4,70,34,0;level 6,71,34,0;level 5,72,34,0
+requires_item=10
+requires_status=grass1397
+unset_status=grass1397
+
+[event]
+# grass1398
+type=event
+location=72,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,71,32,43;level 9,72,32,44;level 3,73,32,45;level 7,71,33,107;level 10,72,33,108;level 8,73,33,109;level 4,71,34,171;level 6,72,34,172;level 5,73,34,173
+requires_status=grass1398
+
+[event]
+# cut grass1398
+type=event
+location=72,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,71,32,0;level 9,72,32,0;level 3,73,32,0;level 7,71,33,0;level 10,72,33,0;level 8,73,33,0;level 4,71,34,0;level 6,72,34,0;level 5,73,34,0
+requires_item=10
+requires_status=grass1398
+unset_status=grass1398
+
+[event]
+# grass1399
+type=event
+location=73,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,72,32,43;level 9,73,32,44;level 3,74,32,45;level 7,72,33,107;level 10,73,33,108;level 8,74,33,109;level 4,72,34,171;level 6,73,34,172;level 5,74,34,173
+requires_status=grass1399
+
+[event]
+# cut grass1399
+type=event
+location=73,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,72,32,0;level 9,73,32,0;level 3,74,32,0;level 7,72,33,0;level 10,73,33,0;level 8,74,33,0;level 4,72,34,0;level 6,73,34,0;level 5,74,34,0
+requires_item=10
+requires_status=grass1399
+unset_status=grass1399
+
+[event]
+# grass1400
+type=event
+location=74,33,1,1
+activate=on_load
+hotspot=location
+mapmod=level 2,73,32,43;level 9,74,32,44;level 3,75,32,45;level 7,73,33,107;level 10,74,33,108;level 8,75,33,109;level 4,73,34,171;level 6,74,34,172;level 5,75,34,173
+requires_status=grass1400
+
+[event]
+# cut grass1400
+type=event
+location=74,33,1,1
+activate=on_interact
+hotspot=location
+mapmod=level 2,73,32,0;level 9,74,32,0;level 3,75,32,0;level 7,73,33,0;level 10,74,33,0;level 8,75,33,0;level 4,73,34,0;level 6,74,34,0;level 5,75,34,0
+requires_item=10
+requires_status=grass1400
+unset_status=grass1400
+
 [enemy]
 # fish
 type=enemy
