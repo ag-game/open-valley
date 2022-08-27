@@ -1,7 +1,7 @@
 
-Alpha 0.07
+Alpha 0.08
 
-* change repo to gitea.it
+* move repo to gitea.it
 * the game start on sunday, first day of spring, at 06:00AM
 * Removed the experience bar, which will be inserted in the skill menu, together with the other bars
 * created and add 100 trees (trees change appearance according to season) and stumps, cuttable, to the farm map
@@ -9,7 +9,7 @@ Alpha 0.07
 * all bridges in the maps, now, will be repaired (with logs and nails... for now this function is not implemented)
 * added tabs, in the skill menu (for now they are only for testing)
 * added images of logs and rocks breakable by the player
-* added a file with the list of future NPCs
+* added a file with the list of future "special" NPCs
 * added the pickaxe and 100 rocks breakable with the pickaxe
 * added the zip file of the currently used version of the engine, so you have everything in one place
 * fixed the bug of the skill bars, with the new version of the engine
@@ -26,13 +26,14 @@ Alpha 0.07
 * changed the days of the seasons from 28 to 31 (to not have each season start with the same day of the week)
 * added a cycle of 9999 years
 * added some soundfx
-* added 1288 grass tiles (farm map), actualy not activated
+* added 1456 grass tiles (farm map), actualy not activated
 * added the first tile of cutable grass (without character animation)
 * set the grass disappearing in winter
 * changed the day/night cycle, with the sunrise and sunset change time according to the season. now the day/night cycle changes every in-game half hour
 * set the change of weather conditions that are activated every in-game 2 hours
 * every time the character sleeps the time goes forward by 8 hours and the game save is turned on
 * when the character sleeps a description of a dream will appear (random)
+* started crossroad.txt map
 
 Known BUGS
 

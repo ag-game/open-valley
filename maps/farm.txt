@@ -5234,11 +5234,11 @@ repeat=false
 requires_not_status=morning
 
 [event]
-# To farm-house
+# To crossroads
 type=event
 location=79,16,1,1
 activate=on_trigger
-intermap=maps/village.txt,0,36,0,0
+intermap=maps/crossroads.txt,1,16,0,0
 requires_class=Standard
 show_on_minimap=false
 
@@ -40383,6 +40383,15 @@ mapmod=level 2,73,33,0;level 9,74,33,0;level 3,75,33,0;level 7,73,34,0;level 10,
 requires_item=10
 requires_status=grass1456
 unset_status=grass1456
+
+[event]
+# To crossroads
+type=event
+location=79,17,1,1
+activate=on_trigger
+intermap=maps/crossroads.txt,1,17,0,0
+requires_class=Standard
+show_on_minimap=false
 
 [enemy]
 # fish
